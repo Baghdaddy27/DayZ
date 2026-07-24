@@ -21,5 +21,5 @@ jobs:
           password: ${{ secrets.ZAP_FTP_PASS }}
           port: 21
           protocol: ftp
-          local-dir: ./Market_Defaults/
+          local-dir: Market_Defaults
           server-dir: /g690188/dayz-experimental/config/ExpansionMod/Market/
