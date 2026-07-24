@@ -1,0 +1,32 @@
+{
+    "m_Version": 4,
+    "RoamingLocations": [
+        {
+            "Name": "AI",
+            "Position": [
+                8000.0,
+                8000.0,
+                0.0
+            ],
+            "Radius": 10000.0,
+            "Type": "Capital",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2",
+        "Land_Boat_",
+        "Land_Train_Wagon_Box"
+    ],
+    "NoGoAreas": []
+}
