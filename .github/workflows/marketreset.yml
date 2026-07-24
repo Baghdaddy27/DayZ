@@ -1,0 +1,25 @@
+name: DayZ Weekly Market Reset
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+
+jobs:
+  ftp-upload:
+    name: Upload Market Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v6
+      
+      - name: 📂 Sync files to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: 147.189.174.4
+          username: ${{ secrets.ZAP_FTP_USER }}
+          password: ${{ secrets.ZAP_FTP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: Market_Reset/
+          server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/expansion/traderzones
