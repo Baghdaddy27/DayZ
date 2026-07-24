@@ -1,0 +1,31 @@
+name: DayZ Weekly Market Reset
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+
+jobs:
+  upload-market-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Upload market files to Zap FTP
+        run: |
+          lftp -e "
+            set ftp:ssl-allow no;
+            set net:timeout 30;
+            open -u ${{ secrets.ZAP_FTP_USER }},${{ secrets.ZAP_FTP_PASS }} 147.189.174.4 -p 21;
+            cd /g690188/dayz-experimental/config/ExpansionMod/Market;
+            mirror -R --reverse ./DayZ/Market_Defaults . --verbose --only-newer;
+            quit
+          "
+
+      - name: Log completion
+        run: echo "Upload complete"
