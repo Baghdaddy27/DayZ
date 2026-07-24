@@ -21,5 +21,5 @@ jobs:
           password: ${{ secrets.ZAP_FTP_PASS }}
           port: 21
           protocol: ftp
-          local-dir: /Market_Reset/
+          local-dir: ./Market_Reset/
           server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/expansion/traderzones
