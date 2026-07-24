@@ -1,0 +1,205 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "North West",
+            "Positions": [
+                [
+                    3261.636230,
+                    177.779297,
+                    7997.529297
+                ],
+                [
+                    2141.815674,
+                    290.427673,
+                    7512.448242
+                ],
+                [
+                    3072.268066,
+                    81.073517,
+                    9737.628906
+                ],
+                [
+                    1976.020630,
+                    185.995468,
+                    11578.490234
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "North East",
+            "Positions": [
+                [
+                    7433.737793,
+                    154.524490,
+                    9159.678711
+                ],
+                [
+                    8977.531250,
+                    196.467041,
+                    9536.786133
+                ],
+                [
+                    12344.048828,
+                    135.021255,
+                    10771.015625
+                ],
+                [
+                    10657.165039,
+                    152.005219,
+                    10461.751953
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "South West",
+            "Positions": [
+                [
+                    1668.347046,
+                    217.824738,
+                    3545.718506
+                ],
+                [
+                    1372.572754,
+                    265.020203,
+                    5986.121582
+                ],
+                [
+                    4775.262207,
+                    324.216766,
+                    611.342163
+                ],
+                [
+                    3312.718506,
+                    316.630280,
+                    3538.771973
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "South East",
+            "Positions": [
+                [
+                    6582.241211,
+                    345.516357,
+                    4784.267578
+                ],
+                [
+                    9367.739258,
+                    241.534790,
+                    6688.349121
+                ],
+                [
+                    8687.483398,
+                    449.973694,
+                    3710.194824
+                ],
+                [
+                    10243.128906,
+                    359.561462,
+                    2161.254150
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 0,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 1,
+    "StartingGear": {
+        "EnableStartingGear": 0,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}
