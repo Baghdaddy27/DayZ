@@ -11,7 +11,7 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Upload market files to Zap FTP
         run: |
@@ -20,7 +20,7 @@ jobs:
             set net:timeout 30;
             open -u ${{ secrets.ZAP_FTP_USER }},${{ secrets.ZAP_FTP_PASS }} 147.189.174.4 -p 21;
             cd /g690188/dayz-experimental/config/ExpansionMod/Market;
-            mirror -R --reverse ./DayZ/Market_Defaults . --verbose --only-newer;
+            mirror -R --reverse ./Market_Defaults . --verbose --only-newer;
             quit
           " >> upload.log 2>&1
       
