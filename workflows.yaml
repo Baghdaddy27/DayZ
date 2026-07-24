@@ -2,31 +2,24 @@ name: DayZ Weekly Market Reset
 
 on:
   schedule:
-    - cron: "0 3 * * 0"  # Every Sunday at 3:00 UTC (5:00 AM Madrid)
-  workflow_dispatch:  # Allow manual trigger for testing
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
 
 jobs:
-  upload-market-files:
+  ftp-upload:
+    name: Upload Market Files
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v6
       
-      - name: Upload market files to Zap FTP
-        run: |
-          lftp -e "
-            set ftp:ssl-allow no;
-            set net:timeout 30;
-            open -u ${{ secrets.ZAP_FTP_USER }},${{ secrets.ZAP_FTP_PASS }} 147.189.174.4 -p 21;
-            cd /g690188/dayz-experimental/config/ExpansionMod/Market;
-            mirror -R --reverse ./Market_Defaults . --verbose --only-newer;
-            quit
-          " >> upload.log 2>&1
-      
-      - name: Show upload log
-        if: always()
-        run: cat upload.log
-      
-      - name: Log completion
-        run: echo "[$(date)] Upload complete"
+      - name: 📂 Sync files to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: 147.189.174.4
+          username: ${{ secrets.ZAP_FTP_USER }}
+          password: ${{ secrets.ZAP_FTP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: ./Market_Defaults/
+          server-dir: /g690188/dayz-experimental/config/ExpansionMod/Market/
