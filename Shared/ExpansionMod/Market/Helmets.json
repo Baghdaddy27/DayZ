@@ -138,8 +138,8 @@
         },
         {
             "ClassName": "t56tankerhelmet_olive",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -214,7 +214,7 @@
         },
         {
             "ClassName": "gorkahelmet",
-            "MaxPriceThreshold": 480,
+            "MaxPriceThreshold": 580,
             "MinPriceThreshold": 240,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
@@ -229,7 +229,7 @@
         },
         {
             "ClassName": "ssh68helmet",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
