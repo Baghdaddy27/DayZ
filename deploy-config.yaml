@@ -1,0 +1,83 @@
+# DayZ Server Deployment Configuration
+# Source root for all files
+source_root: "/home/jordan/dayz-server-workspace/DayZ"
+
+# Destination root
+dest_root: "/home/jordan/Games/DayZ_Server"
+
+# Single-destination mappings (one source → one dest)
+deployments:
+  - name: "Configs"
+    from: "Config"
+    to: ""
+
+  - name: "Chernarus Mission"
+    from: "Chernarus/expansion.chernarusplus"
+    to: "mpmissions/expansion.chernarusplus"
+
+  - name: "Chernarus Expansion"
+    from: "Chernarus/profiles_chernarus/ExpansionMod"
+    to: "profiles_chernarus/ExpansionMod"
+
+  - name: "Livonia Mission"
+    from: "Livonia/expansion.enoch"
+    to: "mpmissions/expansion.enoch"
+
+  - name: "Livonia Expansion"
+    from: "Livonia/profiles_livonia/ExpansionMod"
+    to: "profiles_livonia/ExpansionMod"
+
+  - name: "Sakhal Mission"
+    from: "Sakhal/expansion.sakhal"
+    to: "mpmissions/expansion.sakhal"
+
+  - name: "Sakhal Expansion"
+    from: "Sakhal/profiles_sakhal/ExpansionMod"
+    to: "profiles_sakhal/ExpansionMod"
+
+  - name: "Takistan Mission"
+    from: "Takistan/expansion.takistanplus"
+    to: "mpmissions/expansion.takistanplus"
+
+  - name: "Takistan Expansion"
+    from: "Takistan/profiles_takistan/ExpansionMod"
+    to: "profiles_takistan/ExpansionMod"
+
+  - name: "Takistan PVEZ"
+    from: "Takistan/profiles_takistan/PVEZ"
+    to: "profiles_takistan/PVEZ"
+
+# One-to-many mappings (one source → multiple dests)
+shared_deployments:
+  - name: "Shared Mission (db)"
+    from: "Shared/db"
+    destinations:
+      - "mpmissions/expansion.chernarusplus/db"
+      - "mpmissions/expansion.enoch/db"
+      - "mpmissions/expansion.sakhal/db"
+      - "mpmissions/expansion.takistanplus/db"
+
+  - name: "Shared Expansion"
+    from: "Shared/ExpansionMod"
+    destinations:
+      - "profiles_chernarus/ExpansionMod"
+      - "profiles_livonia/ExpansionMod"
+      - "profiles_sakhal/ExpansionMod"
+      - "profiles_takistan/ExpansionMod"
+
+  - name: "Shared Permissions Framework"
+    from: "Shared/PermissionsFramework"
+    destinations:
+      - "profiles_chernarus/PermissionsFramework"
+      - "profiles_livonia/PermissionsFramework"
+      - "profiles_sakhal/PermissionsFramework"
+      - "profiles_takistan/PermissionsFramework"
+
+# Dirs to always exclude from rsync
+excludes:
+  - ".git"
+  - "*.sh"
+  - "*.md"
+  - "__pycache__"
+  - "deploy-config.yaml"
+  - "deploy.py"

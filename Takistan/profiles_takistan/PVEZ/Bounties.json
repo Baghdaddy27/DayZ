@@ -1,0 +1,10 @@
+{
+    "Enabled": 1,
+    "Items": [
+        {
+            "className": "ExpansionGoldBar",
+            "displayName": "Gold Bar",
+            "amount": 1
+        }
+    ]
+}
