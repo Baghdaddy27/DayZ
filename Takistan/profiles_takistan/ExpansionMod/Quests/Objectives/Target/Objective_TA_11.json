@@ -1,0 +1,26 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Hunt 2 Pigs or Boars",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 2,
+    "ClassNames": [
+        "Animal_SusDomesticus",
+        "Animal_SusScrofa"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

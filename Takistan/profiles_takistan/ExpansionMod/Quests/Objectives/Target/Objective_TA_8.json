@@ -1,0 +1,29 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Hunt 3 Goats",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 3,
+    "ClassNames": [
+        "Animal_CapraHircus_Brown",
+        "Animal_CapraHircus_Black",
+        "Animal_CapraHircus_White",
+        "Animal_CapraHircus_Spooky"
+
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
