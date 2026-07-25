@@ -11,7 +11,7 @@
             "MaxPriceThreshold": 28000,
             "MinPriceThreshold": 14000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -37,7 +37,7 @@
             "MaxPriceThreshold": 32000,
             "MinPriceThreshold": 16000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -65,7 +65,7 @@
             "MaxPriceThreshold": 36000,
             "MinPriceThreshold": 18000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -93,7 +93,7 @@
             "MaxPriceThreshold": 40000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -121,7 +121,7 @@
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -147,7 +147,7 @@
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 50000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -174,7 +174,7 @@
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -196,7 +196,7 @@
             "MaxPriceThreshold": 60000,
             "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -226,7 +226,7 @@
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 70000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -247,7 +247,7 @@
             "MaxPriceThreshold": 200000,
             "MinPriceThreshold": 100000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -268,7 +268,7 @@
             "MaxPriceThreshold": 180000,
             "MinPriceThreshold": 70000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
