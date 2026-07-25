@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to the Black Market",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+            6340.658,
+            310.304,
+            6105.918
+    ],
+    "MaxDistance": 30.0,
+    "MarkerName": "Black Market",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

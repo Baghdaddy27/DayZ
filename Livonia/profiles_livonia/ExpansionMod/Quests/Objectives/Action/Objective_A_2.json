@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Build an Indoor Fire",
+    "TimeLimit": -1,
+    "Active": 0,
+    "ActionNames": [
+        "ActionCreateIndoorFireplace"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

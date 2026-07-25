@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Collect your Punch Cards",
+    "TimeLimit": -1,
+    "Active": 0,
+    "ShowDistance": 1,
+    "ContainerName": "StaticObj_Misc_PostBox1",
+    "DigInStash": 0,
+    "MarkerName": "Mail Box",
+    "MarkerVisibility": 6,
+    "Positions": [
+        [
+            8004.59,
+            5.11769,
+            2825.15
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "PunchedCard",
+            "Chance": 1.0,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": 2,
+            "Min": 2,
+            "Variants": []
+        }
+    ]
+}
