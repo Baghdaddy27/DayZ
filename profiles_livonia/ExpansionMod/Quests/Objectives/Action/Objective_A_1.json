@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Catch a Fish with your pole",
+    "TimeLimit": -1,
+    "Active": 0,
+    "ActionNames": [
+        "ActionFishingNew"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}
