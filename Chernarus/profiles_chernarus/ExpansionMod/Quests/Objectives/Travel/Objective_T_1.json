@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to the Mission Board",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4204.119141,
+        351.173279,
+        10104.187500
+    ],
+    "MaxDistance": 30.0,
+    "MarkerName": "Mission Board",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
