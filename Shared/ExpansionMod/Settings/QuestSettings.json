@@ -24,12 +24,12 @@
     "GroupQuestMode": 0,
     "AchievementCompletedTitle": "Achievement \"%1\" completed!",
     "AchievementCompletedText": "%1",
-    "WeeklyResetDay": "Wednesday",
+    "WeeklyResetDay": "Sunday",
     "WeeklyResetMinute": 0,
-    "WeeklyResetHour": 8,
-    "DailyResetHour": 8,
+    "WeeklyResetHour": 3,
+    "DailyResetHour": 3,
     "DailyResetMinute": 0,
-    "UseUTCTime": 0,
+    "UseUTCTime": 1,
     "UseQuestNPCIndicators": 1,
     "MaxActiveQuests": -1
 }

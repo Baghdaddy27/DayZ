@@ -132,13 +132,13 @@
     ],
     "Links": [
         {
-            "Name": "iZurvive Map",
-            "URL": "https://dayz.ginfo.gg/invite/zrSxpQZ796-SQ70Uq73p8w",
+            "Name": "iZurvive Map (Pass is 123)",
+            "URL": "https://www.izurvive.com/?group=Bag's%20Place%20DayZ%20Server&secret=123",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
-            "Name": "Discord",
+            "Name": "Join our Discord",
             "URL": "https://discord.gg/DWFFmy6dyY",
             "IconName": "DIscord",
             "IconColor": -14473430
@@ -146,10 +146,16 @@
     ],
     "Descriptions": [
         {
-            "CategoryName": "Server Info",
+            "CategoryName": "General Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "This is Bag's Place. Visit the discord for questions, comments, or concerns. This is a work in progress"
+                    "DescriptionText": "This is Bag's Place. This server is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns."
+                },
+                {
+                    "DescriptionText": "Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
+                },
+                {
+                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. The market resets every Sunday at 0300 UTC. Quests reset Monday."
                 }
             ]
         },
@@ -180,7 +186,7 @@
             "CategoryName": "Mod Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "This server uses the DayZ Expansion Mod Bundle. All settings have been customized for this particular server, and are avaiable on request. For more information about the mod itself, please visit the DayZ workshop on steam. "
+                    "DescriptionText": "This server uses CF, Dabs Framework, DayZ Expansion Mod Bundle, TakistanPlus, Takistan Clothing, PVEZ Reloaded, and Dynamic AI. All settings are backed up on the github."
                 }
             ]
         }
