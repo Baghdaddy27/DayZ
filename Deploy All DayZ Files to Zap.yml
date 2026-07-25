@@ -1,0 +1,81 @@
+name: Deploy All DayZ Files to Zap
+
+on:
+  push:
+    paths:
+      - 'Shared/**'
+      - 'Takistan/**'
+  workflow_dispatch:
+
+jobs:
+  deploy-expansion-mod:
+    name: Deploy ExpansionMod
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: 📂 Sync to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.ZAP_HOST }}
+          username: ${{ secrets.ZAP_USER }}
+          password: ${{ secrets.ZAP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: ./Shared/ExpansionMod/
+          server-dir: /g690188/dayz-experimental/config/ExpansionMod/
+          dry-run: false
+
+  deploy-pvez:
+    name: Deploy PVEZ
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: 📂 Sync to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.ZAP_HOST }}
+          username: ${{ secrets.ZAP_USER }}
+          password: ${{ secrets.ZAP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: ./Takistan/profiles_takistan/PVEZ/
+          server-dir: /g690188/dayz-experimental/config/PVEZ/
+          dry-run: false
+
+  deploy-mission:
+    name: Deploy Mission Files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: 📂 Sync to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.ZAP_HOST }}
+          username: ${{ secrets.ZAP_USER }}
+          password: ${{ secrets.ZAP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: ./Takistan/expansion.takistanplus/
+          server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/
+          dry-run: false
+
+  deploy-db:
+    name: Deploy Database
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      
+      - name: 📂 Sync to Zap
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.ZAP_HOST }}
+          username: ${{ secrets.ZAP_USER }}
+          password: ${{ secrets.ZAP_PASS }}
+          port: 21
+          protocol: ftp
+          local-dir: ./db/
+          server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/db/
+          dry-run: false
