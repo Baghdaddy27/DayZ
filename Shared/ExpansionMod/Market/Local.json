@@ -1,0 +1,88 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#LOCAL",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "pakol_hat",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Pakol_brown_Takistan",
+                "MVS_Pakol_grey",
+                "MVS_Pakol_black"
+            ]
+        },
+        {
+            "ClassName": "MVS_Turban_1",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Turban_2",
+                "MVS_Turban_3",
+                "MVS_Turban_4"
+            ]
+        },
+        {
+            "ClassName": "MVS_Kurta_1",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Kurta_2",
+                "MVS_Kurta_3",
+                "MVS_Kurta_4",
+                "MVS_Kurta_5"
+            ]
+        },
+        {
+            "ClassName": "MVS_Kurta2_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Kurta2_2",
+                "MVS_Kurta2_3",
+                "MVS_Kurta2_4",
+                "MVS_Kurta2_5"
+            ]
+        },
+                {
+            "ClassName": "MVS_Kurta3_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MVS_Kurta3_2",
+                "MVS_Kurta3_3",
+                "MVS_Kurta3_4",
+                "MVS_Kurta3_5"
+            ]
+        }
+    ]
+}
