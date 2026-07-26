@@ -14,20 +14,36 @@
             "CategoryName": "General",
             "Rules": [
                 {
-                    "RuleParagraph": "1.1.",
-                    "RuleText": "PVP is allowed only in the PVP Zones (Check the iZurvive Map for details. PVP outside of these zones (including damaging player bases of property) will result in a ban."
+                    "RuleParagraph": "1.",
+                    "RuleText": "PVP is allowed only in the designated PVP zones. Anyone who attempts to PVP in the PVE areas will be banned. This includes raiding bases, laying mines or traps, etc."
                 },
                 {
-                    "RuleParagraph": "1.2.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated. This includes sharing racist or extremist ideas or otherwise distrubing the harmony of the server."
+                    "RuleParagraph": "2.",
+                    "RuleText": "Cheating, Exploiting, Scripting, ESP/Aimbotting, Duping, Glitching, using third party software (NVIDIA Filters, ReShade, SweetFX, Any similar software), or trying to bypass server systems will result in an immediate and permanent ban."
                 },
                 {
-                    "RuleParagraph": "1.3.",
-                    "RuleText": "The use of cheats, scripts, or external programs will result in a ban."
+                    "RuleParagraph": "3.",
+                    "RuleText": "Logging out to avoid death or loss during combat is not allowed."
                 },
                 {
-                    "RuleParagraph": "1.5.",
-                    "RuleText": "The rules are not debatable. Admin descisions are final."
+                    "RuleParagraph": "4.",
+                    "RuleText": "Treat everyone with respect. Harassment, Toxic behavior, Racism, Bigotry, or Personal attacks will result in a ban."
+                },
+                {
+                    "RuleParagraph": "5.",
+                    "RuleText": "Theft of player owned vehicles outside of PVP zones is prohibited. Hoarding vehicles is prohibited. 1 Vehicle of each type per person (boat, car, helicopter, etc). Vehicles in PVP zones are fair game."
+                },
+                {
+                    "RuleParagraph": "6.",
+                    "RuleText": "Advertising other servers, communities, or services is not allowed."
+                },
+                {
+                    "RuleParagraph": "7.",
+                    "RuleText": "All reports of cheating or bad conduct must include video or screenshots. Reports without proof wont be acted on."
+                },
+                {
+                    "RuleParagraph": "8.",
+                    "RuleText": "Bans are permanent, and admins have the final say in all situations."
                 }
             ]
         }
@@ -152,10 +168,10 @@
                     "DescriptionText": "This is Caffeinated AF [CAF]. This server is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns."
                 },
                 {
-                    "DescriptionText": "Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
+                    "DescriptionText": "PVP areas include static and dynamic areas. Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
                 },
                 {
-                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. The market resets every Sunday at 0300 UTC. Quests reset Monday."
+                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. The market & quests reset every Sunday at 0300 UTC."
                 }
             ]
         },
