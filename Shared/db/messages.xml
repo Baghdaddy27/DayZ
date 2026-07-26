@@ -3,11 +3,11 @@
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
-        <text>Welcome to Bag's Server! Press the B key to open your log book for in-depth server info, to create parties, form territories, etc. You can join our Discord through the link on the pause menu.</text>
+        <text>Welcome to Caffeinated AF [CAF]! Please read the rules in the logbook. Press the B key to open your log book for in-depth server info, to create parties, form territories, etc. You can join our Discord through the link on the pause menu.</text>
     </message>
         <message>
-        <repeat>15</repeat>
-        <text>Don't forget to open your logbook with B!</text>
+        <repeat>30</repeat>
+        <text>Did you find an issue? Have a suggestion? Let us know on the discord! The link is on the pause menu!</text>
     </message>
 
 <!--
