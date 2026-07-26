@@ -83,7 +83,7 @@
     <type name="Hatchback_02_Door_1_1_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -95,7 +95,7 @@
     <type name="Hatchback_02_Door_1_2_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -107,7 +107,7 @@
     <type name="Hatchback_02_Door_2_1_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -119,7 +119,7 @@
     <type name="Hatchback_02_Door_2_2_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -131,7 +131,7 @@
     <type name="Hatchback_02_Hood_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -143,7 +143,7 @@
     <type name="Hatchback_02_Trunk_BanditKitty">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -205,7 +205,7 @@
     <type name="Sedan_02_Door_1_1_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -217,7 +217,7 @@
     <type name="Sedan_02_Door_1_2_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -229,7 +229,7 @@
     <type name="Sedan_02_Door_2_1_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -241,7 +241,7 @@
     <type name="Sedan_02_Door_2_2_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -253,7 +253,7 @@
     <type name="Sedan_02_Hood_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -265,7 +265,7 @@
     <type name="Sedan_02_Trunk_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -287,7 +287,7 @@
     <type name="Sedan_02_Door_1_1_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -299,7 +299,7 @@
     <type name="Sedan_02_Door_1_2_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -311,7 +311,7 @@
     <type name="Sedan_02_Door_2_1_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -323,7 +323,7 @@
     <type name="Sedan_02_Door_2_2_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -335,7 +335,7 @@
     <type name="Sedan_02_Hood_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -347,7 +347,7 @@
     <type name="Sedan_02_Trunk_Blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -369,7 +369,7 @@
     <type name="Sedan_02_Door_1_1_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -381,7 +381,7 @@
     <type name="Sedan_02_Door_1_2_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -393,7 +393,7 @@
     <type name="Sedan_02_Door_2_1_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -405,7 +405,7 @@
     <type name="Sedan_02_Door_2_2_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -417,7 +417,7 @@
     <type name="Sedan_02_Hood_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -429,7 +429,7 @@
     <type name="Sedan_02_Trunk_BlueRust">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -451,7 +451,7 @@
     <type name="Truck_01_Hood_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -463,7 +463,7 @@
     <type name="Truck_01_Door_1_1_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -475,7 +475,7 @@
     <type name="Truck_01_Door_2_1_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -497,7 +497,7 @@
     <type name="Truck_01_Hood_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -509,7 +509,7 @@
     <type name="Truck_01_Door_1_1_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -521,7 +521,7 @@
     <type name="Truck_01_Door_2_1_White">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -543,7 +543,7 @@
     <type name="Truck_01_Hood_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -555,7 +555,7 @@
     <type name="Truck_01_Door_1_1_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -567,7 +567,7 @@
     <type name="Truck_01_Door_2_1_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -589,7 +589,7 @@
     <type name="Truck_01_Hood_Wine">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -601,7 +601,7 @@
     <type name="Truck_01_Door_1_1_Wine">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -613,7 +613,7 @@
     <type name="Truck_01_Door_2_1_Wine">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -635,7 +635,7 @@
     <type name="Truck_01_Hood_Lime">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -647,7 +647,7 @@
     <type name="Truck_01_Door_1_1_Lime">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -659,7 +659,7 @@
     <type name="Truck_01_Door_2_1_Lime">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -681,7 +681,7 @@
     <type name="Truck_01_Hood_Yellow">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -693,7 +693,7 @@
     <type name="Truck_01_Door_1_1_Yellow">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -705,7 +705,7 @@
     <type name="Truck_01_Door_2_1_Yellow">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -727,7 +727,7 @@
     <type name="Truck_01_Hood_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -739,7 +739,7 @@
     <type name="Truck_01_Door_1_1_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -751,7 +751,7 @@
     <type name="Truck_01_Door_2_1_YellowBright">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1979,7 +1979,7 @@
     <type name="ExpansionHelicopterBattery">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1992,7 +1992,7 @@
     <type name="ExpansionAircraftBattery">
         <nominal>0</nominal>
         <lifetime>43200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2005,7 +2005,7 @@
     <type name="ExpansionIgniterPlug">
         <nominal>2</nominal>
         <lifetime>43200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2018,7 +2018,7 @@
     <type name="ExpansionHydraulicHoses">
         <nominal>3</nominal>
         <lifetime>43200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2031,7 +2031,7 @@
     <type name="ExpansionHydraulicFluid">
         <nominal>1</nominal>
         <lifetime>43200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2044,7 +2044,7 @@
     <type name="ExpansionBusWheel">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2057,7 +2057,7 @@
     <type name="ExpansionBusWheelDouble">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2082,7 +2082,7 @@
     <type name="ExpansionTractorFrontWheel">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2095,7 +2095,7 @@
     <type name="ExpansionTractorBackWheel">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2108,7 +2108,7 @@
     <type name="ExpansionTractorDoorsDriver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2121,7 +2121,7 @@
     <type name="ExpansionTractorDoorsCoDriver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3310,7 +3310,7 @@
     <type name="ExpansionKar98ScopeOptic">
         <nominal>15</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3322,7 +3322,7 @@
     <type name="ExpansionDeltapointOptic">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3336,7 +3336,7 @@
     <type name="ExpansionEXPS3HoloOptic">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3350,7 +3350,7 @@
     <type name="ExpansionHAMROptic">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3364,7 +3364,7 @@
     <type name="Expansion_PMII25Optic">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3378,7 +3378,7 @@
     <type name="ExpansionReflexMRSOptic">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3393,7 +3393,7 @@
     <type name="Expansion_M1A_RailAtt">
         <nominal>7</nominal>
         <lifetime>10800</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3408,7 +3408,7 @@
     <type name="Expansion_ANPEQ15_Red">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3422,7 +3422,7 @@
     <type name="Expansion_Kar98_Bayonet">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3438,7 +3438,7 @@
     <type name="ExpansionSatchel">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>10800</restock>
+        <restock>600</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3453,7 +3453,7 @@
     <type name="Expansion_Crossbow">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3469,7 +3469,7 @@
     <type name="ExpansionRPG7">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3483,7 +3483,7 @@
     <type name="ExpansionLAW">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3497,7 +3497,7 @@
     <type name="Expansion_M79">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3511,7 +3511,7 @@
     <type name="ExpansionFlaregun">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3525,7 +3525,7 @@
     <type name="Expansion_Taser_Yellow">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>900</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3540,7 +3540,7 @@
     <type name="Expansion_Taser_Black">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3551,7 +3551,7 @@
     <type name="Expansion_M9">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3565,7 +3565,7 @@
     <type name="Expansion_Longhorn">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3580,7 +3580,7 @@
     <type name="Expansion_G36">
         <nominal>15</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3594,7 +3594,7 @@
     <type name="Expansion_MPX">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3608,7 +3608,7 @@
     <type name="Expansion_MP5">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3623,7 +3623,7 @@
     <type name="Expansion_MP5SD">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3637,7 +3637,7 @@
     <type name="Expansion_MP5_RailAtt">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3652,7 +3652,7 @@
     <type name="Expansion_MP7">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3666,7 +3666,7 @@
     <type name="Expansion_Kedr">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>900</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3680,7 +3680,7 @@
     <type name="Expansion_VityazSN">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1200</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3695,7 +3695,7 @@
     <type name="Expansion_M16">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3709,7 +3709,7 @@
     <type name="Expansion_M1A">
         <nominal>9</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3723,7 +3723,7 @@
     <type name="Expansion_M14">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3735,7 +3735,7 @@
     <type name="Expansion_DT11">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3750,7 +3750,7 @@
     <type name="Expansion_BenelliM4">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>3600</restock>
+        <restock>600</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3764,7 +3764,7 @@
     <type name="Expansion_AWM">
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
-        <restock>28800</restock>
+        <restock>600</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3778,7 +3778,7 @@
     <type name="Expansion_Kar98">
         <nominal>25</nominal>
         <lifetime>7200</lifetime>
-        <restock>900</restock>
+        <restock>600</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3795,7 +3795,7 @@
     <type name="AmmoBox_Expansion_46x30_25rnd">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3810,7 +3810,7 @@
     <type name="AmmoBox_Expansion_338_15rnd">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3825,7 +3825,7 @@
     <type name="Expansion_AmmoBox_8mm_15rnd">
         <nominal>30</nominal>
         <lifetime>7200</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3841,7 +3841,7 @@
     <type name="Expansion_Ammo_8mm">
         <nominal>40</nominal>
         <lifetime>7200</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -3857,7 +3857,7 @@
     <type name="ExpansionAmmoRPG">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>10800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -3871,7 +3871,7 @@
     <type name="ExpansionAmmoLAW">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>10800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -3885,7 +3885,7 @@
     <type name="Ammo_Expansion_M203_Smoke_White">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3898,7 +3898,7 @@
     <type name="Ammo_Expansion_M203_Smoke_Red">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3911,7 +3911,7 @@
     <type name="Ammo_Expansion_M203_Smoke_Green">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3924,7 +3924,7 @@
     <type name="Ammo_Expansion_M203_Smoke_Yellow">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3937,7 +3937,7 @@
     <type name="Ammo_Expansion_M203_Smoke_Purple">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3950,7 +3950,7 @@
     <type name="Ammo_Expansion_M203_Smoke_Teargas">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3963,7 +3963,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_White">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3976,7 +3976,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_Red">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -3989,7 +3989,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_Green">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -4002,7 +4002,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_Yellow">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -4015,7 +4015,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_Purple">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -4028,7 +4028,7 @@
     <type name="Ammo_Expansion_M203_Sticky_Smoke_Teargas">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>25</quantmin>
         <quantmax>100</quantmax>
@@ -4041,7 +4041,7 @@
     <type name="Ammo_Expansion_M203_HE">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -4053,7 +4053,7 @@
     <type name="Ammo_Expansion_46x30">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>12</min>
         <quantmin>25</quantmin>
         <quantmax>80</quantmax>
@@ -4065,7 +4065,7 @@
     <type name="Ammo_Expansion_338">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>12</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
@@ -4077,7 +4077,7 @@
     <type name="Expansion_Ammo_ArrowBolt">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -4091,7 +4091,7 @@
     <type name="Mag_Expansion_Taser">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
@@ -4106,7 +4106,7 @@
     <type name="Mag_Expansion_Vityaz_30Rnd">
         <nominal>25</nominal>
         <lifetime>10800</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
@@ -4119,10 +4119,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Expansion_M14_20Rnd">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
-        <restock>800</restock>
-        <min>0</min>
+        <restock>600</restock>
+        <min>3</min>
         <quantmin>0</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -4136,7 +4136,7 @@
     <type name="Mag_Expansion_M14_10Rnd">
         <nominal>0</nominal>
         <lifetime>10800</lifetime>
-        <restock>800</restock>
+        <restock>600</restock>
         <min>0</min>
         <quantmin>0</quantmin>
         <quantmax>100</quantmax>
@@ -4150,9 +4150,9 @@
         <value name="Tier1"/>
     </type>
     <type name="Mag_Expansion_M9_15Rnd">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>7200</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>20</min>
         <quantmin>20</quantmin>
         <quantmax>90</quantmax>
@@ -4163,9 +4163,9 @@
         <usage name="Police"/>
     </type>
     <type name="Mag_Expansion_MPX_50Rnd">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>20</min>
         <quantmin>8</quantmin>
         <quantmax>50</quantmax>
@@ -4179,7 +4179,7 @@
     <type name="Mag_Expansion_G36_30Rnd">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -4191,9 +4191,9 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_Expansion_Kedr_20Rnd">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>20</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -4207,7 +4207,7 @@
     <type name="Mag_Expansion_MP7_40Rnd">
         <nominal>25</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>20</min>
         <quantmin>15</quantmin>
         <quantmax>80</quantmax>
@@ -4221,7 +4221,7 @@
     <type name="Mag_Expansion_AWM_5Rnd">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>15</quantmin>
         <quantmax>80</quantmax>
@@ -4313,7 +4313,7 @@
     <type name="WoodenLog">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4324,7 +4324,7 @@
     <type name="ExpansionLumber1">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4335,7 +4335,7 @@
     <type name="ExpansionLumber1_5">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4346,7 +4346,7 @@
     <type name="ExpansionLumber3">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4357,7 +4357,7 @@
     <type name="ExpansionFloorKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4368,7 +4368,7 @@
     <type name="ExpansionWoodPillarKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4379,7 +4379,7 @@
     <type name="ExpansionRampKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4390,7 +4390,7 @@
     <type name="ExpansionStairKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4401,7 +4401,7 @@
     <type name="ExpansionWallKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4412,7 +4412,7 @@
     <type name="ExpansionCamoBoxKit">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4426,7 +4426,7 @@
     <type name="ExpansionBarrierGateKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4440,7 +4440,7 @@
     <type name="ExpansionCamoTentKit">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4454,7 +4454,7 @@
     <type name="ExpansionSafeLarge">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4468,7 +4468,7 @@
     <type name="ExpansionSafeMini">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4482,7 +4482,7 @@
     <type name="ExpansionSafeMedium">
         <nominal>10</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4496,7 +4496,7 @@
     <type name="ExpansionGunrack">
         <nominal>20</nominal>
         <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4509,7 +4509,7 @@
     <type name="ExpansionHelipadKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4521,7 +4521,7 @@
     <type name="ExpansionBarbedWireKit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4533,7 +4533,7 @@
     <type name="ExpansionHescoKit">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4545,7 +4545,7 @@
     <type name="ExpansionCodeLock">
         <nominal>40</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4630,7 +4630,7 @@
     <type name="ExpansionParkingMeter">
         <nominal>0</nominal>
         <lifetime>604800</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4641,7 +4641,7 @@
     <type name="ExpansionParkingMeterKit">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4652,7 +4652,7 @@
     <type name="ExpansionCircuitBoard_MK1">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4663,7 +4663,7 @@
     <type name="ExpansionCircuitBoard_MK2">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4674,7 +4674,7 @@
     <type name="ExpansionCircuitBoard_MK3">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4706,7 +4706,7 @@
     <type name="ExpansionCarKey">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4721,7 +4721,7 @@
     <type name="ExpansionGPS">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4738,7 +4738,7 @@
     <type name="ExpansionBoltCutters">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4750,7 +4750,7 @@
     <type name="ExpansionPropaneTorch">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4762,7 +4762,7 @@
     <type name="ExpansionToolBox">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4774,7 +4774,7 @@
     <type name="ExpansionMilkBottle">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4789,7 +4789,7 @@
     <type name="ExpansionBread1">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4804,7 +4804,7 @@
     <type name="ExpansionBread2">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4819,7 +4819,7 @@
     <type name="ExpansionBread3">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4834,7 +4834,7 @@
     <type name="ExpansionCheese1">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4849,7 +4849,7 @@
     <type name="ExpansionCheese2">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4864,7 +4864,7 @@
     <type name="ExpansionCheese3">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4879,7 +4879,7 @@
     <type name="ExpansionCheese4">
         <nominal>25</nominal>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -5134,5 +5134,327 @@
     <type name="ExpansionDebugGoat">
         <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="pakol_hat">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Pakol_brown_Takistan">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Pakol_grey">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Pakol_black">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Turban_1">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Turban_2">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Turban_3">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Turban_4">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta_1">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta_2">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta_3">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta_4">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta_5">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta2_1">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta2_2">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta2_3">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta2_4">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta2_5">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta3_1">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta3_2">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta3_3">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta3_4">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+    </type>
+    <type name="MVS_Kurta3_5">
+        <nominal>7</nominal>
+        <lifetime>14400</lifetime>
+        <restock>300</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
 </types>

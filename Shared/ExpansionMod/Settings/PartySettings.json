@@ -16,7 +16,7 @@
     "ShowHUDMemberStance": 1,
     "ShowPartyMemberMapMarkers": 1,
     "ShowHUDMemberDistance": 1,
-    "ForcePartyToHaveTags": 0,
+    "ForcePartyToHaveTags": 1,
     "InviteCooldown": 0,
     "DisplayPartyTag": 1
 }
