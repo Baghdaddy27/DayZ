@@ -261,7 +261,7 @@
             "Formation": "RANDOM",
             "FormationScale": -1.0,
             "FormationLooseness": 10.0,
-            "Loadout": "ShamansLoadout",
+            "Loadout": "ShamanLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",

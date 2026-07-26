@@ -115,7 +115,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "m14_10rnd"
+                "mag_m14_10rnd"
             ],
             "Variants": []
         },
