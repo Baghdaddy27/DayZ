@@ -3,11 +3,16 @@
     <message>
         <delay>2</delay>
         <onconnect>1</onconnect>
-        <text>Welcome to Caffeinated AF [CAF]! Please read the rules in the logbook. Press the B key to open your log book for in-depth server info, to create parties, form territories, etc. You can join our Discord through the link on the pause menu.</text>
+        <text>Welcome to Caffeinated AF [CAF]! A Non-Toxic PVE server with static and dynamic PVP zones.</text>
+    </message>
+    <message>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text>Read over the server information, form parties, and more from the LogBook menu. Please B to open.</text>
     </message>
         <message>
         <repeat>30</repeat>
-        <text>Did you find an issue? Have a suggestion? Let us know on the discord! The link is on the pause menu!</text>
+        <text>Question, comment, or concern? Let us know on the Discord. The link is on the game menu and in the log book.</text>
     </message>
 
 <!--

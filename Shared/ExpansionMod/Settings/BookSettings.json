@@ -165,7 +165,7 @@
             "CategoryName": "General Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "This is Caffeinated AF [CAF]. This server is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns."
+                    "DescriptionText": "Caffeinated AF [CAF] is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns."
                 },
                 {
                     "DescriptionText": "PVP areas include static and dynamic areas. Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
@@ -186,6 +186,9 @@
                 },
                 {
                     "DescriptionText": "Shamans: These AI wear NBC suits and are friendly with animals and infected. They are more skilled than Raiders or Lunatics, and are often found near gas zones."
+                },
+                {
+                    "DescriptionText": "Contractors: These AI wear Black Armbands and use advanced US Equipment. They are very skilled and travel in organized groups of 4 to 5. They are hostile to everyone."
                 },
                 {
                     "DescriptionText": "Mercenaries: These AI wear Red Armbands and use Soviet / Eastern equipment. They are very skilled and travel in organized groups of 3 or more. They are hostile to everyone, but especially Shadow Company."
