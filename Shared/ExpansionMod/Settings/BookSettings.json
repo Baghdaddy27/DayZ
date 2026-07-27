@@ -19,7 +19,7 @@
                 },
                 {
                     "RuleParagraph": "2.",
-                    "RuleText": "Cheating, Exploiting, Scripting, ESP/Aimbotting, Duping, Glitching, using third party software (NVIDIA Filters, ReShade, SweetFX, Any similar software), or trying to bypass server systems will result in an immediate and permanent ban."
+                    "RuleText": "Cheating, Exploiting, Scripting, ESP/Aimbotting, Duping, Glitching, using third party software (NVIDIA Filters, ReShade, SweetFX, or any similar software), or trying to bypass server systems will result in an immediate and permanent ban."
                 },
                 {
                     "RuleParagraph": "3.",
@@ -171,7 +171,7 @@
                     "DescriptionText": "PVP areas include static and dynamic areas. Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
                 },
                 {
-                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. The market & quests reset every Sunday at 0300 UTC."
+                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. This process takes about 10 to 15 minutes. The market & quests reset every Sunday at 0300 UTC."
                 }
             ]
         },
@@ -182,7 +182,7 @@
                     "DescriptionText": "Raider: These AI use various blends of civilian and military equipment. They are often unskilled, but travel in large numbers."
                 },
                 {
-                    "DescriptionText": "Lunatics: These AI are cannibals and are distinguishable by the  blend of homemade and hunting equipment they use, and their signature laugh. They use various weapons, and are slightly more skilled than raiders."
+                    "DescriptionText": "Lunatics: These AI are cannibals and are distinguishable by the blend of homemade and hunting equipment they use, and their signature laugh. They use various weapons, and are slightly more skilled than raiders."
                 },
                 {
                     "DescriptionText": "Shamans: These AI wear NBC suits and are friendly with animals and infected. They are more skilled than Raiders or Lunatics, and are often found near gas zones."
@@ -202,10 +202,52 @@
             ]
         },
         {
-            "CategoryName": "Mod Info",
+            "CategoryName": "Tips and Tricks",
             "Descriptions": [
                 {
-                    "DescriptionText": "This server uses CF, Dabs Framework, DayZ Expansion Mod Bundle, TakistanPlus, Takistan Clothing, PVEZ Reloaded, and Dynamic AI. All settings are backed up on the github."
+                    "DescriptionText": "Want a custom spawn point? Make a territory flag usings sticks and rope! This will also allow you to build a base!"
+                },
+                {
+                    "DescriptionText": "You can invite up to 7 other players to your territory from the Logbook menu. Use the B key."
+                },
+                {
+                    "DescriptionText": "You can form a party with up to 3 other players from the Logbook menu. Parties allow you to complete group quests. Use the B key."
+                },
+                {
+                    "DescriptionText": "In your inventory: You need a map to use your M key, a pen to mark locations on the map, and a compass to see your heading."
+                },
+                {
+                    "DescriptionText": "Not every town has water. Check your in-game map (or Takistan Plus on iZurvive.com) to see wells and other water sources."
+                },
+                {
+                    "DescriptionText": "You can claim a vehicle buy purchasing and using a key from the Market. You can lock a vehicle using the key if it has all the doors."
+                },
+                {
+                    "DescriptionText": "You can use a lockpick to open a locked vehicle, and a screwdriver to change the lock. Don't do this to player owned vehicles unless they are in the PVP zone."
+                },
+                {
+                    "DescriptionText": "Helicopters need Fuel and Hydraulic Fluid. Both are filled using the fuel port."
+                },
+                {
+                    "DescriptionText": "If a town was hit by gas, there are probably enemy AI nearby. They also probably know you are there."
+                },
+                {
+                    "DescriptionText": "AI are deadly accurate up close, so try to enage at a distance. Crouch behind cover or go prone for better results."
+                },
+                {
+                    "DescriptionText": "Climb ontop of a car or shed to escape infected. You can attack them from this position safely."
+                },
+                {
+                    "DescriptionText": "AI activley hunt your last known position. Move to a different location to ambush them when they arrive. Or leave and let them despawn."
+                },
+                {
+                    "DescriptionText": "Some items in buildings are hidden under the floor. Check the area with your inventory open."
+                },
+                {
+                    "DescriptionText": "You can make a snare with wire and sticks. You can trap animals to eat using different bait. Worms attract chickens, vegetables attract rabbits, and meat attracts foxes."
+                },
+                {
+                    "DescriptionText": "Need to make a fire, but don't have matches? Use a knife to cut bark off a large tree. Combine bark with sticks to make a drill kit (one-time use fire starter). Bark can also be used for kindling."
                 }
             ]
         }
