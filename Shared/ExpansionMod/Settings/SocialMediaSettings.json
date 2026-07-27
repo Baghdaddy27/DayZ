@@ -3,7 +3,11 @@
     "NewsFeedTexts": [
         {
             "m_Title": "Caffeinated AF [CAF]",
-            "m_Text": "A non-toxic PVE server with static & dynamic PVP zones. Join our discord with the link on this menu."
+            "m_Text": "Caffeinated AF [CAF] is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns. Click the Discord icon below."
+        },
+        {
+            "m_Title": "New to the game?",
+            "m_Text": "Read the Tips and Tricks section of your logbook to learn how to survive better in Takistan. Open your logbook in-game with the B key."
         }
     ],
     "NewsFeedLinks": [
