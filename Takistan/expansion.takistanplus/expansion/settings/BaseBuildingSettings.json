@@ -1,6 +1,6 @@
 {
     "m_Version": 5,
-    "CanBuildAnywhere": 0,
+    "CanBuildAnywhere": 1,
     "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
