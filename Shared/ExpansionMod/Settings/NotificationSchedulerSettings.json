@@ -7,7 +7,7 @@
 
         {
             "Hour": 3,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -15,8 +15,8 @@
             "Color": ""
         },
         {
-            "Hour": 3,
-            "Minute": 55,
+            "Hour": 4,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
@@ -25,7 +25,7 @@
         },
         {
             "Hour": 7,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -33,8 +33,8 @@
             "Color": ""
         },
         {
-            "Hour": 7,
-            "Minute": 55,
+            "Hour": 8,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
@@ -43,7 +43,7 @@
         },
         {
             "Hour": 11,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -51,8 +51,8 @@
             "Color": ""
         },
         {
-            "Hour": 11,
-            "Minute": 55,
+            "Hour": 12,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
@@ -61,7 +61,7 @@
         },
         {
             "Hour": 15,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -69,8 +69,8 @@
             "Color": ""
         },
         {
-            "Hour": 15,
-            "Minute": 55,
+            "Hour": 16,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
@@ -79,7 +79,7 @@
         },
         {
             "Hour": 19,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -87,8 +87,8 @@
             "Color": ""
         },
         {
-            "Hour": 19,
-            "Minute": 55,
+            "Hour": 20,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
@@ -97,7 +97,7 @@
         },
         {
             "Hour": 23,
-            "Minute": 45,
+            "Minute": 50,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 15 minutes. Find a safe spot!",
@@ -105,8 +105,8 @@
             "Color": ""
         },
         {
-            "Hour": 23,
-            "Minute": 55,
+            "Hour": 0,
+            "Minute": 0,
             "Second": 0,
             "Title": "Server Restart Info",
             "Text": "Server restart in 5 minutes. Log out now or risk losing loot!",
