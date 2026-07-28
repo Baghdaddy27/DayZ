@@ -4316,6 +4316,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
     </type>
     <type name="ExpansionBarrierGateKit">
         <nominal>0</nominal>
@@ -4344,6 +4345,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
     </type>
     <type name="ExpansionSafeLarge">
         <nominal>3</nominal>
