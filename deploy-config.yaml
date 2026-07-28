@@ -9,7 +9,7 @@ dest_root: "/home/jordan/Games/DayZ_Server"
 deployments:
   - name: "Configs"
     from: "Config"
-    to: ""
+    to: "/home/jordan/Games/DayZ_Server"
 
   - name: "Chernarus Mission"
     from: "Chernarus/expansion.chernarusplus"
