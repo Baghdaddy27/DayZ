@@ -1564,6 +1564,8 @@
 	<event name="VehicleGyroHelicopter">
 		<!-- Airfield Balota -->
 		<pos x="5030.672363" y="9.536390" z="2356.444824" a="40.269878" />
+		<pos x="12164.335" y="141.042" z="12653.066" a="40.269878" />
+		<pos x="4899.728" y="340.045" z="9631.952" a="40.269878" />
 	</event>
 	<event name="VehicleZodiacBoat">
 		<!-- Kamenka -->
