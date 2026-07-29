@@ -3307,18 +3307,6 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-    <type name="ExpansionKar98ScopeOptic">
-        <nominal>5</nominal>
-        <lifetime>10800</lifetime>
-        <restock>600</restock>
-        <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
     <type name="ExpansionDeltapointOptic">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
@@ -4258,6 +4246,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionWoodPillarKit">
         <nominal>0</nominal>
@@ -4269,6 +4259,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionRampKit">
         <nominal>0</nominal>
@@ -4280,6 +4272,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionStairKit">
         <nominal>0</nominal>
@@ -4291,6 +4285,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionWallKit">
         <nominal>0</nominal>
@@ -4302,6 +4298,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionCamoBoxKit">
         <nominal>10</nominal>
@@ -4317,6 +4315,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
         <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionBarrierGateKit">
         <nominal>0</nominal>
@@ -4331,12 +4330,14 @@
         <usage name="Town"/>
         <usage name="Village"/>
         <usage name="Hunting"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionCamoTentKit">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4346,6 +4347,7 @@
         <usage name="Village"/>
         <usage name="Hunting"/>
         <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionSafeLarge">
         <nominal>3</nominal>
@@ -4413,6 +4415,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionBarbedWireKit">
         <nominal>0</nominal>
@@ -4425,6 +4428,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionHescoKit">
         <nominal>10</nominal>
@@ -4437,6 +4441,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionCodeLock">
         <nominal>30</nominal>
@@ -4544,6 +4549,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Industrial"/>
     </type>
     <type name="ExpansionCircuitBoard_MK1">
         <nominal>0</nominal>
@@ -5030,10 +5037,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="pakol_hat">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5044,10 +5051,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Pakol_brown_Takistan">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5058,10 +5065,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Pakol_grey">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5072,10 +5079,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Pakol_black">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5086,10 +5093,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Turban_1">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5100,10 +5107,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Turban_2">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5114,10 +5121,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Turban_3">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5128,10 +5135,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Turban_4">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5142,10 +5149,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta_1">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5156,10 +5163,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta_2">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5170,10 +5177,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta_3">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5184,10 +5191,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta_4">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5198,10 +5205,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta_5">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5212,10 +5219,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta2_1">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5226,10 +5233,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta2_2">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5240,10 +5247,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta2_3">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5254,10 +5261,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta2_4">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5268,10 +5275,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta2_5">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5282,10 +5289,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta3_1">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5296,10 +5303,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta3_2">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5310,10 +5317,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta3_3">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5324,10 +5331,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta3_4">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5338,10 +5345,10 @@
         <usage name="Town"/>
     </type>
     <type name="MVS_Kurta3_5">
-        <nominal>7</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
