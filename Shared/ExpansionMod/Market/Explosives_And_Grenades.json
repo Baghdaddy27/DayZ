@@ -32,7 +32,6 @@
                 "ammo_40mm_chemgas",
                 "ammo_40mm_smoke_black",
                 "ammo_40mm_smoke_green",
-                "ammo_40mm_smoke_white",
                 "ammo_40mm_smoke_red",
                 "ammo_expansion_m203_smoke_white",
                 "ammo_expansion_m203_smoke_teargas",
@@ -44,6 +43,7 @@
                 "ammo_expansion_m203_sticky_smoke_red",
                 "ammo_expansion_m203_sticky_smoke_green",
                 "ammo_expansion_m203_sticky_smoke_yellow",
+                "ammo_expansion_m203_sticky_smoke_teargas",
                 "ammo_expansion_m203_sticky_smoke_purple"
             ]
         },
