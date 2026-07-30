@@ -409,6 +409,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="AirborneMask">
         <nominal>5</nominal>
@@ -1579,6 +1580,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Armband_APA">
         <nominal>0</nominal>
@@ -2117,7 +2119,7 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2129,7 +2131,7 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2153,7 +2155,7 @@
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2210,10 +2212,10 @@
         <usage name="Military"/>
     </type>
     <type name="AthleticShoes_Black">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>900</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2223,10 +2225,10 @@
         <usage name="Town"/>
     </type>
     <type name="AthleticShoes_Blue">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>900</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2236,10 +2238,10 @@
         <usage name="Town"/>
     </type>
     <type name="AthleticShoes_Brown">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>900</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2249,10 +2251,10 @@
         <usage name="Town"/>
     </type>
     <type name="AthleticShoes_Green">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>900</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2262,10 +2264,10 @@
         <usage name="Town"/>
     </type>
     <type name="AthleticShoes_Grey">
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>900</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2438,10 +2440,10 @@
         <category name="tools"/>
     </type>
     <type name="BakedBeansCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2450,6 +2452,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="BakedBeansCan_Opened">
         <nominal>0</nominal>
@@ -2463,6 +2466,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Balaclava3Holes_Beige">
         <nominal>2</nominal>
@@ -2872,7 +2876,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2947,7 +2951,7 @@
         <nominal>25</nominal>
         <lifetime>3888000</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2961,7 +2965,7 @@
         <nominal>25</nominal>
         <lifetime>3888000</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2975,7 +2979,7 @@
         <nominal>25</nominal>
         <lifetime>3888000</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2989,7 +2993,7 @@
         <nominal>25</nominal>
         <lifetime>3888000</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3153,7 +3157,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3302,6 +3306,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="BearTrap">
         <nominal>5</nominal>
@@ -3395,6 +3400,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="BloodBagEmpty">
         <nominal>7</nominal>
@@ -3447,10 +3453,10 @@
         <usage name="Military"/>
     </type>
     <type name="Blouse_Blue">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3460,10 +3466,10 @@
         <usage name="Village"/>
     </type>
     <type name="Blouse_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3473,10 +3479,10 @@
         <usage name="Village"/>
     </type>
     <type name="Blouse_Violet">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3486,10 +3492,10 @@
         <usage name="Village"/>
     </type>
     <type name="Blouse_White">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3522,6 +3528,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Boat_01_Black">
         <nominal>0</nominal>
@@ -3577,7 +3584,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3590,7 +3597,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Blue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3603,7 +3610,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Brown">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3616,7 +3623,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Grey">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3629,7 +3636,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Maroon">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3642,7 +3649,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_Olive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3656,7 +3663,7 @@
         <usage name="Town"/>
     </type>
     <type name="BomberJacket_SkyBlue">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>0</min>
@@ -3879,10 +3886,10 @@
         <usage name="Town"/>
     </type>
     <type name="BoxCerealCrunchin">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>28800</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3891,12 +3898,13 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="BrassKnuckles_Dull">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3906,10 +3914,10 @@
         <usage name="Village"/>
     </type>
     <type name="BrassKnuckles_Shiny">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4049,10 +4057,10 @@
         <usage name="Town"/>
     </type>
     <type name="BrisketSpread">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>9000</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4061,6 +4069,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="BrisketSpread_Opened">
         <nominal>0</nominal>
@@ -4074,12 +4083,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Broom">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4111,7 +4121,7 @@
         <category name="clothes"/>
     </type>
     <type name="BurlapSack">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>10</min>
@@ -4173,10 +4183,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="CZ550">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -4217,7 +4227,7 @@
         <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4261,7 +4271,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <usage name="Town"/>
         <usage name="Farm"/>
         <usage name="Military"/>
     </type>
@@ -4275,7 +4284,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <usage name="Town"/>
         <usage name="Farm"/>
         <usage name="Military"/>
     </type>
@@ -4289,7 +4297,6 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <usage name="Town"/>
         <usage name="Farm"/>
         <usage name="Military"/>
     </type>
@@ -4303,8 +4310,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
-        <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Military"/>
     </type>
     <type name="CaninaBerry">
         <nominal>0</nominal>
@@ -4321,7 +4328,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
@@ -4341,7 +4348,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <usage name="Military"/>
-        <usage name="Town"/>
         <usage name="Farm"/>
     </type>
     <type name="CanvasBag_Medical">
@@ -4504,7 +4510,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -4516,7 +4522,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4614,6 +4620,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CarpFilletMeat">
         <nominal>0</nominal>
@@ -4627,6 +4634,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CatFoodCan">
         <nominal>10</nominal>
@@ -4641,6 +4649,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CatFoodCan_Opened">
         <nominal>0</nominal>
@@ -4654,6 +4663,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Cauldron">
         <nominal>0</nominal>
@@ -4795,7 +4805,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4868,6 +4878,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ChickenFeather">
         <nominal>0</nominal>
@@ -4917,10 +4928,10 @@
         <usage name="Village"/>
     </type>
     <type name="Chips">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4929,6 +4940,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ChristmasHeadband_Antlers">
         <nominal>0</nominal>
@@ -5532,7 +5544,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5680,7 +5692,7 @@
         <usage name="Military"/>
     </type>
     <type name="CombinationLock">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>10</min>
@@ -5696,7 +5708,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5709,7 +5721,7 @@
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5855,6 +5867,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CowboyHat_Brown">
         <nominal>3</nominal>
@@ -5949,10 +5962,10 @@
         <usage name="Military"/>
     </type>
     <type name="CrabCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5960,6 +5973,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CrabCan_Opened">
         <nominal>0</nominal>
@@ -5973,12 +5987,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Crackers">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5986,6 +6001,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="CraterellusMushroom">
         <nominal>0</nominal>
@@ -6062,7 +6078,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6075,7 +6091,7 @@
         <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6220,6 +6236,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DeadChicken_Spotted">
         <nominal>0</nominal>
@@ -6233,6 +6250,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DeadChicken_White">
         <nominal>0</nominal>
@@ -6246,6 +6264,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DeadFox">
         <nominal>0</nominal>
@@ -6269,6 +6288,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DeadRooster">
         <nominal>0</nominal>
@@ -6282,6 +6302,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Deagle">
         <nominal>7</nominal>
@@ -6330,6 +6351,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DenimJacket">
         <nominal>5</nominal>
@@ -6509,7 +6531,7 @@
         <usage name="Town"/>
     </type>
     <type name="DisinfectantAlcohol">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>10</min>
@@ -6549,6 +6571,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DogFoodCan_Opened">
         <nominal>0</nominal>
@@ -6562,6 +6585,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="DownJacket_Blue">
         <nominal>0</nominal>
@@ -6788,7 +6812,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6849,7 +6873,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6889,7 +6913,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7067,7 +7091,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7131,7 +7155,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7188,10 +7212,10 @@
         <usage name="Military"/>
     </type>
     <type name="FilteringBottle">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7817,7 +7841,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8494,10 +8518,10 @@
         <category name="tools"/>
     </type>
     <type name="GlassBottle">
-        <nominal>25</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>30</min>
         <quantmin>0</quantmin>
         <quantmax>0</quantmax>
         <cost>100</cost>
@@ -8553,6 +8577,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="GorkaEJacket_Autumn">
         <nominal>0</nominal>
@@ -8726,6 +8751,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Grenade_ChemGas">
         <nominal>5</nominal>
@@ -9796,7 +9822,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10006,10 +10032,10 @@
         <usage name="Town"/>
     </type>
     <type name="HipPack_Black">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10018,10 +10044,10 @@
         <usage name="Village"/>
     </type>
     <type name="HipPack_Green">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10118,10 +10144,10 @@
         <usage name="Town"/>
     </type>
     <type name="Honey">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>28800</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10130,6 +10156,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Hoodie_Black">
         <nominal>3</nominal>
@@ -10233,6 +10260,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="HunterPants_Autumn">
         <nominal>0</nominal>
@@ -10529,7 +10557,7 @@
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>7</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -10543,7 +10571,7 @@
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>7</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -10557,7 +10585,7 @@
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>7</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10971,10 +10999,10 @@
         <usage name="Military"/>
     </type>
     <type name="KukriKnife">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11512,12 +11540,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="LargeGasCanister">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>65</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -11899,7 +11928,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12081,10 +12110,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Lunchmeat">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12093,6 +12122,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Lunchmeat_Opened">
         <nominal>0</nominal>
@@ -12106,6 +12136,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="M14">
         <nominal>2</nominal>
@@ -12120,10 +12151,10 @@
         <usage name="Military"/>
     </type>
     <type name="M16A2">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12193,10 +12224,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12490,10 +12521,10 @@
         <usage name="Military"/>
     </type>
     <type name="MKII">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12599,6 +12630,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="MackerelFilletMeat">
         <nominal>0</nominal>
@@ -12612,6 +12644,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="MacrolepiotaMushroom">
         <nominal>0</nominal>
@@ -12625,6 +12658,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Mag_1911_7Rnd">
         <nominal>20</nominal>
@@ -13347,10 +13381,10 @@
         <usage name="Village"/>
     </type>
     <type name="Marmalade">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13359,6 +13393,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Matchbox">
         <nominal>20</nominal>
@@ -13377,7 +13412,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13522,7 +13557,7 @@
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>65</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13587,7 +13622,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>10</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -13600,7 +13635,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14240,7 +14275,7 @@
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>7</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -14454,7 +14489,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14501,7 +14536,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14845,10 +14880,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="OrientalMachete">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14861,7 +14896,7 @@
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15037,10 +15072,10 @@
         <usage name="Military"/>
     </type>
     <type name="Pajka">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>9000</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15049,6 +15084,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Pajka_Opened">
         <nominal>0</nominal>
@@ -15062,6 +15098,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Paper">
         <nominal>0</nominal>
@@ -15204,10 +15241,10 @@
         <usage name="Town"/>
     </type>
     <type name="Pate">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>9000</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15216,6 +15253,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Pate_Opened">
         <nominal>0</nominal>
@@ -15229,6 +15267,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PaydayMask_Chains">
         <nominal>0</nominal>
@@ -15283,10 +15322,10 @@
         <usage name="Town"/>
     </type>
     <type name="PeachesCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15295,6 +15334,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PeachesCan_Opened">
         <nominal>0</nominal>
@@ -15308,6 +15348,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Pear">
         <nominal>0</nominal>
@@ -15321,6 +15362,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Pen_Black">
         <nominal>0</nominal>
@@ -15397,6 +15439,7 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="PersonalRadio">
         <nominal>20</nominal>
@@ -15498,6 +15541,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PileOfWoodenPlanks">
         <nominal>0</nominal>
@@ -15566,7 +15610,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15639,6 +15683,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plant_Pepper">
         <nominal>0</nominal>
@@ -15652,6 +15697,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plant_Potato">
         <nominal>0</nominal>
@@ -15665,6 +15711,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plant_Pumpkin">
         <nominal>0</nominal>
@@ -15678,6 +15725,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plant_Tomato">
         <nominal>0</nominal>
@@ -15691,6 +15739,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plant_Zucchini">
         <nominal>0</nominal>
@@ -15704,6 +15753,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Plastic_Explosive">
         <nominal>3</nominal>
@@ -15968,7 +16018,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15990,6 +16040,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PoliceCap">
         <nominal>4</nominal>
@@ -16071,10 +16122,10 @@
         <usage name="Town"/>
     </type>
     <type name="PorkCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16083,6 +16134,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PorkCan_Opened">
         <nominal>0</nominal>
@@ -16096,6 +16148,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PortableGasLamp">
         <nominal>25</nominal>
@@ -16144,6 +16197,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PotatoSeed">
         <nominal>10</nominal>
@@ -16158,12 +16212,13 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="PowderedMilk">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>28800</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16172,12 +16227,13 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PowerGenerator">
         <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>20</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
@@ -16256,6 +16312,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="PumpkinHelmet">
         <nominal>0</nominal>
@@ -16292,6 +16349,7 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="PunchedCard">
         <nominal>5</nominal>
@@ -16489,6 +16547,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="RabbitPelt">
         <nominal>0</nominal>
@@ -16700,7 +16759,7 @@
         <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16821,10 +16880,10 @@
         <usage name="Village"/>
     </type>
     <type name="Rice">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>28800</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16833,6 +16892,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="RidersJacket_Black">
         <nominal>3</nominal>
@@ -16851,7 +16911,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16865,7 +16925,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16888,10 +16948,10 @@
         <usage name="Town"/>
     </type>
     <type name="Ruger1022">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>7</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16904,7 +16964,7 @@
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -17019,7 +17079,7 @@
         <usage name="Military"/>
     </type>
     <type name="SVD">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>1</min>
@@ -17032,7 +17092,7 @@
         <usage name="Village"/>
     </type>
     <type name="SVD_Wooden">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>1</min>
@@ -17093,10 +17153,10 @@
         <category name="tools"/>
     </type>
     <type name="SaltySticks">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17105,6 +17165,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SambucusBerry">
         <nominal>0</nominal>
@@ -17157,12 +17218,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SardinesCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17171,6 +17233,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SardinesCan_Opened">
         <nominal>0</nominal>
@@ -17184,6 +17247,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SawedoffB95">
         <nominal>0</nominal>
@@ -17219,6 +17283,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SawedoffIzh18Shotgun">
         <nominal>0</nominal>
@@ -17265,6 +17330,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SawedoffMosin9130_Black">
         <nominal>0</nominal>
@@ -17278,6 +17344,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SawedoffMosin9130_Camo">
         <nominal>0</nominal>
@@ -17291,6 +17358,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SawedoffMosin9130_Green">
         <nominal>0</nominal>
@@ -17304,6 +17372,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ScientificBriefcase">
         <nominal>0</nominal>
@@ -17368,7 +17437,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17917,7 +17986,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17959,6 +18028,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ShelterFabric">
         <nominal>0</nominal>
@@ -18296,7 +18366,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18318,12 +18388,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Sickle">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18655,6 +18726,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Slingbag_Black">
         <nominal>7</nominal>
@@ -18727,6 +18799,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SmallProtectorCase">
         <nominal>7</nominal>
@@ -18898,10 +18971,10 @@
         <usage name="Town"/>
     </type>
     <type name="SodaCan_Cola">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18909,12 +18982,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SodaCan_Fronta">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>1440</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18922,12 +18996,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SodaCan_Kvass">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18935,12 +19010,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SodaCan_Pipsi">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18948,12 +19024,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SodaCan_Spite">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18961,12 +19038,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SpaghettiCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18975,6 +19053,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SpaghettiCan_Opened">
         <nominal>0</nominal>
@@ -18988,12 +19067,13 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="SparkPlug">
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19414,7 +19494,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19821,6 +19901,7 @@
         <usage name="Military"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="TacticalBaconCan_Opened">
         <nominal>0</nominal>
@@ -19834,6 +19915,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="TacticalGloves_Beige">
         <nominal>5</nominal>
@@ -19932,7 +20014,7 @@
         <usage name="Military"/>
     </type>
     <type name="TaloonBag_Blue">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -19944,7 +20026,7 @@
         <usage name="Village"/>
     </type>
     <type name="TaloonBag_Green">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -19956,7 +20038,7 @@
         <usage name="Village"/>
     </type>
     <type name="TaloonBag_Orange">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -19968,7 +20050,7 @@
         <usage name="Village"/>
     </type>
     <type name="TaloonBag_Violet">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -20098,7 +20180,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20120,6 +20202,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="TomatoSeeds">
         <nominal>0</nominal>
@@ -20133,6 +20216,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="TomatoSeedsPack">
         <nominal>10</nominal>
@@ -20146,6 +20230,7 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="Torch">
         <nominal>0</nominal>
@@ -20730,10 +20815,10 @@
         <usage name="Town"/>
     </type>
     <type name="TunaCan">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>300</restock>
-        <min>30</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20742,6 +20827,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="TunaCan_Opened">
         <nominal>0</nominal>
@@ -20755,6 +20841,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="UKAssVest_Black">
         <nominal>5</nominal>
@@ -20817,7 +20904,7 @@
         <usage name="Military"/>
     </type>
     <type name="UMP45">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>7</min>
@@ -20925,6 +21012,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="UnknownFoodCan_Opened">
         <nominal>0</nominal>
@@ -20938,6 +21026,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="Ushanka_Black">
         <nominal>0</nominal>
@@ -21003,10 +21092,10 @@
         <usage name="Military"/>
     </type>
     <type name="VitaminBottle">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>5</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>
@@ -21106,7 +21195,7 @@
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21215,10 +21304,10 @@
         <category name="tools"/>
     </type>
     <type name="Winchester70">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>25</quantmin>
         <quantmax>75</quantmax>
         <cost>100</cost>
@@ -21427,6 +21516,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="WomanSuit_Beige">
         <nominal>5</nominal>
@@ -21533,10 +21623,10 @@
         <usage name="Village"/>
     </type>
     <type name="WoodAxe">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22085,7 +22175,7 @@
         <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22133,6 +22223,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ZagorkyChocolate">
         <nominal>30</nominal>
@@ -22147,6 +22238,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ZagorkyPeanuts">
         <nominal>30</nominal>
@@ -22161,6 +22253,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ZmbF_BlueCollarFat_Blue">
         <nominal>0</nominal>
@@ -24005,6 +24098,7 @@
         <tag name="shelves"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
     <type name="ZucchiniSeeds">
         <nominal>0</nominal>
@@ -24018,6 +24112,7 @@
         <category name="food"/>
         <usage name="Town"/>
         <usage name="Farm"/>
+        <usage name="Village"/>
     </type>
     <type name="ZucchiniSeedsPack">
         <nominal>10</nominal>
@@ -24031,5 +24126,6 @@
         <category name="food"/>
         <usage name="Farm"/>
         <usage name="Town"/>
+        <usage name="Village"/>
     </type>
 </types>

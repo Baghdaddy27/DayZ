@@ -801,7 +801,7 @@
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>4</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
