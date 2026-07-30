@@ -64,6 +64,17 @@
             "Variants": []
         },
         {
+            "ClassName": "expansionhelicopterbattery",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 580,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "carradiator",
             "MaxPriceThreshold": 550,
             "MinPriceThreshold": 520,
