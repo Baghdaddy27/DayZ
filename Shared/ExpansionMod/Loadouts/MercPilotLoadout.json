@@ -106,32 +106,9 @@
                         }
                     ],
                     "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Hips",
-            "Items": [
-                {
-                    "ClassName": "MilitaryBelt",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.40,
-                            "Max": 0.70,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
                     "InventoryCargo": [
-                                {
+
+                            {
                                     "ClassName": "BandageDressing",
                                     "Chance": 1.0,
                                     "Quantity": {
@@ -143,7 +120,7 @@
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
-                                },
+                            },
                             {
                                 "ClassName": "BakedBeansCan_Opened",
                                 "Chance": 0.02,
@@ -470,6 +447,30 @@
                                 "Sets": []
                             }
                     ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Hips",
+            "Items": [
+                {
+                    "ClassName": "MilitaryBelt",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.40,
+                            "Max": 0.70,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 }
