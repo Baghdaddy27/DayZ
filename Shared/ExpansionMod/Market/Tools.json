@@ -62,6 +62,17 @@
             "Variants": []
         },
         {
+            "ClassName": "expansionadminhammer",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "hacksaw",
             "MaxPriceThreshold": 14,
             "MinPriceThreshold": 7,

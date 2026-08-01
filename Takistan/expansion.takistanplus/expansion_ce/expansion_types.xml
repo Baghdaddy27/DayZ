@@ -4587,14 +4587,14 @@
     </type>
     <type name="ExpansionCarAdminKey">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>1440</lifetime>
         <restock>0</restock>
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ExpansionAdminHammer">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>1440</lifetime>
         <restock>0</restock>
         <min>0</min>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>

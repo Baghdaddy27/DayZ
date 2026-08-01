@@ -8,7 +8,7 @@
     <message>
         <delay>5</delay>
         <onconnect>1</onconnect>
-        <text>Read over the server information, form parties, and more from the LogBook menu. Please B to open.</text>
+        <text>Read server information, form parties, and more from your LogBook. Press B to open.</text>
     </message>
         <message>
         <repeat>30</repeat>

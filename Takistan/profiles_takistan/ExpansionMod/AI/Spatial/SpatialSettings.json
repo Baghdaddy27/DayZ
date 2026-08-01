@@ -10,7 +10,7 @@
     "Audio_Enabled": 0,
     "EngageTimer": 5.0,
     "CleanupTimer": 6.0,
-    "PlayerChecks": 5,
+    "PlayerChecks": -5,
     "MaxAI": 20,
     "GroupDifficulty": 0,
     "MinimumPlayerDistance": 0,
