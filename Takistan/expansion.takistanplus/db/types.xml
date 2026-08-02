@@ -14744,7 +14744,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_1_1_Rust">
         <nominal>1</nominal>
@@ -14755,7 +14756,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_1_2">
         <nominal>0</nominal>
@@ -14766,7 +14768,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_1_2_Rust">
         <nominal>1</nominal>
@@ -14777,7 +14780,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_2_1">
         <nominal>0</nominal>
@@ -14788,7 +14792,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_2_1_Rust">
         <nominal>1</nominal>
@@ -14799,7 +14804,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_2_2">
         <nominal>0</nominal>
@@ -14810,7 +14816,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Door_2_2_Rust">
         <nominal>1</nominal>
@@ -14821,7 +14828,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Hood">
         <nominal>0</nominal>
@@ -14832,7 +14840,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Trunk">
         <nominal>0</nominal>
@@ -14843,7 +14852,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Trunk_Rust">
         <nominal>1</nominal>
@@ -14854,7 +14864,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="Offroad_02_Wheel">
         <nominal>5</nominal>
@@ -14865,8 +14876,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="lootdispatch"/>
-        <usage name="Industrial"/>
+        <tag name="floor"/>
+        <usage name="Military"/>
     </type>
     <type name="OrientalMachete">
         <nominal>10</nominal>
