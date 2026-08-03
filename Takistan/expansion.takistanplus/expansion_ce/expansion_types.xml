@@ -4065,7 +4065,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="Mag_Expansion_G36_30Rnd">
+    <type name="Mag_STANAG_30Rnd">
         <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>

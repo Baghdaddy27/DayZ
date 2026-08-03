@@ -185,7 +185,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "mag_expansion_g36_30rnd"
+                "Mag_STANAG_30Rnd"
             ],
             "Variants": []
         }

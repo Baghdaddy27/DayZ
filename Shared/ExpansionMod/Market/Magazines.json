@@ -618,17 +618,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mag_expansion_g36_30rnd",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 60,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_expansion_awm_5rnd",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 40,

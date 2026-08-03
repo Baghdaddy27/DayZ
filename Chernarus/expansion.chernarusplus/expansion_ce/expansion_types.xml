@@ -4176,7 +4176,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-    <type name="Mag_Expansion_G36_30Rnd">
+    <type name="Mag_STANAG_30Rnd">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>

@@ -1616,7 +1616,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_Expansion_G36_30Rnd",
+                                            "ClassName": "Mag_Stanag_30Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -1749,7 +1749,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_Expansion_G36_30Rnd",
+                    "ClassName": "Mag_STANAG_30Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -1762,7 +1762,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_Expansion_G36_30Rnd",
+                    "ClassName": "Mag_STANAG_30Rnd",
                     "Chance": 0.25,
                     "Quantity": {
                         "Min": 0.0,
@@ -2002,32 +2002,6 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "Expansion_ANPEQ15_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "Expansion_ANPEQ15_Red",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
                                         }
                                     ]
                                 }
@@ -2115,6 +2089,19 @@
                                         },
                                         {
                                             "ClassName": "ACOGOptic",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "M4_Suppressor",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
