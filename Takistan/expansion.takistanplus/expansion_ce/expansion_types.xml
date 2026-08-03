@@ -1977,7 +1977,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ExpansionHelicopterBattery">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>43200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2003,7 +2003,7 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionIgniterPlug">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>43200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -2029,7 +2029,7 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionHydraulicFluid">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>43200</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -4060,18 +4060,6 @@
         <min>7</min>
         <quantmin>8</quantmin>
         <quantmax>50</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-    </type>
-    <type name="Mag_STANAG_30Rnd">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>600</restock>
-        <min>7</min>
-        <quantmin>20</quantmin>
-        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
