@@ -164,23 +164,6 @@
                 "mag_expansion_m9_15rnd"
             ],
             "Variants": []
-        },
-                {
-            "ClassName": "shockpistol",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 175,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_shockcartidge"
-            ],
-            "Variants": [
-                "shock_pistol_black",
-                "expansion_taser_yellow",
-                "expansion_taser_black"
-            ]
         }
     ]
 }

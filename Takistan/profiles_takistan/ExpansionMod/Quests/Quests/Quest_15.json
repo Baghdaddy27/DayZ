@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 15,
     "Type": 1,
-    "Title": "Group: Eliminate Shadow Company",
+    "Title": "Group: Eliminate Shadow Company Patrol",
     "Descriptions": [
-        "Eliminate the Shadow Company combatants at the Dambog Bunker in the South West. You need a Punched Card to enter.",
-        "Eliminate the Shadow Company combatants at the Dambog Bunker in the South West. You need a Punched Card to enter.",        
+        "Eliminate the Shadow Company Patrol.",
+        "Eliminate the Shadow Company Patrol.",        
         "What's up, %1?"
     ],
     "ObjectiveText": "Eliminate Shadow Company. Reward: $250",

@@ -519,19 +519,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mag_shockcartridge",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "mag__expansion_taser"
-            ]
-        },
-        {
             "ClassName": "mag_expansion_m9_15rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,

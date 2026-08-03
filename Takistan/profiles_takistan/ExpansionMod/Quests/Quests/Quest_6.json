@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 6,
     "Type": 1,
-    "Title": "Daily: Kill 10 Wagner Mercenaries",
+    "Title": "Daily: Kill 10 Mercenaries",
     "Descriptions": [
-        "Kill 10 Wagner Group Mercenaries. They wear the Red Armbands.",
-        "Kill 10 Wagner Group Mercenaries. They wear the Red Armbands.",
+        "Kill 10 Mercenaries. They wear the Red Armbands.",
+        "Kill 10 Mercenaries. They wear the Red Armbands.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 10 Wagner Group Mercs. Reward: $250!",
+    "ObjectiveText": "Kill 10 Mercs. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,

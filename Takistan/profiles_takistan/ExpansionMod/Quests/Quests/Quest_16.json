@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 16,
     "Type": 1,
-    "Title": "Group: Eliminate Wagner Group",
+    "Title": "Group: Eliminate Mercenary Patrol",
     "Descriptions": [
-        "Eliminate the Wagner Group Mercenaries at military base north of Zapadlisko.",
-        "Eliminate the Wagner Group Mercenaries at at military base north of Zapadlisko.",
+        "Eliminate the Mercenary Patrol.",
+        "Eliminate the Mercenary Patrol.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Eliminate Wagner Group. Reward: $250",

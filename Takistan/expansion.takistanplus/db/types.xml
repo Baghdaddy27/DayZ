@@ -12399,6 +12399,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <usage name="Town"/>
     </type>
     <type name="M65Jacket_Khaki">
         <nominal>1</nominal>
@@ -12411,6 +12412,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <usage name="Town"/>
     </type>
     <type name="M65Jacket_Olive">
         <nominal>1</nominal>
@@ -12423,6 +12425,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <usage name="Town"/>
     </type>
     <type name="M65Jacket_Tan">
         <nominal>1</nominal>
@@ -12435,6 +12438,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
+        <usage name="Town"/>
     </type>
     <type name="M67Grenade">
         <nominal>7</nominal>

@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 17,
     "Type": 1,
-    "Title": "Group: Eliminate the Shamans",
+    "Title": "Group: Eliminate the Shaman Patrol",
     "Descriptions": [
-        "Eliminate the Shamans that have taken over the ruins of Radunin. You will need a full NBC suit to enter.",
-        "Eliminate the Shamans that have taken over the ruins of Radunin. You will need a full NBC suit to enter.",        
+        "Eliminate the Shamans.",
+        "Eliminate the Shamans.",        
         "What's up, %1?"
     ],
     "ObjectiveText": "Eliminate the Shamans. Reward: $250",
