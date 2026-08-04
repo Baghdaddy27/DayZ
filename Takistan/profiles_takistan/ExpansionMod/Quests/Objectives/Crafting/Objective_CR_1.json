@@ -2,11 +2,11 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 11,
-    "ObjectiveText": "Craft an Improvised Fishing Rod",
+    "ObjectiveText": "Craft a Territory Flag Kit",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "ItemNames": [
-        "ImprovisedFishingRod"
+        "TerritoryFlagKit"
     ],
     "ExecutionAmount": 1
 }

@@ -2,14 +2,14 @@
     "ConfigVersion": 22,
     "ID": 1,
     "Type": 1,
-    "Title": "The Black Market",
+    "Title": "Welcome to Takistan",
     "Descriptions": [
-        "Visit the Black Market",
-        "Visit the Black Market",
+        "There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
+        "There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Travel to the Black Market",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Travel to the Black Market near Qarma",
+    "FollowUpQuest": 2,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -18,16 +18,33 @@
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
+    "Rewards": [
+        {
+            "ClassName": "MetalWire",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "WoodenStick",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [],
-    "QuestTurnInIDs": [
-        1
-    ],
+    "QuestTurnInIDs": [2],
     "IsAchievement": 0,
     "Objectives": [
         {

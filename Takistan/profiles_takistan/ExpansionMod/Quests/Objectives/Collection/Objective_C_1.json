@@ -2,18 +2,30 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 4,
-    "ObjectiveText": "Collect a Punched Card",
+    "ObjectiveText": "Catch a Chicken using a snare",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "PunchedCard",
+            "ClassName": "DeadChicken_White",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DeadChicken_Brown",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "DeadChicken_Spotted",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0
+    "NeedAnyCollection": 1
 }

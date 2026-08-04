@@ -2,41 +2,87 @@
     "ConfigVersion": 22,
     "ID": 2,
     "Type": 1,
-    "Title": "PLACEHOLDER",
+    "Title": "Build your Camp",
     "Descriptions": [
-        "PLACEHOLDER"
+        "You've made it this far, so now its time to make a permanent place for yourself. Head out 1000 meters from the Black Market and pick a spot. Craft the flag kit, make a territory, and claim a piece of Takistan for yourself.",
+        "You've made it this far, so now its time to make a permanent place for yourself. Head out 1000 meters from the Black Market and pick a spot. Craft the flag kit, make a territory, and claim a piece of Takistan for yourself.",
+        "What's up, %1?"
     ],
-    "ObjectiveText": "PLACEHOLDER",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Find a place to build your camp and craft a Territory Flag Kit",
+    "FollowUpQuest": 3,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
+    "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
-    "Rewards": [],
+    "QuestItems": [
+        {
+            "ClassName": "Rope",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "WoodenStick",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "TerritoryFlagKit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "ExpansionCamoTentKit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [],
-    "QuestTurnInIDs": [],
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
     "IsAchievement": 0,
-    "Objectives": [],
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 11
+        }
+    ],
     "QuestColor": -1,
-    "ReputationReward": 0,
+    "ReputationReward": 100,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [1],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }
