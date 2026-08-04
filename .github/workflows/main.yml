@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
       
       - name: 📂 Sync files to Zap
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
@@ -23,3 +23,12 @@ jobs:
           protocol: ftp
           local-dir: ./Market/
           server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/expansion/traderzones/
+
+      - name: 📢 Notify Discord
+        if: success()
+        run: |
+          NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"Market Updated: $NOW\"}" \
+               ${{ secrets.DISCORD_WEBHOOK }}
