@@ -21,7 +21,7 @@ jobs:
           password: ${{ secrets.ZAP_FTP_PASS }}
           port: 21
           protocol: ftp
-          local-dir: ./Market/
+          local-dir: ./Automation/
           server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/expansion/traderzones/
 
       - name: 📢 Notify Discord
