@@ -19,7 +19,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -51,7 +51,7 @@
             },
             "Health": [
                 {
-                    "Min": 0.40,
+                    "Min": 0.51,
                     "Max": 0.70,
                     "Zone": ""
                 }
@@ -73,7 +73,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -92,7 +92,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -111,7 +111,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -130,7 +130,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -154,7 +154,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -190,7 +190,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -243,7 +243,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -301,7 +301,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -320,7 +320,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -339,7 +339,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -358,7 +358,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -377,7 +377,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -396,7 +396,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -415,7 +415,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -434,7 +434,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -453,7 +453,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -472,7 +472,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -491,7 +491,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -510,7 +510,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -534,7 +534,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -553,7 +553,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -572,7 +572,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -591,7 +591,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -610,7 +610,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -629,7 +629,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -648,7 +648,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -672,7 +672,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -714,7 +714,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -733,7 +733,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -752,7 +752,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -771,7 +771,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -809,7 +809,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -840,38 +840,6 @@
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "ReflexOptic",
-                                            "Chance": 0.50,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
@@ -1080,7 +1048,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1091,19 +1059,6 @@
                                     "Items": [
                                         {
                                             "ClassName": "Mag_CMAG_30Rnd",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "M4_RISHndgrd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -1137,38 +1092,6 @@
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "ReflexOptic",
-                                            "Chance": 0.50,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
@@ -1299,7 +1222,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1330,102 +1253,6 @@
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "ReflexOptic",
-                                            "Chance": 0.50,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "M68Optic",
-                                            "Chance": 0.5,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "M4_T3NRDSOptic",
-                                            "Chance": 0.5,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []

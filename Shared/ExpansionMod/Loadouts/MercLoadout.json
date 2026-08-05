@@ -19,7 +19,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -43,7 +43,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -61,7 +61,7 @@
                                     },
                                     "Health": [
                                         {
-                                        "Min": 0.40,
+                                        "Min": 0.51,
                                         "Max": 0.70,
                                         "Zone": ""
                                         }
@@ -101,7 +101,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -144,7 +144,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -168,7 +168,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
+                            "Min": 0.51,
                             "Max": 0.70,
                             "Zone": ""
                         }
@@ -193,7 +193,7 @@
             },
             "Health": [
                 {
-                "Min": 0.40,
+                "Min": 0.51,
                 "Max": 0.70,
                 "Zone": ""
                 }
@@ -224,7 +224,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -243,7 +243,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -262,7 +262,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -281,7 +281,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -897,7 +897,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -921,7 +921,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -945,7 +945,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1031,7 +1031,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1050,7 +1050,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1088,7 +1088,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1106,7 +1106,7 @@
                                             },
                                             "Health": [
                                                 {
-                                                    "Min": 0.40,
+                                                    "Min": 0.51,
                                                     "Max": 0.70,
                                                     "Zone": ""
                                                 }
@@ -1137,7 +1137,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1175,7 +1175,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1199,7 +1199,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1247,7 +1247,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1271,7 +1271,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1466,7 +1466,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1490,7 +1490,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1528,7 +1528,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1552,7 +1552,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1576,7 +1576,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1595,7 +1595,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -1777,7 +1777,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.25,
+            "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0
@@ -1800,7 +1800,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_AK74_45Rnd",
+                                            "ClassName": "Mag_AK74_30Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -1850,7 +1850,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_AK74_45Rnd",
+                    "ClassName": "Mag_AK74_30Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -1863,7 +1863,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_AK74_45Rnd",
+                    "ClassName": "Mag_AK74_30Rnd",
                     "Chance": 0.25,
                     "Quantity": {
                         "Min": 0.0,
@@ -1892,136 +1892,6 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "AK74_Green",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_AK74_30Rnd_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "AK_FoldingBttstck_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "AK_PlasticBttstck_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "AK_RailHndgrd_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "KashtanOptic",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_AK74_30Rnd_Green",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_AK74_30Rnd_Green",
-                    "Chance": 0.25,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1.0,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
                             "ClassName": "AK74",
                             "Chance": 1.0,
                             "Quantity": {
@@ -2034,7 +1904,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_AK74_30Rnd_Black",
+                                            "ClassName": "Mag_AK74_30Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2099,8 +1969,34 @@
                                             "Sets": []
                                         },
                                         {
+                                            "ClassName": "AK_RailHndgrd",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "KashtanOptic",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
                                             "ClassName": "KobraOptic",
-                                            "Chance": 0.20,
+                                            "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -2142,7 +2038,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_AK74_30Rnd_Black",
+                    "ClassName": "Mag_AK74_30Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -2155,7 +2051,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_AK74_30Rnd_Black",
+                    "ClassName": "Mag_AK74_30Rnd",
                     "Chance": 0.25,
                     "Quantity": {
                         "Min": 0.0,
@@ -2259,38 +2155,6 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "KobraOptic",
-                                            "Chance": 0.25,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
                                         }
                                     ]
                                 }
@@ -2358,7 +2222,20 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_AKM_Drum75Rnd",
+                                            "ClassName": "AK_Bayonet",
+                                            "Chance": 0.50,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "AK_FoldingBttstck",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2371,7 +2248,7 @@
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "AK74_Bttstck",
+                                            "ClassName": "AK_PlasticBttstck",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2384,85 +2261,7 @@
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "AK74_Hndgrd",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_AKM_Drum75Rnd",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_AKM_Drum75Rnd",
-                    "Chance": 0.25,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 0.25,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "AKM_Green",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_AKM_Palm30Rnd",
+                                            "ClassName": "AK_PlasticHndgrd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2475,33 +2274,7 @@
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "AK_FoldingBttstck_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "AK_PlasticBttstck_Green",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "AK_RailHndgrd_Green",
+                                            "ClassName": "AK_RailHndgrd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2522,6 +2295,38 @@
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "KobraOptic",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Chance": 1.0,
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+                                                            },
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+                                                        }
+                                                    ]
+                                                }
+                                            ],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
@@ -2934,7 +2739,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_AK74_30Rnd",
+                                            "ClassName": "Mag_AK74_45Rnd",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -2971,7 +2776,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_AK74_30Rnd",
+                    "ClassName": "Mag_AK74_45Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -2984,7 +2789,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_AK74_30Rnd",
+                    "ClassName": "Mag_AK74_45Rnd",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,

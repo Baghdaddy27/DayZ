@@ -4555,7 +4555,7 @@
                             },
                             "Health": [
                                 {
-                                    "Min": 0.40,
+                                    "Min": 0.51,
                                     "Max": 0.70,
                                     "Zone": ""
                                 }
@@ -4589,8 +4589,7 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
-
+                                        }
                                     ]
                                 }
                             ],

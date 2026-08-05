@@ -13,6 +13,7 @@
     "NeedKeyToStore": 1,
     "EntityWhitelist": [
         "ExpansionParkingMeter",
+        "TerritoryFlag",
         "ExpansionATM_3"
     ],
     "EnableGroupFeatures": 1,
