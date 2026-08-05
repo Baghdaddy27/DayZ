@@ -15,9 +15,5 @@
     "Categories": [
         "Fishing"
     ],
-    "Items": {
-        "carp": 1,
-        "mackerel": 1,
-        "sardines": 1
-    }
+    "Items": {}
 }

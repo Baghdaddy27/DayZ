@@ -219,8 +219,8 @@
         },
         {
             "ClassName": "mag_saiga_5rnd",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -408,8 +408,8 @@
         },
         {
             "ClassName": "mag_val_20rnd",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 80,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
