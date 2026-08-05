@@ -401,17 +401,15 @@
 			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
 			<item name="MilitaryBeret_CDF" chance="0.10" />
 			<item name="ZSh3PilotHelmet" chance="0.10" />
-		</attachments>
-		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
-			<item name="TacticalGoggles" chance="0.10" />
-			<item name="AviatorGlasses" chance="0.25" />
+			<item name="BallisticHelmet_Green" chance="0.10" />
 		</attachments>
 		<attachments chance="0.20" name="vestsArmy">
-			<item name="UKAssVest_Black" chance="0.20" />
-			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Black" chance="0.2" />
+			<item name="UKAssVest_Camo" chance="0.2" />
 			<item name="UKAssVest_Khaki" chance="0.2" />
 			<item name="UKAssVest_Olive" chance="0.2" />
 			<item name="SmershVest" chance="0.05" />
+			<item name="PlateCarrierVest_green" chance="0.2" />
 		</attachments>
 		<attachments chance="0.08" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.10" />
@@ -431,13 +429,14 @@
 		<attachments chance="1.00" name="HeavyHelmetArmy">
 			<item name="BallisticHelmet_Desert" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="OfficerHat" chance="1.00" />
+		<attachments chance="0.60" name="HatDesert">
+			<item name="militarycap_desert" chance="0.50" />
+			<item name="BallisticHelmet_Desert" chance="0.50" />
 		</attachments>
 
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
-				<item name="PoliceCap" chance="1.00" />
+				<item name="PoliceCap" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00" name="vestsPolice">
 				<item name="PoliceVest" chance="1.00" />

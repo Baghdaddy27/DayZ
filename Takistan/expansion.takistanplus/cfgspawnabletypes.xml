@@ -1419,13 +1419,13 @@
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetArmy"/>
+		<attachments preset="HatDesert"/>
 	</type>
 	<type name="ZmbM_usSoldier_normal_Desert">
 		<cargo preset="foodArmy"/>
 		<cargo preset="ammoArmy"/>
 		<attachments preset="HeavyArmorArmy"/>
-		<attachments preset="HeavyHelmetArmy"/>
+		<attachments preset="HatDesert"/>
 	</type>
 	<type name="ZmbF_usSoldier_Heavy_Desert">
 		<cargo preset="foodArmy" />		
