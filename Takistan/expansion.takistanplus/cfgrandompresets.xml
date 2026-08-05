@@ -425,14 +425,8 @@
 			<item name="ZSh3PilotHelmet" chance="0.10" />
 			<item name="Ssh68Helmet" chance="0.10" />
 		</attachments>
-
-		<attachments chance="0.60" name="hatsWoodland">
-			<item name="militarycap_woodland" chance="0.35" />
-
-		</attachments>
 		<attachments chance="0.60" name="hatsDesert">
 			<item name="militarycap_desert" chance="0.35" />
-
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
@@ -463,20 +457,14 @@
 		<attachments chance="0.30" name="HeavyHelmetArmy">
 			<item name="Ssh68Helmet" chance="1.0" />
 		</attachments>
-		<attachments chance="0.30" name="HeavyHelmetWoodland">
-			<item name="t56tankerhelmet_olive" chance="0.50" />
-			<item name="ballistichelmet_woodland" chance="0.50" />
-		</attachments>
 		<attachments chance="0.30" name="HeavyHelmetDesert">
 			<item name="t56tankerhelmet_tan" chance="0.50" />
 			<item name="ballistichelmet_desert" chance="0.50" />
 		</attachments>
-
 		<attachments chance="1.00" name="OfficerHatArmy">
 			<item name="OfficerHat" chance="0.50" />
 			<item name="Ssh68Helmet" chance="0.50" />
 		</attachments>
-
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
 				<item name="PoliceCap" chance="0.50" />

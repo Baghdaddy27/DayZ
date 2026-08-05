@@ -1412,17 +1412,15 @@
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 		<attachments preset="headtorches" />
-		<attachments preset="hatsArmy" />
+		<attachments preset="HeavyHelmetArmy" />
 		<attachments preset="bagsArmy" />
-		<attachments preset="vestsArmy" />
+		<attachments preset="HeavyArmorArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="foodArmy" />		
 		<attachments preset="headtorches" />
 		<attachments preset="OfficerHatArmy" />
 	</type>
-
-<!--USMC-->
 	<type name="ZmbF_usSoldier_normal_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -1439,43 +1437,10 @@
 		<attachments preset="bagsArmy" />
 		<attachments preset="HeavyArmorArmy" />
 	</type>
-	<type name="ZmbF_usSoldier_normal_Woodland">
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
-		<attachments preset="hatsWoodland" />
-		<attachments preset="bagsArmy" />
-		<attachments preset="HeavyArmorArmy" />
-	</type>
-		<type name="ZmbM_usSoldier_normal_Woodland">
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
-		<attachments preset="hatsWoodland" />
-		<attachments preset="bagsArmy" />
-		<attachments preset="HeavyArmorArmy" />
-	</type>
-	<type name="ZmbF_usSoldier_Heavy_Woodland">
-		<cargo preset="foodArmy" />		
-		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetWoodland" />
-	</type>
-	<type name="ZmbM_usSoldier_Heavy_Woodland">
-		<cargo preset="foodArmy" />		
-		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetWoodland" />
-	</type>
 	<type name="ZmbF_usSoldier_Heavy_Desert">
 		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetDesert" />
-	</type>
-		<type name="ZmbM_usSoldier_Heavy_Desert">
-		<cargo preset="foodArmy" />		
-		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetDesert" />
-	</type>
-	
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
