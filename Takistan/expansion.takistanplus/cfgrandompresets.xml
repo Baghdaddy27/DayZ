@@ -417,21 +417,21 @@
 			<item name="OKZKCap_Beige" chance="0.10" />
 			<item name="OKZKCap_Green" chance="0.10" />
 			<item name="TankerHelmet" chance="0.10" />
-			<item name="booniehat_dubok" chance="0.10" />
 			<item name="MilitaryBeret_Red" chance="0.10" />
 			<item name="MilitaryBeret_UN" chance="0.10" />
 			<item name="MilitaryBeret_NZ" chance="0.10" />
 			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
 			<item name="MilitaryBeret_CDF" chance="0.10" />
 			<item name="ZSh3PilotHelmet" chance="0.10" />
+			<item name="Ssh68Helmet" chance="0.10" />
 		</attachments>
 
 		<attachments chance="0.60" name="hatsWoodland">
-			<item name="militarycap_woodland" chance="0.25" />
+			<item name="militarycap_woodland" chance="0.35" />
 
 		</attachments>
 		<attachments chance="0.60" name="hatsDesert">
-			<item name="militarycap_desert" chance="0.25" />
+			<item name="militarycap_desert" chance="0.35" />
 
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
@@ -459,38 +459,33 @@
 		</attachments>
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PlateCarrierVest" chance="1.00" />
-			<item name="PlateCarrierVest_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30" name="HeavyHelmetArmy">
-			<item name="Ssh68Helmet" chance="1.00" />
-			<item name="t56tankerhelmet_olive" chance="0.10" />
-			<item name="t56tankerhelmet_tan" chance="0.10" />
+			<item name="Ssh68Helmet" chance="1.0" />
 		</attachments>
-
 		<attachments chance="0.30" name="HeavyHelmetWoodland">
-			<item name="t56tankerhelmet_olive" chance="0.10" />
-			<item name="t56tankerhelmet_tan" chance="0.10" />
-			<item name="ballistichelmet_woodland" chance="0.10" />
+			<item name="t56tankerhelmet_olive" chance="0.50" />
+			<item name="ballistichelmet_woodland" chance="0.50" />
 		</attachments>
 		<attachments chance="0.30" name="HeavyHelmetDesert">
-			<item name="t56tankerhelmet_olive" chance="0.10" />
-			<item name="t56tankerhelmet_tan" chance="0.10" />
-			<item name="ballistichelmet_desert" chance="0.10" />
-
+			<item name="t56tankerhelmet_tan" chance="0.50" />
+			<item name="ballistichelmet_desert" chance="0.50" />
 		</attachments>
 
 		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="OfficerHat" chance="1.00" />
+			<item name="OfficerHat" chance="0.50" />
+			<item name="Ssh68Helmet" chance="0.50" />
 		</attachments>
 
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
-				<item name="PoliceCap" chance="1.00" />
-				<item name="ballistichelmet_black" chance="0.10" />
+				<item name="PoliceCap" chance="0.50" />
+				<item name="ballistichelmet_black" chance="0.50" />
 		</attachments>
 		<attachments chance="0.30" name="vestsPolice">
-				<item name="PoliceVest" chance="1.00" />
-				<item name="highcapacityvest_black" chance="1.00" />
+				<item name="PoliceVest" chance="0.30" />
+				<item name="highcapacityvest_black" chance="0.30" />
+				<item name="PlateCarrierVest_Black" chance="0.30" />
 		</attachments>
 		
 		<!--PRISONER ATTACHMENTS-->

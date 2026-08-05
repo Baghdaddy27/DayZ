@@ -21398,7 +21398,7 @@
         <category name="clothes"/>
         <usage name="Military"/>
     </type>
-    <type name="WinterMilitaryCoat_Greay">
+    <type name="WinterMilitaryCoat_Grey">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>

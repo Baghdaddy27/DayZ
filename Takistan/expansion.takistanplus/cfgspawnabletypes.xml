@@ -1416,7 +1416,13 @@
 		<attachments preset="bagsArmy" />
 		<attachments preset="vestsArmy" />
 	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<cargo preset="foodArmy" />		
+		<attachments preset="headtorches" />
+		<attachments preset="OfficerHatArmy" />
+	</type>
 
+<!--USMC-->
 	<type name="ZmbF_usSoldier_normal_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -1468,12 +1474,6 @@
 		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetDesert" />
-	</type>
-
-	<type name="ZmbM_usSoldier_Officer_Desert">
-		<cargo preset="foodArmy" />		
-		<attachments preset="headtorches" />
-		<attachments preset="OfficerHatArmy" />
 	</type>
 	
 	<!--City-->
