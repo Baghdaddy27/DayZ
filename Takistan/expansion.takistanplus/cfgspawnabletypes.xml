@@ -1411,9 +1411,7 @@
 	<type name="ZmbM_SoldierNormal">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
 		<attachments preset="HeavyHelmetArmy" />
-		<attachments preset="bagsArmy" />
 		<attachments preset="HeavyArmorArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
