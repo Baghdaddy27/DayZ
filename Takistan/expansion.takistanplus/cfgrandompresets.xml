@@ -273,18 +273,11 @@
 		</attachments>
 		<!--VILLAGE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsVillage">
-			<item name="WinterCoif_Black" chance="0.058" />
-			<item name="WinterCoif_Blue" chance="0.058" />
-			<item name="WinterCoif_Green" chance="0.058" />
-			<item name="WinterCoif_Skull" chance="0.058" />
 			<item name="RadarCap_Black" chance="0.058" />
 			<item name="RadarCap_Blue" chance="0.058" />
 			<item name="RadarCap_Brown" chance="0.058" />
 			<item name="RadarCap_Green" chance="0.058" />
 			<item name="RadarCap_Red" chance="0.058" />
-			<item name="Ushanka_Black" chance="0.058" />
-			<item name="Ushanka_Blue" chance="0.058" />
-			<item name="Ushanka_Green" chance="0.058" />
 			<item name="ZmijovkaCap_Black" chance="0.058" />
 			<item name="ZmijovkaCap_Blue" chance="0.058" />
 			<item name="ZmijovkaCap_Brown" chance="0.058" />
@@ -338,15 +331,6 @@
 				<item name="NailedBaseballBat" chance="1.0" />
 				<item name="BaseballBat" chance="1.0" />
 				<item name="Machete" chance="1.0" />
-		</attachments>
-		<attachments chance="0.00" name="glassesCity"> <!--was chance="0.20"; removed coz of attachment slot is missing -->
-			<item name="ThickFramesGlasses" chance="0.10" />
-			<item name="ThinFramesGlasses" chance="0.10" />
-			<item name="DesignerGlasses" chance="0.10" />
-			<item name="SportGlasses_Black" chance="0.10" />
-			<item name="SportGlasses_Blue" chance="0.10" />
-			<item name="SportGlasses_Green" chance="0.10" />
-			<item name="SportGlasses_Orange" chance="0.10" />
 		</attachments>
 		<attachments chance="0.1" name="bagsCity">
 			<item name="CanvasBag_Olive" chance="0.30" />
@@ -440,6 +424,7 @@
 			<item name="AssaultBag_Black" chance="0.10" />
 			<item name="TortillaBag" chance="0.10" />
 		</attachments>
+	
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
