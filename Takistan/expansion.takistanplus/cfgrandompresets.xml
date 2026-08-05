@@ -160,10 +160,6 @@
 				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
 				<item name="Ammo_762x54" chance="0.2" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
-				<item name="Ammo_556x45" chance="0.25" />
-				<item name="AmmoBox_556x45_20Rnd" chance="0.09" />
-				<item name="Ammo_545x39" chance="0.25" />
-				<item name="AmmoBox_545x39_20Rnd" chance="0.07" />
 		</cargo>
 		<cargo chance="0.1" name="mixVillage">
 				<item name="DuctTape" chance="0.07" />
@@ -234,10 +230,6 @@
 				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
 				<item name="Ammo_762x54" chance="0.2" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
-				<item name="Ammo_556x45" chance="0.25" />
-				<item name="AmmoBox_556x45_20Rnd" chance="0.09" />
-				<item name="Ammo_545x39" chance="0.25" />
-				<item name="AmmoBox_545x39_20Rnd" chance="0.07" />
 		</cargo>
 		<cargo chance="0.04" name="grenades">
 				<item name="RDG2SmokeGrenade_White" chance="0.25" />
@@ -281,14 +273,23 @@
 		</attachments>
 		<!--VILLAGE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsVillage">
-			<item name="MVS_Turban_1" chance="0.07" />
-			<item name="MVS_Turban_2" chance="0.07" />
-			<item name="MVS_Turban_3" chance="0.07" />
-			<item name="MVS_Turban_4" chance="0.07" />
-			<item name="MVS_Pakol_brown_Takistan" chance="0.07" />
-			<item name="pakol_hat" chance="0.07" />
-			<item name="MVS_Pakol_grey" chance="0.07" />
-			<item name="MVS_Pakol_black" chance="0.07" />
+			<item name="WinterCoif_Black" chance="0.058" />
+			<item name="WinterCoif_Blue" chance="0.058" />
+			<item name="WinterCoif_Green" chance="0.058" />
+			<item name="WinterCoif_Skull" chance="0.058" />
+			<item name="RadarCap_Black" chance="0.058" />
+			<item name="RadarCap_Blue" chance="0.058" />
+			<item name="RadarCap_Brown" chance="0.058" />
+			<item name="RadarCap_Green" chance="0.058" />
+			<item name="RadarCap_Red" chance="0.058" />
+			<item name="Ushanka_Black" chance="0.058" />
+			<item name="Ushanka_Blue" chance="0.058" />
+			<item name="Ushanka_Green" chance="0.058" />
+			<item name="ZmijovkaCap_Black" chance="0.058" />
+			<item name="ZmijovkaCap_Blue" chance="0.058" />
+			<item name="ZmijovkaCap_Brown" chance="0.058" />
+			<item name="ZmijovkaCap_Green" chance="0.058" />
+			<item name="ZmijovkaCap_Red" chance="0.058" />
 		</attachments>
 		<attachments chance="0.20" name="handsVillage">
 				<item name="WoodAxe" chance="0.1" />
@@ -332,14 +333,6 @@
 			<item name="ZmijovkaCap_Black" chance="0.05" />
 			<item name="ZmijovkaCap_Blue" chance="0.05" />
 			<item name="ZmijovkaCap_Brown" chance="0.05" />
-			<item name="MVS_Turban_1" chance="0.07" />
-			<item name="MVS_Turban_2" chance="0.07" />
-			<item name="MVS_Turban_3" chance="0.07" />
-			<item name="MVS_Turban_4" chance="0.07" />
-			<item name="MVS_Pakol_brown_Takistan" chance="0.07" />
-			<item name="pakol_hat" chance="0.07" />
-			<item name="MVS_Pakol_grey" chance="0.07" />
-			<item name="MVS_Pakol_black" chance="0.07" />
 		</attachments>
 		<attachments chance="0.10" name="handsCity">
 				<item name="NailedBaseballBat" chance="1.0" />
@@ -417,28 +410,24 @@
 			<item name="OKZKCap_Beige" chance="0.10" />
 			<item name="OKZKCap_Green" chance="0.10" />
 			<item name="TankerHelmet" chance="0.10" />
+			<item name="PilotkaCap" chance="0.10" />
 			<item name="MilitaryBeret_Red" chance="0.10" />
 			<item name="MilitaryBeret_UN" chance="0.10" />
 			<item name="MilitaryBeret_NZ" chance="0.10" />
 			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
 			<item name="MilitaryBeret_CDF" chance="0.10" />
 			<item name="ZSh3PilotHelmet" chance="0.10" />
-			<item name="Ssh68Helmet" chance="0.10" />
-		</attachments>
-		<attachments chance="0.60" name="hatsDesert">
-			<item name="militarycap_desert" chance="1.0" />
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
 			<item name="AviatorGlasses" chance="0.25" />
 		</attachments>
 		<attachments chance="0.20" name="vestsArmy">
-			<item name="PlateCarrierVest_Green" chance="0.20" />
+			<item name="UKAssVest_Black" chance="0.20" />
 			<item name="UKAssVest_Camo" chance="0.20" />
-			<item name="UKAssVest_Khaki" chance="0.20" />
-			<item name="UKAssVest_Olive" chance="0.20" />
-			<item name="highcapacityvest_olive" chance="0.20" />
-			<item name="SmershVest" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
 		</attachments>
 		<attachments chance="0.08" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.10" />
@@ -454,26 +443,19 @@
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30" name="HeavyHelmetArmy">
-			<item name="Ssh68Helmet" chance="1.0" />
-		</attachments>
-		<attachments chance="0.30" name="HeavyHelmetDesert">
-			<item name="t56tankerhelmet_tan" chance="0.50" />
-			<item name="ballistichelmet_desert" chance="0.50" />
+		<attachments chance="1.00" name="HeavyHelmetArmy">
+			<item name="BallisticHelmet_Desert" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="OfficerHat" chance="0.50" />
-			<item name="Ssh68Helmet" chance="0.50" />
+			<item name="OfficerHat" chance="1.00" />
 		</attachments>
+
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
-				<item name="PoliceCap" chance="0.50" />
-				<item name="ballistichelmet_black" chance="0.50" />
+				<item name="PoliceCap" chance="1.00" />
 		</attachments>
-		<attachments chance="0.30" name="vestsPolice">
-				<item name="PoliceVest" chance="0.30" />
-				<item name="highcapacityvest_black" chance="0.30" />
-				<item name="PlateCarrierVest_Black" chance="0.30" />
+		<attachments chance="1.00" name="vestsPolice">
+				<item name="PoliceVest" chance="1.00" />
 		</attachments>
 		
 		<!--PRISONER ATTACHMENTS-->

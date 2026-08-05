@@ -1411,34 +1411,27 @@
 	<type name="ZmbM_SoldierNormal">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
-		<attachments preset="HeavyHelmetArmy" />
-		<attachments preset="HeavyArmorArmy" />
-	</type>
-	<type name="ZmbM_usSoldier_Officer_Desert">
-		<cargo preset="foodArmy" />		
 		<attachments preset="headtorches" />
-		<attachments preset="OfficerHatArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbF_usSoldier_normal_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
-		<attachments preset="hatsDesert" />
-		<attachments preset="bagsArmy" />
 		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy"/>
 	</type>
 	<type name="ZmbM_usSoldier_normal_Desert">
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
-		<attachments preset="hatsDesert" />
-		<attachments preset="bagsArmy" />
-		<attachments preset="HeavyArmorArmy" />
+		<cargo preset="foodArmy"/>
+		<cargo preset="ammoArmy"/>
+		<attachments preset="HeavyArmorArmy"/>
+		<attachments preset="HeavyHelmetArmy"/>
 	</type>
 	<type name="ZmbF_usSoldier_Heavy_Desert">
 		<cargo preset="foodArmy" />		
-		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetDesert" />
+		<attachments preset="HeavyArmorArmy"/>
+		<attachments preset="HeavyHelmetArmy"/>
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />
