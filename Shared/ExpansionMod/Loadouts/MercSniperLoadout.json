@@ -1,9 +1,9 @@
 {
     "ClassName": "",
-    "Chance": 1.0,
+    "Chance": 1,
     "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
+        "Min": 0,
+        "Max": 0
     },
     "Health": [],
     "InventoryAttachments": [
@@ -12,15 +12,15 @@
             "Items": [
                 {
                     "ClassName": "GhillieSuit_Mossy",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -36,15 +36,15 @@
             "Items": [
                 {
                     "ClassName": "NVGHeadstrap",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -54,20 +54,20 @@
                             "Items": [
                                 {
                                     "ClassName": "NVGoggles",
-                                    "Chance": 1.0,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [
                                         {
                                             "ClassName": "Battery9V",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -93,15 +93,15 @@
             "Items": [
                 {
                     "ClassName": "Armband_Red",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -117,15 +117,15 @@
             "Items": [
                 {
                     "ClassName": "Balaclava3Holes_Black",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -136,15 +136,15 @@
                 },
                 {
                     "ClassName": "Balaclava3Holes_Beige",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -155,15 +155,15 @@
                 },
                 {
                     "ClassName": "Balaclava3Holes_green",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -179,15 +179,15 @@
             "Items": [
                 {
                     "ClassName": "MilitaryBelt",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.7,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -204,10 +204,10 @@
     "Sets": [
         {
             "ClassName": "CLOTHING",
-            "Chance": 1.0,
+            "Chance": 1,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -216,15 +216,15 @@
                     "Items": [
                         {
                             "ClassName": "GorkaEJacket_Autumn",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -232,10 +232,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "BandageDressing",
-                                    "Chance": 1.0,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -254,15 +254,15 @@
                     "Items": [
                         {
                             "ClassName": "GorkaPants_Autumn",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -271,8 +271,8 @@
                                     "ClassName": "ExpansionGoldNugget",
                                     "Chance": 0.15,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -284,8 +284,8 @@
                                     "ClassName": "ExpansionSilverNugget",
                                     "Chance": 0.25,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -305,15 +305,15 @@
                     "Items": [
                         {
                             "ClassName": "MilitaryBoots_Brown",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -329,15 +329,15 @@
                     "Items": [
                         {
                             "ClassName": "GhillieHood_Mossy",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -353,15 +353,15 @@
                     "Items": [
                         {
                             "ClassName": "OMNOGloves_Gray",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -379,10 +379,10 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.33,
+            "Chance": 0.5,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -391,10 +391,10 @@
                     "Items": [
                         {
                             "ClassName": "SVD",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -403,10 +403,10 @@
                                     "Items": [
                                         {
                                             "ClassName": "Mag_SVD_10Rnd",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -416,10 +416,10 @@
                                         },
                                         {
                                             "ClassName": "PSO11Optic",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [
@@ -428,10 +428,10 @@
                                                     "Items": [
                                                         {
                                                             "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
+                                                            "Chance": 1,
                                                             "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
+                                                                "Min": 0,
+                                                                "Max": 0
                                                             },
                                                             "Health": [],
                                                             "InventoryAttachments": [],
@@ -452,10 +452,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "GhillieBushrag_Woodland",
-                                    "Chance": 1.0,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -473,10 +473,10 @@
             "InventoryCargo": [
                 {
                     "ClassName": "Mag_SVD_10Rnd",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -488,8 +488,8 @@
                     "ClassName": "Mag_SVD_10Rnd",
                     "Chance": 0.25,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -503,10 +503,10 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.33,
+            "Chance": 1,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -514,23 +514,29 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "SVD_Wooden",
-                            "Chance": 1.0,
+                            "ClassName": "VSS",
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.7,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_SVD_10Rnd",
-                                            "Chance": 1.0,
+                                            "ClassName": "Mag_VAL_20Rnd",
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -540,22 +546,23 @@
                                         },
                                         {
                                             "ClassName": "PSO11Optic",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
-                                            "InventoryAttachments": [
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [
                                                 {
                                                     "SlotName": "",
                                                     "Items": [
                                                         {
                                                             "ClassName": "Battery9V",
-                                                            "Chance": 1.0,
+                                                            "Chance": 1,
                                                             "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
+                                                                "Min": 0,
+                                                                "Max": 0
                                                             },
                                                             "Health": [],
                                                             "InventoryAttachments": [],
@@ -566,217 +573,6 @@
                                                     ]
                                                 }
                                             ],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "GhillieBushrag_Woodland",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_SVD_10Rnd",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_SVD_10Rnd",
-                    "Chance": 0.25,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 0.33,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "SV98",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_SV98_10Rnd",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "ACOGOptic",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "GhillieBushrag_Woodland",
-                                    "Chance": 1.0,
-                                    "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_SV98_10Rnd",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_SV98_10Rnd",
-                    "Chance": 0.25,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1.0,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "CZ527",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_CZ527_5rnd",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "HuntingOptic",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
                                         }
@@ -792,11 +588,11 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_CZ527_5rnd",
-                    "Chance": 1.0,
+                    "ClassName": "Mag_VAL_20Rnd",
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -805,11 +601,11 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_CZ527_5rnd",
-                    "Chance": 0.15000000596046449,
+                    "ClassName": "Mag_VAL_20Rnd",
+                    "Chance": 0.25,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -823,10 +619,134 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 0.33,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "SV98",
+                            "Chance": 0.33,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_SV98_10Rnd",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "mk4optic_green",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V",
+                                                            "Chance": 1,
+                                                            "Quantity": {
+                                                                "Min": 0,
+                                                                "Max": 0
+                                                            },
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "GhillieBushrag_Woodland",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_SV98_10Rnd",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_SV98_10Rnd",
+                    "Chance": 0.25,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -835,10 +755,10 @@
                     "Items": [
                         {
                             "ClassName": "SSG82",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -847,10 +767,10 @@
                                     "Items": [
                                         {
                                             "ClassName": "Mag_SSG82_5Rnd",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -860,10 +780,10 @@
                                         },
                                         {
                                             "ClassName": "GhillieBushrag_Winter",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -877,10 +797,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "GhillieBushrag_Woodland",
-                                    "Chance": 1.0,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -898,10 +818,10 @@
             "InventoryCargo": [
                 {
                     "ClassName": "Mag_SSG82_5Rnd",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -913,8 +833,8 @@
                     "ClassName": "Mag_SSG82_5Rnd",
                     "Chance": 0.25,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],

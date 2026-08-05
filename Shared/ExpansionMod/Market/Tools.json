@@ -150,17 +150,6 @@
             "Variants": []
         },
         {
-            "ClassName": "sickle",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "crowbar",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 5,
@@ -240,17 +229,6 @@
             "Variants": []
         },
         {
-            "ClassName": "pitchfork",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "blowtorch",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
@@ -277,17 +255,6 @@
         {
             "ClassName": "expansionboltcutters",
             "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "iceaxe",
-            "MaxPriceThreshold": 400,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,

@@ -1,26 +1,26 @@
 {
     "ClassName": "",
-    "Chance": 1.0,
+    "Chance": 1,
     "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
+        "Min": 0,
+        "Max": 0
     },
     "Health": [],
-    "InventoryAttachments": [   
+    "InventoryAttachments": [
         {
             "SlotName": "Armband",
             "Items": [
                 {
                     "ClassName": "Armband_Blue",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
-                            "Min": 0.40,
-                            "Max": 0.70,
+                            "Min": 0.4,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -36,15 +36,15 @@
             "Items": [
                 {
                     "ClassName": "PlateCarrierVest_Green",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.69,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -56,43 +56,43 @@
             ]
         },
         {
-                    "SlotName": "Mask",
-                    "Items": [
+            "SlotName": "Mask",
+            "Items": [
+                {
+                    "ClassName": "Balaclava_Beige",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
                         {
-                            "ClassName": "Balaclava_Beige",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.50,
-                                    "Max": 0.70,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
+                            "Min": 0.5,
+                            "Max": 0.7,
+                            "Zone": ""
                         }
-                    ]
-        },           
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
         {
             "SlotName": "Face",
             "Items": [
                 {
                     "ClassName": "Headtorch_Black",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.69,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -102,10 +102,10 @@
                             "Items": [
                                 {
                                     "ClassName": "Battery9V",
-                                    "Chance": 1.0,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.0,
-                                        "Max": 0.0
+                                        "Min": 0,
+                                        "Max": 0
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -121,21 +121,21 @@
                     "Sets": []
                 }
             ]
-        },       
+        },
         {
             "SlotName": "Hips",
             "Items": [
                 {
                     "ClassName": "MilitaryBelt",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.69,
-                            "Max": 1.0,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -152,10 +152,10 @@
     "Sets": [
         {
             "ClassName": "CLOTHING",
-            "Chance": 1.0,
+            "Chance": 1,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -164,15 +164,15 @@
                     "Items": [
                         {
                             "ClassName": "BDUJacket",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -188,15 +188,15 @@
                     "Items": [
                         {
                             "ClassName": "BDUPants",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -212,15 +212,15 @@
                     "Items": [
                         {
                             "ClassName": "JungleBoots_Black",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -236,15 +236,15 @@
                     "Items": [
                         {
                             "ClassName": "MilitaryCap_BDU",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -254,21 +254,21 @@
                             "Sets": []
                         }
                     ]
-                },  
+                },
                 {
                     "SlotName": "Gloves",
                     "Items": [
                         {
                             "ClassName": "TacticalGloves_Black",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -286,10 +286,10 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 1,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
             "Health": [],
             "InventoryAttachments": [
@@ -298,15 +298,15 @@
                     "Items": [
                         {
                             "ClassName": "M16A2",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0,
+                                "Max": 0
                             },
                             "Health": [
                                 {
                                     "Min": 0.7,
-                                    "Max": 1.0,
+                                    "Max": 1,
                                     "Zone": ""
                                 }
                             ],
@@ -316,10 +316,10 @@
                                     "Items": [
                                         {
                                             "ClassName": "Mag_STANAG_30Rnd",
-                                            "Chance": 1.0,
+                                            "Chance": 1,
                                             "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
+                                                "Min": 0,
+                                                "Max": 0
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
@@ -340,10 +340,10 @@
             "InventoryCargo": [
                 {
                     "ClassName": "Mag_STANAG_30Rnd",
-                    "Chance": 1.0,
+                    "Chance": 1,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [],
                     "InventoryAttachments": [],

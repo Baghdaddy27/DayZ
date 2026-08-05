@@ -7,17 +7,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "brassknuckles_dull",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "brassknuckles_shiny",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
@@ -26,7 +15,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "brassknuckles_dull"
+            ]
         },
         {
             "ClassName": "stunbaton",
@@ -48,18 +39,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "broom_birch",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "broom_birch"
+            ]
         },
         {
             "ClassName": "pipe",
@@ -92,12 +74,15 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "nailedbaseballbat",
+                "barbedbaseballbat"
+            ]
         },
         {
-            "ClassName": "nailedbaseballbat",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
+            "ClassName": "cleaver",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -106,9 +91,53 @@
             "Variants": []
         },
         {
-            "ClassName": "barbedbaseballbat",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
+            "ClassName": "kukriknife",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "machete",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "crudemachete",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "orientalmachete",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sword",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -120,6 +149,39 @@
             "ClassName": "mace",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pitchfork",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "iceaxe",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "sickle",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
