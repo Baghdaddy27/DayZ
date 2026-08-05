@@ -426,7 +426,7 @@
 			<item name="Ssh68Helmet" chance="0.10" />
 		</attachments>
 		<attachments chance="0.60" name="hatsDesert">
-			<item name="militarycap_desert" chance="0.35" />
+			<item name="militarycap_desert" chance="1.0" />
 		</attachments>
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
 			<item name="TacticalGoggles" chance="0.10" />
