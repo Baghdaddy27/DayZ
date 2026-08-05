@@ -34,15 +34,15 @@
     "PlacePlayerOnGroundOnReconnectInVehicle": 2,
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
-    "ExplodingVehicleDropsAttachments": 1,
+    "ExplodingVehicleDropsAttachments": 0,
     "DesyncInvulnerabilityTimeoutSeconds": 3.0,
     "PilotlessAutoHoverEngineStopDelaySeconds": 300.0,
     "RoughLandingVerticalSpeedThreshold": 3.700000047683716,
     "DamagedEngineStartupChancePercent": 100.0,
     "FuelConsumptionPercent": 100.0,
-    "EnableVehicleCovers": 1,
+    "EnableVehicleCovers": 0,
     "AllowCoveringDEVehicles": 0,
-    "CanCoverWithCargo": 1,
+    "CanCoverWithCargo": 0,
     "UseVirtualStorageForCoverCargo": 0,
     "VehicleAutoCoverTimeSeconds": 0.0,
     "VehicleAutoCoverRequireCamonet": 0,
@@ -52,6 +52,30 @@
     "CFToolsCarCoverIconName": "car",
     "ShowVehicleOwners": 0,
     "VehiclesConfig": [
+        {
+            "ClassName": "CivilianSedan",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Hatchback_02",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "OffroadHatchback",
+            "LockComplexity": 1.0
+        },
+        {
+            "ClassName": "Offroad_02",
+            "LockComplexity": 2.0
+        },
+        {
+            "ClassName": "Sedan_02",
+            "LockComplexity": 1.25
+        },
+        {
+            "ClassName": "Truck_01_Covered",
+            "LockComplexity": 1.5
+        },
         {
             "ClassName": "ExpansionUAZCargoRoofless",
             "LockComplexity": 1.0
