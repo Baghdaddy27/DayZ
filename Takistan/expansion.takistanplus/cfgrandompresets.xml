@@ -250,17 +250,16 @@
 		</cargo>
 		<!--FARM ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsFarm">
-			<item name="RadarCap_Black" chance="0.1" />
-			<item name="RadarCap_Blue" chance="0.1" />
-			<item name="RadarCap_Brown" chance="0.1" />
-			<item name="RadarCap_Green" chance="0.1" />
-			<item name="RadarCap_Red" chance="0.1" />
-			<item name="ZmijovkaCap_Black" chance="0.1" />
-			<item name="ZmijovkaCap_Blue" chance="0.1" />
-			<item name="ZmijovkaCap_Brown" chance="0.1" />
-			<item name="ZmijovkaCap_Green" chance="0.1" />
-			<item name="ZmijovkaCap_Red" chance="0.1" />
+			<item name="pakol_hat" chance="0.1" />
+			<item name="MVS_Pakol_brown_Takistan" chance="0.1" />
+			<item name="MVS_Pakol_grey" chance="0.1" />
+			<item name="MVS_Pakol_black" chance="0.1" />
+			<item name="MVS_Turban_1" chance="0.1" />
+			<item name="MVS_Turban_2" chance="0.1" />
+			<item name="MVS_Turban_3" chance="0.1" />
+			<item name="MVS_Turban_4" chance="0.1" />
 		</attachments>
+
 		<attachments chance="0.1" name="bagsHunter">
 			<item name="ArmyPouch_Beige" chance="0.35" />
 			<item name="ArmyPouch_Green" chance="0.35" />
@@ -273,16 +272,15 @@
 		</attachments>
 		<!--VILLAGE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsVillage">
-			<item name="RadarCap_Black" chance="0.058" />
-			<item name="RadarCap_Blue" chance="0.058" />
-			<item name="RadarCap_Brown" chance="0.058" />
-			<item name="RadarCap_Green" chance="0.058" />
-			<item name="RadarCap_Red" chance="0.058" />
-			<item name="ZmijovkaCap_Black" chance="0.058" />
-			<item name="ZmijovkaCap_Blue" chance="0.058" />
-			<item name="ZmijovkaCap_Brown" chance="0.058" />
-			<item name="ZmijovkaCap_Green" chance="0.058" />
-			<item name="ZmijovkaCap_Red" chance="0.058" />
+			<item name="pakol_hat" chance="0.1" />
+			<item name="MVS_Pakol_brown_Takistan" chance="0.1" />
+			<item name="MVS_Pakol_grey" chance="0.1" />
+			<item name="MVS_Pakol_black" chance="0.1" />
+			<item name="MVS_Turban_1" chance="0.1" />
+			<item name="MVS_Turban_2" chance="0.1" />
+			<item name="MVS_Turban_3" chance="0.1" />
+			<item name="MVS_Turban_4" chance="0.1" />
+
 		</attachments>
 		<attachments chance="0.20" name="handsVillage">
 				<item name="WoodAxe" chance="0.1" />
@@ -298,17 +296,9 @@
 				<item name="TaloonBag_Orange" chance="0.10" />
 				<item name="TaloonBag_Violet" chance="0.10" />
 		</attachments>
-		<attachments chance="0.00" name="glassesVillage"> <!--was chance="0.30"; removed coz of attachment slot is missing -->
-			<item name="ThickFramesGlasses" chance="0.10" />
-			<item name="ThinFramesGlasses" chance="0.20" />
-			<item name="DesignerGlasses" chance="0.20" />
-		</attachments>
 
 	<!--CITY ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsCity">
-			<item name="PetushokHat_Black" chance="0.05" />
-			<item name="PetushokHat_Green" chance="0.05" />
-			<item name="PetushokHat_Yellow" chance="0.05" />
 			<item name="BoonieHat_Blue" chance="0.05" />
 			<item name="BoonieHat_Black" chance="0.05" />
 			<item name="BoonieHat_Red" chance="0.05" />
@@ -316,16 +306,14 @@
 			<item name="BaseballCap_Beige" chance="0.05" />
 			<item name="BaseballCap_Black" chance="0.05" />
 			<item name="BaseballCap_Camo" chance="0.05" />
-			<item name="FlatCap_Black" chance="0.05" />
-			<item name="FlatCap_Blue" chance="0.05" />
-			<item name="FlatCap_Red" chance="0.05" />
-			<item name="FlatCap_GreyCheck" chance="0.05" />
-			<item name="RadarCap_Black" chance="0.05" />
-			<item name="RadarCap_Blue" chance="0.05" />
-			<item name="RadarCap_Brown" chance="0.05" />
-			<item name="ZmijovkaCap_Black" chance="0.05" />
-			<item name="ZmijovkaCap_Blue" chance="0.05" />
-			<item name="ZmijovkaCap_Brown" chance="0.05" />
+			<item name="pakol_hat" chance="0.1" />
+			<item name="MVS_Pakol_brown_Takistan" chance="0.1" />
+			<item name="MVS_Pakol_grey" chance="0.1" />
+			<item name="MVS_Pakol_black" chance="0.1" />
+			<item name="MVS_Turban_1" chance="0.1" />
+			<item name="MVS_Turban_2" chance="0.1" />
+			<item name="MVS_Turban_3" chance="0.1" />
+			<item name="MVS_Turban_4" chance="0.1" />
 		</attachments>
 		<attachments chance="0.10" name="handsCity">
 				<item name="NailedBaseballBat" chance="1.0" />
@@ -360,11 +348,6 @@
 			<item name="RadarCap_Brown" chance="0.058" />
 			<item name="RadarCap_Green" chance="0.058" />
 			<item name="RadarCap_Red" chance="0.058" />
-			<item name="ZmijovkaCap_Black" chance="0.058" />
-			<item name="ZmijovkaCap_Blue" chance="0.058" />
-			<item name="ZmijovkaCap_Brown" chance="0.058" />
-			<item name="ZmijovkaCap_Green" chance="0.058" />
-			<item name="ZmijovkaCap_Red" chance="0.058" />
 		</attachments>
 		<attachments chance="0.15" name="handsIndustrial">
 				<item name="Pipe" chance="0.15" />
@@ -401,7 +384,6 @@
 			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
 			<item name="MilitaryBeret_CDF" chance="0.10" />
 			<item name="ZSh3PilotHelmet" chance="0.10" />
-			<item name="BallisticHelmet_Green" chance="0.10" />
 		</attachments>
 		<attachments chance="0.20" name="vestsArmy">
 			<item name="UKAssVest_Black" chance="0.2" />
@@ -409,7 +391,6 @@
 			<item name="UKAssVest_Khaki" chance="0.2" />
 			<item name="UKAssVest_Olive" chance="0.2" />
 			<item name="SmershVest" chance="0.05" />
-			<item name="PlateCarrierVest_green" chance="0.2" />
 		</attachments>
 		<attachments chance="0.08" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.10" />
@@ -426,12 +407,14 @@
 		<attachments chance="1.00" name="HeavyArmorArmy">
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00" name="HeavyHelmet2">
+			<item name="ssh68helmet" chance="1.00" />
+		</attachments>
 		<attachments chance="1.00" name="HeavyHelmetArmy">
 			<item name="BallisticHelmet_Desert" chance="1.00" />
 		</attachments>
-		<attachments chance="0.60" name="HatDesert">
-			<item name="militarycap_desert" chance="0.50" />
-			<item name="BallisticHelmet_Desert" chance="0.50" />
+		<attachments chance="0.20" name="HatDesert">
+			<item name="militarycap_desert" chance="1.0" />
 		</attachments>
 
 		<!--POLICE ATTACHMENTS-->

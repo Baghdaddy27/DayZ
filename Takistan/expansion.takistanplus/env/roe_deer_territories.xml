@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="1578.45" z="11021.09" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="2732.46" z="10298.36" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="1723.13" z="8756.84" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="3895.13" z="7843.47" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="2164.49" z="6457.65" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="8882.23" z="11869.42" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="11408.45" z="11271.52" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="9264.22" z="8541.94" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="11291.17" z="8245.31" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="7028.39" z="10531.71" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="727.91" z="5932.02" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="2048.43" z="5406.78" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="740.02" z="3878.55" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="2161.68" z="2169.42" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="4037.88" z="1772.71" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="7442.35" z="4777.52" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="9410.33" z="4101.62" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="10978.08" z="3896.13" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="8973.85" z="1562.7" y="0.0" />
+        <zone name="RoeDeer" smin="0" smax="0" dmin="1" dmax="2" r="60" x="11415.24" z="1835.06" y="0.0" />
+    </territory>
+</territory_type>

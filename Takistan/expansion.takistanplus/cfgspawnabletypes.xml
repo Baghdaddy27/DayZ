@@ -727,14 +727,6 @@
 	</type>
 	<type name="USMCPants_Desert">
 		<cargo preset="mixArmy" />
-		<cargo chance="1.0">
-			<item name="MorsecodeLeaflet_blood" chance="0.33" />
-			<item name="MorsecodeLeaflet_fire" chance="0.33" />
-			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
-		</cargo>
-		<cargo chance="0.2">
-			<item name="Mag_SCARH_20Rnd" chance="1.0" />
-		</cargo>
 	</type>
 	<type name="USMCPants_Woodland">
 		<cargo preset="mixArmy" />
@@ -1247,14 +1239,6 @@
 	<type name="USMCJacket_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
-		<cargo chance="1.0">
-			<item name="MorsecodeLeaflet_blood" chance="0.33" />
-			<item name="MorsecodeLeaflet_fire" chance="0.33" />
-			<item name="MorsecodeLeaflet_coffee" chance="0.33" />
-		</cargo>
-		<cargo chance="0.2">
-			<item name="Mag_SCARH_20Rnd" chance="1.0" />
-		</cargo>
 	</type>
 	<type name="USMCJacket_Woodland">
 		<cargo preset="foodArmy" />
@@ -1408,27 +1392,20 @@
 		<attachments preset="vestsArmy" />
 	</type>
 	<type name="ZmbM_SoldierNormal">
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<attachments preset="headtorches" />
-		<attachments preset="hatsArmy" />
-		<attachments preset="bagsArmy" />
-		<attachments preset="vestsArmy" />
+		<attachments preset="HeavyArmorArmy"/>
+		<attachments preset="HeavyHelmet2"/>
 	</type>
 	<type name="ZmbF_usSoldier_normal_Desert">
 		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-		<attachments preset="HeavyArmorArmy" />
+		<cargo preset="ammoPolice" />
 		<attachments preset="HatDesert"/>
 	</type>
 	<type name="ZmbM_usSoldier_normal_Desert">
 		<cargo preset="foodArmy"/>
-		<cargo preset="ammoArmy"/>
-		<attachments preset="HeavyArmorArmy"/>
+		<cargo preset="ammoPolice"/>
 		<attachments preset="HatDesert"/>
 	</type>
 	<type name="ZmbF_usSoldier_Heavy_Desert">
-		<cargo preset="foodArmy" />		
 		<attachments preset="HeavyArmorArmy"/>
 		<attachments preset="HeavyHelmetArmy"/>
 	</type>

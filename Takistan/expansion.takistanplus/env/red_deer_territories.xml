@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1559.96" z="10929.61" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2831.08" z="10290.9" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1838.86" z="8892.92" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="3873.57" z="7742.57" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2132.28" z="6411.67" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="8767.25" z="11849.48" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11548.28" z="11125.4" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9158.27" z="8579.81" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11247.4" z="8100.98" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7057.99" z="10566.71" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="825.03" z="5939.84" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1968.88" z="5450.93" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="731.01" z="3731.68" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2285.04" z="2239.36" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="3969.26" z="1869.4" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7465.43" z="4727.7" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9408.39" z="4154.47" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11054.38" z="3713.03" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="8910.23" z="1533.23" y="0.0" />
+        <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11428.01" z="1709.08" y="0.0" />
+    </territory>
+</territory_type>

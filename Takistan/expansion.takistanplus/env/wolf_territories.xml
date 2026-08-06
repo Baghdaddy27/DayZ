@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1416.21" z="10927.58" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2836.86" z="10161.31" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1747.75" z="8719.46" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="3748.11" z="7879.94" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2121.02" z="6433.63" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="8834.1" z="11823.24" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11585.99" z="11130.75" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9270.65" z="8459.7" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11298.28" z="8136.11" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7086.85" z="10559.8" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="754.53" z="6025.5" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1902.17" z="5529.68" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="821.44" z="3854.39" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2285.24" z="2272.16" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="4055.29" z="1835.53" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7449.35" z="4748.45" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9466.95" z="4148.24" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11061.91" z="3775.97" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9057.13" z="1581.89" y="0.0" />
+        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11528.83" z="1736.69" y="0.0" />
+    </territory>
+</territory_type>

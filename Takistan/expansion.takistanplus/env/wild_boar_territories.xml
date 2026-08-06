@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1595.43" z="11059.0" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1569.51" z="11061.79" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2838.68" z="10128.27" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2779.11" z="10259.67" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1722.29" z="8692.74" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1842.29" z="8765.88" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="3827.78" z="7770.51" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="3868.18" z="7844.91" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2250.22" z="6401.45" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2258.15" z="6591.33" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="8758.65" z="11703.71" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="8837.17" z="11770.67" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11475.07" z="11275.45" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11423.23" z="11242.74" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="9097.43" z="8521.02" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="9300.87" z="8531.36" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11296.66" z="8266.61" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11123.15" z="8285.79" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="6941.72" z="10439.76" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="7091.65" z="10400.48" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="768.73" z="6106.37" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="743.11" z="6030.18" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2029.07" z="5456.7" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1947.47" z="5542.34" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="867.03" z="3850.96" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="845.27" z="3763.12" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2179.86" z="2152.86" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="2245.2" z="2278.67" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="4047.43" z="1878.87" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="4087.81" z="1714.25" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="7445.39" z="4901.02" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="7590.86" z="4904.59" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="9429.23" z="4305.86" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="9531.8" z="4232.93" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="10976.4" z="3700.71" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11054.57" z="3694.77" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="8918.32" z="1607.45" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="8957.61" z="1606.12" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11434.32" z="1850.9" y="0.0" />
+        <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11535.56" z="1726.89" y="0.0" />
+    </territory>
+</territory_type>

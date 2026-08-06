@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="1125.18" z="11446.55" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="3130.52" z="11589.34" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="5149.06" z="11069.49" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="6267.42" z="12073.93" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="3631.21" z="10442.19" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="4041.31" z="10225.78" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="4761.11" z="10032.83" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="2421.3" z="9462.58" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="3419.39" z="9083.63" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="4426.19" z="5933.19" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="9438.3" z="11041.68" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="10132.18" z="10474.03" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="11877.12" z="10522.76" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="11721.71" z="9843.19" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="7476.85" z="8926.85" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="8585.88" z="9082.69" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="7862.34" z="7022.22" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="10946.15" z="7460.71" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="10936.72" z="6859.88" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="9414.11" z="5957.15" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="1236.78" z="7242.63" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="1146.18" z="5143.01" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="2445.49" z="4452.48" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="4245.01" z="4927.39" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="4413.68" z="4047.61" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="2939.08" z="4047.84" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="2910.79" z="3034.7" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="1531.17" z="2915.54" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="929.54" z="2543.6" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="473.66" z="1972.64" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="3410.61" z="739.01" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="5454.16" z="5428.48" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="5464.06" z="4057.94" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="8525.1" z="2271.07" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="6928.56" z="1757.93" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="8031.61" z="1274.53" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="6441.99" z="856.39" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="8054.84" z="2947.69" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="8463.12" z="4553.51" y="0.0" />
+        <zone name="Pig" smin="0" smax="0" dmin="1" dmax="3" r="50" x="10575.73" z="5960.7" y="0.0" />
+    </territory>
+</territory_type>

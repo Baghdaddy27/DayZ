@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="1073.93" z="11421.94" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3274.81" z="11533.44" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="5165.2" z="11075.08" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="6150.98" z="12073.87" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3645.41" z="10470.47" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3921.4" z="10267.39" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="4722.45" z="10073.65" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="2574.95" z="9564.48" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3477.5" z="8955.39" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="4473.16" z="6042.1" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="9463.12" z="10930.5" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="10138.64" z="10565.33" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="11756.19" z="10550.28" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="11823.87" z="9854.86" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="7437.22" z="8965.97" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="8476.45" z="9025.83" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="7855.52" z="6920.21" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="10960.27" z="7564.85" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="10942.01" z="6737.34" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="9529.27" z="5936.26" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="1257.19" z="7262.49" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="1257.68" z="5168.33" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="2461.16" z="4441.49" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="4252.02" z="4929.84" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="4438.62" z="3970.51" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3072.27" z="3949.84" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="2964.25" z="3039.54" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="1421.78" z="2969.79" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="1037.11" z="2547.11" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="539.38" z="1974.9" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="3567.6" z="845.82" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="5465.33" z="5429.93" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="5463.39" z="4024.74" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="8456.13" z="2174.7" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="6942.84" z="1725.72" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="7931.24" z="1234.64" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="6545.04" z="770.64" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="7955.39" z="3027.99" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="8435.37" z="4551.85" y="0.0" />
+        <zone name="DomesticAnimals" smin="0" smax="0" dmin="1" dmax="2" r="40" x="10445.21" z="5954.69" y="0.0" />
+    </territory>
+</territory_type>

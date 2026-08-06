@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<territory_type>
+    <territory color="4294967040">
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="1569.54" z="10960.23" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="2763.13" z="10283.8" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="1821.36" z="8732.6" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="3887.59" z="7876.8" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="2263.9" z="6470.29" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="8877.41" z="11723.53" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="11415.56" z="11162.31" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="9113.89" z="8428.8" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="11262.04" z="8288.71" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="7046.14" z="10534.58" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="826.01" z="5951.98" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="1956.13" z="5543.29" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="759.88" z="3848.72" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="2282.43" z="2273.87" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="4085.26" z="1854.23" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="7571.85" z="4852.19" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="9560.62" z="4154.31" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="11037.65" z="3827.31" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="9067.02" z="1528.06" y="0.0" />
+        <zone name="Bear" smin="0" smax="0" dmin="1" dmax="2" r="50" x="11472.86" z="1765.74" y="0.0" />
+    </territory>
+</territory_type>
