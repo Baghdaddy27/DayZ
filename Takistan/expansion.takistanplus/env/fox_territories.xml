@@ -1,65 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="4294967040">
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1120.27" z="11428.81" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3249.73" z="11625.19" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="5273.41" z="11082.8" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="6072.07" z="11929.3" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3494.81" z="10375.27" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3953.23" z="10119.32" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="4737.48" z="10051.57" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2551.23" z="9520.19" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3548.36" z="8915.93" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="4551.63" z="6067.75" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="9577.57" z="10943.04" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="10279.68" z="10521.53" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11671.38" z="10475.75" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11698.78" z="9828.1" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7442.06" z="9097.68" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8531.5" z="8963.66" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7717.04" z="7035.71" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11084.48" z="7402.08" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="10886.4" z="6865.76" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="9611.28" z="6061.13" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1222.38" z="7233.75" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1105.96" z="5081.64" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2389.98" z="4414.5" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="4340.59" z="4907.29" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="4620.79" z="3957.67" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2918.88" z="3975.79" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2905.08" z="3116.41" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1575.88" z="2920.68" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="946.56" z="2576.87" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="397.01" z="1923.79" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3377.69" z="687.72" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="5526.84" z="5578.41" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="5579.25" z="4059.54" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8471.2" z="2284.7" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="6937.07" z="1750.82" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7957.97" z="1159.88" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="6398.32" z="726.03" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7931.41" z="3094.7" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8457.14" z="4568.53" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="10624.13" z="6080.17" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1536.32" z="11105.65" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2823.78" z="10155.96" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1846.58" z="8866.38" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3732.74" z="7914.33" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2070.16" z="6448.49" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8868.44" z="11692.98" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11422.01" z="11263.18" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="9283.93" z="8422.6" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11157.53" z="8129.35" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7102.54" z="10525.1" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="744.62" z="5894.44" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2084.04" z="5458.12" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="670.79" z="3757.82" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="2289.27" z="2090.82" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3907.53" z="1838.31" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="7382.54" z="4722.47" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="9593.01" z="4096.85" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11063.81" z="3730.72" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8873.58" z="1535.08" y="0.0" />
-        <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11537.54" z="1886.72" y="0.0" />
+    <territory color="4294945280">
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1912.5" z="5129.16" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1458.33" z="3237.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="4241.67" z="4358.34" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="5112.5" z="5041.63" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="3825" z="2133.3" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1637.5" z="6854.2" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="3550" z="6529.13" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="5337.5" z="7341.67" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1700" z="11008.3" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="6058.33" z="6787.47" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="6375" z="8658.3" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1116.66" z="8287.47" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="4687.5" z="8262.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1425" z="11812.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="6945.83" z="6787.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="8558.33" z="3470.8" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="5850" z="3241.7" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="10208.3" z="6633.3" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="9785.42" z="1416.67" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="8445.83" z="7266.63" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="1281.25" z="1968.72" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="3483.33" z="7891.67" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="6841.67" z="9958.33" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="9537.5" z="4412.47" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="4020.83" z="11175" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="4866.67" z="10362.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="3800" z="9633.33" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="528.13" z="11164.6" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="2390.63" z="12321.9" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="2587.5" z="12518.8" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="5706.25" z="1912.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="9300" z="8550" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="8843.75" z="9643.75" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="10568.8" z="10568.8" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="12037.5" z="10287.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="7012.5" z="11918.8" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="9518.75" z="11375" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="11443.8" z="11912.5" r="50"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="2" x="4731.25" z="12400" r="50"/>
     </territory>
 </territory-type>

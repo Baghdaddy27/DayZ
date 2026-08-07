@@ -1,65 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="4294967040">
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1070.29" z="11462.81" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3147.89" z="11390.64" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="5121.17" z="10918.97" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="6295.96" z="12121.3" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3521.2" z="10420.01" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4108.94" z="10263.46" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4827.92" z="10103.69" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2435.9" z="9421.07" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3446.61" z="9021.25" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4395.63" z="6090.68" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9604.24" z="11101.47" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="10131.36" z="10438.04" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11887.72" z="10442.59" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11937.67" z="9704.42" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7599.86" z="8881.53" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="8545.08" z="8891.47" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7884.6" z="7060.22" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="10968.74" z="7626.27" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="10881.32" z="6918.2" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9446.99" z="5954.36" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1154.2" z="7142.21" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1165.97" z="5163.81" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2530.84" z="4379.96" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4266.85" z="4881.15" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4562.38" z="3971.94" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3024.06" z="3941.05" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3095.88" z="3118.27" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1567.49" z="3081.11" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1102.29" z="2534.78" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="589.31" z="1900.88" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3555.4" z="707.82" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="5558.51" z="5374.11" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="5467.78" z="4090.18" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="8559.65" z="2160.99" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7088.52" z="1919.04" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7977.9" z="1277.89" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="6633.29" z="759.59" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7911.25" z="3110.94" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="8455.7" z="4585.05" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="10572.6" z="6026.63" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1372.45" z="10971.26" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2667.65" z="10265.75" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1767.39" z="8736.22" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3737.95" z="7828.63" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2091.5" z="6453.42" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="8852.26" z="11841.47" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11431.57" z="11314.27" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9166.91" z="8581.33" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11122.12" z="8116.95" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7045.05" z="10602.12" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="859.52" z="6039.52" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2055.12" z="5573.75" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="717.84" z="3935.41" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="2090.39" z="2075.73" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="4099.74" z="1831.55" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="7600.25" z="4899.87" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9550.02" z="4313.03" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="10925.45" z="3711.75" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9138.17" z="1417.37" y="0.0" />
-        <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11408.07" z="1854.82" y="0.0" />
+    <territory color="1711254016">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10317.7" z="10776" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11825" z="11397.2" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3850" z="10427.8" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6508.33" z="8902.78" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10533.3" z="2338.89" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="633.333" z="2851.39" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5928.85" z="6719.23" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9015" z="5080" r="150"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7715" z="9435" r="150"/>
     </territory>
 </territory-type>

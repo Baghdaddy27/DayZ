@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="4294967040">
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1416.21" z="10927.58" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2836.86" z="10161.31" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1747.75" z="8719.46" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="3748.11" z="7879.94" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2121.02" z="6433.63" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="8834.1" z="11823.24" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11585.99" z="11130.75" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9270.65" z="8459.7" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11298.28" z="8136.11" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7086.85" z="10559.8" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="754.53" z="6025.5" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1902.17" z="5529.68" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="821.44" z="3854.39" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2285.24" z="2272.16" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="4055.29" z="1835.53" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="7449.35" z="4748.45" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9466.95" z="4148.24" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11061.91" z="3775.97" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9057.13" z="1581.89" y="0.0" />
-        <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11528.83" z="1736.69" y="0.0" />
+    <territory color="2427125759">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9266" z="3291.33" r="500"/>
+    </territory>
+    <territory color="2393571327">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1277" z="4876.67" r="500"/>
+    </territory>
+    <territory color="2326462463">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1325.33" z="6780.33" r="500"/>
+    </territory>
+    <territory color="2158690303">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4753" z="3906" r="500"/>
+    </territory>
+    <territory color="2007695359">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2177.33" z="8812" r="500"/>
+    </territory>
+    <territory color="2108358655">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2907" z="10989" r="500"/>
+    </territory>
+    <territory color="1940586495">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10897.7" z="4610.67" r="500"/>
+    </territory>
+    <territory color="2158690303">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8087.33" z="5320.3" r="500"/>
     </territory>
 </territory-type>
