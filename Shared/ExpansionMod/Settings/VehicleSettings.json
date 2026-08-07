@@ -11,40 +11,40 @@
     "PickLockTools": [
         "Lockpick"
     ],
-    "PickLockChancePercent": 40.0,
+    "PickLockChancePercent": 40,
     "PickLockTimeSeconds": 120,
-    "PickLockToolDamagePercent": 10.0,
+    "PickLockToolDamagePercent": 10,
     "EnableWindAerodynamics": 0,
     "EnableMainRotorDamage": 1,
     "EnableTailRotorDamage": 1,
     "Towing": 0,
     "EnableHelicopterExplosions": 1,
     "DisableVehicleDamage": 0,
-    "VehicleCrewDamageMultiplier": 1.0,
-    "VehicleSpeedDamageMultiplier": 1.0,
-    "VehicleRoadKillDamageMultiplier": 1.0,
+    "VehicleCrewDamageMultiplier": 1,
+    "VehicleSpeedDamageMultiplier": 1,
+    "VehicleRoadKillDamageMultiplier": 1,
     "CollisionDamageIfEngineOff": 0,
-    "CollisionDamageMinSpeedKmh": 30.0,
+    "CollisionDamageMinSpeedKmh": 30,
     "CanChangeLock": 1,
     "ChangeLockTools": [
         "Screwdriver"
     ],
     "ChangeLockTimeSeconds": 120,
-    "ChangeLockToolDamagePercent": 10.0,
+    "ChangeLockToolDamagePercent": 10,
     "PlacePlayerOnGroundOnReconnectInVehicle": 2,
     "RevvingOverMaxRPMRuinsEngineInstantly": 0,
     "VehicleDropsRuinedDoors": 1,
     "ExplodingVehicleDropsAttachments": 0,
-    "DesyncInvulnerabilityTimeoutSeconds": 3.0,
-    "PilotlessAutoHoverEngineStopDelaySeconds": 300.0,
+    "DesyncInvulnerabilityTimeoutSeconds": 3,
+    "PilotlessAutoHoverEngineStopDelaySeconds": 300,
     "RoughLandingVerticalSpeedThreshold": 3.700000047683716,
-    "DamagedEngineStartupChancePercent": 100.0,
-    "FuelConsumptionPercent": 100.0,
+    "DamagedEngineStartupChancePercent": 100,
+    "FuelConsumptionPercent": 100,
     "EnableVehicleCovers": 0,
     "AllowCoveringDEVehicles": 0,
     "CanCoverWithCargo": 0,
     "UseVirtualStorageForCoverCargo": 0,
-    "VehicleAutoCoverTimeSeconds": 0.0,
+    "VehicleAutoCoverTimeSeconds": 0,
     "VehicleAutoCoverRequireCamonet": 0,
     "EnableAutoCoveringDEVehicles": 0,
     "CFToolsHeliCoverIconName": "helicopter",
@@ -54,19 +54,19 @@
     "VehiclesConfig": [
         {
             "ClassName": "CivilianSedan",
-            "LockComplexity": 1.0
+            "LockComplexity": 1
         },
         {
             "ClassName": "Hatchback_02",
-            "LockComplexity": 1.0
+            "LockComplexity": 1
         },
         {
             "ClassName": "OffroadHatchback",
-            "LockComplexity": 1.0
+            "LockComplexity": 1
         },
         {
             "ClassName": "Offroad_02",
-            "LockComplexity": 2.0
+            "LockComplexity": 2
         },
         {
             "ClassName": "Sedan_02",
@@ -78,11 +78,11 @@
         },
         {
             "ClassName": "ExpansionUAZCargoRoofless",
-            "LockComplexity": 1.0
+            "LockComplexity": 1
         },
         {
             "ClassName": "ExpansionUAZ",
-            "LockComplexity": 1.0
+            "LockComplexity": 1
         },
         {
             "ClassName": "ExpansionBus",
@@ -90,7 +90,7 @@
         },
         {
             "ClassName": "ExpansionVodnik",
-            "LockComplexity": 2.0
+            "LockComplexity": 2
         },
         {
             "ClassName": "ExpansionUtilityBoat",
@@ -102,15 +102,15 @@
         },
         {
             "ClassName": "ExpansionLHD",
-            "LockComplexity": 100.0
+            "LockComplexity": 100
         },
         {
             "ClassName": "ExpansionMerlin",
-            "LockComplexity": 4.0
+            "LockComplexity": 4
         },
         {
             "ClassName": "ExpansionMh6",
-            "LockComplexity": 3.0
+            "LockComplexity": 3
         },
         {
             "ClassName": "ExpansionUh1h",

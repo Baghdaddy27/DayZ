@@ -600,6 +600,7 @@
 		</group>			
         <group name="Land_Mil_Hangar_ep1" lootmax="15">
 				<usage name="Military" />
+				<usage name="Special" />
 				<usage name="Firefighter" />
 				<container name="lootweapons" lootmax="3">
 						<tag name="floor" />
@@ -9236,6 +9237,7 @@
 		</group>
 		<group name="Land_Mil_Tent_Big4" lootmax="8">
 				<usage name="Military" />
+				<usage name="Medic" />
 				<container name="lootFloor" lootmax="8">
 						<category name="tools" />
 						<category name="containers" />
@@ -10825,6 +10827,7 @@
 		</group>
 		<group name="Land_Airfield_Small_Hangar" lootmax="10">
 				<usage name="Village" />
+				<usage name="Special" />
 				<usage name="Industrial" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
@@ -10881,6 +10884,7 @@
 		</group>
 		<group name="Land_Airfield_Hangar_Green">
 				<usage name="Industrial" />
+				<usage name="Special" />
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
@@ -10920,6 +10924,7 @@
 		</group>
 		<group name="Land_Airfield_ServiceHangar_L">
 				<usage name="Industrial" />
+				<usage name="Special" />
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
@@ -11073,6 +11078,7 @@
 		</group>
 		<group name="Land_Airfield_ServiceHangar_R">
 				<usage name="Industrial" />
+				<usage name="Special" />
 				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />

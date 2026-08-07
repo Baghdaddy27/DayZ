@@ -4,13 +4,13 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 75,
     "Items": [
         {
             "ClassName": "kitchenknife",
             "MaxPriceThreshold": 16,
             "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -21,7 +21,7 @@
             "ClassName": "steakknife",
             "MaxPriceThreshold": 18,
             "MinPriceThreshold": 9,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -32,7 +32,7 @@
             "ClassName": "huntingknife",
             "MaxPriceThreshold": 18,
             "MinPriceThreshold": 9,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -43,7 +43,7 @@
             "ClassName": "combatknife",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -54,13 +54,12 @@
             "ClassName": "fangeknife",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         }
-
     ]
 }

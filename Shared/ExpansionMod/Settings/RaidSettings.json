@@ -1,7 +1,7 @@
 {
     "m_Version": 5,
     "BaseBuildingRaidMode": 0,
-    "ExplosionTime": 30.0,
+    "ExplosionTime": 30,
     "ExplosiveDamageWhitelist": [
         "Expansion_C4_Explosion",
         "Expansion_RPG_Explosion",
@@ -14,25 +14,25 @@
         "Land_FuelStation_Feed_Enoch"
     ],
     "EnableExplosiveWhitelist": 0,
-    "ExplosionDamageMultiplier": 50.0,
-    "ProjectileDamageMultiplier": 1.0,
+    "ExplosionDamageMultiplier": 50,
+    "ProjectileDamageMultiplier": 1,
     "CanRaidSafes": 1,
     "SafeRaidUseSchedule": 1,
-    "SafeExplosionDamageMultiplier": 17.0,
-    "SafeProjectileDamageMultiplier": 1.0,
+    "SafeExplosionDamageMultiplier": 17,
+    "SafeProjectileDamageMultiplier": 1,
     "SafeRaidTools": [
         "ExpansionPropaneTorch"
     ],
     "SafeRaidToolTimeSeconds": 600,
     "SafeRaidToolCycles": 5,
-    "SafeRaidToolDamagePercent": 100.0,
+    "SafeRaidToolDamagePercent": 100,
     "CanRaidBarbedWire": 1,
     "BarbedWireRaidTools": [
         "ExpansionBoltCutters"
     ],
     "BarbedWireRaidToolTimeSeconds": 300,
     "BarbedWireRaidToolCycles": 5,
-    "BarbedWireRaidToolDamagePercent": 100.0,
+    "BarbedWireRaidToolDamagePercent": 100,
     "CanRaidLocksOnWalls": 0,
     "CanRaidLocksOnFences": 0,
     "CanRaidLocksOnTents": 0,
@@ -41,7 +41,7 @@
     "LockOnFenceRaidToolTimeSeconds": 900,
     "LockOnTentRaidToolTimeSeconds": 600,
     "LockRaidToolCycles": 5,
-    "LockRaidToolDamagePercent": 100.0,
+    "LockRaidToolDamagePercent": 100,
     "CanRaidLocksOnContainers": 1,
     "LockOnContainerRaidUseSchedule": 1,
     "LockOnContainerRaidTools": [
@@ -49,7 +49,7 @@
     ],
     "LockOnContainerRaidToolTimeSeconds": 600,
     "LockOnContainerRaidToolCycles": 5,
-    "LockOnContainerRaidToolDamagePercent": 100.0,
+    "LockOnContainerRaidToolDamagePercent": 100,
     "Schedule": [
         {
             "Weekday": "Sunday",

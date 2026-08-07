@@ -4,13 +4,13 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 75,
     "Items": [
         {
             "ClassName": "pakol_hat",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -25,7 +25,7 @@
             "ClassName": "MVS_Turban_1",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -40,7 +40,7 @@
             "ClassName": "MVS_Kurta_1",
             "MaxPriceThreshold": 90,
             "MinPriceThreshold": 45,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -56,7 +56,7 @@
             "ClassName": "MVS_Kurta2_1",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -68,11 +68,11 @@
                 "MVS_Kurta2_5"
             ]
         },
-                {
+        {
             "ClassName": "MVS_Kurta3_1",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
-            "SellPricePercent": -1.0,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

@@ -14,6 +14,7 @@
     "UseCategoryOrder": 0,
     "Categories": [
         "Vehicle_Parts",
+        "Helo_Parts",
         "Liquids"
     ],
     "Items": {
