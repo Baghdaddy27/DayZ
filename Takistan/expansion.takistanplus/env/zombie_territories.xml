@@ -18,6 +18,13 @@
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="3" x="5712.5" z="9947.5" r="50"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="3" x="5807.5" z="10005" r="50"/>
     </territory>
+    <territory color="4283825920">
+        <zone name="InfectedNBCStatic" smin="0" smax="0" dmin="2" dmax="3" x="8718.16" z="5146.26" r="50"/>
+        <zone name="InfectedNBCStatic" smin="0" smax="0" dmin="2" dmax="3" x="8505.65" z="2452.18" r="50"/>
+        <zone name="InfectedNBCStatic" smin="0" smax="0" dmin="2" dmax="3" x="5678.05" z="9954.15" r="50"/>
+        <zone name="InfectedNBCStatic" smin="0" smax="0" dmin="2" dmax="3" x="3794.72" z="10968.88" r="50"/>
+        <zone name="InfectedNBCStatic" smin="0" smax="0" dmin="2" dmax="3" x="7364.64" z="1704.89" r="50"/>
+    </territory>
     <territory color="2281701631">
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="6" x="6195.64" z="11200.5" r="50"/>
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="6" x="6160.23" z="11149.4" r="50"/>

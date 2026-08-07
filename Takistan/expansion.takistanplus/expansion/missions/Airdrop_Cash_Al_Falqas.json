@@ -1,0 +1,196 @@
+{
+    "m_Version": 3,
+    "Enabled": 1,
+    "Weight": 500,
+    "MissionMaxTime": 1200,
+    "MissionName": "Cash_Loy_Manara",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450,
+    "DropZoneHeight": 450,
+    "Speed": 25,
+    "DropZoneSpeed": 25,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 3794.72,
+        "z": 10968.88,
+        "Name": "Loy Manara",
+        "Radius": 1
+    },
+    "Infected": [
+        "ZmbM_NBC_Yellow",
+        "ZmbM_NBC_White",
+        "ZmbM_NBC_Gray",
+        "ZmbM_Mummy"
+    ],
+    "ItemCount": -1,
+    "InfectedCount": 20,
+    "AirdropPlaneClassName": "",
+    "Loot": [
+        {
+            "Name": "ExpansionBankNoteHryvnia",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBankNoteEuro",
+            "Chance": 0.025,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBankNoteUSD",
+            "Chance": 0.025,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBankNoteHryvnia",
+            "Chance": 0.025,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBankNoteEuro",
+            "Chance": 0.025,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionBankNoteUSD",
+            "Chance": 0.025,
+            "Attachments": [],
+            "QuantityPercent": 0.2,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverBar",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldBar",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldNugget",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionSilverBar",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "ExpansionGoldBar",
+            "Chance": 0.15,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}
