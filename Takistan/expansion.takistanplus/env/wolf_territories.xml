@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1416.21" z="10927.58" y="0.0" />
         <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2836.86" z="10161.31" y="0.0" />
@@ -22,4 +22,4 @@
         <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="9057.13" z="1581.89" y="0.0" />
         <zone name="Wolf" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11528.83" z="1736.69" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

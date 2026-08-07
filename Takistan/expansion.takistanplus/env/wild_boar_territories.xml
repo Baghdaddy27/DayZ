@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1595.43" z="11059.0" y="0.0" />
         <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="1569.51" z="11061.79" y="0.0" />
@@ -42,4 +42,4 @@
         <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11434.32" z="1850.9" y="0.0" />
         <zone name="WildBoar" smin="0" smax="0" dmin="1" dmax="3" r="70" x="11535.56" z="1726.89" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

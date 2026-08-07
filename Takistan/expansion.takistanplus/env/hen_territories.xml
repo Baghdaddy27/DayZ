@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="Hen" smin="0" smax="0" dmin="1" dmax="2" r="35" x="1040.4" z="11450.98" y="0.0" />
         <zone name="Hen" smin="0" smax="0" dmin="1" dmax="2" r="35" x="1064.86" z="11536.68" y="0.0" />
@@ -122,4 +122,4 @@
         <zone name="Hen" smin="0" smax="0" dmin="1" dmax="2" r="35" x="10442.69" z="6071.65" y="0.0" />
         <zone name="Hen" smin="0" smax="0" dmin="1" dmax="2" r="35" x="10461.65" z="5926.38" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

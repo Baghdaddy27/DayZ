@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="1120.27" z="11428.81" y="0.0" />
         <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="3249.73" z="11625.19" y="0.0" />
@@ -62,4 +62,4 @@
         <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="8873.58" z="1535.08" y="0.0" />
         <zone name="Fox" smin="0" smax="0" dmin="1" dmax="2" r="90" x="11537.54" z="1886.72" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

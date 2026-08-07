@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="1070.29" z="11462.81" y="0.0" />
         <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="3147.89" z="11390.64" y="0.0" />
@@ -62,4 +62,4 @@
         <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="9138.17" z="1417.37" y="0.0" />
         <zone name="Cattle" smin="0" smax="0" dmin="1" dmax="4" r="100" x="11408.07" z="1854.82" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

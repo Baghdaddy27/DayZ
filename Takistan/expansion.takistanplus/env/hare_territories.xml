@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="Hare" smin="0" smax="0" dmin="1" dmax="3" r="80" x="1121.06" z="11611.7" y="0.0" />
         <zone name="Hare" smin="0" smax="0" dmin="1" dmax="3" r="80" x="1027.72" z="11582.61" y="0.0" />
@@ -122,4 +122,4 @@
         <zone name="Hare" smin="0" smax="0" dmin="1" dmax="3" r="80" x="11587.54" z="1748.41" y="0.0" />
         <zone name="Hare" smin="0" smax="0" dmin="1" dmax="3" r="80" x="11537.98" z="1863.02" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

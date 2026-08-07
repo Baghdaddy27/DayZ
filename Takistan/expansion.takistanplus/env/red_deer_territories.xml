@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="1559.96" z="10929.61" y="0.0" />
         <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="2831.08" z="10290.9" y="0.0" />
@@ -22,4 +22,4 @@
         <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="8910.23" z="1533.23" y="0.0" />
         <zone name="RedDeer" smin="0" smax="0" dmin="1" dmax="3" r="60" x="11428.01" z="1709.08" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>

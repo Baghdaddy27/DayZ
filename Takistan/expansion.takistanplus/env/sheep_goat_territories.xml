@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<territory_type>
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
     <territory color="4294967040">
         <zone name="SheepGoat" smin="0" smax="0" dmin="1" dmax="4" r="85" x="1046.58" z="11557.73" y="0.0" />
         <zone name="SheepGoat" smin="0" smax="0" dmin="1" dmax="4" r="85" x="1143.36" z="11392.27" y="0.0" />
@@ -122,4 +122,4 @@
         <zone name="SheepGoat" smin="0" smax="0" dmin="1" dmax="4" r="85" x="11434.5" z="1731.08" y="0.0" />
         <zone name="SheepGoat" smin="0" smax="0" dmin="1" dmax="4" r="85" x="11397.53" z="1738.33" y="0.0" />
     </territory>
-</territory_type>
+</territory-type>
