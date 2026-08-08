@@ -349,8 +349,8 @@
                                     "ClassName": "ExpansionBankNoteHryvnia",
                                     "Chance": 0.5,
                                     "Quantity": {
-                                        "Min": 0.02,
-                                        "Max": 0.1
+                                        "Min": 0.001,
+                                        "Max": 0.03
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -707,8 +707,8 @@
                                     "ClassName": "ExpansionBankNoteHryvnia",
                                     "Chance": 0.5,
                                     "Quantity": {
-                                        "Min": 0.02,
-                                        "Max": 0.1
+                                        "Min": 0.001,
+                                        "Max": 0.03
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1065,8 +1065,8 @@
                                     "ClassName": "ExpansionBankNoteHryvnia",
                                     "Chance": 0.5,
                                     "Quantity": {
-                                        "Min": 0.02,
-                                        "Max": 0.1
+                                        "Min": 0.001,
+                                        "Max": 0.03
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -2256,8 +2256,8 @@
                                     "ClassName": "ExpansionBankNoteHryvnia",
                                     "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.02,
-                                        "Max": 0.1
+                                        "Min": 0.001,
+                                        "Max": 0.03
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -2289,8 +2289,8 @@
                                     "ClassName": "ExpansionBankNoteHryvnia",
                                     "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0.02,
-                                        "Max": 0.1
+                                        "Min": 0.001,
+                                        "Max": 0.03
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
