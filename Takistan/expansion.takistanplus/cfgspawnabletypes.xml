@@ -2100,6 +2100,14 @@
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
 	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<cargo preset="toolsPolice" />
+		<cargo preset="ammoPolice" />
+		<cargo chance="0.30">
+		</cargo>
+		<attachments preset="hatsPolice" />
+		<attachments preset="vestsPolice" />
+	</type>
 	<!-- Prisoner -->
 	<type name="ZmbM_PrisonerSkinny">
 		<cargo chance="0.10">
