@@ -2074,7 +2074,7 @@
         <usage name="Village" />
         <usage name="Town" />
     </type>
-    <type name="Armband_Yellow">
+    <type name="Armband_Expansion_Biohazard">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>

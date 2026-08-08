@@ -828,7 +828,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TacticalShirt_Black",
+                    "ClassName": "tshirt_orangewhitestripes",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -847,7 +847,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TacticalShirt_Grey",
+                    "ClassName": "tshirt_blue",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -866,7 +866,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TacticalShirt_Olive",
+                    "ClassName": "tshirt_red",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -885,7 +885,159 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TacticalShirt_Tan",
+                    "ClassName": "tshirt_redblackstripes",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                                {
+                    "ClassName": "tshirt_beige",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "tshirt_grey",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "tshirt_black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "tshirt_green",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                                {
+                    "ClassName": "tshirt_10thanniversary",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                                {
+                    "ClassName": "chernarussportshirt",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "expansiontee",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "tshirt_white",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -905,25 +1057,6 @@
                 },
                 {
                     "ClassName": "PoliceJacketOrel",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TTsKOJacket_Camo",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1156,7 +1289,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CargoPants_Beige",
+                    "ClassName": "canvaspants_blue",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1175,7 +1308,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CargoPants_Black",
+                    "ClassName": "Canvaspants_grey",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1194,7 +1327,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CargoPants_Blue",
+                    "ClassName": "canvaspants_red",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1213,7 +1346,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CargoPants_Green",
+                    "ClassName": "canvaspants_violet",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1232,7 +1365,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "CargoPants_Grey",
+                    "ClassName": "canvaspants_beige",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1252,25 +1385,6 @@
                 },
                 {
                     "ClassName": "PolicePantsOrel",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TTSKOPants",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1369,120 +1483,6 @@
         {
             "SlotName": "Feet",
             "Items": [
-                {
-                    "ClassName": "HikingBoots_Black",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HikingBoots_Brown",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HikingBootsLow_Blue",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HikingBootsLow_Grey",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HikingBootsLow_Beige",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "HikingBootsLow_Black",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
                 {
                     "ClassName": "AthleticShoes_Black",
                     "Chance": 1,
@@ -1751,25 +1751,6 @@
                 },
                 {
                     "ClassName": "WorkingBoots_Beige",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TTSKOBoots",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -3352,6 +3333,19 @@
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         },
+                                                {
+                            "ClassName": "GunCleaningKit",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
                         {
                             "ClassName": "Lunchmeat",
                             "Chance": 0.02,
@@ -3697,6 +3691,19 @@
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         },
+                                                {
+                            "ClassName": "GunCleaningKit",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
                         {
                             "ClassName": "Lunchmeat",
                             "Chance": 0.02,
@@ -4031,6 +4038,19 @@
                     "InventoryCargo": [
                         {
                             "ClassName": "BakedBeansCan_Opened",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                                                {
+                            "ClassName": "GunCleaningKit",
                             "Chance": 0.02,
                             "Quantity": {
                                 "Min": 0,

@@ -11,7 +11,7 @@
             "SlotName": "Armband",
             "Items": [
                 {
-                    "ClassName": "Armband_Pirates",
+                    "ClassName": "Armband_Snake",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

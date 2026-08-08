@@ -222,7 +222,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "BoonieHat_Green",
+                            "ClassName": "booniehat_olive",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,

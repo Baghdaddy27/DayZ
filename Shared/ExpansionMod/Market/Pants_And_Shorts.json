@@ -203,17 +203,6 @@
             ]
         },
         {
-            "ClassName": "canvaspantsmidi_beige",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "canvaspants_blue",
             "MaxPriceThreshold": 52,
             "MinPriceThreshold": 26,
@@ -228,17 +217,6 @@
                 "canvaspants_violet",
                 "canvaspants_beige"
             ]
-        },
-        {
-            "ClassName": "canvaspants_beige",
-            "MaxPriceThreshold": 56,
-            "MinPriceThreshold": 28,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "jumpsuitpants_blue",
@@ -327,28 +305,6 @@
             ]
         },
         {
-            "ClassName": "shortjeans_black",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shortjeans_green",
-            "MaxPriceThreshold": 84,
-            "MinPriceThreshold": 42,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "jeans_blue",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,
@@ -364,28 +320,6 @@
                 "jeans_green",
                 "jeans_black"
             ]
-        },
-        {
-            "ClassName": "jeans_green",
-            "MaxPriceThreshold": 84,
-            "MinPriceThreshold": 42,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "jeans_black",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "ttskopants",

@@ -69,28 +69,6 @@
             ]
         },
         {
-            "ClassName": "militaryberet_cdf",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 27,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "militaryberet_nz",
-            "MaxPriceThreshold": 54,
-            "MinPriceThreshold": 27,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "beaniehat_pink",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,

@@ -133,6 +133,19 @@
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         },
+                                                {
+                            "ClassName": "GunCleaningKit",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
                         {
                             "ClassName": "Lunchmeat",
                             "Chance": 0.02,

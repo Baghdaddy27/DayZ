@@ -2064,7 +2064,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="clothes"/>
     </type>
-    <type name="Armband_Yellow">
+    <type name="Armband_Expansion_Biohazard">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>

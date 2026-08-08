@@ -1616,6 +1616,32 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest_Black",
+                    "Chance": 0.15,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest",
+                    "Chance": 0.15,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ]
         },
@@ -2004,6 +2030,19 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "GunCleaningKit",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Lunchmeat",
                             "Chance": 0.02,
                             "Quantity": {
@@ -2337,6 +2376,19 @@
                     "InventoryCargo": [
                         {
                             "ClassName": "BakedBeansCan_Opened",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "GunCleaningKit",
                             "Chance": 0.02,
                             "Quantity": {
                                 "Min": 0,
@@ -2694,6 +2746,19 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "GunCleaningKit",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Lunchmeat",
                             "Chance": 0.02,
                             "Quantity": {
@@ -3027,6 +3092,19 @@
                     "InventoryCargo": [
                         {
                             "ClassName": "BakedBeansCan_Opened",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "GunCleaningKit",
                             "Chance": 0.02,
                             "Quantity": {
                                 "Min": 0,

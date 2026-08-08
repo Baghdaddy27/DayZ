@@ -68,7 +68,7 @@
             "SlotName": "Armband",
             "Items": [
                 {
-                    "ClassName": "Armband_Yellow",
+                    "ClassName": "Armband_Expansion_Biohazard",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -122,6 +122,19 @@
                         },
                         {
                             "ClassName": "BakedBeansCan_Opened",
+                            "Chance": 0.02,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                                                {
+                            "ClassName": "GunCleaningKit",
                             "Chance": 0.02,
                             "Quantity": {
                                 "Min": 0,

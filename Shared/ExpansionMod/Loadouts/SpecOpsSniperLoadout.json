@@ -92,7 +92,7 @@
             "SlotName": "Armband",
             "Items": [
                 {
-                    "ClassName": "Armband_Yellow",
+                    "ClassName": "Armband_Expansion_Biohazard",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
