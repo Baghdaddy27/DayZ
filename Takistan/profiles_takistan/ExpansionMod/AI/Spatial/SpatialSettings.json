@@ -1,7 +1,7 @@
 {
     "Version": 21,
     "Spatial_MinTimer": 20.0,
-    "Spatial_MaxTimer": 40.0,
+    "Spatial_MaxTimer": 45.0,
     "MinDistance": 140,
     "MaxDistance": 220,
     "HuntMode": 1,
@@ -183,7 +183,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "SC Sniper Team",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.60,
+            "Spatial_Chance": 0.50,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.80,
             "Spatial_UnlimitedReload": 1
@@ -196,7 +196,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Merc Sniper Team",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.60,
+            "Spatial_Chance": 0.50,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.80,
             "Spatial_UnlimitedReload": 1
