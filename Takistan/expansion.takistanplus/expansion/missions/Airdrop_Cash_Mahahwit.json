@@ -3,7 +3,7 @@
     "Enabled": 1,
     "Weight": 500,
     "MissionMaxTime": 1200,
-    "MissionName": "Cash_Loy_Manara",
+    "MissionName": "Cash_Mahahwit",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -17,7 +17,7 @@
     "DropLocation": {
         "x": 5678.05,
         "z": 9954.15,
-        "Name": "Loy Manara",
+        "Name": "Mahahwit",
         "Radius": 1
     },
     "Infected": [
