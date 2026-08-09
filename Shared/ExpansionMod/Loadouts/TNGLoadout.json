@@ -1886,7 +1886,6 @@
         },
         {
             "ClassName": "WEAPON",
-            "Include": "",
             "Chance": 1,
             "Quantity": {
                 "Min": 0,
@@ -1898,8 +1897,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "Mp133Shotgun",
-                            "Include": "",
+                            "ClassName": "saiga",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1908,36 +1906,48 @@
                             "Health": [],
                             "InventoryAttachments": [
                                 {
-                                    "ClassName": "fnp45_mrdsoptic",
-                                    "Chance": 1,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [
+                                    "SlotName": "",
+                                    "Items": [
                                         {
-                                            "SlotName": "",
-                                            "Items": [
-                                                {
-                                                    "ClassName": "Battery9V",
-                                                    "Chance": 1,
-                                                    "Quantity": {
-                                                        "Min": 0,
-                                                        "Max": 0
-                                                    },
-                                                    "Health": [],
-                                                    "InventoryAttachments": [],
-                                                    "InventoryCargo": [],
-                                                    "ConstructionPartsBuilt": [],
-                                                    "Sets": []
-                                                }
-                                            ]
+                                            "ClassName": "saiga_bttstck",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "mag_saiga_8rnd",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "mag_saiga_drum20rnd",
+                                            "Chance": 0.5,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
                                         }
-                                    ],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
+                                    ]
                                 }
                             ],
                             "InventoryCargo": [],
@@ -1949,8 +1959,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Ammo_12gaSlug",
-                    "Include": "",
+                    "ClassName": "mag_saiga_8rnd",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1963,9 +1972,8 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Ammo_12gaSlug",
-                    "Include": "",
-                    "Chance": 1,
+                    "ClassName": "mag_saiga_drum20rnd",
+                    "Chance": 0.5,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0

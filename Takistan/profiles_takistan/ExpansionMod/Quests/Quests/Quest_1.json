@@ -20,22 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "MetalWire",
+            "ClassName": "ChernarusMap",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         },
         {
-            "ClassName": "WoodenStick",
+            "ClassName": "Compass",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
+        },
+        {
+            "ClassName": "Pen_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -44,7 +53,9 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [],
-    "QuestTurnInIDs": [2],
+    "QuestTurnInIDs": [
+        2
+    ],
     "IsAchievement": 0,
     "Objectives": [
         {

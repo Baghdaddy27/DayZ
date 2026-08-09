@@ -97,7 +97,43 @@
                 "mag_1911_7rnd"
             ],
             "Variants": [
-                "engraved1911"
+                "Colt1911_Black",
+                "Colt1911_Blue",
+                "Colt1911_Brown",
+                "Colt1911_Clean",
+                "Colt1911_Green",
+                "Colt1911_Grey",
+                "Colt1911_Orange",
+                "Colt1911_Pink",
+                "Colt1911_Red",
+                "Colt1911_White",
+                "Colt1911_Yellow"
+            ]
+        },
+        {
+            "ClassName": "engraved1911",
+            "MaxPriceThreshold": 680,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_1911_7rnd"
+            ],
+            "Variants": [
+                "Engraved1911_Black",
+                "Engraved1911_Blue",
+                "Engraved1911_Brown",
+                "Engraved1911_Clean",
+                "Engraved1911_Engraved",
+                "Engraved1911_Green",
+                "Engraved1911_Grey",
+                "Engraved1911_Orange",
+                "Engraved1911_Pink",
+                "Engraved1911_Red",
+                "Engraved1911_White",
+                "Engraved1911_Yellow"
             ]
         },
         {

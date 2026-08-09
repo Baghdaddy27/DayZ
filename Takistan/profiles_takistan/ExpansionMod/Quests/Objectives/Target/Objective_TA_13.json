@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 13,
     "ObjectiveType": 2,
-    "ObjectiveText": "Daily: Kill 100 Infected",
+    "ObjectiveText": "Kill 25 Infected with a Crowbar",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -12,7 +12,7 @@
     ],
     "MaxDistance": -1,
     "MinDistance": -1,
-    "Amount": 100,
+    "Amount": 25,
     "ClassNames": [
         "ZmbM_CitizenASkinny_Base",
         "ZmbM_CitizenASkinny_LT_Base",
@@ -225,7 +225,6 @@
         "ZmbM_usSoldier_normal_Desert",
         "ZmbF_usSoldier_normal_Desert",
         "ZmbF_usSoldier_Heavy_Desert",
-        "ZmbM_usSoldier_normal_Woodland",
         "ZmbM_usSoldier_Officer_Desert",
         "ZmbF_CitizenBSkinny",
         "ZmbF_PatientOld_Winter",
@@ -248,7 +247,9 @@
         "ZmbM_PatrolNormal_Winter"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [],
+    "AllowedWeapons": [
+        "crowbar"
+    ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

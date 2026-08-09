@@ -12,7 +12,7 @@
     "DropZoneHeight": 450,
     "Speed": 25,
     "DropZoneSpeed": 25,
-    "Container": "Random",
+    "Container": "ExpansionAirdropContainer_Military_WinterCamo",
     "FallSpeed": 4.5,
     "DropLocation": {
         "x": 3794.72,

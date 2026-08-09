@@ -8,7 +8,7 @@
         "Eliminate the Mercenary Patrol.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Wagner Group. Reward: $250",
+    "ObjectiveText": "Eliminate the Mercs. Reward: $500",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,12 +21,12 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
+            "Amount": 500,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,

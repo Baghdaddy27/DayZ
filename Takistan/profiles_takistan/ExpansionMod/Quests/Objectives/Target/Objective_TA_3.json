@@ -2,16 +2,16 @@
     "ConfigVersion": 28,
     "ID": 3,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 10 Shadow Company Operatives.",
+    "ObjectiveText": "Kill 10 Shadow Company Mercs.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        0,
+        0,
+        0
     ],
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
+    "MaxDistance": -1,
+    "MinDistance": -1,
     "Amount": 10,
     "ClassNames": [
         "eAI_SurvivorF_Eva",

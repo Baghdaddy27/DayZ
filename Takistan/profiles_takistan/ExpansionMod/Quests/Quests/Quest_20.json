@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 20,
     "Type": 1,
-    "Title": "Weekly: Hunt 10 of any Animal",
+    "Title": "Weekly: Hunt 5 of any Animal",
     "Descriptions": [
-        "Hunt 10 of any Animal. Check the Discord or iZurvive for their locations.",
-        "Hunt 10 of any Animal. Check the Discord or iZurvive for their locations.",
+        "Hunt 5 of any Animal. Check iZurvive for their locations.",
+        "Hunt 5 of any Animal. Check iZurvive for their locations.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt 10 of any animal. Reward: $500!",
+    "ObjectiveText": "Hunt 5 of any animal. Reward: $500!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -26,7 +26,7 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -35,10 +35,10 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        3
+        2
     ],
     "QuestTurnInIDs": [
-        3
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [

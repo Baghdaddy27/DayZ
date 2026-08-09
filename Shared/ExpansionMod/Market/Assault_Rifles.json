@@ -50,8 +50,17 @@
                 "mag_akm_30rnd"
             ],
             "Variants": [
-                "akm_black",
-                "akm_green"
+                "AKM_Black",
+                "AKM_Blue",
+                "AKM_Brown",
+                "AKM_Clean",
+                "AKM_Green",
+                "AKM_Grey",
+                "AKM_Orange",
+                "AKM_Pink",
+                "AKM_Red",
+                "AKM_White",
+                "AKM_Yellow"
             ]
         },
         {
@@ -68,8 +77,17 @@
                 "mag_ak101_30rnd"
             ],
             "Variants": [
-                "ak101_black",
-                "ak101_green"
+                "AK101_Black",
+                "AK101_Blue",
+                "AK101_Brown",
+                "AK101_Clean",
+                "AK101_Green",
+                "AK101_Grey",
+                "AK101_Orange",
+                "AK101_Pink",
+                "AK101_Red",
+                "AK101_White",
+                "AK101_Yellow"
             ]
         },
         {
@@ -86,8 +104,18 @@
                 "mag_ak74_30rnd"
             ],
             "Variants": [
-                "ak74_black",
-                "ak74_green"
+                "AK74",
+                "AK74_Black",
+                "AK74_Blue",
+                "AK74_Brown",
+                "AK74_Clean",
+                "AK74_Green",
+                "AK74_Grey",
+                "AK74_Orange",
+                "AK74_Pink",
+                "AK74_Red",
+                "AK74_White",
+                "AK74_Yellow"
             ]
         },
         {
@@ -105,8 +133,16 @@
                 "m4_plastichndgrd"
             ],
             "Variants": [
-                "m4a1_black",
-                "m4a1_green"
+                "M4A1_Blue",
+                "M4A1_Brown",
+                "M4A1_Clean",
+                "M4A1_Green",
+                "M4A1_Grey",
+                "M4A1_Orange",
+                "M4A1_Pink",
+                "M4A1_Red",
+                "M4A1_White",
+                "M4A1_Yellow"
             ]
         },
         {

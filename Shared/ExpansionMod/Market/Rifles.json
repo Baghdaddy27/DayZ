@@ -15,7 +15,42 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Izh18_Black",
+                "Izh18_Blue",
+                "Izh18_Brown",
+                "Izh18_Clean",
+                "Izh18_Green",
+                "Izh18_Grey",
+                "Izh18_Orange",
+                "Izh18_Pink",
+                "Izh18_Red",
+                "Izh18_White",
+                "Izh18_Yellow"
+            ]
+        },
+        {
+            "ClassName": "SawedOffizh18",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SawedoffIzh18_Black",
+                "SawedoffIzh18_Blue",
+                "SawedoffIzh18_Brown",
+                "SawedoffIzh18_Clean",
+                "SawedoffIzh18_Green",
+                "SawedoffIzh18_Grey",
+                "SawedoffIzh18_Orange",
+                "SawedoffIzh18_Pink",
+                "SawedoffIzh18_Red",
+                "SawedoffIzh18_White",
+                "SawedoffIzh18_Yellow"
+            ]
         },
         {
             "ClassName": "ruger1022",
@@ -28,7 +63,19 @@
             "SpawnAttachments": [
                 "mag_ruger1022_15rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "Ruger1022_Black",
+                "Ruger1022_Blue",
+                "Ruger1022_Brown",
+                "Ruger1022_Clean",
+                "Ruger1022_Green",
+                "Ruger1022_Grey",
+                "Ruger1022_Orange",
+                "Ruger1022_Pink",
+                "Ruger1022_Red",
+                "Ruger1022_White",
+                "Ruger1022_Yellow"
+            ]
         },
         {
             "ClassName": "b95",
@@ -40,10 +87,29 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "b95_black",
-                "b95_green",
-                "sawedoffb95"
+                "B95_Black",
+                "B95_Blue",
+                "B95_Brown",
+                "B95_Clean",
+                "B95_Green",
+                "B95_Grey",
+                "B95_Orange",
+                "B95_Pink",
+                "B95_Red",
+                "B95_White",
+                "B95_Yellow"
             ]
+        },
+        {
+            "ClassName": "sawedoffb95",
+            "MaxPriceThreshold": 3400,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "repeater",
@@ -54,7 +120,19 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "Repeater_Black",
+                "Repeater_Blue",
+                "Repeater_Brown",
+                "Repeater_Clean",
+                "Repeater_Green",
+                "Repeater_Grey",
+                "Repeater_Orange",
+                "Repeater_Pink",
+                "Repeater_Red",
+                "Repeater_White",
+                "Repeater_Yellow"
+            ]
         },
         {
             "ClassName": "mosin9130",
@@ -69,10 +147,39 @@
                 "mosin9130_black",
                 "mosin9130_camo",
                 "mosin9130_green",
-                "SawedoffMosin9130",
+                "Mosin9130_Blue",
+                "Mosin9130_Brown",
+                "Mosin9130_Clean",
+                "Mosin9130_Grey",
+                "Mosin9130_Orange",
+                "Mosin9130_Pink",
+                "Mosin9130_Red",
+                "Mosin9130_White",
+                "Mosin9130_Yellow"
+            ]
+        },
+        {
+            "ClassName": "SawedoffMosin9130",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
                 "sawedoffmosin9130_black",
                 "sawedoffmosin9130_camo",
-                "sawedoffmosin9130_green"
+                "sawedoffmosin9130_green",
+                "SawedoffMosin9130_Blue",
+                "SawedoffMosin9130_Brown",
+                "SawedoffMosin9130_Clean",
+                "SawedoffMosin9130_Grey",
+                "SawedoffMosin9130_Orange",
+                "SawedoffMosin9130_Pink",
+                "SawedoffMosin9130_Red",
+                "SawedoffMosin9130_White",
+                "SawedoffMosin9130_Yellow"
             ]
         },
         {
@@ -87,9 +194,18 @@
                 "mag_cz527_5rnd"
             ],
             "Variants": [
-                "cz527_black",
-                "cz527_camo",
-                "cz527_green"
+                "CZ527_Black",
+                "CZ527_Blue",
+                "CZ527_Brown",
+                "CZ527_Camo",
+                "CZ527_Clean",
+                "CZ527_Green",
+                "CZ527_Grey",
+                "CZ527_Orange",
+                "CZ527_Pink",
+                "CZ527_Red",
+                "CZ527_White",
+                "CZ527_Yellow"
             ]
         },
         {
@@ -115,8 +231,17 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "winchester70_black",
-                "winchester70_green"
+                "Winchester70_Black",
+                "Winchester70_Blue",
+                "Winchester70_Brown",
+                "Winchester70_Clean",
+                "Winchester70_Green",
+                "Winchester70_Grey",
+                "Winchester70_Orange",
+                "Winchester70_Pink",
+                "Winchester70_Red",
+                "Winchester70_White",
+                "Winchester70_Yellow"
             ]
         },
         {
@@ -131,8 +256,17 @@
                 "sks_bayonet"
             ],
             "Variants": [
-                "sks_black",
-                "sks_green"
+                "SKS_Black",
+                "SKS_Blue",
+                "SKS_Brown",
+                "SKS_Clean",
+                "SKS_Green",
+                "SKS_Grey",
+                "SKS_Orange",
+                "SKS_Pink",
+                "SKS_Red",
+                "SKS_White",
+                "SKS_Yellow"
             ]
         },
         {

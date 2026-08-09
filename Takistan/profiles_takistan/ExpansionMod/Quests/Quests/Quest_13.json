@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 13,
     "Type": 1,
-    "Title": "Daily: Hunt 2 Deer",
+    "Title": "Daily: Kill 10 Infected with Explosives",
     "Descriptions": [
-        "Hunt 2 Deer. Check the Discord or iZurvive for their locations.",
-        "Hunt 2 Deer. Check the Discord or iZurvive for their locations.",
+        "Kill Kill 10 Infected with Explosives",
+        "Kill Kill 10 Infected with Explosives",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt 2 Deer. Reward: $100!",
+    "ObjectiveText": "Kill 10 Infected with Explosives Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,12 +21,12 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
+            "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
+            "ID": 10,
             "ObjectiveType": 2
         }
     ],

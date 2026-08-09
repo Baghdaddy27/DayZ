@@ -2,17 +2,17 @@
     "ConfigVersion": 28,
     "ID": 12,
     "ObjectiveType": 2,
-    "ObjectiveText": "Hunt 10 of any Animal",
+    "ObjectiveText": "Hunt 5 of any Animal",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        0,
+        0,
+        0
     ],
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
-    "Amount": 10,
+    "MaxDistance": -1,
+    "MinDistance": -1,
+    "Amount": 5,
     "ClassNames": [
         "Animal_LepusEuropaeus",
         "Animal_CanisLupus_Grey",
@@ -28,7 +28,7 @@
         "Animal_CapraHircus_White",
         "Animal_CapraHircus_Spooky",
         "Animal_VulpesVulpes"
-],
+    ],
     "CountSelfKill": 0,
     "AllowedWeapons": [],
     "ExcludedClassNames": [],

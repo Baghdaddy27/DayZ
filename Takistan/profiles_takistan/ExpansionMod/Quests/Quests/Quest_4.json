@@ -2,32 +2,54 @@
     "ConfigVersion": 22,
     "ID": 4,
     "Type": 1,
-    "Title": "PLACEHOLDER",
+    "Title": "PVP: Kill 3 Players in the PVP Zone",
     "Descriptions": [
-        "PLACEHOLDER"
+        "Kill 3 Players in the PVP Zone",
+        "Kill 3 Players in the PVP Zone",
+        "What's up, %1?"
     ],
-    "ObjectiveText": "PLACEHOLDER",
+    "ObjectiveText": "PVP: Kill 3 Players Reward: $1000",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
-    "IsGroupQuest": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        }
+    ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
-    "QuestGiverIDs": [],
-    "QuestTurnInIDs": [],
+    "QuestGiverIDs": [
+        2
+    ],
+    "QuestTurnInIDs": [
+        2
+    ],
     "IsAchievement": 0,
-    "Objectives": [],
-    "QuestColor": -1,
-    "ReputationReward": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 14,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": -65536,
+    "ReputationReward": 200,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",
@@ -38,5 +60,5 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 0
+    "Active": 1
 }

@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 14,
     "Type": 1,
-    "Title": "Daily: Hunt a Bear",
+    "Title": "Daily: Kill 25 Infected with a Crowbar",
     "Descriptions": [
-        "Hunt a Bear. Check the Discord or iZurvive for their locations.",
-        "Hunt a Bear. Check the Discord or iZurvive for their locations.",
+        "Kill 25 Infected with a Crowbar",
+        "Kill 25 Infected with a Crowbar",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt a Bear. Reward: $100!",
+    "ObjectiveText": "Kill 50 Infected. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,12 +21,12 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 100,
+            "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 10,
+            "ID": 13,
             "ObjectiveType": 2
         }
     ],

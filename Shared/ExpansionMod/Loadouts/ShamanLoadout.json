@@ -1887,7 +1887,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "R12",
+                            "ClassName": "expansion_benellim4",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,

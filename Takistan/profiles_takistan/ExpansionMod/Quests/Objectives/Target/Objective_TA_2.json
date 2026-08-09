@@ -6,12 +6,12 @@
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        0,
+        0,
+        0
     ],
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
+    "MaxDistance": -1,
+    "MinDistance": -1,
     "Amount": 50,
     "ClassNames": [
         "eAI_SurvivorF_Eva",

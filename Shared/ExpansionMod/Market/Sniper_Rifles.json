@@ -17,7 +17,19 @@
             "SpawnAttachments": [
                 "mag_vss_10rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "VSS_Black",
+                "VSS_Blue",
+                "VSS_Brown",
+                "VSS_Clean",
+                "VSS_Green",
+                "VSS_Grey",
+                "VSS_Orange",
+                "VSS_Pink",
+                "VSS_Red",
+                "VSS_White",
+                "VSS_Yellow"
+            ]
         },
         {
             "ClassName": "asval",
@@ -73,7 +85,17 @@
                 "mag_svd_10rnd"
             ],
             "Variants": [
-                "svd"
+                "svd",
+                "SVD_Black",
+                "SVD_Blue",
+                "SVD_Brown",
+                "SVD_Green",
+                "SVD_Grey",
+                "SVD_Orange",
+                "SVD_Pink",
+                "SVD_Red",
+                "SVD_White",
+                "SVD_Yellow"
             ]
         },
         {

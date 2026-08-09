@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 5,
     "Type": 1,
-    "Title": "Daily: Kill 50 Infected",
+    "Title": "Daily: Kill 10 Contractors",
     "Descriptions": [
-        "Kill 50 infected of any type.",
-        "Kill 50 infected of any type.",
+        "Kill 10 Contractors. They wear the Black and Yellow Snake Armbands.",
+        "Kill 10 Contractors. They wear the Black and Yellow Snake Armbands",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 50 Infected. Reward: $250!",
+    "ObjectiveText": "Kill 10 Contractors. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -26,7 +26,7 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 1,
+            "ID": 7,
             "ObjectiveType": 2
         }
     ],
