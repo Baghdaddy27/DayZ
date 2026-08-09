@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "ExpansionBankNoteUSD",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "ExpansionBankNoteEuro",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 110,
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,

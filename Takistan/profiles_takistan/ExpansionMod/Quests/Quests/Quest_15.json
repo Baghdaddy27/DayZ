@@ -8,7 +8,7 @@
         "Eliminate the Shadow Company Patrol.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Shadow Company. Reward: $500",
+    "ObjectiveText": "Eliminate Shadow Company.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,7 +21,43 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ExpansionBanknoteEuro",
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ExpansionGoldBar",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ExpansionSilverBar",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
