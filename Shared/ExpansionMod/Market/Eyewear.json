@@ -110,17 +110,6 @@
             "Variants": []
         },
         {
-            "ClassName": "eyepatch_improvised",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "skigoggles_whiteclear",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 65,
