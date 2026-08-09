@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 13,
     "Type": 1,
-    "Title": "Daily: Kill 10 Infected with Explosives",
+    "Title": "Daily: Kill 25 Infected with Head Shots",
     "Descriptions": [
-        "Kill Kill 10 Infected with Explosives",
-        "Kill Kill 10 Infected with Explosives",
+        "Kill 25 Infected with Head Shots",
+        "Kill 25 Infected with Head Shots",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 10 Infected with Explosives Reward: $250!",
+    "ObjectiveText": "Kill 25 Infected with Head Shots. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 10,
+            "ID": 8,
             "ObjectiveType": 2
         }
     ],

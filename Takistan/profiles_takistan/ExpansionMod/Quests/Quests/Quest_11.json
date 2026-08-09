@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 11,
     "Type": 1,
-    "Title": "Daily: Kill 25 Infected with Head Shots",
+    "Title": "Daily: Kill 50 Military / Police Infected",
     "Descriptions": [
-        "Kill 25 Infected with Head Shots",
-        "Kill 25 Infected with Head Shots",
+        "Kill 50 Military / Police Infected",
+        "Kill 50 Military / Police Infected",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 25 Infected with Head Shots. Reward: $250!",
+    "ObjectiveText": "Kill 50 Military / Police Infected. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -44,7 +44,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 11,
+            "ID": 10,
             "ObjectiveType": 2
         }
     ],

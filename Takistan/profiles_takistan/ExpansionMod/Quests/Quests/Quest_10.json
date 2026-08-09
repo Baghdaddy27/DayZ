@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 10,
     "Type": 1,
-    "Title": "Daily: Kill 100 Infected",
+    "Title": "Daily: Kill 50 Civilian Infected",
     "Descriptions": [
-        "Kill 100 infected of any type.",
-        "Kill 100 infected of any type.",
+        "Kill 50 Civilian Infected",
+        "Kill 50 Civilian Infected",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 100 Infected. Reward: $250!",
+    "ObjectiveText": "Kill 50 Civilian Infected. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
