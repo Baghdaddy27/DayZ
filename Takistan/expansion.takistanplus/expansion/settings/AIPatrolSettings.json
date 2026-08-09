@@ -257,7 +257,7 @@
         {
             "Name": "Shaman Ambush",
             "Persist": 0,
-            "Faction": "Shaman",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationScale": -1,
             "FormationLooseness": 1,
