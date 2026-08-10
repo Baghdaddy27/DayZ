@@ -589,6 +589,11 @@
                 "ClassName": "sodacan_spite",
                 "Quantity": -1,
                 "Attachments": []
+            },
+            {
+                "ClassName": "chemlight_green",
+                "Quantity": -1,
+                "Attachments": []
             }
         ],
         "PantsGear": [],
