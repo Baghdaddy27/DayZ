@@ -2105,19 +2105,6 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
                                         }
                                     ]
                                 }
@@ -2888,7 +2875,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.1,
+            "Chance": 0.15,
             "Quantity": {
                 "Min": 0,
                 "Max": 0

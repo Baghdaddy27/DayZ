@@ -949,7 +949,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -992,7 +992,7 @@
                                         },
                                         {
                                             "ClassName": "mk4optic_black",
-                                            "Chance": 0.5,
+                                            "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
                                                 "Max": 0
@@ -1032,45 +1032,13 @@
                                         },
                                         {
                                             "ClassName": "acogoptic",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "HoloOptic",
                                             "Chance": 0.5,
                                             "Quantity": {
                                                 "Min": 0,
                                                 "Max": 0
                                             },
                                             "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1,
-                                                            "Quantity": {
-                                                                "Min": 0,
-                                                                "Max": 0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
+                                            "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
@@ -1105,7 +1073,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1198,38 +1166,6 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "HoloOptic",
-                                            "Chance": 0.5,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1,
-                                                            "Quantity": {
-                                                                "Min": 0,
-                                                                "Max": 0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
                                         }
                                     ]
                                 }
@@ -1261,7 +1197,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1351,38 +1287,6 @@
                                             },
                                             "Health": [],
                                             "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-                                        {
-                                            "ClassName": "HoloOptic",
-                                            "Chance": 0.5,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1,
-                                                            "Quantity": {
-                                                                "Min": 0,
-                                                                "Max": 0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
