@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 8,
     "Type": 1,
-    "Title": "Daily: Kill 10 Shadow Company Mercs",
+    "Title": "Daily: Kill 10 Shadow Company Mercenaries",
     "Descriptions": [
-        "Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
-        "Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
+        "Bounty: Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
+        "Bounty: Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 10 Shadow Company Mercs. Reward: $250!",

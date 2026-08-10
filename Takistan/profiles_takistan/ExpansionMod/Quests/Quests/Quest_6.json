@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 6,
     "Type": 1,
-    "Title": "Daily: Kill 10 Mercenaries",
+    "Title": "Daily: Kill 10 Korvan Group Mercenaries",
     "Descriptions": [
-        "Kill 10 Mercenaries. They wear the Red Armbands.",
-        "Kill 10 Mercenaries. They wear the Red Armbands.",
+        "Bounty: Kill 10 Korvan Group Mercenaries. They wear the Red Armbands.",
+        "Bounty: Kill 10 Korvan Group Mercenaries. They wear the Red Armbands.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 10 Mercs. Reward: $250!",

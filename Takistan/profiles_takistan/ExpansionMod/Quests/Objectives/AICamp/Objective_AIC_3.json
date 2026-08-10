@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 3,
     "ObjectiveType": 8,
-    "ObjectiveText": "Eliminate Blackridge",
+    "ObjectiveText": "Eliminate Korvan Group",
     "TimeLimit": 86400,
     "Active": 1,
     "InfectedDeletionRadius": 0,
@@ -12,12 +12,12 @@
     "AllowedDamageZones": [],
     "AISpawns": [
         {
-            "Name": "Blackridge",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorGrenLoadout",
+            "Loadout": "MercSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -76,24 +76,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    716.164124,
-                    546.111755,
-                    10957.911133
-                ],
-                [
-                    726.513977,
-                    544.22998,
-                    10979.370117
+                    7281.062012,
+                    513.220642,
+                    4052.125244
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -152,24 +147,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    713.49469,
-                    546.068298,
-                    10959.267578
-                ],
-                [
-                    715.141174,
-                    544.729492,
-                    10983.300781
+                    7266.486328,
+                    513.283447,
+                    4049.87793
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -228,100 +218,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    711.276917,
-                    545.945801,
-                    10960.838867
-                ],
-                [
-                    701.096863,
-                    545.48999,
-                    10978.672852
+                    7288.751953,
+                    514.705261,
+                    4045.822021
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 300,
-            "AccuracyMin": 0.5,
-            "AccuracyMax": 0.8,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
-            "MinDistRadius": 1,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    709.329468,
-                    545.840576,
-                    10962.053711
-                ],
-                [
-                    722.177124,
-                    545.237061,
-                    10966.826172
-                ]
-            ]
-        },
-        {
-            "Name": "Blackridge",
-            "Persist": 0,
-            "Faction": "West",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -380,24 +289,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    720.526367,
-                    544.7229,
-                    10992.542969
+                    7252.497559,
+                    513.071167,
+                    4047.823242
                 ],
                 [
-                    729.113037,
-                    544.584595,
-                    10986.276367
+                    7296.376953,
+                    516.033386,
+                    4038.37915
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -456,24 +365,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    726.513977,
-                    544.22998,
-                    10979.370117
+                    7234.650879,
+                    505.14566,
+                    4082.368896
                 ],
                 [
-                    711.860229,
-                    545.332581,
-                    10968.699219
+                    7268.234375,
+                    512.857117,
+                    4054.119141
                 ]
             ]
         },
         {
-            "Name": "Contractor Guard",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -532,24 +441,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    715.141174,
-                    544.729492,
-                    10983.300781
+                    7229.682129,
+                    505.14566,
+                    4074.783447
                 ],
                 [
-                    723.814453,
-                    546.294434,
-                    10954.042969
+                    7272.370117,
+                    513.063049,
+                    4052.119385
                 ]
             ]
         },
         {
-            "Name": "Contractor Guard",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -608,24 +517,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    701.096863,
-                    545.48999,
-                    10978.672852
+                    7251.42041,
+                    507.397736,
+                    4073.962402
                 ],
                 [
-                    704.639832,
-                    545.514648,
-                    10969.463867
+                    7270.074707,
+                    514.000244,
+                    4044.172363
                 ]
             ]
         },
         {
-            "Name": "Contractor Guard",
+            "Name": "Korvan Group",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "Mercenaries",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "MercAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -684,14 +593,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    728.096985,
-                    544.329468,
-                    10976.106445
+                    7247.990723,
+                    506.847046,
+                    4067.264404
                 ],
                 [
-                    722.177124,
-                    545.237061,
-                    10966.826172
+                    7294.17627,
+                    515.027039,
+                    4049.739746
                 ]
             ]
         }

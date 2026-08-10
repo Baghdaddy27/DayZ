@@ -302,7 +302,7 @@
                     "Items": [
                         {
                             "ClassName": "assaultbag_ttsko",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -660,7 +660,7 @@
                         },
                         {
                             "ClassName": "assaultbag_green",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1018,7 +1018,7 @@
                         },
                         {
                             "ClassName": "assaultbag_black",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0

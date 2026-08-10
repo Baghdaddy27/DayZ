@@ -331,7 +331,7 @@
                         },
                         {
                             "ClassName": "tortillabag",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -689,7 +689,7 @@
                         },
                         {
                             "ClassName": "tortillabag_desert",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1047,7 +1047,7 @@
                         },
                         {
                             "ClassName": "tortillabag_winter",
-                            "Chance": 1,
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0

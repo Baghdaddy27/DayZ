@@ -4,11 +4,11 @@
     "Type": 1,
     "Title": "Weekly: Hunt 5 of any Animal",
     "Descriptions": [
-        "Hunt 5 of any Animal. Check iZurvive for their locations.",
-        "Hunt 5 of any Animal. Check iZurvive for their locations.",
+        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
+        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt 5 of any animal. Reward: $500!",
+    "ObjectiveText": "Hunt 5 of any animal. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,

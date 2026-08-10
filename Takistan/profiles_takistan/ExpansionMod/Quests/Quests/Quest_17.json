@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 17,
+    "ID": 19,
     "Type": 1,
-    "Title": "Group: Eliminate the Shaman Patrol",
+    "Title": "Group: Eliminate Takistan National Guard [TNG]",
     "Descriptions": [
-        "Eliminate the Shamans.",
-        "Eliminate the Shamans.",
+        "Up to dealing with Traitors, %1? The Takistan National Guard [TNG] have gone rogue and might be behind the outbreak here in Takistan. Go find their base of operations in the mountains and eliminate them all.",
+        "Up to dealing with Traitors, %1? The Takistan National Guard [TNG] have gone rogue and might be behind the outbreak here in Takistan. Go find their base of operations in the mountains and eliminate them all.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate the Shamans.",
+    "ObjectiveText": "Eliminate the TNG. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -80,8 +80,8 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 7
+            "ID": 4,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": -65536,

@@ -2,20 +2,20 @@
     "ConfigVersion": 22,
     "ID": 19,
     "Type": 1,
-    "Title": "Weekly: Kill 50 AI Players",
+    "Title": "Group: Eliminate the Insurgents",
     "Descriptions": [
-        "Kill 50 AI players of any faction.",
-        "Kill 50 AI players of any faction.",
+        "Want to deal with some local problems, %1? The Insurgent Militias are killing our own people. Find where they are hiding and kill them.",
+        "Want to deal with some local problems, %1? The Insurgent Militias are killing our own people. Find where they are hiding and kill them.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 50 AI Players. Reward: $500!",
+    "ObjectiveText": "Eliminate the Insurgents. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
@@ -66,9 +66,9 @@
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
         2
@@ -80,11 +80,11 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
-            "ObjectiveType": 2
+            "ID": 1,
+            "ObjectiveType": 7
         }
     ],
-    "QuestColor": -32768,
+    "QuestColor": -65536,
     "ReputationReward": 200,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],

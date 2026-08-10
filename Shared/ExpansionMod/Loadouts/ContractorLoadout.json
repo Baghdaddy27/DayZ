@@ -775,7 +775,7 @@
                     "Items": [
                         {
                             "ClassName": "coyotebag_brown",
-                            "Chance": 1,
+                            "Chance": 0.20,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1133,7 +1133,7 @@
                         },
                         {
                             "ClassName": "coyotebag_green",
-                            "Chance": 1,
+                            "Chance": 0.20,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1491,7 +1491,7 @@
                         },
                         {
                             "ClassName": "coyotebag_winter",
-                            "Chance": 1,
+                            "Chance": 0.20,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -3947,6 +3947,97 @@
             "InventoryCargo": [
                 {
                     "ClassName": "mag_expansion_m14_20rnd",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 0.15,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "M79",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "ammo_expansion_m203_smoke_teargas",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "ammo_expansion_m203_smoke_teargas",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ammo_40mm_smoke_black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ammo_40mm_smoke_black",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

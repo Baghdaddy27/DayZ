@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 2,
     "ObjectiveType": 8,
-    "ObjectiveText": "Eliminate Blackridge",
+    "ObjectiveText": "Eliminate Shadow Company",
     "TimeLimit": 86400,
     "Active": 1,
     "InfectedDeletionRadius": 0,
@@ -12,12 +12,12 @@
     "AllowedDamageZones": [],
     "AISpawns": [
         {
-            "Name": "Blackridge",
+            "Name": "Shadow Company",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorGrenLoadout",
+            "Loadout": "SpecOpsAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -76,24 +76,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    716.164124,
-                    546.111755,
-                    10957.911133
-                ],
-                [
-                    726.513977,
-                    544.22998,
-                    10979.370117
+                    2747.977295,
+                    580.224365,
+                    2131.677002
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Shadow Company",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "SpecOpsSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -152,24 +147,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    713.49469,
-                    546.068298,
-                    10959.267578
-                ],
-                [
-                    715.141174,
-                    544.729492,
-                    10983.300781
+                    2747.585693,
+                    579.871277,
+                    2138.655029
                 ]
             ]
         },
         {
-            "Name": "Blackridge",
+            "Name": "Shadow Company",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "SpecOpsSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -228,252 +218,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    711.276917,
-                    545.945801,
-                    10960.838867
-                ],
-                [
-                    701.096863,
-                    545.48999,
-                    10978.672852
-                ]
-            ]
-        },
-        {
-            "Name": "Blackridge",
-            "Persist": 0,
-            "Faction": "West",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 300,
-            "AccuracyMin": 0.5,
-            "AccuracyMax": 0.8,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
-            "MinDistRadius": 1,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    709.329468,
-                    545.840576,
-                    10962.053711
-                ],
-                [
-                    722.177124,
-                    545.237061,
-                    10966.826172
-                ]
-            ]
-        },
-        {
-            "Name": "Blackridge",
-            "Persist": 0,
-            "Faction": "West",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "STATIC",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 300,
-            "AccuracyMin": 0.5,
-            "AccuracyMax": 0.75,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
-            "MinDistRadius": 10,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    720.526367,
-                    544.7229,
-                    10992.542969
-                ],
-                [
-                    729.113037,
-                    544.584595,
-                    10986.276367
-                ]
-            ]
-        },
-        {
-            "Name": "Blackridge",
-            "Persist": 0,
-            "Faction": "West",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "STATIC",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 300,
-            "AccuracyMin": 0.5,
-            "AccuracyMax": 0.75,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
-            "MinDistRadius": 10,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    726.513977,
-                    544.22998,
-                    10979.370117
-                ],
-                [
-                    711.860229,
-                    545.332581,
-                    10968.699219
+                    2750.771729,
+                    580.015259,
+                    2133.968262
                 ]
             ]
         },
         {
             "Name": "Contractor Guard",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "SpecOpsAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -532,24 +289,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    715.141174,
-                    544.729492,
-                    10983.300781
+                    2749.489502,
+                    576.972778,
+                    2193.662598
                 ],
                 [
-                    723.814453,
-                    546.294434,
-                    10954.042969
+                    2740.76123,
+                    582.55304,
+                    2110.018311
                 ]
             ]
         },
         {
             "Name": "Contractor Guard",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "SpecOpsAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -608,24 +365,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    701.096863,
-                    545.48999,
-                    10978.672852
+                    2758.943115,
+                    576.869385,
+                    2193.762451
                 ],
                 [
-                    704.639832,
-                    545.514648,
-                    10969.463867
+                    2757.47168,
+                    580.249451,
+                    2147.380371
                 ]
             ]
         },
         {
             "Name": "Contractor Guard",
             "Persist": 0,
-            "Faction": "West",
+            "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "SpecOpsAridLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -684,14 +441,166 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    728.096985,
-                    544.329468,
-                    10976.106445
+                    2749.805908,
+                    581.906921,
+                    2154.870605
                 ],
                 [
-                    722.177124,
-                    545.237061,
-                    10966.826172
+                    2757.128418,
+                    580.207031,
+                    2132.425781
+                ]
+            ]
+        },
+        {
+            "Name": "Contractor Guard",
+            "Persist": 0,
+            "Faction": "East",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "SpecOpsAridLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 0.75,
+            "ThreatDistanceLimit": 100,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 1,
+            "MinDistRadius": 10,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2744.056885,
+                    580.259277,
+                    2133.784424
+                ],
+                [
+                    2756.064453,
+                    579.996338,
+                    2140.748535
+                ]
+            ]
+        },
+        {
+            "Name": "Contractor Guard",
+            "Persist": 0,
+            "Faction": "East",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "SpecOpsAridLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 0.75,
+            "ThreatDistanceLimit": 100,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 1,
+            "MinDistRadius": 10,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2742.903809,
+                    581.964844,
+                    2118.539063
+                ],
+                [
+                    2733.030762,
+                    584.703735,
+                    2134.27417
                 ]
             ]
         }

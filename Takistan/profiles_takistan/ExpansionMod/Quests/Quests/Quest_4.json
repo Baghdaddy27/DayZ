@@ -4,8 +4,8 @@
     "Type": 1,
     "Title": "PVP: Kill 3 Players in the PVP Zone",
     "Descriptions": [
-        "Kill 3 Players in the PVP Zone",
-        "Kill 3 Players in the PVP Zone",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Kill 3 Players in the PVP Zone",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Kill 3 Players in the PVP Zone",
         "What's up, %1?"
     ],
     "ObjectiveText": "PVP: Kill 3 Players Reward: $1000",

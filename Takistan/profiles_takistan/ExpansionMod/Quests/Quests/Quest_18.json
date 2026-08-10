@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 18,
     "Type": 1,
-    "Title": "Group: Eliminate the Contractor Patrol",
+    "Title": "Group: Eliminate Blackridge",
     "Descriptions": [
-        "Eliminate the Contractor Patrol.",
-        "Eliminate the Contractor Patrol.",
+        "Ready for something challenging, %1? Blackridge is a North American mercenary company responsible for the collapse of the international relief efforts. Go find their base of operations in the mountains and eliminate them all.",
+        "Ready for something challenging, %1? Blackridge is a North American mercenary company responsible for the collapse of the international relief efforts. Go find their base of operations in the mountains and eliminate them all.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Shadow Company.",
+    "ObjectiveText": "Eliminate Blackridge. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,

@@ -1,17 +1,151 @@
 {
     "m_Version": 4,
     "RoamingLocations": [
-        {
-            "Name": "AI",
-            "Position": [
-                8000.0,
-                8000.0,
-                0.0
-            ],
-            "Radius": 10000.0,
-            "Type": "Capital",
-            "Enabled": 1
-        }
+        [
+            {
+                "Name": "Al Babair",
+                "Position": [
+                    10173.439453,
+                    127.909355,
+                    11308.05957
+                ],
+                "Radius": 300,
+                "Type": "Village",
+                "Enabled": 1
+            },
+            {
+                "Name": "Bastam",
+                "Position": [
+                    6062.720703,
+                    106.899513,
+                    8985.960938
+                ],
+                "Radius": 300,
+                "Type": "City",
+                "Enabled": 1
+            },
+            {
+                "Name": "Mahahwit",
+                "Position": [
+                    6049.611816,
+                    67.273041,
+                    10445.108398
+                ],
+                "Radius": 300,
+                "Type": "City",
+                "Enabled": 1
+            },
+            {
+                "Name": "Rustaq",
+                "Position": [
+                    2629.776855,
+                    197.728256,
+                    5096.119629
+                ],
+                "Radius": 300,
+                "Type": "Capital",
+                "Enabled": 1
+            },
+            {
+                "Name": "Rasman",
+                "Position": [
+                    6112.497559,
+                    72.360054,
+                    11326.275391
+                ],
+                "Radius": 300,
+                "Type": "Capital",
+                "Enabled": 1
+            },
+            {
+                "Name": "Nagara",
+                "Position": [
+                    3093.360107,
+                    60.488976,
+                    9886.240234
+                ],
+                "Radius": 300,
+                "Type": "Village",
+                "Enabled": 1
+            },
+            {
+                "Name": "Loy Manara Refinery",
+                "Position": [
+                    7116.581543,
+                    281.267761,
+                    1025.525146
+                ],
+                "Radius": 300,
+                "Type": "Village",
+                "Enabled": 1
+            },
+            {
+                "Name": "Gospandi",
+                "Position": [
+                    3762.768066,
+                    136.548538,
+                    9001.713867
+                ],
+                "Radius": 300,
+                "Type": "Local",
+                "Enabled": 1
+            },
+            {
+                "Name": "Loy Manara Airbase",
+                "Position": [
+                    8221.803711,
+                    296.140015,
+                    1957.614624
+                ],
+                "Radius": 300,
+                "Type": "Capital",
+                "Enabled": 1
+            },
+            {
+                "Name": "Azzablah FOB",
+                "Position": [
+                    11838.179688,
+                    376.077484,
+                    2603.302734
+                ],
+                "Radius": 300,
+                "Type": "Village",
+                "Enabled": 1
+            },
+            {
+                "Name": "Garmsar FOB",
+                "Position": [
+                    10457.875,
+                    258.52475,
+                    6423.928223
+                ],
+                "Radius": 300,
+                "Type": "City",
+                "Enabled": 1
+            },
+            {
+                "Name": "Feeruz Abad FOB",
+                "Position": [
+                    5214.656738,
+                    195.071884,
+                    5941.920898
+                ],
+                "Radius": 300,
+                "Type": "City",
+                "Enabled": 1
+            },
+            {
+                "Name": "Garmarud",
+                "Position": [
+                    8749.193359,
+                    190.33461,
+                    7246.183594
+                ],
+                "Radius": 300,
+                "Type": "Local",
+                "Enabled": 1
+            }
+        ]
     ],
     "ExcludedRoamingBuildings": [
         "Land_CementWorks_Hall2_Grey",

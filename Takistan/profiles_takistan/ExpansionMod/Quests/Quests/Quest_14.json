@@ -4,8 +4,8 @@
     "Type": 1,
     "Title": "Daily: Kill 25 Infected with a Crowbar",
     "Descriptions": [
-        "Kill 25 Infected with a Crowbar",
-        "Kill 25 Infected with a Crowbar",
+        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. It doesn't make sense to me, but its money.",
+        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. It doesn't make sense to me, but its money.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 50 Infected. Reward: $250!",

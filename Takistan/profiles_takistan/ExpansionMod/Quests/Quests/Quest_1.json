@@ -4,8 +4,8 @@
     "Type": 1,
     "Title": "Welcome to Takistan",
     "Descriptions": [
-        "There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
-        "There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
+        "Welcome to Takistan, %1! There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
+        "Welcome to Takistan, %1! There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Travel to the Black Market near Qarma",

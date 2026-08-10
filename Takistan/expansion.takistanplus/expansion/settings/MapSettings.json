@@ -18,7 +18,7 @@
     "ShowDistanceOnServerMarkers": 1,
     "ServerMarkers": [
         {
-            "m_UID": "ServerMarker_Trader_Krasno",
+            "m_UID": "Trader",
             "m_Visibility": 4,
             "m_Is3D": 1,
             "m_Text": "Black Market",
@@ -33,7 +33,7 @@
             "m_Persist": 1
         },
         {
-            "m_UID": "ServerMarker_Boats_Svetloyarsk",
+            "m_UID": "Boats",
             "m_Visibility": 4,
             "m_Is3D": 1,
             "m_Text": "Boats & Fishing",

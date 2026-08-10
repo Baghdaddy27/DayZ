@@ -2,20 +2,20 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill the Shaman Patrol",
+    "ObjectiveText": "Kill the Insurgents",
     "TimeLimit": 86400,
     "Active": 1,
-    "MaxDistance": -1.0,
-    "MinDistance": -1.0,
+    "MaxDistance": -1,
+    "MinDistance": -1,
     "AllowedWeapons": [],
     "AllowedDamageZones": [],
     "AISpawn": {
-        "Name": "Shaman Patrol",
+        "Name": "Insurgents",
         "Persist": 0,
-        "Faction": "Shamans",
-        "Formation": "Vee",
-        "FormationLooseness": 0.0,
-        "Loadout": "ShamanLoadout",
+        "Faction": "Raiders",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "Loadout": "InsurgentLoadout",
         "Units": [
             "eAI_SurvivorF_Eva",
             "eAI_SurvivorF_Frida",
@@ -49,45 +49,45 @@
             "eAI_SurvivorM_Seth",
             "eAI_SurvivorM_Taiki"
         ],
-        "NumberOfAI": 7,
-        "Behaviour": "ONCE",
-        "Speed": "JOG",
+        "NumberOfAI": 10,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
         "UnderThreatSpeed": "SPRINT",
         "CanBeLooted": 1,
         "UnlimitedReload": 1,
-        "SniperProneDistanceThreshold": 300.0,
-        "AccuracyMin": 0.50,
-        "AccuracyMax": 0.70,
-        "ThreatDistanceLimit": 500.0,
-        "NoiseInvestigationDistanceLimit": -1.0,
-        "DamageMultiplier": 1.0,
-        "DamageReceivedMultiplier": 1.0,
-        "MinDistRadius": 50.0,
-        "MaxDistRadius": 800.0,
-        "DespawnRadius": 1000.0,
-        "MinSpreadRadius": 0.0,
-        "MaxSpreadRadius": 0.0,
-        "Chance": 1.0,
+        "SniperProneDistanceThreshold": 300,
+        "AccuracyMin": 0.5,
+        "AccuracyMax": 0.8,
+        "ThreatDistanceLimit": 500,
+        "NoiseInvestigationDistanceLimit": -1,
+        "DamageMultiplier": 1,
+        "DamageReceivedMultiplier": 1,
+        "MinDistRadius": 50,
+        "MaxDistRadius": 800,
+        "DespawnRadius": 1000,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
         "WaypointInterpolation": "",
-        "DespawnTime": 1.0,
-        "RespawnTime": 1.0,
+        "DespawnTime": 300,
+        "RespawnTime": 300,
         "UseRandomWaypointAsStartPoint": 1,
         "Waypoints": [
-                [
-                    10325.781250,
-                    255.441544,
-                    6427.471680
-                ],
-                [
-                    10437.606445,
-                    257.250519,
-                    6396.902344
-                ],
-                [
-                    10526.835938,
-                    263.583160,
-                    6467.541504
-                ]
+            [
+                8961.232422,
+                187.052826,
+                10264.277344
+            ],
+            [
+                9373.516602,
+                163.800003,
+                10015.601563
+            ],
+            [
+                8669.500977,
+                204.548782,
+                9952.189453
+            ]
         ]
     }
 }
