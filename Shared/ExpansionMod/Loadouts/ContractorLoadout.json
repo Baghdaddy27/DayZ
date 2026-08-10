@@ -531,10 +531,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -564,10 +564,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -597,10 +597,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -630,10 +630,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -663,10 +663,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -696,10 +696,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -729,10 +729,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -3964,7 +3964,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.15,
+            "Chance": 0.1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3987,7 +3987,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "ammo_expansion_m203_smoke_teargas",
+                                            "ClassName": "Ammo_40mm_ChemGas",
                                             "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
@@ -4011,7 +4011,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "ammo_expansion_m203_smoke_teargas",
+                    "ClassName": "Ammo_40mm_ChemGas",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -4024,20 +4024,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ammo_40mm_smoke_black",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "ammo_40mm_smoke_black",
+                    "ClassName": "Ammo_40mm_ChemGas",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

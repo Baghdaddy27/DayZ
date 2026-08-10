@@ -2,62 +2,26 @@
     "ConfigVersion": 22,
     "ID": 20,
     "Type": 1,
-    "Title": "Weekly: Hunt 5 of any Animal",
+    "Title": "PVP: Kill 3 Players in the PVP Zone",
     "Descriptions": [
-        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
-        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Kill 3 Players in the PVP Zone",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Kill 3 Players in the PVP Zone",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt 5 of any animal. Reward: Random!",
+    "ObjectiveText": "PVP: Kill 3 Players! Reward: $1000",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteEuro",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteUSD",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionSilverBar",
-            "Amount": 1,
+            "Amount": 1000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -66,9 +30,9 @@
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
         2
@@ -80,11 +44,11 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 12,
+            "ID": 11,
             "ObjectiveType": 2
         }
     ],
-    "QuestColor": -32768,
+    "QuestColor": -65536,
     "ReputationReward": 200,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],

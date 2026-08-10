@@ -1,0 +1,115 @@
+{
+    "ClassName": "",
+    "Chance": 1,
+    "Quantity": {
+        "Min": 0,
+        "Max": 0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "TrackSuitPants_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+                        {
+                            "ClassName": "BandageDressing",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "Sneakers_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "SkiGloves_90s",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Face",
+            "Items": [
+                {
+                    "ClassName": "AviatorGlasses",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                {
+                    "ClassName": "MVS_Turban_3",
+                    "Chance": 0.1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
+    ]
+}

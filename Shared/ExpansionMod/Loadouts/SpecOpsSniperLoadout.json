@@ -617,7 +617,7 @@
                                     "Items": [
                                         {
                                             "ClassName": "Mag_Vikhr_30Rnd",
-                                            "Chance": 0.2,
+                                            "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0,
                                                 "Max": 0

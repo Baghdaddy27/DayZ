@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 7,
     "Type": 1,
-    "Title": "Daily: Kill 10 Shamans",
+    "Title": "Daily: Kill 10 Shamans / TNG",
     "Descriptions": [
-        "Bounty: Kill 10 Shamans. They wear NBC suites or Black, Red, and Green Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
-        "Bounty: Kill 10 Shamans. They wear NBC suites or Black, Red, and Green Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
+        "Bounty: Kill 10 Shamans / TNG. They wear NBC suites or Black, Red, and Orange Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
+        "Bounty: Kill 10 Shamans / TNG. They wear NBC suites or Black, Red, and Orange Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 10 Shamans. Reward: $250!",
@@ -49,7 +49,7 @@
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 1,
-    "RandomRewardAmount": -1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

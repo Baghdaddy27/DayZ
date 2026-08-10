@@ -22,7 +22,7 @@
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="3" x="5607.5" z="9877.5" r="50"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="3" x="5712.5" z="9947.5" r="50"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="3" x="5807.5" z="10005" r="50"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="5" x="2504.842529" z="9080.192383" r="50"/>
+        <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="5" x="2588.86" z="9157.65" r="50"/>
     </territory>
     <territory color="2281701631">
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="4" dmax="6" x="6195.64" z="11200.5" r="50"/>

@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 9,
     "Type": 1,
-    "Title": "Daily: Kill 10 Raiders",
+    "Title": "Daily: Kill 10 Raiders / Insurgents",
     "Descriptions": [
-        "Bounty: Kill 10 raiders. They are identified by their wide, nonstandard range of clothing and equipment.",
-        "Bounty: Kill 10 raiders. They are identified by their wide, nonstandard range of clothing and equipment.",
+        "Bounty: Kill 10 Raiders or Insurgents. They are identified by their wide, nonstandard range of clothing and equipment.",
+        "Bounty: Kill 10 Raiders or Insurgents. They are identified by their wide, nonstandard range of clothing and equipment.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 10 Raiders. Reward: $250!",
@@ -49,7 +49,7 @@
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 1,
-    "RandomRewardAmount": -1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

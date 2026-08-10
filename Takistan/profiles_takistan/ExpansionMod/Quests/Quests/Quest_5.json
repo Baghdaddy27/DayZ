@@ -2,10 +2,10 @@
     "ConfigVersion": 22,
     "ID": 5,
     "Type": 1,
-    "Title": "Daily: Kill 10 Contractors",
+    "Title": "Daily: Kill 10 Blackridge Mercenaries",
     "Descriptions": [
-        "Bounty: Kill 10 Contractors. They wear the Black and Yellow Snake Armbands.",
-        "Bounty: Kill 10 Contractors. They wear the Black and Yellow Snake Armbands.",
+        "Bounty: Kill 10 Blackridge Mercs. They wear the Black and Yellow Snake Armbands.",
+        "Bounty: Kill 10 Blackridge Mercs. They wear the Black and Yellow Snake Armbands.",
         "What's up, %1?"
     ],
     "ObjectiveText": "Kill 10 Contractors. Reward: $250!",
@@ -48,8 +48,8 @@
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

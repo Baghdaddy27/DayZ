@@ -63,7 +63,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 1,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -134,7 +134,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 1,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -194,18 +194,18 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
+            "Behaviour": "HALT",
             "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
+            "UnderThreatSpeed": "JOG",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 300,
+            "SniperProneDistanceThreshold": 500,
             "AccuracyMin": 0.5,
             "AccuracyMax": 0.8,
-            "ThreatDistanceLimit": 100,
+            "ThreatDistanceLimit": 500,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 1,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -218,9 +218,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2750.771729,
-                    580.015259,
-                    2133.968262
+                    2827.443,
+                    621.639,
+                    2148.142
+                ],
+                [
+                    2738.175,
+                    578.555,
+                    2195.257
                 ]
             ]
         },
@@ -276,7 +281,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 10,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -352,7 +357,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 10,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -365,9 +370,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2758.943115,
-                    576.869385,
-                    2193.762451
+                    2790.731,
+                    578.436,
+                    2183.434
                 ],
                 [
                     2757.47168,
@@ -428,7 +433,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 10,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -504,7 +509,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 10,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,
@@ -580,7 +585,7 @@
             "ThreatDistanceLimit": 100,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
             "MinDistRadius": 10,
             "MaxDistRadius": 1000,
             "DespawnRadius": 500,

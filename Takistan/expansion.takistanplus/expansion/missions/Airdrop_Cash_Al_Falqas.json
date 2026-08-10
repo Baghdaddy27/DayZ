@@ -137,60 +137,6 @@
             "Max": -1,
             "Min": 0,
             "Variants": []
-        },
-        {
-            "Name": "ExpansionSilverNugget",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionSilverNugget",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionGoldNugget",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionGoldNugget",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionSilverBar",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
-        },
-        {
-            "Name": "ExpansionGoldBar",
-            "Chance": 0.15,
-            "Attachments": [],
-            "QuantityPercent": -1,
-            "Max": -1,
-            "Min": 0,
-            "Variants": []
         }
     ]
 }

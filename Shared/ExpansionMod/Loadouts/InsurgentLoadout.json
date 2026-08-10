@@ -1139,7 +1139,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "WorkingBoots_Beige",
+                    "ClassName": "traditionalboots_darkbrown",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -1158,7 +1158,26 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TTSKOBoots",
+                    "ClassName": "medievalboots",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "traditionalboots_beige",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

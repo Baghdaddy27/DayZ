@@ -3,14 +3,14 @@
     "ID": 3,
     "ClassName": "ExpansionQuestNPCAIOliver",
     "Position": [
-        6482.265625,
-        354.636688,
-        6014.916016
+        6482.3,
+        354.537,
+        6015.63
     ],
     "Orientation": [
-        -144.00,
-        0.0,
-        0.0
+        -144,
+        0,
+        0
     ],
     "NPCName": "SGT. Vasily",
     "DefaultNPCText": "What?",

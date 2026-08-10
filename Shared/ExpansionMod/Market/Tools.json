@@ -63,9 +63,9 @@
         },
         {
             "ClassName": "expansionadminhammer",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

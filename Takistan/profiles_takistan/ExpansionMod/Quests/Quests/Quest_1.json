@@ -49,7 +49,7 @@
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [],

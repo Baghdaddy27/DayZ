@@ -4,12 +4,12 @@
     "Type": 1,
     "Title": "Live off the Land",
     "Descriptions": [
-        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. ",
-        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. ",
+        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. Make sure the pick up the Chicken to complete the quest!",
+        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. Make sure the pick up the Chicken to complete the quest!",
         "What's up, %1?"
     ],
     "ObjectiveText": "Craft a snare and catch a Chicken",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 4,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -40,14 +40,14 @@
     "Rewards": [
         {
             "Amount": 1,
-            "ClassName": "DeadChicken_White",
+            "ClassName": "chickenbreastmeat",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 0,
-    "RandomRewardAmount": -1,
+    "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [

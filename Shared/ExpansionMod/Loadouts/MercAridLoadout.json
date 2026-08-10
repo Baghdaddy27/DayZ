@@ -1426,10 +1426,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1473,6 +1473,82 @@
                         {
                             "ClassName": "MilitaryBoots_Brown",
                             "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_beige",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_bluerock",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_redpunk",
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1680,10 +1756,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1727,6 +1803,82 @@
                         {
                             "ClassName": "MilitaryBoots_Brown",
                             "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_beige",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_bluerock",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_redpunk",
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -2033,10 +2185,10 @@
                             "InventoryCargo": [
                                 {
                                     "ClassName": "Rag",
-                                    "Chance": 0.5,
+                                    "Chance": 1,
                                     "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
+                                        "Min": 1,
+                                        "Max": 3
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -2080,6 +2232,82 @@
                         {
                             "ClassName": "MilitaryBoots_Brown",
                             "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_beige",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_bluerock",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "militaryboots_redpunk",
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -3557,6 +3785,84 @@
             "InventoryCargo": [
                 {
                     "ClassName": "Mag_VAL_20Rnd",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 0.1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "M79",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Ammo_40mm_ChemGas",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Ammo_40mm_ChemGas",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_40mm_ChemGas",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
