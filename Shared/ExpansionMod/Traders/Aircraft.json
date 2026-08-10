@@ -14,6 +14,7 @@
     "UseCategoryOrder": 0,
     "Categories": [
         "Helicopters",
+        "Helo_Parts",
         "Vehicle_Parts:3",
         "Batteries:3"
     ],

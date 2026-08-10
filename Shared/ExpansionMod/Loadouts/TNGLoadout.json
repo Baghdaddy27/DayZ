@@ -254,25 +254,6 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "militaryberet_chdkz",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
                             "ClassName": "t56tankerhelmet_tan",
                             "Chance": 0.25,
                             "Quantity": {

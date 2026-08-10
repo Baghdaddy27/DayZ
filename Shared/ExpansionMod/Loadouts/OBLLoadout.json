@@ -98,7 +98,7 @@
             "Items": [
                 {
                     "ClassName": "MVS_Turban_3",
-                    "Chance": 0.1,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
