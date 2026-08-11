@@ -1,7 +1,7 @@
 {
     "m_Version": 20,
-    "AccuracyMin": 0.3499999940395355,
-    "AccuracyMax": 0.949999988079071,
+    "AccuracyMin": 0.35,
+    "AccuracyMax": 0.95,
     "ThreatDistanceLimit": 1000,
     "NoiseInvestigationDistanceLimit": 500,
     "MaxFlankingDistance": 170,
@@ -14,10 +14,10 @@
         "76561197977560525"
     ],
     "Vaulting": 1,
-    "SniperProneDistanceThreshold": 0,
+    "SniperProneDistanceThreshold": 200,
     "AggressionTimeout": 120,
     "GuardAggressionTimeout": 150,
-    "Manners": 0,
+    "Manners": 1,
     "MemeLevel": 1,
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 1,

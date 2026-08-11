@@ -41,8 +41,8 @@
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 1,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.35,
+            "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -54,8 +54,8 @@
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 1,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.35,
+            "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -67,8 +67,8 @@
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 1,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.35,
+            "Spatial_MaxAccuracy": 0.75,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -80,8 +80,8 @@
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 1,
-            "Spatial_MinAccuracy": 0.3,
-            "Spatial_MaxAccuracy": 0.7,
+            "Spatial_MinAccuracy": 0.35,
+            "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -94,7 +94,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.8,
             "Spatial_MinAccuracy": 0.35,
-            "Spatial_MaxAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -107,7 +107,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.8,
             "Spatial_MinAccuracy": 0.35,
-            "Spatial_MaxAccuracy": 0.75,
+            "Spatial_MaxAccuracy": 0.8,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -146,7 +146,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.8,
             "Spatial_MinAccuracy": 0.4,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -158,8 +158,8 @@
             "Spatial_Name": "Shadow Company",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.8,
-            "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_MinAccuracy": 0.4,
+            "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -171,8 +171,8 @@
             "Spatial_Name": "Blackridge",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.8,
-            "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.8,
+            "Spatial_MinAccuracy": 0.4,
+            "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
         }
     ],
