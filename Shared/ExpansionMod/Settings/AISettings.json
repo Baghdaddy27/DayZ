@@ -4,7 +4,7 @@
     "AccuracyMax": 0.949999988079071,
     "ThreatDistanceLimit": 1000,
     "NoiseInvestigationDistanceLimit": 500,
-    "MaxFlankingDistance": 200,
+    "MaxFlankingDistance": 170,
     "EnableFlankingOutsideCombat": 0,
     "DamageMultiplier": 1,
     "DamageReceivedMultiplier": 1,
@@ -22,15 +22,18 @@
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 1,
     "MaxRecruitableAI": 1,
-    "PreventClimb": [],
+    "PreventClimb": [
+        "ExpansionHesco",
+        "ExpansionBarbedWire"
+    ],
     "FormationScale": 1,
     "PlayerFactions": [
         "Raiders"
     ],
     "LogAIHitBy": 1,
     "LogAIKilled": 1,
-    "EnableZombieVehicleAttackHandler": 0,
-    "EnableZombieVehicleAttackPhysics": 0,
+    "EnableZombieVehicleAttackHandler": 1,
+    "EnableZombieVehicleAttackPhysics": 1,
     "OverrideClientWeaponFiring": 1,
     "RecreateWeaponNetworkRepresentation": 1,
     "LightingConfigMinNightVisibilityMeters": {

@@ -10,10 +10,10 @@
     "ATMPartyLockerEnabled": 1,
     "MaxPartyDepositMoney": 999999,
     "UseWholeMapForATMPlayerList": 1,
-    "SellPricePercent": 25.0,
+    "SellPricePercent": 25,
     "NetworkBatchSize": 100,
-    "MaxVehicleDistanceToTrader": 120.0,
-    "MaxLargeVehicleDistanceToTrader": 744.0,
+    "MaxVehicleDistanceToTrader": 120,
+    "MaxLargeVehicleDistanceToTrader": 744,
     "LargeVehicles": [
         "expansionlhd"
     ],
@@ -25,7 +25,7 @@
                 6002.788
             ],
             "Orientation": [
-                -177.60,
+                -177.6,
                 0.02,
                 0.33
             ]
@@ -34,14 +34,14 @@
     "AirSpawnPositions": [
         {
             "Position": [
-                6446.015,
-                353.358,
-                5991.663
+                6447.529,
+                354.284,
+                6011.483
             ],
             "Orientation": [
-                -90.30,
-                -3.59,
-                3.29
+                179.67,
+                0,
+                0
             ]
         }
     ],
@@ -54,8 +54,8 @@
             ],
             "Orientation": [
                 -83.86,
-                0.0,
-                0.0
+                0,
+                0
             ]
         }
     ],
@@ -105,7 +105,7 @@
     "VehicleKeys": [
         "ExpansionCarKey"
     ],
-    "MaxSZVehicleParkingTime": 1800.0,
+    "MaxSZVehicleParkingTime": 1800,
     "SZVehicleParkingTicketFine": 0,
     "SZVehicleParkingFineUseKey": 1,
     "TrainSpawnPositions": [],

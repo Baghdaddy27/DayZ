@@ -76,9 +76,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2510.001709,
-                    355.599762,
-                    9079.446289
+                    2522.63208,
+                    355.811646,
+                    9094.535156
                 ]
             ]
         },
@@ -147,9 +147,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2511.793701,
-                    355.626282,
-                    9077.612305
+                    2523.918213,
+                    355.155914,
+                    9112.175781
                 ]
             ]
         },
@@ -218,80 +218,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2512.346924,
-                    355.574249,
-                    9080.467773
-                ]
-            ]
-        },
-        {
-            "Name": "TNG Soldier",
-            "Persist": 0,
-            "Faction": "Shamans",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "TNGLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 400,
-            "AccuracyMin": 0.5,
-            "AccuracyMax": 0.8,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 0.8,
-            "MinDistRadius": 1,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    2514.246094,
-                    355.809448,
-                    9082.166992
+                    2524.614502,
+                    355.157654,
+                    9104.630859
                 ]
             ]
         },
@@ -360,9 +289,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2515.484863,
-                    355.932098,
-                    9080.28125
+                    2528.937256,
+                    355.164001,
+                    9110.032227
                 ]
             ]
         },
@@ -408,8 +337,8 @@
             ],
             "NumberOfAI": 1,
             "Behaviour": "HALT",
-            "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
@@ -431,19 +360,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2504.477295,
-                    356.11261,
-                    9081.90918
+                    2503.336914,
+                    356.121796,
+                    9104.200195
                 ],
                 [
-                    2523.770996,
-                    355.154602,
-                    9112.729492
-                ],
-                [
-                    2534.459961,
-                    355.166473,
-                    9097.411133
+                    2534.200684,
+                    355.040405,
+                    9098.322266
                 ]
             ]
         },
@@ -489,8 +413,8 @@
             ],
             "NumberOfAI": 1,
             "Behaviour": "HALT",
-            "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
@@ -512,19 +436,9 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2501.470215,
-                    355.61972,
-                    9081.554688
-                ],
-                [
-                    2507.678467,
-                    355.612946,
-                    9077.25
-                ],
-                [
-                    2512.559082,
-                    355.741364,
-                    9083.359375
+                    2506.473145,
+                    356.092102,
+                    9090.257813
                 ]
             ]
         },
@@ -570,8 +484,8 @@
             ],
             "NumberOfAI": 1,
             "Behaviour": "HALT",
-            "Speed": "HALT",
-            "UnderThreatSpeed": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
@@ -593,19 +507,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2505.655029,
-                    355.835236,
-                    9106.47168
+                    2508.005859,
+                    355.615326,
+                    9077.407227
                 ],
                 [
-                    2526.525146,
-                    355.159149,
-                    9112.041992
-                ],
-                [
-                    2531.562744,
-                    354.952484,
-                    9110.273438
+                    2515.638672,
+                    355.958649,
+                    9082.298828
                 ]
             ]
         },
@@ -650,9 +559,9 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "SPRINT",
+            "Behaviour": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
@@ -674,19 +583,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2503.439209,
-                    356.030121,
-                    9105.041016
+                    2501.893311,
+                    355.614899,
+                    9081.248047
                 ],
                 [
-                    2518.820068,
-                    356.912323,
-                    9074.301758
-                ],
-                [
-                    2529.503662,
-                    355.164398,
-                    9110.526367
+                    2518.422607,
+                    357.077148,
+                    9073.606445
                 ]
             ]
         },
@@ -755,19 +659,100 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2429.365723,
-                    394.7211,
-                    9017.250977
+                    2536.584961,
+                    362.743835,
+                    9049.791016
                 ],
                 [
-                    2473.295166,
-                    350.168915,
-                    9121.222656
+                    2587.286621,
+                    395.351379,
+                    8899.170898
                 ],
                 [
-                    2543.000244,
-                    360.712921,
-                    9045.047852
+                    2692.012695,
+                    341.934845,
+                    8924.59668
+                ]
+            ]
+        },
+        {
+            "Name": "TNG Scout",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "TNGLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 400,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 0.8,
+            "ThreatDistanceLimit": 400,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 0.8,
+            "MinDistRadius": 1,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2393.464844,
+                    365.452026,
+                    9040.591797
+                ],
+                [
+                    2447.263916,
+                    318.79361,
+                    9213.885742
+                ],
+                [
+                    2476.393311,
+                    348.541077,
+                    9126.709961
                 ]
             ]
         }

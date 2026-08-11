@@ -102,19 +102,6 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
-                },
-                {
-                    "ClassName": "UKAssVest_Olive",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
                 }
             ]
         },
@@ -216,6 +203,25 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "ballistichelmet_black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "booniehat_olive",
                             "Chance": 1,
                             "Quantity": {
@@ -237,44 +243,6 @@
                         {
                             "ClassName": "booniehat_dubok",
                             "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "t56tankerhelmet_tan",
-                            "Chance": 0.25,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "t56tankerhelmet_green",
-                            "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -330,7 +298,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tortillabag",
+                            "ClassName": "assaultbag_ttsko",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -688,7 +656,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tortillabag_desert",
+                            "ClassName": "assaultbag_green",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -1046,7 +1014,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tortillabag_winter",
+                            "ClassName": "assaultbag_black",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -1476,6 +1444,39 @@
                         },
                         {
                             "ClassName": "tshirt_black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "tshirt_green",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
