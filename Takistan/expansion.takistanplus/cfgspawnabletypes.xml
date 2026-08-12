@@ -1324,27 +1324,7 @@
 	<!--NBC-->
 	<type name="ZmbM_Mummy">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.05">
-			<item name="AntiChemInjector" chance="1.0" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="HumanSteakMeat" chance="1.0" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="BandageDressing" chance="0.5" />
-			<item name="Rag" chance="0.5" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="IodineTincture" chance="0.33" />
-			<item name="Epinephrine" chance="0.33" />
-			<item name="Morphine" chance="0.33" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="CharcoalTablets" chance="0.25" />
-			<item name="PainkillerTablets" chance="0.25" />
-			<item name="TetracyclineAntibiotics" chance="0.25" />
-			<item name="VitaminBottle" chance="0.25" />
-		</cargo>
+		<cargo preset="foodHermit" />
 	</type>
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />

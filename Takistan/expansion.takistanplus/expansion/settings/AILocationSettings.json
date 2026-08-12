@@ -163,15 +163,15 @@
         "Land_Train_Wagon_Box"
     ],
     "NoGoAreas": [
-                {
+        {
             "Name": "Qarma Black Market",
             "Position": [
                 6479.208984,
                 355.787354,
                 6015.107422
             ],
-            "Radius": 100.0,
-            "Height": 100.0
+            "Radius": 100,
+            "Height": 100
         }
     ]
 }

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<eventgroupdef>    
+<eventgroupdef>   
+    <group name="Block_Farakkah">
+        <child type="Land_Wreck_Offroad02_Medic_TK" deloot="0" lootmax="2" lootmin="1" x="8907.854" z="5329.296" a="0.0" y="266.307"/>
+    </group>
+    <group name="Traffic_Gospandi">
+        <child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="2" lootmin="1" x="203340.392822" z="9649.369141" a="0" y="322.682495"/>
+    </group>
     <!-- Convoy -->
     <!--<pos x="203376.159668" z="10127.701172" a="0" y="243.399445" group="Abandoned_Nagara"/> -->
     <group name="Abandoned_Nagara">

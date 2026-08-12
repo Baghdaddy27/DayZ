@@ -32,6 +32,8 @@
 		<usage name="ContaminatedArea"/>
 		<usage name="Historical"/>
         <usage name="Special"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="Unique"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

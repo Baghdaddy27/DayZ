@@ -6,7 +6,7 @@
         "Use_UI_Notifications": 1,
         "Add_Zone_Name_To_Message": 1,
         "Exit_Zone_Countdown": 10.0,
-        "Force1stPersonInPVP": 0,
+        "Force1stPersonInPVP": 1,
         "Week_Starts_On_Sunday": 0,
         "Custom_Enter_Zone_Message": "WARNING! You are entering a PVP zone.",
         "Custom_Exit_Zone_Message": "You are leave the PVP zone.",
@@ -27,7 +27,7 @@
         "Declare_a_Lawbreaker_When_Killed_a_Player_in_PVE_Area": {
             "On_Weaponary_Kill": 1,
             "On_Explosive_Kill": 1,
-            "On_Vehicle_Kill": 0,
+            "On_Vehicle_Kill": 1,
             "On_Fist_Fight_Kill": 1
         },
         "Server_Wide_Message_About_Lawbreaker": 1,
