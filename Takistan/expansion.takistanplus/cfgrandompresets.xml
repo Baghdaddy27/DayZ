@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
 		<cargo chance="0.0" name="glassesCity">
+			<item name="Apple" chance="0.00" />
 		</cargo>
 		<cargo chance="0.0" name="glassesVillage">
+			<item name="Apple" chance="0.00" />
 		</cargo>
 		<cargo chance="0.0" name="SantaHat">
+			<item name="Apple" chance="0.00" />
 		</cargo>
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
