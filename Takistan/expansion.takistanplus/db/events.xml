@@ -1174,54 +1174,45 @@
         </children>
     </event>
     <event name="VehicleV3S">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
-        <lifetime>300000</lifetime>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags value="1" active="1" enable="1" intent="1"/>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
         <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_Wreck_Offroad02_Medic_TK"/>
-        </children>
     </event>
     <event name="VehicleV3SCargo">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
-        <lifetime>300000</lifetime>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags value="1" active="1" enable="1" intent="1"/>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
         <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_Wreck_Offroad02_Medic_TK"/>
-        </children>
     </event>
     <event name="VehicleTransitBus">
         <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>300000</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags value="1" active="1" enable="1" intent="1"/>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
         <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_Wreck_Offroad02_Medic_TK"/>
-        </children>
     </event>
 </events>

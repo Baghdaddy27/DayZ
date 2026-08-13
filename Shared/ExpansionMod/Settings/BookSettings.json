@@ -3,7 +3,7 @@
     "EnableStatusTab": 1,
     "EnablePartyTab": 1,
     "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
+    "EnableServerRulesTab": 0,
     "EnableTerritoryTab": 1,
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
@@ -148,21 +148,15 @@
     ],
     "Links": [
         {
-            "Name": "iZurvive Map (Pass is 123)",
-            "URL": "https://www.izurvive.com/?group=Bag's%20Place%20DayZ%20Server&secret=123",
-            "IconName": "Homepage",
-            "IconColor": -14473430
-        },
-        {
             "Name": "Join our Discord",
             "URL": "https://discord.gg/DWFFmy6dyY",
-            "IconName": "DIscord",
+            "IconName": "Discord",
             "IconColor": -14473430
         }
     ],
     "Descriptions": [
         {
-            "CategoryName": "General Info",
+            "CategoryName": "About Us",
             "Descriptions": [
                 {
                     "DescriptionText": "Caffeinated AF [CAF] is meant to be a balance between survival, exploration, and combat. This is a work in progress, so you may find bugs or other issues. Visit the discord for questions, comments, or concerns."
@@ -172,6 +166,35 @@
                 },
                 {
                     "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. This process takes about 10 to 15 minutes. The market & quests reset every Sunday at 0300 UTC."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Server Rules",
+            "Descriptions": [
+                {
+                    "DescriptionText": "1 - PVP is allowed only in the designated PVP zones. Anyone who attempts to PVP in the PVE areas will be banned. This includes raiding bases, laying mines or traps, etc."
+                },
+                {
+                    "DescriptionText": "2 - Cheating, Exploiting, Scripting, ESP/Aimbotting, Duping, Glitching, using third party software (NVIDIA Filters, ReShade, SweetFX, or any similar software), or trying to bypass server systems will result in an immediate and permanent ban."
+                },
+                {
+                    "DescriptionText": "3 - Logging out to avoid death or loss during combat is not allowed."
+                },
+                {
+                    "DescriptionText": "4 - Treat everyone with respect. Harassment, Toxic behavior, Racism, Bigotry, or Personal attacks will result in a ban."
+                },
+                {
+                    "DescriptionText": "5 - Theft of player owned vehicles outside of PVP zones is prohibited. Hoarding vehicles is prohibited. 1 Vehicle of each type per person (boat, car, helicopter, etc). Vehicles in PVP zones are fair game."
+                },
+                {
+                    "DescriptionText": "6 - Advertising other servers, communities, or services is not allowed."
+                },
+                {
+                    "DescriptionText": "7 - All reports of cheating or bad conduct must include video or screenshots. Reports without proof wont be acted on."
+                },
+                {
+                    "DescriptionText": "8 - Bans are permanent, and admins have the final say in all situations."
                 }
             ]
         },
@@ -195,9 +218,6 @@
                 },
                 {
                     "DescriptionText": "Shadow Company: These AI wear Yellow Armbands and use NATO / Western equipment. They are very skilled and travel in organized groups of 3 or more. They are hostile to everyone, but especially Mercenaries."
-                },
-                {
-                    "DescriptionText": "Guards: These AI are found in the Black Market, and are recruitable by the players. When not recruited, they are hostile to anyone who threatens them or attacks others."
                 }
             ]
         },

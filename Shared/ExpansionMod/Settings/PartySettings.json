@@ -1,7 +1,7 @@
 {
     "m_Version": 8,
     "EnableParties": 1,
-    "MaxMembersInParty": 8,
+    "MaxMembersInParty": 10,
     "UseWholeMapForInviteList": 1,
     "ShowPartyMember3DMarkers": 1,
     "ShowDistanceUnderPartyMembersMarkers": 1,
@@ -17,6 +17,6 @@
     "ShowPartyMemberMapMarkers": 1,
     "ShowHUDMemberDistance": 1,
     "ForcePartyToHaveTags": 1,
-    "InviteCooldown": 0,
+    "InviteCooldown": 30,
     "DisplayPartyTag": 1
 }

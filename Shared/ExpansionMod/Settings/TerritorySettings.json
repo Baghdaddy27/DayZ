@@ -4,11 +4,11 @@
     "UseWholeMapForInviteList": 0,
     "TerritorySize": 50,
     "TerritoryPerimeterSize": 150,
-    "MaxMembersInTerritory": 8,
+    "MaxMembersInTerritory": 20,
     "MaxTerritoryPerPlayer": 1,
     "TerritoryInviteAcceptRadius": 150,
     "AuthenticateCodeLockIfTerritoryMember": 1,
-    "InviteCooldown": 0,
+    "InviteCooldown": 30,
     "OnlyInviteGroupMember": 0,
     "MaxCodeLocksOnBBPerTerritory": -1,
     "MaxCodeLocksOnItemsPerTerritory": -1

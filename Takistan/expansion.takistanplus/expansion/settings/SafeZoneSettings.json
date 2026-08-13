@@ -23,7 +23,7 @@
     "PolygonZones": [],
     "CylinderZones": [],
     "ActorsPerTick": 5,
-    "DisablePlayerCollision": 0,
+    "DisablePlayerCollision": 1,
     "DisableVehicleDamageInSafeZone": 0,
     "EnableForceSZCleanup": 0,
     "ItemLifetimeInSafeZone": 3600.0,
