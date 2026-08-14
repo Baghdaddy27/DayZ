@@ -7214,6 +7214,7 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefighterAxe_Black">
         <nominal>0</nominal>
@@ -7226,6 +7227,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefighterAxe_Green">
         <nominal>0</nominal>
@@ -7238,6 +7240,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefighterJacket_Beige">
         <nominal>3</nominal>
@@ -7249,8 +7252,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefighterJacket_Black">
         <nominal>3</nominal>
@@ -7262,47 +7265,47 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefightersHelmet_Red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefightersHelmet_White">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefightersHelmet_Yellow">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefightersPants_Beige">
         <nominal>3</nominal>
@@ -7314,8 +7317,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="FirefightersPants_Black">
         <nominal>3</nominal>
@@ -7327,8 +7330,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
         <usage name="Firefighter"/>
+        <usage name="Industrial"/>
     </type>
     <type name="Fireplace">
         <nominal>0</nominal>
@@ -21339,7 +21342,7 @@
         <category name="tools"/>
         <usage name="Military"/>
         <usage name="Hunting"/>
-        <usage name="Village"/>
+        <usage name="Police"/>
     </type>
     <type name="WeldingMask">
         <nominal>5</nominal>

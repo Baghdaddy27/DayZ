@@ -332,17 +332,6 @@
             ]
         },
         {
-            "ClassName": "mag_stanagcoupled_30rnd",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_stanag_60rnd",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 140,

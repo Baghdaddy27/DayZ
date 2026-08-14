@@ -338,8 +338,8 @@
         },
         {
             "ClassName": "gorkaejacket_summer",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,

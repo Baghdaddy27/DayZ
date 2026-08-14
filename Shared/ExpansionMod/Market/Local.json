@@ -83,6 +83,183 @@
                 "MVS_Kurta3_4",
                 "MVS_Kurta3_5"
             ]
+        },
+        {
+            "ClassName": "TacticalShirt_ACU",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 36,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TacticalShirt_AF",
+                "TacticalShirt_CAN",
+                "TacticalShirt_CC",
+                "TacticalShirt_DCU",
+                "TacticalShirt_FLK",
+                "TacticalShirt_Multicam",
+                "TacticalShirt_OP4",
+                "TacticalShirt_Pink",
+                "TacticalShirt_URB",
+                "TacticalShirt_USN",
+                "TacticalShirt_USN2"
+            ]
+        },
+        {
+            "ClassName": "CargoPants_ACU",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "CargoPants_AF",
+                "CargoPants_CAN",
+                "CargoPants_CC",
+                "CargoPants_DCU",
+                "CargoPants_FLK",
+                "CargoPants_Multicam",
+                "CargoPants_OP4",
+                "CargoPants_Pink",
+                "CargoPants_URB",
+                "CargoPants_USN",
+                "CargoPants_USN2"
+            ]
+        },
+        {
+            "ClassName": "BallisticHelmet_ACU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BallisticHelmet_AF",
+                "BallisticHelmet_CAN",
+                "BallisticHelmet_CC",
+                "BallisticHelmet_DCU",
+                "BallisticHelmet_Digi",
+                "BallisticHelmet_FLK",
+                "BallisticHelmet_Multicam",
+                "BallisticHelmet_OP4",
+                "BallisticHelmet_Pink",
+                "BallisticHelmet_RUS",
+                "BallisticHelmet_URB",
+                "BallisticHelmet_USN",
+                "BallisticHelmet_USN2"
+            ]
+        },
+        {
+            "ClassName": "BaseballCap_ACU",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BaseballCap_ABU",
+                "BaseballCap_CAN",
+                "BaseballCap_CC",
+                "BaseballCap_DCU",
+                "BaseballCap_Digi",
+                "BaseballCap_FLK",
+                "BaseballCap_Multicam",
+                "BaseballCap_OP4",
+                "BaseballCap_PinkII",
+                "BaseballCap_Rus",
+                "BaseballCap_URB",
+                "BaseballCap_USN",
+                "BaseballCap_USN2"
+            ]
+        },
+        {
+            "ClassName": "BoonieHat_ACU",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BoonieHat_AF",
+                "BoonieHat_Arid",
+                "BoonieHat_CAN",
+                "BoonieHat_CC",
+                "BoonieHat_DCU",
+                "BoonieHat_FLK",
+                "BoonieHat_Multicam",
+                "BoonieHat_OP4",
+                "BoonieHat_Pink",
+                "BoonieHat_RUS",
+                "BoonieHat_URB",
+                "BoonieHat_USN",
+                "BoonieHat_USN2"
+            ]
+        },
+        {
+            "ClassName": "GorkaPants_RUS",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GorkaPants_Digi",
+                "GorkaPants_Tan"
+            ]
+        },
+        {
+            "ClassName": "GorkaEJacket_RUS",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GorkaEJacket_Digi",
+                "GorkaEJacket_DST"
+            ]
+        },
+        {
+            "ClassName": "Flag_CAF",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Flag_KRG",
+                "Flag_Takistan"
+            ]
+        },
+        {
+            "ClassName": "Armband_CAF",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Armband_KRG",
+                "Armband_Takistan"
+            ]
         }
     ]
 }
