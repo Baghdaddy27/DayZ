@@ -1,6 +1,6 @@
 {
     "m_Version": 13,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EVENT",
+    "DisplayName": "SPECIALTY GEAR",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -13,7 +13,7 @@
     "DisplayCurrencyName": "",
     "UseCategoryOrder": 0,
     "Categories": [
-        "Event"
+        "Special_Gear"
     ],
     "Items": {}
 }

@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "SPECIAL_GEAR",
+    "DisplayName": "SPECIAL GEAR",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -103,6 +103,7 @@
                 "TacticalShirt_OP4",
                 "TacticalShirt_Pink",
                 "TacticalShirt_URB",
+                "TacticalShirt_USCG",
                 "TacticalShirt_USN",
                 "TacticalShirt_USN2"
             ]
@@ -127,7 +128,68 @@
                 "CargoPants_Pink",
                 "CargoPants_URB",
                 "CargoPants_USN",
+                "CargoPants_USCG",
                 "CargoPants_USN2"
+            ]
+        },
+        {
+            "ClassName": "tortillabag_ACU",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tortillabag_AF",
+                "tortillabag_CAN",
+                "tortillabag_CC",
+                "tortillabag_DCU",
+                "tortillabag_DST",
+                "tortillabag_Digi",
+                "tortillabag_FLK",
+                "tortillabag_Multicam",
+                "tortillabag_OP4",
+                "tortillabag_Pink",
+                "tortillabag_URB",
+                "tortillabag_USN",
+                "tortillabag_ERDL",
+                "tortillabag_RUS",
+                "tortillabag_USCG",
+                "tortillabag_USN",
+                "tortillabag_USN2"
+
+            ]
+        },
+        {
+            "ClassName": "pressvest_ACU",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "PressVest_AF",
+                "PressVest_CAN",
+                "PressVest_CC",
+                "PressVest_DCU",
+                "PressVest_DST",
+                "PressVest_Digi",
+                "PressVest_ERDL",
+                "PressVest_Grey",
+                "PressVest_FLK",
+                "PressVest_Multicam",
+                "PressVest_OP4",
+                "PressVest_Pink",
+                "PressVest_RUS",
+                "PressVest_TPD",
+                "PressVest_URB",
+                "PressVest_USN",
+                "PressVest_USCG",
+                "PressVest_USN2"
             ]
         },
         {
@@ -145,14 +207,46 @@
                 "BallisticHelmet_CC",
                 "BallisticHelmet_DCU",
                 "BallisticHelmet_Digi",
+                "BallisticHelmet_DST",
                 "BallisticHelmet_FLK",
                 "BallisticHelmet_Multicam",
                 "BallisticHelmet_OP4",
                 "BallisticHelmet_Pink",
                 "BallisticHelmet_RUS",
                 "BallisticHelmet_URB",
+                "BallisticHelmet_USCG",
                 "BallisticHelmet_USN",
                 "BallisticHelmet_USN2"
+            ]
+        },
+        {
+            "ClassName": "mich2001helmet_acu",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mich2001helmet_AF",
+                "mich2001helmet_CAN",
+                "mich2001helmet_CC",
+                "mich2001helmet_DCU",
+                "mich2001helmet_DST",
+                "mich2001helmet_Digi",
+                "mich2001helmet_ERDL",
+                "mich2001helmet_Grey",
+                "mich2001helmet_FLK",
+                "mich2001helmet_Multicam",
+                "mich2001helmet_OP4",
+                "mich2001helmet_Pink",
+                "mich2001helmet_RUS",
+                "mich2001helmet_TPD",
+                "mich2001helmet_URB",
+                "mich2001helmet_USN",
+                "mich2001helmet_USCG",
+                "mich2001helmet_USN2"
             ]
         },
         {

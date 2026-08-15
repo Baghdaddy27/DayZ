@@ -190,8 +190,8 @@
         },
         {
             "ClassName": "mich2001helmet",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 290,
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -215,7 +215,7 @@
         {
             "ClassName": "gorkahelmet",
             "MaxPriceThreshold": 580,
-            "MinPriceThreshold": 240,
+            "MinPriceThreshold": 340,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
