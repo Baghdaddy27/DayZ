@@ -2,7 +2,7 @@ name: DayZ Weekly Market Reset
 
 on:
   schedule:
-    - cron: "25 6 * * 2"
+    - cron: "50 7 * * 2"
   workflow_dispatch:
 
 jobs:
