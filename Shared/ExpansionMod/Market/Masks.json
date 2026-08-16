@@ -31,21 +31,6 @@
             "Variants": []
         },
         {
-            "ClassName": "paydaymask_dallas",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "paydaymask_hoxton",
-                "paydaymask_wolf",
-                "paydaymask_chains"
-            ]
-        },
-        {
             "ClassName": "balaclavamask_beige",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
