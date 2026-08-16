@@ -4,11 +4,11 @@
     "Type": 1,
     "Title": "Daily: Kill 25 Infected with a Crowbar",
     "Descriptions": [
-        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. It doesn't make sense to me, but its money.",
-        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. It doesn't make sense to me, but its money.",
+        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life or some shit. It doesn't make sense to me, but its money.",
+        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life or some shit. It doesn't make sense to me, but its money.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 50 Infected. Reward: $250!",
+    "ObjectiveText": "Kill 25 Infected with a Crowbar. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,

@@ -2,25 +2,13 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 4,
-    "ObjectiveText": "Catch a Chicken using a snare",
+    "ObjectiveText": "Craft a Snare",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "DeadChicken_White",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 1,
-            "ClassName": "DeadChicken_Brown",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 1,
-            "ClassName": "DeadChicken_Spotted",
+            "ClassName": "RabbitSnareTrap",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

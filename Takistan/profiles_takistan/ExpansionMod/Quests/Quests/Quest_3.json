@@ -8,7 +8,7 @@
         "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. Make sure the pick up the Chicken to complete the quest!",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Craft a snare and catch a Chicken",
+    "ObjectiveText": "Craft a Snare Trap",
     "FollowUpQuest": 4,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -29,18 +29,18 @@
             "ClassName": "MetalWire",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 1,
-            "ClassName": "Worm",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
         }
     ],
     "Rewards": [
         {
             "Amount": 1,
-            "ClassName": "chickenbreastmeat",
+            "ClassName": "Worm",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "RabbitSnareTrap",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
