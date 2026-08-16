@@ -15,6 +15,11 @@
             "m_Label": "Discord",
             "m_Icon": "set:expansion_iconset image:icon_discord",
             "m_URL": "https://discord.gg/DWFFmy6dyY"
+        },
+        {
+            "m_Label": "Interactive Takistan Map",
+            "m_Icon": "set:expansion_iconset image:Map",
+            "m_URL": "https://www.izurvive.com/takistanplus/"
         }
     ]
 }

@@ -152,6 +152,12 @@
             "URL": "https://discord.gg/DWFFmy6dyY",
             "IconName": "Discord",
             "IconColor": -14473430
+        },
+        {
+            "Name": "Interactive Takistan Map",
+            "URL": "https://www.izurvive.com/takistanplus",
+            "IconName": "Map",
+            "IconColor": -14473430
         }
     ],
     "Descriptions": [
@@ -165,7 +171,7 @@
                     "DescriptionText": "PVP areas include static and dynamic areas. Static PVP areas consist of the 1500 meter wide circles around the northern and southern military bases. Dynamic areas consist of helicopter crashes and airdrops, and are 300 meters wide. They will appear on your map if you have one equiped."
                 },
                 {
-                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. This process takes about 10 to 15 minutes. The market & quests reset every Sunday at 0300 UTC."
+                    "DescriptionText": "The server restarts every 4 hours to ensure consistent performance. This process takes about 10 to 15 minutes. The market & quests reset every Tuesday at 0600 UTC."
                 }
             ]
         },
