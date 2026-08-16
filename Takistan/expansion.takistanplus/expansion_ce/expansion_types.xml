@@ -3398,7 +3398,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="ExpansionDeltapointOptic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3410,7 +3410,7 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionEXPS3HoloOptic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3422,10 +3422,10 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionHAMROptic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3434,7 +3434,7 @@
         <usage name="Military"/>
     </type>
     <type name="Expansion_PMII25Optic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3446,7 +3446,7 @@
         <usage name="Military"/>
     </type>
     <type name="ExpansionReflexMRSOptic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3458,7 +3458,7 @@
         <usage name="Military"/>
     </type>
     <type name="Expansion_M1A_RailAtt">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3470,7 +3470,7 @@
         <usage name="Military"/>
     </type>
     <type name="Expansion_ANPEQ15_Red">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -3496,7 +3496,7 @@
         <usage name="Farm"/>
     </type>
     <type name="ExpansionSatchel">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -5895,10 +5895,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Wales">
         <nominal>0</nominal>
@@ -5908,10 +5908,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Switzerland">
         <nominal>0</nominal>
@@ -5921,10 +5921,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_SriLanka">
         <nominal>0</nominal>
@@ -5934,10 +5934,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_SouthAfrica">
         <nominal>0</nominal>
@@ -5947,10 +5947,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Sicily">
         <nominal>0</nominal>
@@ -5960,10 +5960,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_OffWithHead">
         <nominal>0</nominal>
@@ -5973,10 +5973,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Gibraltar">
         <nominal>0</nominal>
@@ -5986,10 +5986,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Czechia">
         <nominal>0</nominal>
@@ -5999,10 +5999,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Fari">
         <nominal>0</nominal>
@@ -6012,10 +6012,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Expansion">
         <nominal>0</nominal>
@@ -6025,10 +6025,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Finland">
         <nominal>0</nominal>
@@ -6038,10 +6038,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_White">
         <nominal>0</nominal>
@@ -6051,10 +6051,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Argentina">
         <nominal>0</nominal>
@@ -6064,10 +6064,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Australia">
         <nominal>0</nominal>
@@ -6077,10 +6077,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Turkey">
         <nominal>0</nominal>
@@ -6090,10 +6090,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Canada">
         <nominal>0</nominal>
@@ -6103,10 +6103,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Ukraine">
         <nominal>0</nominal>
@@ -6116,10 +6116,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Chernarus">
         <nominal>0</nominal>
@@ -6129,10 +6129,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_DayZWhite">
         <nominal>0</nominal>
@@ -6142,10 +6142,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_France">
         <nominal>0</nominal>
@@ -6155,10 +6155,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_DayZBlack">
         <nominal>0</nominal>
@@ -6168,10 +6168,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_DoubleAxe">
         <nominal>0</nominal>
@@ -6181,10 +6181,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Germany">
         <nominal>0</nominal>
@@ -6194,10 +6194,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Grenade">
         <nominal>0</nominal>
@@ -6207,10 +6207,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Latvia">
         <nominal>0</nominal>
@@ -6220,10 +6220,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Red">
         <nominal>0</nominal>
@@ -6233,10 +6233,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Luxembourg">
         <nominal>0</nominal>
@@ -6246,10 +6246,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Rainbow">
         <nominal>0</nominal>
@@ -6259,10 +6259,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Mexico">
         <nominal>0</nominal>
@@ -6272,10 +6272,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Blue">
         <nominal>0</nominal>
@@ -6285,10 +6285,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Netherlands">
         <nominal>0</nominal>
@@ -6298,10 +6298,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Green">
         <nominal>0</nominal>
@@ -6311,10 +6311,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_NewZealand">
         <nominal>0</nominal>
@@ -6324,10 +6324,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Yellow">
         <nominal>0</nominal>
@@ -6337,10 +6337,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Norway">
         <nominal>0</nominal>
@@ -6350,10 +6350,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Orange">
         <nominal>0</nominal>
@@ -6363,10 +6363,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Poland">
         <nominal>0</nominal>
@@ -6376,10 +6376,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Pink">
         <nominal>0</nominal>
@@ -6389,10 +6389,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Russia">
         <nominal>0</nominal>
@@ -6402,10 +6402,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Purple">
         <nominal>0</nominal>
@@ -6415,10 +6415,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_UK">
         <nominal>0</nominal>
@@ -6428,10 +6428,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_USA">
         <nominal>0</nominal>
@@ -6441,10 +6441,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Scotland">
         <nominal>0</nominal>
@@ -6454,10 +6454,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Sweden">
         <nominal>0</nominal>
@@ -6467,10 +6467,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Spain">
         <nominal>0</nominal>
@@ -6480,10 +6480,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Denmark">
         <nominal>0</nominal>
@@ -6493,10 +6493,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Brazil">
         <nominal>0</nominal>
@@ -6506,10 +6506,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Portugal">
         <nominal>0</nominal>
@@ -6519,10 +6519,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Belgium">
         <nominal>0</nominal>
@@ -6532,10 +6532,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Livonia">
         <nominal>0</nominal>
@@ -6545,10 +6545,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Japan">
         <nominal>0</nominal>
@@ -6558,10 +6558,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_China">
         <nominal>0</nominal>
@@ -6571,10 +6571,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_SouthKorea">
         <nominal>0</nominal>
@@ -6584,10 +6584,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_UN">
         <nominal>0</nominal>
@@ -6597,10 +6597,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_NATO">
         <nominal>0</nominal>
@@ -6610,10 +6610,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Pirate">
         <nominal>0</nominal>
@@ -6623,10 +6623,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Chedaki">
         <nominal>0</nominal>
@@ -6636,10 +6636,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_NAPA">
         <nominal>0</nominal>
@@ -6649,10 +6649,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_CDF">
         <nominal>0</nominal>
@@ -6662,10 +6662,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_NuevoRico">
         <nominal>0</nominal>
@@ -6675,10 +6675,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Borduria">
         <nominal>0</nominal>
@@ -6688,10 +6688,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Biohazard">
         <nominal>0</nominal>
@@ -6701,10 +6701,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_AnyoneInCherno">
         <nominal>0</nominal>
@@ -6714,10 +6714,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
     <type name="Armband_Expansion_Ireland">
         <nominal>0</nominal>
@@ -6727,12 +6727,11 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="clothes" />
-        <usage name="Village" />
-        <usage name="Town" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="clothes"/>
+        <usage name="Village"/>
+        <usage name="Town"/>
     </type>
-    <!--Bags Stuff-->
     <type name="Armband_CAF">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
@@ -8195,5 +8194,5 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-    </type>  
+    </type>
 </types>
