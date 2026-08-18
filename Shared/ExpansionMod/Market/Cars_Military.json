@@ -64,7 +64,11 @@
                 "expansionuaz_green",
                 "expansionuazroofless_green",
                 "expansionuazcargo_green",
-                "expansionuazcargoroofless_green"
+                "expansionuazcargoroofless_green",
+                "expansionuaz_lightgreen",
+                "expansionuazroofless_lightgreen",
+                "expansionuazcargo_lightgreen",
+                "expansionuazcargoroofless_lightgreen"
             ]
         },
         {
@@ -95,36 +99,6 @@
                 "expansionuazroofless_black",
                 "expansionuazcargo_black",
                 "expansionuazcargoroofless_black"
-            ]
-        },
-        {
-            "ClassName": "expansionuaz_lightgreen",
-            "MaxPriceThreshold": 60000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "expansionuazwheel",
-                "carbattery",
-                "carradiator",
-                "sparkplug",
-                "expansionuazdoorhood_lightgreen",
-                "expansionuazdoordriver_lightgreen",
-                "expansionuazdoorcodriver_lightgreen",
-                "expansionuazdoorcargo1_lightgreen",
-                "expansionuazdoorcargo2_lightgreen",
-                "headlighth7",
-                "headlighth7"
-            ],
-            "Variants": [
-                "expansionuazroofless_lightgreen",
-                "expansionuazcarg_lightgreeno",
-                "expansionuazcargoroofless_lightgreen"
             ]
         },
         {
