@@ -13,7 +13,10 @@
     "DisplayCurrencyName": "",
     "UseCategoryOrder": 0,
     "Categories": [
-        "Special_Gear"
+        "Special_Gear",
+        "Special_Gear2",
+        "Special_Gear3"
+        
     ],
     "Items": {}
 }

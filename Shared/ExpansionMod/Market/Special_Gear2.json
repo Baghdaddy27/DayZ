@@ -1,0 +1,161 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SPECIAL ACCESSORIES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "BallisticHelmet_ACU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BallisticHelmet_AF",
+                "BallisticHelmet_CAN",
+                "BallisticHelmet_CC",
+                "BallisticHelmet_DCU",
+                "BallisticHelmet_Digi",
+                "BallisticHelmet_DST",
+                "BallisticHelmet_FLK",
+                "BallisticHelmet_Multicam",
+                "BallisticHelmet_OP4",
+                "BallisticHelmet_Pink",
+                "BallisticHelmet_RUS",
+                "BallisticHelmet_URB",
+                "BallisticHelmet_USCG",
+                "BallisticHelmet_USN",
+                "BallisticHelmet_USN2"
+            ]
+        },
+        {
+            "ClassName": "mich2001helmet_acu",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mich2001helmet_AF",
+                "mich2001helmet_CAN",
+                "mich2001helmet_CC",
+                "mich2001helmet_DCU",
+                "mich2001helmet_Tan",
+                "mich2001helmet_Digi",
+                "mich2001helmet_FLK",
+                "mich2001helmet_Multicam",
+                "mich2001helmet_OP4",
+                "mich2001helmet_Pink",
+                "mich2001helmet_RUS",
+                "mich2001helmet_TPD",
+                "mich2001helmet_URB",
+                "mich2001helmet_USN",
+                "mich2001helmet_USCG",
+                "mich2001helmet_USN2"
+            ]
+        },
+        {
+            "ClassName": "BaseballCap_ACU",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BaseballCap_ABU",
+                "BaseballCap_CAN",
+                "BaseballCap_CC",
+                "BaseballCap_DCU",
+                "BaseballCap_Digi",
+                "BaseballCap_FLK",
+                "BaseballCap_Multicam",
+                "BaseballCap_OP4",
+                "BaseballCap_PinkII",
+                "BaseballCap_Rus",
+                "BaseballCap_URB",
+                "BaseballCap_USN",
+                "BaseballCap_USN2"
+            ]
+        },
+                {
+            "ClassName": "BaseballCap_CAF",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BaseballCap_USCG",
+                "BaseballCap_KRG",
+                "BaseballCap_Pride",
+                "BaseballCap_Deez",
+                "BaseballCap_Peace",
+                "BaseballCap_MJ"
+            ]
+        },
+        {
+            "ClassName": "BoonieHat_ACU",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BoonieHat_AF",
+                "BoonieHat_Arid",
+                "BoonieHat_CAN",
+                "BoonieHat_CC",
+                "BoonieHat_DCU",
+                "BoonieHat_FLK",
+                "BoonieHat_Multicam",
+                "BoonieHat_OP4",
+                "BoonieHat_Pink",
+                "BoonieHat_RUS",
+                "BoonieHat_URB",
+                "BoonieHat_USN",
+                "BoonieHat_USN2"
+            ]
+        },
+        {
+            "ClassName": "Flag_CAF",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Flag_KRG",
+                "Flag_Takistan"
+            ]
+        },
+        {
+            "ClassName": "Armband_CAF",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Armband_KRG",
+                "Armband_Takistan"
+            ]
+        }
+    ]
+}
