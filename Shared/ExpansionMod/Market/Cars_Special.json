@@ -1,0 +1,143 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SPECIAL",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+        {
+            "ClassName": "expansiontractor",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansiontractorbackwheel",
+                "expansiontractorbackwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractordoorsdriver",
+                "expansiontractordoorscodriver",
+                "headlighth7",
+                "headlighth7",
+                "sparkplug",
+                "carbattery"
+            ],
+            "Variants": [
+                "expansiontractor_red"
+            ]
+        },
+        {
+            "ClassName": "expansiontractor_blue",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansiontractorbackwheel",
+                "expansiontractorbackwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractordoorsdriver_blue",
+                "expansiontractordoorscodriver_blue",
+                "headlighth7",
+                "headlighth7",
+                "sparkplug",
+                "carbattery"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansiontractor_green",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansiontractorbackwheel",
+                "expansiontractorbackwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractordoorsdriver_green",
+                "expansiontractordoorscodriver_green",
+                "headlighth7",
+                "headlighth7",
+                "sparkplug",
+                "carbattery"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionbus",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 70000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionbuswheel",
+                "expansionbuswheel",
+                "expansionbuswheeldouble",
+                "expansionbuswheeldouble",
+                "headlighth7",
+                "headlighth7",
+                "truckbattery",
+                "carradiator",
+                "glowplug"
+            ],
+            "Variants": [
+                "expansionbus_blue"
+            ]
+        },
+        {
+            "ClassName": "expansionbus_red",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 70000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionbuswheel",
+                "expansionbuswheel",
+                "expansionbuswheeldouble",
+                "expansionbuswheeldouble",
+                "headlighth7",
+                "headlighth7",
+                "truckbattery",
+                "carradiator",
+                "glowplug"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionbus_weeb",
+            "MaxPriceThreshold": 180000,
+            "MinPriceThreshold": 70000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionbuswheel",
+                "expansionbuswheel",
+                "expansionbuswheeldouble",
+                "expansionbuswheeldouble",
+                "headlighth7",
+                "headlighth7",
+                "truckbattery",
+                "carradiator",
+                "glowplug"
+            ],
+            "Variants": []
+        }
+    ]
+}

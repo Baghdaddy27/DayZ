@@ -17,7 +17,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackhood_blue",
-                "hatchbackhood_white"
+                "hatchbackhood_white",
+                "hatchbackhood_black",
+                "hatchbackhood_cc",
+                "hatchbackhood_erdl",
+                "hatchbackhood_orange",
+                "hatchbackhood_pink",
+                "hatchbackhood_red",
+                "hatchbackhood_teal",
+                "hatchbackhood_urb",
+                "hatchbackhood_yellow"
             ]
         },
         {
@@ -31,7 +40,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbacktrunk_blue",
-                "hatchbacktrunk_white"
+                "hatchbacktrunk_white",
+                "hatchbacktrunk_black",
+                "hatchbacktrunk_cc",
+                "hatchbacktrunk_erdl",
+                "hatchbacktrunk_orange",
+                "hatchbacktrunk_pink",
+                "hatchbacktrunk_red",
+                "hatchbacktrunk_teal",
+                "hatchbacktrunk_urb",
+                "hatchbacktrunk_yellow"
             ]
         },
         {
@@ -45,7 +63,15 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackdoors_driver_blue",
-                "hatchbackdoors_driver_white"
+                "hatchbackdoors_driver_white",
+                "hatchbackdoors_driver_cc",
+                "hatchbackdoors_driver_erdl",
+            "hatchbackdoors_driver_orange",
+            "hatchbackdoors_driver_pink",
+            "hatchbackdoors_driver_red",
+            "hatchbackdoors_driver_teal",
+            "hatchbackdoors_driver_urb",
+            "hatchbackdoors_driver_yellow"
             ]
         },
         {
@@ -59,7 +85,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchbackdoors_codriver_blue",
-                "hatchbackdoors_codriver_white"
+                "hatchbackdoors_codriver_white",
+                "hatchbackdoors_codriver_black",
+                "hatchbackdoors_codriver_cc",
+                "hatchbackdoors_codriver_erdl",
+                "hatchbackdoors_codriver_orange",
+                "hatchbackdoors_codriver_pink",
+                "hatchbackdoors_codriver_red",
+                "hatchbackdoors_codriver_teal",
+                "hatchbackdoors_codriver_urb",
+                "hatchbackdoors_codriver_yellow"
             ]
         },
         {
@@ -84,7 +119,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_hood_black",
-                "hatchback_02_hood_blue"
+                "hatchback_02_hood_blue",
+                "hatchback_02_hood_cc",
+                "hatchback_02_hood_erdl",
+                "hatchback_02_hood_green",
+                "hatchback_02_hood_orange",
+                "hatchback_02_hood_pink",
+                "hatchback_02_hood_teal",
+                "hatchback_02_hood_urb",
+                "hatchback_02_hood_white",
+                "hatchback_02_hood_yellow"
             ]
         },
         {
@@ -98,7 +142,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_trunk_black",
-                "hatchback_02_trunk_blue"
+                "hatchback_02_trunk_blue",
+                "hatchback_02_trunk_cc",
+                "hatchback_02_trunk_erdl",
+                "hatchback_02_trunk_green",
+                "hatchback_02_trunk_orange",
+                "hatchback_02_trunk_pink",
+                "hatchback_02_trunk_teal",
+                "hatchback_02_trunk_urb",
+                "hatchback_02_trunk_white",
+                "hatchback_02_trunk_yellow"
             ]
         },
         {
@@ -112,7 +165,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_1_black",
-                "hatchback_02_door_1_1_blue"
+                "hatchback_02_door_1_1_blue",
+                "hatchback_02_cc_door_1_1",
+                "hatchback_02_erdl_door_1_1",
+                "hatchback_02_green_door_1_1",
+                "hatchback_02_orange_door_1_1",
+                "hatchback_02_pink_door_1_1",
+                "hatchback_02_teal_door_1_1",
+                "hatchback_02_urb_door_1_1",
+                "hatchback_02_white_door_1_1",
+                "hatchback_02_yellow_door_1_1"
             ]
         },
         {
@@ -126,7 +188,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_1_2_black",
-                "hatchback_02_door_1_2_blue"
+                "hatchback_02_door_1_2_blue",
+                "hatchback_02_cc_door_1_2",
+                "hatchback_02_erdl_door_1_2",
+                "hatchback_02_green_door_1_2",
+                "hatchback_02_orange_door_1_2",
+                "hatchback_02_pink_door_1_2",
+                "hatchback_02_teal_door_1_2",
+                "hatchback_02_urb_door_1_2",
+                "hatchback_02_white_door_1_2",
+                "hatchback_02_yellow_door_1_2"
             ]
         },
         {
@@ -140,7 +211,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_1_black",
-                "hatchback_02_door_2_1_blue"
+                "hatchback_02_door_2_1_blue",
+                "hatchback_02_cc_door_2_1",
+                "hatchback_02_erdl_door_2_1",
+                "hatchback_02_green_door_2_1",
+                "hatchback_02_orange_door_2_1",
+                "hatchback_02_pink_door_2_1",
+                "hatchback_02_teal_door_2_1",
+                "hatchback_02_urb_door_2_1",
+                "hatchback_02_white_door_2_1",
+                "hatchback_02_yellow_door_2_1"
             ]
         },
         {
@@ -154,7 +234,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "hatchback_02_door_2_2_black",
-                "hatchback_02_door_2_2_blue"
+                "hatchback_02_door_2_2_blue",
+                "hatchback_02_cc_door_2_2",
+                "hatchback_02_erdl_door_2_2",
+                "hatchback_02_green_door_2_2",
+                "hatchback_02_orange_door_2_2",
+                "hatchback_02_pink_door_2_2",
+                "hatchback_02_teal_door_2_2",
+                "hatchback_02_urb_door_2_2",
+                "hatchback_02_white_door_2_2",
+                "hatchback_02_yellow_door_2_2"
             ]
         },
         {
@@ -179,7 +268,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedanhood_wine",
-                "civsedanhood_black"
+                "civsedanhood_black",
+                "civsedanhood_blue",
+                "civsedanhood_cc",
+                "civsedanhood_erdl",
+                "civsedanhood_green",
+                "civsedanhood_orange",
+                "civsedanhood_pink",
+                "civsedanhood_teal",
+                "civsedanhood_urb",
+                "civsedanhood_yellow"
             ]
         },
         {
@@ -193,7 +291,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedantrunk_wine",
-                "civsedantrunk_black"
+                "civsedantrunk_black",
+                "civsedantrunk_blue",
+                "civsedantrunk_cc",
+                "civsedantrunk_erdl",
+                "civsedantrunk_green",
+                "civsedantrunk_orange",
+                "civsedantrunk_pink",
+                "civsedantrunk_teal",
+                "civsedantrunk_urb",
+                "civsedantrunk_yellow"
             ]
         },
         {
@@ -207,7 +314,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_driver_wine",
-                "civsedandoors_driver_black"
+                "civsedandoors_driver_black",
+                "civsedandoors_driver_blue",
+                "civsedandoors_driver_cc",
+                "civsedandoors_driver_erdl",
+                "civsedandoors_driver_green",
+                "civsedandoors_driver_orange",
+                "civsedandoors_driver_pink",
+                "civsedandoors_driver_teal",
+                "civsedandoors_driver_urb",
+                "civsedandoors_driver_yellow"
             ]
         },
         {
@@ -221,7 +337,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_codriver_wine",
-                "civsedandoors_codriver_black"
+                "civsedandoors_codriver_black",
+                "civsedandoors_codriver_blue",
+                "civsedandoors_codriver_cc",
+                "civsedandoors_codriver_erdl",
+                "civsedandoors_codriver_green",
+                "civsedandoors_codriver_orange",
+                "civsedandoors_codriver_pink",
+                "civsedandoors_codriver_teal",
+                "civsedandoors_codriver_urb",
+                "civsedandoors_codriver_yellow"
             ]
         },
         {
@@ -235,7 +360,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_backleft_wine",
-                "civsedandoors_backleft_black"
+                "civsedandoors_backleft_black",
+                "civsedandoors_backleft_blue",
+                "civsedandoors_backleft_cc",
+                "civsedandoors_backleft_erdl",
+                "civsedandoors_backleft_green",
+                "civsedandoors_backleft_orange",
+                "civsedandoors_backleft_pink",
+                "civsedandoors_backleft_teal",
+                "civsedandoors_backleft_urb",
+                "civsedandoors_backleft_yellow"
             ]
         },
         {
@@ -249,7 +383,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "civsedandoors_backright_wine",
-                "civsedandoors_backright_black"
+                "civsedandoors_backright_black",
+                "civsedandoors_backright_blue",
+                "civsedandoors_backright_cc",
+                "civsedandoors_backright_erdl",
+                "civsedandoors_backright_green",
+                "civsedandoors_backright_orange",
+                "civsedandoors_backright_pink",
+                "civsedandoors_backright_teal",
+                "civsedandoors_backright_urb",
+                "civsedandoors_backright_yellow"
             ]
         },
         {
@@ -274,7 +417,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_hood_red",
-                "sedan_02_hood_grey"
+                "sedan_02_hood_grey",
+                "sedan_02_hood_black",
+                "sedan_02_hood_blue",
+            "sedan_02_hood_cc",
+            "sedan_02_hood_green",
+            "sedan_02_hood_orange",
+            "sedan_02_hood_pink",
+            "sedan_02_hood_teal",
+            "sedan_02_hood_urb",
+            "sedan_02_hood_woodland"
             ]
         },
         {
@@ -288,7 +440,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_trunk_red",
-                "sedan_02_trunk_grey"
+                "sedan_02_trunk_grey",
+                "sedan_02_trunk_black",
+                "sedan_02_trunk_blue",
+            "sedan_02_trunk_cc",
+            "sedan_02_trunk_green",
+            "sedan_02_trunk_orange",
+            "sedan_02_trunk_pink",
+            "sedan_02_trunk_teal",
+            "sedan_02_trunk_urb",
+            "sedan_02_trunk_woodland"
             ]
         },
         {
@@ -302,7 +463,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_1_1_red",
-                "sedan_02_door_1_1_grey"
+                "sedan_02_door_1_1_grey",
+                "sedan_02_black_door_1_2",
+                "sedan_02_blue_door_1_2",
+            "sedan_02_cc_door_1_2",
+            "sedan_02_green_door_1_2",
+            "sedan_02_orange_door_1_2",
+            "sedan_02_pink_door_1_2",
+            "sedan_02_teal_door_1_2",
+            "sedan_02_urb_door_1_2",
+            "sedan_02_woodland_door_1_2"
             ]
         },
         {
@@ -316,7 +486,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_1_2_red",
-                "sedan_02_door_1_2_grey"
+                "sedan_02_door_1_2_grey",
+                "sedan_02_black_door_2_1",
+                "sedan_02_blue_door_2_1",
+            "sedan_02_cc_door_2_1",
+            "sedan_02_erdl_door_2_1",
+            "sedan_02_green_door_2_1",
+            "sedan_02_orange_door_2_1",
+            "sedan_02_pink_door_2_1",
+            "sedan_02_teal_door_2_1",
+            "sedan_02_urb_door_2_1"
             ]
         },
         {
@@ -344,7 +523,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_2_2_red",
-                "sedan_02_door_2_2_grey"
+                "sedan_02_door_2_2_grey",
+                "sedan_02_black_door_2_2",
+                "sedan_02_blue_door_2_2",
+            "sedan_02_cc_door_2_2",
+            "sedan_02_green_door_2_2",
+            "sedan_02_orange_door_2_2",
+            "sedan_02_pink_door_2_2",
+            "sedan_02_teal_door_2_2",
+            "sedan_02_urb_door_2_2",
+            "sedan_02_woodland_door_2_2"
             ]
         },
         {

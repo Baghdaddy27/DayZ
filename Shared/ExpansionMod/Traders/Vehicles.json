@@ -13,7 +13,13 @@
     "DisplayCurrencyName": "",
     "UseCategoryOrder": 0,
     "Categories": [
-        "Cars",
+        "Cars_CivSedan",
+        "Cars_Hatchback",
+        "Cars_Military",
+        "Cars_Offroad",
+        "Cars_Sedan",
+        "Cars_Special",
+        "Cars_Trucks",
         "Vehicle_Parts:3",
         "Batteries:3"
     ],
