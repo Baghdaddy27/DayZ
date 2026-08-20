@@ -7,6 +7,25 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "Shemag_Kufiya",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemag_KufiyaBlue",
+                "Shemag_KufiyaGreen",
+                "Shemag_KufiyaGrey",
+                "Shemag_KufiyaOrange",
+                "Shemag_KufiyaRed",
+                "Shemag_KufiyaWhiteRed",
+                "Shemag_KufiyaTan"
+            ]
+        },
+        {
             "ClassName": "pakol_hat",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
