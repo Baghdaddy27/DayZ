@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "hatchback_02",
+            "ClassName": "hatchback02",
             "MaxPriceThreshold": 32000,
             "MinPriceThreshold": 16000,
             "SellPricePercent": -1,
