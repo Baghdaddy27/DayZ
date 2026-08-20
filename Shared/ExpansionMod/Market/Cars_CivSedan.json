@@ -1,43 +1,11 @@
 {
     "m_Version": 12,
-    "DisplayName": "OLGA",
+    "DisplayName": "SPECIAL OLGA",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
-        {
-            "ClassName": "civiliansedan",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "civsedanwheel",
-                "civsedanwheel",
-                "civsedanwheel",
-                "civsedanwheel",
-                "civsedanwheel",
-                "carbattery",
-                "carradiator",
-                "sparkplug",
-                "civsedanhood",
-                "civsedantrunk",
-                "civsedandoors_driver",
-                "civsedandoors_codriver",
-                "civsedandoors_backleft",
-                "civsedandoors_backright",
-                "headlighth7",
-                "headlighth7"
-            ],
-            "Variants": [
-                "civiliansedan_Black",
-                "civiliansedan_White",
-                "civiliansedan_Wine"
-            ]
-        },
         {
             "ClassName": "civsedan2_blue",
             "MaxPriceThreshold": 40000,

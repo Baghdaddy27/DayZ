@@ -1,38 +1,11 @@
 {
     "m_Version": 12,
-    "DisplayName": "SPECIAL",
+    "DisplayName": "EXPANSION VEHICLES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
-        {
-            "ClassName": "offroad_02",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 50000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "offroad_02_wheel",
-                "offroad_02_wheel",
-                "offroad_02_wheel",
-                "offroad_02_wheel",
-                "offroad_02_wheel",
-                "offroad_02_door_1_1",
-                "offroad_02_door_2_1",
-                "offroad_02_door_1_2",
-                "offroad_02_door_2_2",
-                "offroad_02_hood",
-                "offroad_02_trunk",
-                "carbattery",
-                "glowplug",
-                "headlighth7",
-                "headlighth7"
-            ],
-            "Variants": []
-        },
         {
             "ClassName": "expansionuaz",
             "MaxPriceThreshold": 60000,
@@ -58,12 +31,9 @@
                 "headlighth7"
             ],
             "Variants": [
-                "expansionuazroofless",
                 "expansionuazcargo",
-                "expansionuazcargoroofless",
-                "expansionuazroofless_black",
-                "expansionuazcargo_black",
-                "expansionuazcargoroofless_black"
+                "expansionuazroofless",
+                "expansionuazcargoroofless"
             ]
         },
         {
@@ -120,7 +90,7 @@
             ],
             "Variants": []
         },
-                {
+        {
             "ClassName": "expansiontractor",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 10000,
@@ -161,9 +131,7 @@
                 "carradiator",
                 "glowplug"
             ],
-            "Variants": [
-                "expansionbus_blue"
-            ]
+            "Variants": []
         }
     ]
 }
