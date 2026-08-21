@@ -1,13 +1,13 @@
 {
     "m_Version": 12,
-    "DisplayName": "Cold Weather Jackets",
+    "DisplayName": "Cold Weather Pants",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "GorkaEJacketCJacket_Chn",
+            "ClassName": "CargoPantsC_ACU",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_DST",
+            "ClassName": "CargoPantsC_CAN",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_Digi",
+            "ClassName": "CargoPantsC_CC",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_EGT",
+            "ClassName": "CargoPantsC_DCU",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_FLK",
+            "ClassName": "CargoPantsC_Multicam",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_NK",
+            "ClassName": "CargoPantsC_OP4",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_RUS",
+            "ClassName": "CargoPantsC_Pink",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_SAF",
+            "ClassName": "CargoPantsC_URB",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_SWD",
+            "ClassName": "CargoPantsC_USN2",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_UKR",
+            "ClassName": "GorkaPantsC_CHN",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_USN",
+            "ClassName": "GorkaPantsC_DST",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_WW2",
+            "ClassName": "GorkaPantsC_Digi",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_ACU",
+            "ClassName": "GorkaPantsC_EGT",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_CAN",
+            "ClassName": "GorkaPantsC_FLK",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_CC",
+            "ClassName": "GorkaPantsC_NK",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_DCU",
+            "ClassName": "GorkaPantsC_RUS",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_Multicam",
+            "ClassName": "GorkaPantsC_SAF",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_OP4",
+            "ClassName": "GorkaPantsC_SWD",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_Pink",
+            "ClassName": "GorkaPantsC_UKR",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_URB",
+            "ClassName": "GorkaPantsC_USN",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_USN",
+            "ClassName": "GorkaPantsC_WW2",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,

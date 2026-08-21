@@ -1,15 +1,15 @@
 {
     "m_Version": 12,
-    "DisplayName": "Cold Weather Jackets",
+    "DisplayName": "Ballistic Helmets",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "GorkaEJacketCJacket_Chn",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_ACU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -18,9 +18,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_DST",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_CAN",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -29,9 +29,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_Digi",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_CC",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -40,9 +40,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_EGT",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_CHN",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -51,9 +51,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_FLK",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_DCU",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -62,9 +62,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_NK",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_DST",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -73,9 +73,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_RUS",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_Digi",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -84,9 +84,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_SAF",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_EGT",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -95,9 +95,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_SWD",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_FLK",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -106,9 +106,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_UKR",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -117,9 +117,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_USN",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_NK",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -128,9 +128,9 @@
             "Variants": []
         },
         {
-            "ClassName": "GorkaEJacketCJacket_WW2",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_OP4",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -139,9 +139,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_ACU",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_Pink",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -150,9 +150,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_CAN",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_RUS",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -161,9 +161,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_CC",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_SAF",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -172,9 +172,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_DCU",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_SWD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -183,9 +183,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_Multicam",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_UKR",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -194,9 +194,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_OP4",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_URB",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -205,9 +205,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_Pink",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_USN",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -216,9 +216,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_URB",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_USN2",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -227,9 +227,9 @@
             "Variants": []
         },
         {
-            "ClassName": "TacticalShirt_USN",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "ClassName": "BallisticHelmet_WW2",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -1,107 +1,241 @@
 {
     "m_Version": 12,
-    "DisplayName": "LOCAL GEAR",
+    "DisplayName": "Hot Weather Pants",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "Shemag_Kufiya",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "ClassName": "CargoPants_ACU",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "Shemag_KufiyaBlue",
-                "Shemag_KufiyaGreen",
-                "Shemag_KufiyaGrey",
-                "Shemag_KufiyaOrange",
-                "Shemag_KufiyaRed",
-                "Shemag_KufiyaWhiteRed",
-                "Shemag_KufiyaTan"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "pakol_hat",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "ClassName": "CargoPants_CAN",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "MVS_Pakol_brown_Takistan",
-                "MVS_Pakol_grey",
-                "MVS_Pakol_black"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "MVS_Turban_1",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "ClassName": "CargoPants_CC",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "MVS_Turban_2",
-                "MVS_Turban_3",
-                "MVS_Turban_4"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "MVS_Kurta_1",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
+            "ClassName": "CargoPants_DCU",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "MVS_Kurta_2",
-                "MVS_Kurta_3",
-                "MVS_Kurta_4",
-                "MVS_Kurta_5"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "MVS_Kurta2_1",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "ClassName": "CargoPants_Multicam",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "MVS_Kurta2_2",
-                "MVS_Kurta2_3",
-                "MVS_Kurta2_4",
-                "MVS_Kurta2_5"
-            ]
+            "Variants": []
         },
         {
-            "ClassName": "MVS_Kurta3_1",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "ClassName": "CargoPants_OP4",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "MVS_Kurta3_2",
-                "MVS_Kurta3_3",
-                "MVS_Kurta3_4",
-                "MVS_Kurta3_5"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "CargoPants_Pink",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CargoPants_URB",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CargoPants_USN2",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_CHN",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_DST",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_Digi",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_EGT",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_FLK",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_NK",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_RUS",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_SAF",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_SWD",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_UKR",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_USN",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaPants_WW2",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
