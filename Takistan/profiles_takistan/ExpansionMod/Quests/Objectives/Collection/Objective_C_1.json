@@ -4,7 +4,7 @@
     "ObjectiveType": 4,
     "ObjectiveText": "Craft a Snare",
     "TimeLimit": -1,
-    "Active": 1,
+    "Active": 0,
     "Collections": [
         {
             "Amount": 1,

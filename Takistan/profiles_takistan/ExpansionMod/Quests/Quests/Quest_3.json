@@ -34,12 +34,6 @@
     "Rewards": [
         {
             "Amount": 1,
-            "ClassName": "Worm",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
-        },
-        {
-            "Amount": 1,
             "ClassName": "RabbitSnareTrap",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
@@ -60,8 +54,8 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 4
+            "ID": 2,
+            "ObjectiveType": 11
         }
     ],
     "QuestColor": -1,
@@ -73,8 +67,8 @@
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 1,
-    "SequentialObjectives": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

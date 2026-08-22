@@ -8,7 +8,7 @@
         "You've made it this far, %1! Now its time to make a permanent place for yourself. Head out 1000 meters from the Black Market and pick a spot. Craft the flag kit, make a territory, and claim a piece of Takistan for yourself. Make sure you pick up the item to complete the quest!",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Find a place to build your camp and craft a Territory Flag Kit",
+    "ObjectiveText": "Craft a Territory Flag Kit",
     "FollowUpQuest": 3,
     "Repeatable": 0,
     "IsDailyQuest": 0,
