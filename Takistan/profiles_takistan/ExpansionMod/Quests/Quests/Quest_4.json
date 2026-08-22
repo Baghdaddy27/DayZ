@@ -50,7 +50,7 @@
     "QuestTurnInIDs": [
         2
     ],
-    "IsAchievement": 0,
+    "IsAchievement": 1,
     "Objectives": [
         {
             "ConfigVersion": 28,
