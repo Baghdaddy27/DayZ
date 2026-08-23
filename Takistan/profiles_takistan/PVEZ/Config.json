@@ -9,7 +9,7 @@
         "Force1stPersonInPVP": 1,
         "Week_Starts_On_Sunday": 0,
         "Custom_Enter_Zone_Message": "WARNING! You are entering a PVP zone.",
-        "Custom_Exit_Zone_Message": "You are leave the PVP zone.",
+        "Custom_Exit_Zone_Message": "You are leaving the PVP zone.",
         "Custom_Exit_Zone_Countdown_Message": "PVP Status cleared in 10 seconds."
     },
     "DAMAGE": {
