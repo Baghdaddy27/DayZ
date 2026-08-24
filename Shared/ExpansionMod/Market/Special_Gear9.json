@@ -161,6 +161,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Tortillabag_TGR",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Tortillabag_RUS",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,

@@ -161,6 +161,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Mich2001Helmet_TGR",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Mich2001Helmet_RUS",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 420,

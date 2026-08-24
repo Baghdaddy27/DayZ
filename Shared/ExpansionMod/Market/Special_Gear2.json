@@ -216,6 +216,17 @@
             "Variants": []
         },
         {
+            "ClassName": "TacticalShirt_TGR",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "TacticalShirt_URB",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,

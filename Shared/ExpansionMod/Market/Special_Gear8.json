@@ -183,6 +183,17 @@
             "Variants": []
         },
         {
+            "ClassName": "PressVest_TGR",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "PressVest_RUS",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,

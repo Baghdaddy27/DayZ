@@ -194,6 +194,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BaseballCap_TGR",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BaseballCap_Pride",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,

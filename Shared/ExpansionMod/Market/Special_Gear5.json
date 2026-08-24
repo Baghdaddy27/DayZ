@@ -139,6 +139,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BoonieHat_TGR",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BoonieHat_RUS",
             "MaxPriceThreshold": 32,
             "MinPriceThreshold": 16,

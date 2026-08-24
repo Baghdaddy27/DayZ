@@ -150,6 +150,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BallisticHelmet_TGR",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BallisticHelmet_RUS",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
