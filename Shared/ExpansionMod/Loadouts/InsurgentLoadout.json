@@ -936,7 +936,7 @@
             "Items": [
                 {
                     "ClassName": "WorkingGloves_Beige",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -955,7 +955,7 @@
                 },
                 {
                     "ClassName": "WorkingGloves_Black",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -974,7 +974,7 @@
                 },
                 {
                     "ClassName": "WorkingGloves_Brown",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -993,7 +993,7 @@
                 },
                 {
                     "ClassName": "WorkingGloves_Yellow",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1017,7 +1017,7 @@
             "Items": [
                 {
                     "ClassName": "Headtorch_Grey",
-                    "Chance": 0.25,
+                    "Chance": 0.35,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1055,7 +1055,7 @@
                 },
                 {
                     "ClassName": "Headtorch_Black",
-                    "Chance": 0.25,
+                    "Chance": 0.35,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1087,125 +1087,6 @@
                             ]
                         }
                     ],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "MASK",
-            "Items": [
-                {
-                    "ClassName": "FaceCover_Improvised",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "shemag_red",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "shemag_white",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "shemag_brown",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "shemag_green",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "expansionshemag",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.3,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
@@ -1403,7 +1284,7 @@
             "Items": [
                 {
                     "ClassName": "TankerHelmet",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1422,7 +1303,7 @@
                 },
                 {
                     "ClassName": "BallisticHelmet_Black",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1441,7 +1322,7 @@
                 },
                 {
                     "ClassName": "BallisticHelmet_Green",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1460,7 +1341,7 @@
                 },
                 {
                     "ClassName": "BallisticHelmet_UN",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1479,7 +1360,7 @@
                 },
                 {
                     "ClassName": "MVS_Turban_1",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1498,7 +1379,7 @@
                 },
                 {
                     "ClassName": "MVS_Turban_2",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1517,7 +1398,7 @@
                 },
                 {
                     "ClassName": "MVS_Turban_3",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1536,7 +1417,7 @@
                 },
                 {
                     "ClassName": "MVS_Turban_4",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1555,7 +1436,7 @@
                 },
                 {
                     "ClassName": "MVS_Turban_5",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1574,7 +1455,7 @@
                 },
                 {
                     "ClassName": "pakol_hat",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1593,7 +1474,7 @@
                 },
                 {
                     "ClassName": "MVS_Pakol_brown_Takistan",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1612,7 +1493,7 @@
                 },
                 {
                     "ClassName": "MVS_Pakol_grey",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1631,7 +1512,240 @@
                 },
                 {
                     "ClassName": "MVS_Pakol_black",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Kufiya",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_KufiyaBlue",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_KufiyaGreen",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_KufiyaGrey",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_KufiyaWhiteRed",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_KufiyaTan",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+                {
+            "SlotName": "MASK",
+            "Items": [
+                {
+                    "ClassName": "FaceCover_Improvised",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "shemag_red",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "shemag_white",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "shemag_brown",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "shemag_green",
+                    "Chance": 0.2,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "expansionshemag",
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1655,7 +1769,7 @@
             "Items": [
                 {
                     "ClassName": "TaloonBag_Blue",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1674,7 +1788,7 @@
                 },
                 {
                     "ClassName": "TaloonBag_Green",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1693,7 +1807,7 @@
                 },
                 {
                     "ClassName": "TaloonBag_Orange",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1712,7 +1826,7 @@
                 },
                 {
                     "ClassName": "TaloonBag_Violet",
-                    "Chance": 0.1,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0

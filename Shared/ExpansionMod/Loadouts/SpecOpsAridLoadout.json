@@ -128,6 +128,44 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "PressVest_dcu",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "PressVest_dst",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 }
             ]
         },
@@ -172,7 +210,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "ballistichelmet_desert",
+                            "ClassName": "ballistichelmet_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -191,8 +229,46 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "militarycap_desert",
-                            "Chance": 0.1,
+                            "ClassName": "ballistichelmet_dst",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "booniehat_dcu",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "baseballcap_dcu",
+                            "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -215,7 +291,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "usmcjacket_desert",
+                            "ClassName": "shirt_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -286,7 +362,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "usmcpants_desert",
+                            "ClassName": "cargopants_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1588,7 +1664,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "usmcjacket_desert",
+                            "ClassName": "shirt_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1659,7 +1735,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "usmcpants_desert",
+                            "ClassName": "cargopants_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2064,7 +2140,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "usmcjacket_desert",
+                            "ClassName": "shirt_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2135,7 +2211,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "usmcpants_desert",
+                            "ClassName": "cargopants_dcu",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,

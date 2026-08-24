@@ -32,34 +32,10 @@
             ]
         },
         {
-            "SlotName": "Vest",
-            "Items": [
-                {
-                    "ClassName": "PlateCarrierVest_Green",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.69,
-                            "Max": 1,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
             "SlotName": "Mask",
             "Items": [
                 {
-                    "ClassName": "Balaclava_Beige",
+                    "ClassName": "Balaclava3Holes_Black",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -163,7 +139,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "BDUJacket",
+                            "ClassName": "Tshirt_Beige",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -294,10 +270,10 @@
             "Health": [],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
-                            "ClassName": "M16A2",
+                            "ClassName": "Pipewrench",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -310,26 +286,7 @@
                                     "Zone": ""
                                 }
                             ],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_STANAG_30Rnd",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
+                            "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
@@ -337,21 +294,7 @@
                     ]
                 }
             ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_STANAG_30Rnd",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
+            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }

@@ -14,7 +14,7 @@
     "EntityWhitelist": [
         "ExpansionParkingMeter",
         "TerritoryFlag",
-        "ExpansionATM_3"
+        "ExpansionQuestNPCAIDenis"
     ],
     "EnableGroupFeatures": 1,
     "GroupStoreMode": 2,

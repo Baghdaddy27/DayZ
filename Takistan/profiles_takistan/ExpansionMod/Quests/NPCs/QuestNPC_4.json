@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCAIDenis",
+    "Position": [
+        6481.06, 
+        354.537, 
+        6012.11
+    ],
+    "Orientation": [
+        -144,
+        0,
+        0
+    ],
+    "NPCName": "Rick the Garage Guy",
+    "DefaultNPCText": "Do you need to store a vehicle? Use the mouse scroll wheel to select garage.",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNPC1Loadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

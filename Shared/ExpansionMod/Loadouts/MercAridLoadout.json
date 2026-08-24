@@ -136,7 +136,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "PlateCarrierVest",
+                    "ClassName": "PressVest_Digi",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -155,7 +155,26 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "PlateCarrierVest_Camo",
+                    "ClassName": "PressVest_DST",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "PressVest_OLV",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -222,7 +241,20 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "booniehat_olive",
+                            "ClassName": "booniehat_digi",
+                            "Chance": 0.25,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BaseballCap_Digi",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
@@ -254,7 +286,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "t56tankerhelmet_tan",
+                            "ClassName": "BallisticHelmet_Digi",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
@@ -273,7 +305,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "t56tankerhelmet_green",
+                            "ClassName": "BallisticHelmet_Dst",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
@@ -1409,7 +1441,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "GorkaEJacket_Flat",
+                            "ClassName": "gorkaejacket_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1513,7 +1545,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "GorkaPants_Flat",
+                            "ClassName": "gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1805,7 +1837,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "GorkaEJacket_Flat",
+                            "ClassName": "gorkaejacket_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1909,7 +1941,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "GorkaPants_Flat",
+                            "ClassName": "gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2338,7 +2370,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "GorkaPants_Flat",
+                            "ClassName": "gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
