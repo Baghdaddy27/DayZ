@@ -40,7 +40,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
@@ -53,7 +53,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
@@ -66,7 +66,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
@@ -79,7 +79,7 @@
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
@@ -92,7 +92,7 @@
             "Spatial_Faction": "Lunatics",
             "Spatial_Name": "Cannibal Hunters",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
@@ -105,7 +105,7 @@
             "Spatial_Faction": "Lunatics",
             "Spatial_Name": "Cannibal Hunters",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
@@ -118,7 +118,7 @@
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Shamans",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
             "Spatial_MaxAccuracy": 0.85,
             "Spatial_UnlimitedReload": 1
@@ -131,7 +131,7 @@
             "Spatial_Faction": "Shamans",
             "Spatial_Name": "Takistan National Guard",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.5,
             "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
@@ -144,7 +144,7 @@
             "Spatial_Faction": "Mercenaries",
             "Spatial_Name": "Korvan Group",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.5,
             "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
@@ -157,7 +157,7 @@
             "Spatial_Faction": "East",
             "Spatial_Name": "Shadow Company",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.5,
             "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
@@ -170,7 +170,7 @@
             "Spatial_Faction": "West",
             "Spatial_Name": "Blackridge",
             "Spatial_Lootable": 1,
-            "Spatial_Chance": 0.7,
+            "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.5,
             "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
