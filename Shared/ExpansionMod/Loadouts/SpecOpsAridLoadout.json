@@ -130,7 +130,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "PressVest_dcu",
+                    "ClassName": "PressVest_saf",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -210,7 +210,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "ballistichelmet_dcu",
+                            "ClassName": "ballistichelmet_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -248,7 +248,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "booniehat_dcu",
+                            "ClassName": "booniehat_saf",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -267,7 +267,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "baseballcap_dcu",
+                            "ClassName": "baseballcap_saf",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -291,7 +291,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_dcu",
+                            "ClassName": "shirt_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -362,7 +362,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_dcu",
+                            "ClassName": "cargopants_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1664,7 +1664,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_dcu",
+                            "ClassName": "shirt_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1735,7 +1735,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_dcu",
+                            "ClassName": "cargopants_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2140,7 +2140,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_dcu",
+                            "ClassName": "shirt_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2211,7 +2211,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_dcu",
+                            "ClassName": "cargopants_saf",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
