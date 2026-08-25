@@ -172,6 +172,17 @@
             "Variants": []
         },
         {
+            "ClassName": "TacticalShirt_CCI",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "TacticalShirt_DCU",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
@@ -184,6 +195,28 @@
         },
         {
             "ClassName": "TacticalShirt_Multicam",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalShirt_MulticamG",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalShirt_MulticamB",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -217,6 +250,17 @@
         },
         {
             "ClassName": "TacticalShirt_TGR",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalShirt_TRK",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,

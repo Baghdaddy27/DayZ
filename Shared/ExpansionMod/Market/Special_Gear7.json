@@ -51,6 +51,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Mich2001Helmet_CCI",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Mich2001Helmet_CHN",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 420,
@@ -128,6 +139,28 @@
             "Variants": []
         },
         {
+            "ClassName": "Mich2001Helmet_MulticamG",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mich2001Helmet_MulticamB",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Mich2001Helmet_NK",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 420,
@@ -162,6 +195,17 @@
         },
         {
             "ClassName": "Mich2001Helmet_TGR",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 420,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mich2001Helmet_TRK",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 420,
             "SellPricePercent": -1,

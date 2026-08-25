@@ -51,6 +51,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BaseballCap_CCI",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BaseballCap_CHN",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
@@ -150,6 +161,28 @@
             "Variants": []
         },
         {
+            "ClassName": "BaseballCap_MulticamB",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_MulticamG",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BaseballCap_NK",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
@@ -195,6 +228,17 @@
         },
         {
             "ClassName": "BaseballCap_TGR",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_TRK",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,

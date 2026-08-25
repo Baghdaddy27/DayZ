@@ -51,6 +51,17 @@
             "Variants": []
         },
         {
+            "ClassName": "PressVest_CCI",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "PressVest_CHN",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
@@ -139,6 +150,28 @@
             "Variants": []
         },
         {
+            "ClassName": "PressVest_MulticamG",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PressVest_MulticamB",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "PressVest_NK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
@@ -184,6 +217,17 @@
         },
         {
             "ClassName": "PressVest_TGR",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 220,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PressVest_TRK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,

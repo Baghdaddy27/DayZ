@@ -51,6 +51,17 @@
             "Variants": []
         },
         {
+            "ClassName": "Tortillabag_CCI",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Tortillabag_CHN",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
@@ -128,6 +139,28 @@
             "Variants": []
         },
         {
+            "ClassName": "Tortillabag_MulticamG",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Tortillabag_MulticamB",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "Tortillabag_NK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
@@ -162,6 +195,17 @@
         },
         {
             "ClassName": "Tortillabag_TGR",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Tortillabag_TRK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,

@@ -40,6 +40,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BoonieHat_CCI",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BoonieHat_CHN",
             "MaxPriceThreshold": 32,
             "MinPriceThreshold": 16,
@@ -106,6 +117,28 @@
             "Variants": []
         },
         {
+            "ClassName": "BoonieHat_MulticamG",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_MulticamB",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BoonieHat_NK",
             "MaxPriceThreshold": 32,
             "MinPriceThreshold": 16,
@@ -140,6 +173,17 @@
         },
         {
             "ClassName": "BoonieHat_TGR",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_TRK",
             "MaxPriceThreshold": 32,
             "MinPriceThreshold": 16,
             "SellPricePercent": -1,

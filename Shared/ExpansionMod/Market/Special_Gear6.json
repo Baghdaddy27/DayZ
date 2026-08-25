@@ -40,6 +40,17 @@
             "Variants": []
         },
         {
+            "ClassName": "BallisticHelmet_CCI",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BallisticHelmet_CHN",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
@@ -117,6 +128,28 @@
             "Variants": []
         },
         {
+            "ClassName": "BallisticHelmet_MulticamG",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BallisticHelmet_MulticamB",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "BallisticHelmet_NK",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
@@ -151,6 +184,17 @@
         },
         {
             "ClassName": "BallisticHelmet_TGR",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BallisticHelmet_TRK",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
