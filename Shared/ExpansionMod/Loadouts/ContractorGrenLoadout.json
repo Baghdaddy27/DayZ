@@ -11,7 +11,7 @@
             "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "mich2001helmet",
+                    "ClassName": "mich2001helmet_dst",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -64,6 +64,214 @@
                 },
                 {
                     "ClassName": "expansionmich2001desert",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mich2001helmet_dcu",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mich2001helmet_cc",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mich2001helmet_multicam",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "mich2001helmet",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

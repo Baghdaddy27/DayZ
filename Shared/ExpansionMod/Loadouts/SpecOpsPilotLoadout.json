@@ -11,46 +11,26 @@
             "SlotName": "Eyes",
             "Items": [
                 {
-                    "ClassName": "NVGHeadstrap",
+                    "ClassName": "Headtorch_Black",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [
-                        {
-                            "Min": 0.51,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
+                    "Health": [],
                     "InventoryAttachments": [
                         {
                             "SlotName": "",
                             "Items": [
                                 {
-                                    "ClassName": "NVGoggles",
+                                    "ClassName": "Battery9V",
                                     "Chance": 1,
                                     "Quantity": {
                                         "Min": 0,
                                         "Max": 0
                                     },
                                     "Health": [],
-                                    "InventoryAttachments": [
-                                        {
-                                            "ClassName": "Battery9V",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ],
+                                    "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
                                     "Sets": []
@@ -133,7 +113,7 @@
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         },
-                                                {
+                        {
                             "ClassName": "GunCleaningKit",
                             "Chance": 0.02,
                             "Quantity": {

@@ -93,19 +93,13 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Headtorch_Grey",
+                    "ClassName": "Headtorch_Black",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [
-                        {
-                            "Min": 0.51,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
+                    "Health": [],
                     "InventoryAttachments": [
                         {
                             "SlotName": "",
@@ -267,7 +261,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "Ssh68Helmet",
+                            "ClassName": "BallisticHelmet_Digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -286,27 +280,8 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "BallisticHelmet_Digi",
-                            "Chance": 0.25,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
                             "ClassName": "BallisticHelmet_Dst",
-                            "Chance": 0.25,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0

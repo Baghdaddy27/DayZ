@@ -1017,7 +1017,7 @@
             "Items": [
                 {
                     "ClassName": "Headtorch_Grey",
-                    "Chance": 0.35,
+                    "Chance": 0.50,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1055,7 +1055,7 @@
                 },
                 {
                     "ClassName": "Headtorch_Black",
-                    "Chance": 0.35,
+                    "Chance": 0.50,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0

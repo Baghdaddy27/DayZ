@@ -215,7 +215,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "GorkaEJacket_Flat",
+                            "ClassName": "GorkaEJacket_Digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -253,7 +253,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "GorkaPants_Flat",
+                            "ClassName": "GorkaPants_Digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -325,28 +325,56 @@
                     ]
                 },
                 {
-                    "SlotName": "Headgear",
-                    "Items": [
+                    "ClassName": "mich2001_digi",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
                         {
-                            "ClassName": "GhillieHood_Mossy",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.7,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
                         }
-                    ]
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
                 },
                 {
                     "SlotName": "Gloves",
@@ -379,7 +407,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1.0,
+            "Chance": 1,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -741,7 +769,7 @@
                     "Items": [
                         {
                             "ClassName": "SV98",
-                            "Chance": 1.0,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0

@@ -130,7 +130,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "PressVest_saf",
+                    "ClassName": "PressVest_trk",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -210,7 +210,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "ballistichelmet_saf",
+                            "ClassName": "ballistichelmet_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -248,7 +248,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "booniehat_saf",
+                            "ClassName": "booniehat_trk",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -267,7 +267,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "baseballcap_saf",
+                            "ClassName": "baseballcap_trk",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -291,7 +291,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_saf",
+                            "ClassName": "shirt_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -362,7 +362,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_saf",
+                            "ClassName": "cargopants_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -467,7 +467,7 @@
                     "SlotName": "Back",
                     "Items": [
                         {
-                            "ClassName": "assaultbag_ttsko",
+                            "ClassName": "tortillabag_trk",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -1664,8 +1664,41 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_saf",
+                            "ClassName": "shirt_trk",
                             "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "tshirt_trk",
+                            "Chance": 0.5,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1735,7 +1768,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_saf",
+                            "ClassName": "cargopants_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2083,7 +2116,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "expansionmich2001desert",
+                            "ClassName": "mich2001_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2140,7 +2173,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "shirt_saf",
+                            "ClassName": "shirt_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2211,7 +2244,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "cargopants_saf",
+                            "ClassName": "cargopants_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,

@@ -35,19 +35,13 @@
             "SlotName": "Face",
             "Items": [
                 {
-                    "ClassName": "Headtorch_Grey",
+                    "ClassName": "Headtorch_Black",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [
-                        {
-                            "Min": 0.51,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
+                    "Health": [],
                     "InventoryAttachments": [
                         {
                             "SlotName": "",
@@ -198,25 +192,6 @@
                         },
                         {
                             "ClassName": "ballistichelmet_egt",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "ballistichelmet_green",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1404,7 +1379,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "gorkaejacket_dst",
+                            "ClassName": "tshirt_egt",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1476,25 +1451,6 @@
                     "Items": [
                         {
                             "ClassName": "gorkapants_egt",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "gorkapants_dst",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,

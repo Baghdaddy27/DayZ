@@ -11,39 +11,7 @@
             "SlotName": "Face",
             "Items": [
                 {
-                    "ClassName": "Headtorch_Grey",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [
-                        {
-                            "SlotName": "",
-                            "Items": [
-                                {
-                                    "ClassName": "Battery9V",
-                                    "Chance": 1,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ]
-                        }
-                    ],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Headtorch_Black",
+                    "ClassName": "Headtorch_",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
