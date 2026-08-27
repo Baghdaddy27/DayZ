@@ -223,6 +223,95 @@
                 "Mag_STANAG_30Rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "AR10",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "m4_carryhandleoptic",
+                "mag_AR10_30rnd",
+                "m4_oebttstck",
+                "m4_plastichndgrd"
+            ],
+            "Variants": [
+                "AR10_Tan",
+                "AR10_Green"
+            ]
+        },
+        {
+            "ClassName": "AR15",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "m4_carryhandleoptic",
+                "mag_AR15_30rnd",
+                "m4_oebttstck",
+                "m4_plastichndgrd"
+            ],
+            "Variants": [
+                "AR15_Tan",
+                "AR15_Green"
+            ]
+        },
+        {
+            "ClassName": "Mini14_Wood",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_CMAG_30Rnd"
+            ],
+            "Variants": [
+                "Mini14_Tan",
+                "Mini14_Black",
+                "Mini14"
+            ]
+        },
+        {
+            "ClassName": "SCARL",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_CMAG_30Rnd",
+                "scar_stockbttstck_black"
+            ],
+            "Variants": [
+                "SCARL_Tan",
+                "SCARL_Black"
+            ]
+        },
+        {
+            "ClassName": "SCARX",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_SCARX_30Rnd",
+                "scar_stockbttstck_black"
+            ],
+            "Variants": [
+                "SCARX_Tan",
+                "SCARX_Black"
+            ]
         }
     ]
 }

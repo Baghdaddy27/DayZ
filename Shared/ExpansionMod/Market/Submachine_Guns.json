@@ -228,6 +228,19 @@
                 "mag_expansion_vityaz_30rnd"
             ],
             "Variants": []
+        },
+        {
+            "ClassName": "UMP9mm",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_ump9mm_30rnd"
+            ],
+            "Variants": []
         }
     ]
 }
