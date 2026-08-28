@@ -45,6 +45,19 @@
             "Variants": []
         },
         {
+            "ClassName": "val556",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_cmag_20rnd"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "ssg82",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 450,
@@ -109,7 +122,10 @@
             "SpawnAttachments": [
                 "mag_sv98_10rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "sv98_black",
+                "sv98_tan"
+            ]
         },
         {
             "ClassName": "expansion_m1a",
@@ -139,7 +155,11 @@
             "SpawnAttachments": [
                 "mag_m14_10rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "M14_black",
+                "M14_tan",
+                "M14_wood"
+            ]
         },
         {
             "ClassName": "expansion_awm",

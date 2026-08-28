@@ -3307,7 +3307,7 @@
     "Sets": [
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 0.3,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3382,9 +3382,86 @@
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
+                {
+            "ClassName": "WEAPON",
+            "Chance": 0.3,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [
+                {
+                    "Min": 0.3,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "M16A2_NCR",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.3,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_STANAG_30Rnd",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_STANAG_30Rnd",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 0.3,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3461,7 +3538,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.2,
+            "Chance": 0.4,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3538,7 +3615,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.3,
+            "Chance": 0.4,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3616,7 +3693,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.3,
+            "Chance": 0.4,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3720,7 +3797,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 0.3,
+            "Chance": 0.4,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -3996,7 +4073,7 @@
                                     "Items": [
                                         {
                                             "ClassName": "mag_pm73_25rnd",
-                                            "Chance": 1,
+                                            "Chance": 0.5,
                                             "Quantity": {
                                                 "Min": 0,
                                                 "Max": 0
@@ -4902,136 +4979,6 @@
                     "Sets": []
                 }
             ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
-            "Health": [
-                {
-                    "Min": 0.3,
-                    "Max": 0.7,
-                    "Zone": ""
-                }
-            ],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Hands",
-                    "Items": [
-                        {
-                            "ClassName": "Glock19",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "ClassName": "Mag_Glock_15Rnd",
-                                    "Chance": 1,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_Glock_15Rnd",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Hands",
-                    "Items": [
-                        {
-                            "ClassName": "Mace",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Hands",
-                    "Items": [
-                        {
-                            "ClassName": "Sword",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }

@@ -155,7 +155,9 @@
             "SpawnAttachments": [
                 "mag_stanag_30rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "m16a2_ncr"
+            ]
         },
         {
             "ClassName": "famas",

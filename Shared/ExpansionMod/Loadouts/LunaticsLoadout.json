@@ -1845,7 +1845,7 @@
                     "ConstructionPartsBuilt": [],
                     "Sets": []
                 },
-                                {
+                {
                     "ClassName": "HikingBoots_Black",
                     "Chance": 1,
                     "Quantity": {
@@ -2776,7 +2776,7 @@
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
-                {
+        {
             "ClassName": "WEAPON",
             "Include": "",
             "Chance": 1,
@@ -3936,6 +3936,98 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
+                            "ClassName": "Repeater_green",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Ammo_357",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "Repeater_pink",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Ammo_357",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
                             "ClassName": "Repeater",
                             "Chance": 1,
                             "Quantity": {
@@ -3969,7 +4061,7 @@
             "ConstructionPartsBuilt": [],
             "Sets": []
         },
-                {
+        {
             "ClassName": "WEAPON",
             "Chance": 1,
             "Quantity": {
@@ -4355,38 +4447,6 @@
                     "Items": [
                         {
                             "ClassName": "machete",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Hands",
-                    "Items": [
-                        {
-                            "ClassName": "crudemachete",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
