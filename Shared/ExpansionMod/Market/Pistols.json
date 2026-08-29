@@ -73,6 +73,22 @@
             "Variants": []
         },
         {
+            "ClassName": "glock21_Tan",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_GLOCK21_15Rnd"
+            ],
+            "Variants": [
+                "Glock21_Green",
+                "Glock21"
+            ]
+        },
+        {
             "ClassName": "mkii",
             "MaxPriceThreshold": 640,
             "MinPriceThreshold": 320,

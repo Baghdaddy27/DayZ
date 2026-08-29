@@ -51,6 +51,17 @@
             "Variants": []
         },
         {
+            "ClassName": "mag_glock21_15rnd",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_mkii_10rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
@@ -129,6 +140,17 @@
         },
         {
             "ClassName": "mag_ump_25rnd",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mag_ump40_30rnd",
             "MaxPriceThreshold": 80,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1,

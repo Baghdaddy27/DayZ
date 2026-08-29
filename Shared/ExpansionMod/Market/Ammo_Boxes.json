@@ -7,6 +7,43 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "AmmoBox_300BK_20Rnd",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "AmmoBox_300BKTracer_20Rnd"
+            ]
+        },
+        {
+            "ClassName": "AmmoBox_65GR_20Rnd",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "AmmoBox_65GRTracer_20Rnd"
+            ]
+        },
+        {
+            "ClassName": "AmmoBox_40CAL_25Rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 125,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ammobox_00buck_10rnd",
             "MaxPriceThreshold": 70,
             "MinPriceThreshold": 60,
@@ -87,7 +124,7 @@
         },
         {
             "ClassName": "ammobox_9x19_25rnd",
-            "MaxPriceThreshold": 125,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 125,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,

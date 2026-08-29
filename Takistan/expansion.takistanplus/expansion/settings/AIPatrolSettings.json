@@ -7,7 +7,7 @@
     "MinDistRadius": 25,
     "MaxDistRadius": 750,
     "DespawnRadius": 1000,
-    "AccuracyMin": 0.5,
+    "AccuracyMin": 0.6,
     "AccuracyMax": 0.9,
     "ThreatDistanceLimit": 500,
     "NoiseInvestigationDistanceLimit": 1000,

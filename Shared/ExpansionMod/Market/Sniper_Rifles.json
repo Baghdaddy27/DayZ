@@ -45,7 +45,7 @@
             "Variants": []
         },
         {
-            "ClassName": "val556",
+            "ClassName": "val556_Green",
             "MaxPriceThreshold": 3200,
             "MinPriceThreshold": 1600,
             "SellPricePercent": -1,
@@ -55,7 +55,10 @@
             "SpawnAttachments": [
                 "mag_cmag_20rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "val556",
+                "val556_Tan"
+            ]
         },
         {
             "ClassName": "ssg82",

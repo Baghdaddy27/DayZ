@@ -230,7 +230,7 @@
             "Variants": []
         },
         {
-            "ClassName": "UMP9mm",
+            "ClassName": "UMP9mm_Tan",
             "MaxPriceThreshold": 2200,
             "MinPriceThreshold": 1100,
             "SellPricePercent": -1,
@@ -240,7 +240,26 @@
             "SpawnAttachments": [
                 "mag_ump9mm_30rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "UMP9mm",
+                "UMP9mm_Green"
+            ]
+        },
+        {
+            "ClassName": "UMP40_Green",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mag_ump40_30rnd"
+            ],
+            "Variants": [
+                "UMP40",
+                "UMP40_Tan"
+            ]
         }
     ]
 }

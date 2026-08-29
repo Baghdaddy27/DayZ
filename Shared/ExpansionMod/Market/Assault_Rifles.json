@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "AR10",
+            "ClassName": "AR10_Tan",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -241,12 +241,12 @@
                 "m4_plastichndgrd"
             ],
             "Variants": [
-                "AR10_Tan",
+                "AR10",
                 "AR10_Green"
             ]
         },
         {
-            "ClassName": "AR15",
+            "ClassName": "AR15_Green",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -255,13 +255,32 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "m4_carryhandleoptic",
-                "mag_AR15_30rnd",
+                "mag_ak74_30rnd",
                 "m4_oebttstck",
                 "m4_plastichndgrd"
             ],
             "Variants": [
-                "AR15_Tan",
-                "AR15_Green"
+                "AR15",
+                "AR15_Tan"
+            ]
+        },
+        {
+            "ClassName": "AR300",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "m4_carryhandleoptic",
+                "mag_ar300_30rnd",
+                "m4_oebttstck",
+                "m4_plastichndgrd"
+            ],
+            "Variants": [
+                "AR300_Tan",
+                "AR300_Green"
             ]
         },
         {
@@ -299,7 +318,7 @@
             ]
         },
         {
-            "ClassName": "SCARX",
+            "ClassName": "SCARX_Black",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -312,7 +331,7 @@
             ],
             "Variants": [
                 "SCARX_Tan",
-                "SCARX_Black"
+                "SCARX"
             ]
         }
     ]
