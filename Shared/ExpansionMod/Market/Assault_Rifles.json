@@ -235,7 +235,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "m4_carryhandleoptic",
+                "buisoptic",
                 "mag_AR10_20rnd",
                 "m4_oebttstck",
                 "m4_plastichndgrd"
@@ -254,7 +254,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "m4_carryhandleoptic",
+                "buisoptic",
                 "mag_ak74_30rnd",
                 "m4_oebttstck",
                 "m4_plastichndgrd"
@@ -273,10 +273,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "m4_carryhandleoptic",
-                "mag_ar300_30rnd",
+                "buisoptic",
                 "m4_oebttstck",
-                "m4_plastichndgrd"
+                "m4_plastichndgrd",
+                "Mag_AR300_30Rnd"
             ],
             "Variants": [
                 "AR300_Tan",

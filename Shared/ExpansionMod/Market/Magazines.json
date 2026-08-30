@@ -240,6 +240,17 @@
             ]
         },
         {
+            "ClassName": "mag_ar300_30rnd",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_saiga_5rnd",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 40,

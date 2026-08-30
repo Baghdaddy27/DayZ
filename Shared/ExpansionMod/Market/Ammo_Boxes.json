@@ -34,8 +34,8 @@
         },
         {
             "ClassName": "AmmoBox_40CAL_25Rnd",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 125,
+            "MaxPriceThreshold": 125,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
@@ -124,8 +124,8 @@
         },
         {
             "ClassName": "ammobox_9x19_25rnd",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 125,
+            "MaxPriceThreshold": 125,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
