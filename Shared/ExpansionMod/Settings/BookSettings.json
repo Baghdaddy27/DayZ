@@ -205,25 +205,34 @@
             ]
         },
         {
-            "CategoryName": "AI Faction Info",
+            "CategoryName": "Enemy AI Info",
             "Descriptions": [
                 {
-                    "DescriptionText": "Raider: These AI use various blends of civilian and military equipment. They are often unskilled, but travel in large numbers."
+                    "DescriptionText": "Raider: These AI use various blends of civilian and military equipment. They are often unskilled, but usually travel in large numbers."
+                },
+                {
+                    "DescriptionText": "Insurgents: These AI are a decently armed milita. They carry a large variety of military equipments and local clothing."
                 },
                 {
                     "DescriptionText": "Lunatics: These AI are cannibals and are distinguishable by the blend of homemade and hunting equipment they use, and their signature laugh. They use various weapons, and are slightly more skilled than raiders."
                 },
                 {
-                    "DescriptionText": "Shamans: These AI wear NBC suits and are friendly with animals and infected. They are more skilled than Raiders or Lunatics, and are often found near gas zones."
+                    "DescriptionText": "Shamans: These AI are paart of an infected worshipping cult, wear NBC suits, and are friendly with animals and infected. They are more skilled than Raiders or Lunatics, and are often found near gas zones."
                 },
                 {
-                    "DescriptionText": "Contractors: These AI wear Black Armbands and use advanced US Equipment. They are very skilled and travel in organized groups of 4 to 5. They are hostile to everyone."
+                    "DescriptionText": "Takistan National Guard: These AI wear are the rogue remnants of the Takistan Guard, and are similar to shamans. They wear camouflage gear with the green, black, and white Takistan Armband, are friendly with animals and infected, and are more skilled than Raiders or Lunatics."
                 },
                 {
-                    "DescriptionText": "Mercenaries: These AI wear Red Armbands and use Soviet / Eastern equipment. They are very skilled and travel in organized groups of 3 or more. They are hostile to everyone, but especially Shadow Company."
+                    "DescriptionText": "Blackridge Mercenaries: These AI wear Black Armbands with a Snake and use advanced US Equipment. They are very skilled and travel in organized groups of 3 to 5. They hate everyone equally."
                 },
                 {
-                    "DescriptionText": "Shadow Company: These AI wear Yellow Armbands and use NATO / Western equipment. They are very skilled and travel in organized groups of 3 or more. They are hostile to everyone, but especially Mercenaries."
+                    "DescriptionText": "Korvan Group Mercenaries: These AI wear Red Armbands and use Soviet / Eastern equipment. They are very skilled and travel in organized groups of 3 to 5. They hate everyone, but have a grudge against Shadow Company."
+                },
+                {
+                    "DescriptionText": "Shadow Company Mercenaries: These AI wear Yellow Armbands and use NATO / European Union equipment. They are very skilled and travel in organized groups of 3 to 5. They are hostile to everyone, but especially hate Korvan Group."
+                },
+                {
+                    "DescriptionText": "Sniper Teams: These AI wear high-tier equipment and ghillie camouflage, are extremely accurate, and travel in groups of 2. They can be from any of the 3 mercenary groups."
                 }
             ]
         },
