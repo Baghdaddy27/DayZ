@@ -3986,7 +3986,7 @@
             ],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
                             "ClassName": "expansion_kedr",
@@ -4057,7 +4057,7 @@
             ],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
                             "ClassName": "M73Rak",
