@@ -1530,7 +1530,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_Kufiya",
+                    "ClassName": "baggs_shemag_kufiya",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
@@ -1549,7 +1549,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_KufiyaBlue",
+                    "ClassName": "baggs_shemag_kufiyaBlue",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
@@ -1568,7 +1568,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_KufiyaGreen",
+                    "ClassName": "baggs_shemag_kufiyaGreen",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
@@ -1587,7 +1587,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_KufiyaGrey",
+                    "ClassName": "baggs_shemag_kufiyaGrey",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
@@ -1606,7 +1606,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_KufiyaWhiteRed",
+                    "ClassName": "baggs_shemag_kufiyaWhiteRed",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,
@@ -1625,7 +1625,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_KufiyaTan",
+                    "ClassName": "baggs_shemag_kufiyaTan",
                     "Chance": 0.2,
                     "Quantity": {
                         "Min": 0,

@@ -130,7 +130,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "PressVest_Digi",
+                    "ClassName": "bags_pressvest_Digi",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -149,7 +149,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "PressVest_DST",
+                    "ClassName": "bags_pressvest_DST",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -168,7 +168,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "PressVest_OLV",
+                    "ClassName": "bags_pressvest_OLV",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -235,7 +235,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "booniehat_digi",
+                            "ClassName": "bags_booniehat_digi",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
@@ -248,7 +248,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "BaseballCap_Digi",
+                            "ClassName": "bags_BaseballCap_Digi",
                             "Chance": 0.25,
                             "Quantity": {
                                 "Min": 0,
@@ -261,7 +261,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "BallisticHelmet_Digi",
+                            "ClassName": "bags_BallisticHelmet_Digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -280,7 +280,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "BallisticHelmet_Dst",
+                            "ClassName": "bags_BallisticHelmet_Dst",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -337,7 +337,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tortillabag",
+                            "ClassName": "bags_tortillabag_digi",
                             "Chance": 0.2,
                             "Quantity": {
                                 "Min": 0,
@@ -693,730 +693,14 @@
                             ],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
-                        },
-                        {
-                            "ClassName": "tortillabag_desert",
-                            "Chance": 0.2,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "ExpansionBankNoteHryvnia",
-                                    "Chance": 0.5,
-                                    "Quantity": {
-                                        "Min": 0.001,
-                                        "Max": 0.03
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "BakedBeansCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Lunchmeat",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "PeachesCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "PorkCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SardinesCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SpaghettiCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "TacticalBaconCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "TunaCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Chips",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Crackers",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SaltySticks",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Zagorky",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "ZagorkyChocolate",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "ZagorkyPeanuts",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Plum",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Pear",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Apple",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "GreenBellPepper",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Tomato",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "BoletusMushroom",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Cola",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Fronta",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Kvass",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Pipsi",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Spite",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "tortillabag_winter",
-                            "Chance": 0.2,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "ExpansionBankNoteHryvnia",
-                                    "Chance": 0.5,
-                                    "Quantity": {
-                                        "Min": 0.001,
-                                        "Max": 0.03
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "BakedBeansCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Lunchmeat",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "PeachesCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "PorkCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SardinesCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SpaghettiCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "TacticalBaconCan_Opened",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "TunaCan",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Chips",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Crackers",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SaltySticks",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Zagorky",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "ZagorkyChocolate",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "ZagorkyPeanuts",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Plum",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Pear",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Apple",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "GreenBellPepper",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "Tomato",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "BoletusMushroom",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Cola",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Fronta",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Kvass",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Pipsi",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                },
-                                {
-                                    "ClassName": "SodaCan_Spite",
-                                    "Chance": 0.02,
-                                    "Quantity": {
-                                        "Min": 0,
-                                        "Max": 0
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
+                        }                    
                     ]
                 },
                 {
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "gorkaejacket_digi",
+                            "ClassName": "bags_gorkaejacket_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1449,7 +733,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tshirt_beige",
+                            "ClassName": "bags_tshirt_digi",
                             "Chance": 0.5,
                             "Quantity": {
                                 "Min": 0,
@@ -1520,7 +804,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "gorkapants_digi",
+                            "ClassName": "bags_gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1763,7 +1047,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "GorkaHelmet",
+                            "ClassName": "gorkaHelmet",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1781,7 +1065,7 @@
                                     "SlotName": "Glass",
                                     "Items": [
                                         {
-                                            "ClassName": "GorkaHelmetVisor",
+                                            "ClassName": "gorkaHelmetVisor",
                                             "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
@@ -1812,7 +1096,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "gorkaejacket_digi",
+                            "ClassName": "bags_gorkaejacket_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -1845,7 +1129,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "tshirt_beige",
+                            "ClassName": "bags_tshirt_digi",
                             "Chance": 0.5,
                             "Quantity": {
                                 "Min": 0,
@@ -1916,7 +1200,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "gorkapants_digi",
+                            "ClassName": "bags_gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -2345,7 +1629,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "gorkapants_digi",
+                            "ClassName": "bags_gorkapants_digi",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
