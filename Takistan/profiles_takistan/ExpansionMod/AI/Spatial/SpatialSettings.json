@@ -34,7 +34,7 @@
     "Group": [
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 7,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "RaiderLoadout.json",
             "Spatial_Faction": "Raiders",
@@ -47,7 +47,7 @@
         },
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 7,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "RaiderLoadout.json",
             "Spatial_Faction": "Raiders",
@@ -60,7 +60,20 @@
         },
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 7,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "RaiderLoadout.json",
+            "Spatial_Faction": "Raiders",
+            "Spatial_Name": "Raider Posse",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.75,
+            "Spatial_MinAccuracy": 0.55,
+            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 3,
+            "Spatial_MaxCount": 6,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "InsurgentLoadout.json",
             "Spatial_Faction": "Raiders",
@@ -73,7 +86,7 @@
         },
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 6,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "InsurgentLoadout.json",
             "Spatial_Faction": "Raiders",
@@ -86,7 +99,20 @@
         },
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 6,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "InsurgentLoadout.json",
+            "Spatial_Faction": "Raiders",
+            "Spatial_Name": "Insurgent Militia",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.75,
+            "Spatial_MinAccuracy": 0.55,
+            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 3,
+            "Spatial_MaxCount": 6,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "LunaticsLoadout.json",
             "Spatial_Faction": "Lunatics",
@@ -99,7 +125,20 @@
         },
         {
             "Spatial_MinCount": 3,
-            "Spatial_MaxCount": 5,
+            "Spatial_MaxCount": 6,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "LunaticsLoadout.json",
+            "Spatial_Faction": "Lunatics",
+            "Spatial_Name": "Cannibal Hunters",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.75,
+            "Spatial_MinAccuracy": 0.55,
+            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 3,
+            "Spatial_MaxCount": 6,
             "Spatial_Weight": 200,
             "Spatial_Loadout": "LunaticsLoadout.json",
             "Spatial_Faction": "Lunatics",
@@ -173,6 +212,45 @@
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.65,
             "Spatial_MaxAccuracy": 0.95,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 2,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "MercSniperLoadout.json",
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Name": "Korvan Sniper Team",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.65,
+            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 2,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "SpecOpsSniperLoadout.json",
+            "Spatial_Faction": "East",
+            "Spatial_Name": "Shadow Company Assassins",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.65,
+            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_UnlimitedReload": 1
+        },
+        {
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 2,
+            "Spatial_Weight": 200,
+            "Spatial_Loadout": "ContractorGrenLoadout.json",
+            "Spatial_Faction": "West",
+            "Spatial_Name": "Blackridge Marksmen",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 0.65,
+            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         }
     ],
