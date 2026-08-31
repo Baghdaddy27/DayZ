@@ -204,39 +204,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "Bags_AmmoBox_300BK_20Rnd",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Bags_AmmoBox_65GR_20Rnd",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Bags_AmmoBox_40CAL_25Rnd",
-            "MaxPriceThreshold": 125,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

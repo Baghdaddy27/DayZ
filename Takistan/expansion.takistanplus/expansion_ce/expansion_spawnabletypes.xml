@@ -4686,7 +4686,7 @@
 			<item name="Mag_AK74_30Rnd_Black" chance="0.75" />
 		</attachments>
 	</type>
-    <type name="Bags_AR300">
+    <type name="Bags_AR10">
 		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck" chance="1.00" />
@@ -4702,49 +4702,7 @@
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>	
 		<attachments chance="0.1">
-			<item name="Bags_Mag_AR300_20Rnd" chance="0.75" />
-		</attachments>
-	</type>
-    <type name="Bags_AK300">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.25">
-			<item name="AK_PlasticBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO11Optic" chance="0.30" />
-		</attachments>
-		<attachments chance="0.1">
-			<item name="Bags_Mag_AR300_20Rnd" chance="1.00" />
-		</attachments>
-	</type>
-    <type name="Bags_VALGR">
-		<attachments chance="0.35">
-			<item name="Bags_Mag_VALGR_20Rnd" chance="0.50" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.30" />
-			<item name="HoloOptic" chance="0.20" />
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
-		</attachments>	
-		<attachments chance="0.10">
-			<item name="UniversalLight" chance="1.00" />
-		</attachments>
-	</type>
-    <type name="Bags_Glock21">
-		<attachments chance="0.20">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="0.03">
-			<item name="TLRLight" chance="1.00" />
-		</attachments>
-		<attachments chance="0.25">
-			<item name="Bags_Mag_Glock21_15Rnd" chance="1.00" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.75" />
 		</attachments>
 	</type>
     <type name="Bags_Mini14">
@@ -4777,59 +4735,6 @@
 			<item name="Mag_CMAG_10Rnd" chance="0.50" />
 			<item name="Mag_CMAG_20Rnd" chance="0.70" />
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
-		</attachments>
-	</type>
-    <type name="Bags_SCARX">
-		<damage min="0.45" max="0.85" />
-		<attachments chance="1.00">
-			<item name="SCAR_PrecisionBttstck_Black" chance="0.50" />
-			<item name="SCAR_StockBttstck_Black" chance="0.50" />
-		</attachments>
-		<attachments chance="0.33">
-			<item name="M68Optic" chance="0.30" />
-			<item name="HoloOptic" chance="0.20" />
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
-		</attachments>
-		<attachments chance="0.1">
-			<item name="Bags_Mag_SCARX_20Rnd" chance="0.70" />
-		</attachments>
-	</type>
-    <type name="UMP9mm">
-		<attachments chance="0.20">
-			<item name="Bags_Mag_UMP9mm_30Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.30" />
-			<item name="HoloOptic" chance="0.20" />
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
-		</attachments>
-		<attachments chance="0.15">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="UniversalLight" chance="1.00" />
-		</attachments>
-	</type>
-    <type name="UMP40">
-		<attachments chance="0.20">
-			<item name="Bags_Mag_UMP40_30Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.30" />
-			<item name="HoloOptic" chance="0.20" />
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
-		</attachments>
-		<attachments chance="0.15">
-			<item name="PistolSuppressor" chance="1.00" />
-		</attachments>
-		<attachments chance="0.10">
-			<item name="UniversalLight" chance="1.00" />
 		</attachments>
 	</type>
 </spawnabletypes>

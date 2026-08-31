@@ -200,22 +200,6 @@
                 "mag_expansion_m9_15rnd"
             ],
             "Variants": []
-        },
-        {
-            "ClassName": "Bags_glock21_Tan",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "Bags_Mag_GLOCK21_15Rnd"
-            ],
-            "Variants": [
-                "Bags_Glock21_Green",
-                "Bags_Glock21"
-            ]
         }
     ]
 }

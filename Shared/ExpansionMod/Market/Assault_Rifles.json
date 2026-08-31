@@ -246,7 +246,7 @@
             ]
         },
         {
-            "ClassName": "Bags_AR300",
+            "ClassName": "Bags_AR10",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -256,31 +256,12 @@
             "SpawnAttachments": [
                 "m4_oebttstck",
                 "m4_plastichndgrd",
-                "Bags_Mag_AR300_20Rnd"
+                "Mag_AKM_Palm30RND"
             ],
             "Variants": [
-                "Bags_AR300_Black",
-                "Bags_AR300_Tan",
-                "Bags_AR300_Green"
-            ]
-        },
-        {
-            "ClassName": "Bags_AK300",
-            "MaxPriceThreshold": 1700,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ak_plasticbttstck",
-                "ak_plastichndgrd",
-                "Bags_Mag_AR300_20Rnd"
-            ],
-            "Variants": [
-                "Bags_AK300_Black",
-                "Bags_AK300_Tan",
-                "Bags_AK300_Green"
+                "Bags_AR10_Black",
+                "Bags_AR10_Tan",
+                "Bags_AR10_Green"
             ]
         },
         {
@@ -315,23 +296,6 @@
             "Variants": [
                 "Bags_SCARL_Tan",
                 "Bags_SCARL_Black"
-            ]
-        },
-        {
-            "ClassName": "Bags_SCARX_Black",
-            "MaxPriceThreshold": 1700,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "Bags_Mag_SCARX_20Rnd",
-                "scar_stockbttstck_black"
-            ],
-            "Variants": [
-                "Bags_SCARX_Tan",
-                "Bags_SCARX"
             ]
         }
     ]

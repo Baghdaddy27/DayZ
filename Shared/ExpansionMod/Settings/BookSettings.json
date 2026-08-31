@@ -205,7 +205,7 @@
             ]
         },
         {
-            "CategoryName": "Faction Info",
+            "CategoryName": "AI Faction Info",
             "Descriptions": [
                 {
                     "DescriptionText": "Raider: These AI use various blends of civilian and military equipment. They are often unskilled, but travel in large numbers."
@@ -228,19 +228,54 @@
             ]
         },
         {
+            "CategoryName": "Common Key Binds",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Open Logbook with B, but you're already here."
+                },
+                {
+                    "DescriptionText": "Press Z while walking or Sprinting to Auto Walk or Auto Sprint."
+                },
+                {
+                    "DescriptionText": "Press P to use earplugs if a vehicle, or something, is too loud."
+                },
+                {
+                    "DescriptionText": "Press K to Show or Hide 3d markers."
+                },
+                {
+                    "DescriptionText": "Press H to drop a quick marker for team mates. "
+                },
+                {
+                    "DescriptionText": "Press the Pause key to open the player list."
+                },
+                {
+                    "DescriptionText": "Press , to switch Chat Channels."
+                },
+                {
+                    "DescriptionText": "Press / to toggle quest HUD."
+                },
+                {
+                    "DescriptionText": "Press O to open or close your quest log."
+                },
+                {
+                    "DescriptionText": "Hold Left + Alt to free look."
+                },
+                {
+                    "DescriptionText": "You can edit all keybinds in the Options menu under DayZ Expansion."
+                }
+            ]
+        },
+        {
             "CategoryName": "Tips and Tricks",
             "Descriptions": [
                 {
-                    "DescriptionText": "Want a custom spawn point? Make a territory flag usings sticks and rope! This will also allow you to build a base!"
+                    "DescriptionText": "A Territory Flag acts as a spawn point and a virtual garage. Build one with rope and 3 sticks."
                 },
                 {
-                    "DescriptionText": "You can invite up to 7 other players to your territory from the Logbook menu. Use the B key."
+                    "DescriptionText": "You can form parties with other players in the logbook Menu. Press B to enter the logbook."
                 },
                 {
-                    "DescriptionText": "You can form a party with up to 7 other players from the Logbook menu. Parties allow you to complete group quests. Use the B key."
-                },
-                {
-                    "DescriptionText": "In your inventory: You need a map to use your M key, a pen to mark locations on the map, and a compass to see your heading."
+                    "DescriptionText": "You need a pen in your inventory to place markers on the map."
                 },
                 {
                     "DescriptionText": "Not every town has water. Check your in-game map (or Takistan Plus on iZurvive.com) to see wells and other water sources."
@@ -255,25 +290,25 @@
                     "DescriptionText": "Helicopters need Fuel and Hydraulic Fluid. Both are filled using the fuel port."
                 },
                 {
-                    "DescriptionText": "If a town was hit by gas, there are probably enemy AI nearby. They also probably know you are there."
+                    "DescriptionText": "AI are deadly accurate up close, so try to enage at a distance. Crouch behind cover or go prone for better results."
                 },
                 {
-                    "DescriptionText": "AI are deadly accurate up close, so try to enage at a distance. Crouch behind cover or go prone for better results."
+                    "DescriptionText": "AI Patrols activley move to your current position when the 'You Hear Something...' message plays. Move to a different location to ambush them when they arrive. Or leave and let them despawn."
                 },
                 {
                     "DescriptionText": "Climb ontop of a car or shed to escape infected. You can attack them from this position safely."
                 },
                 {
-                    "DescriptionText": "AI activley hunt your last known position. Move to a different location to ambush them when they arrive. Or leave and let them despawn."
-                },
-                {
-                    "DescriptionText": "Some items in buildings are hidden under the floor. Check the area with your inventory open."
+                    "DescriptionText": "Some items in buildings are hidden under the floor. Check the area with your inventory open. Its an issue with the Takistan Map."
                 },
                 {
                     "DescriptionText": "You can make a snare with wire and sticks. You can trap animals to eat using different bait. Worms attract chickens, vegetables attract rabbits, and meat attracts foxes."
                 },
                 {
                     "DescriptionText": "Need to make a fire, but don't have matches? Use a knife to cut bark off a large tree. Combine bark with sticks to make a drill kit (one-time use fire starter). Bark can also be used for kindling."
+                },
+                {
+                    "DescriptionText": "Special Vehicles, Airdrops, and other loot spawn in static contaminated areas. You need a full NBC suit to enter without dying."
                 }
             ]
         }

@@ -109,10 +109,7 @@
             "SpawnAttachments": [
                 "mag_sv98_10rnd"
             ],
-            "Variants": [
-                "sv98_black",
-                "sv98_tan"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "expansion_m1a",
@@ -142,11 +139,7 @@
             "SpawnAttachments": [
                 "mag_m14_10rnd"
             ],
-            "Variants": [
-                "M14_black",
-                "M14_tan",
-                "M14_wood"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "expansion_awm",
@@ -162,23 +155,6 @@
             "Variants": [
                 "expansion_awm_black",
                 "expansion_awm_green"
-            ]
-        },
-        {
-            "ClassName": "bags_valgr_Green",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "bags_mag_valgr_20rnd"
-            ],
-            "Variants": [
-                "bags_valgr_black",
-                "bags_valgr_tan",
-                "bags_valgr_green"
             ]
         }
     ]
