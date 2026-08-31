@@ -6,43 +6,6 @@
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
-            {
-            "ClassName": "Ammo_300BK",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "Ammo_300BKTacer"
-            ]
-        },
-        {
-            "ClassName": "Ammo_40CAL",
-            "MaxPriceThreshold": 6,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Ammo_65GR",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 7,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "Ammo_65GRTracer"
-            ]
-        },
         {
             "ClassName": "ammo_12gapellets",
             "MaxPriceThreshold": 7,
@@ -263,6 +226,39 @@
             "ClassName": "expansion_ammo_8mm",
             "MaxPriceThreshold": 9,
             "MinPriceThreshold": 8,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bags_Ammo_300BK",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 7,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bags_Ammo_40CAL",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bags_Ammo_65GR",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 7,
             "SellPricePercent": -1,
             "MaxStockThreshold": 200,
             "MinStockThreshold": 1,

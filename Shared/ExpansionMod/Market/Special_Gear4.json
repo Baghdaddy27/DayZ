@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "BaseballCap_ACU",
+            "ClassName": "Bags_BaseballCap_ACU",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_CAF",
+            "ClassName": "Bags_BaseballCap_CAF",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_CAN",
+            "ClassName": "Bags_BaseballCap_CAN",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_CC",
+            "ClassName": "Bags_BaseballCap_CC",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_CCI",
+            "ClassName": "Bags_BaseballCap_CCI",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_CHN",
+            "ClassName": "Bags_BaseballCap_CHN",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_DCU",
+            "ClassName": "Bags_BaseballCap_DCU",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Deez",
+            "ClassName": "Bags_BaseballCap_Deez",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Digi",
+            "ClassName": "Bags_BaseballCap_Digi",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_EGT",
+            "ClassName": "Bags_BaseballCap_EGT",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_FLK",
+            "ClassName": "Bags_BaseballCap_FLK",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_KRG",
+            "ClassName": "Bags_BaseballCap_KRG",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_MJ",
+            "ClassName": "Bags_BaseballCap_MJ",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Multicam",
+            "ClassName": "Bags_BaseballCap_Multicam",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_MulticamB",
+            "ClassName": "Bags_BaseballCap_MulticamB",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_MulticamG",
+            "ClassName": "Bags_BaseballCap_MulticamG",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_NK",
+            "ClassName": "Bags_BaseballCap_NK",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_OP4",
+            "ClassName": "Bags_BaseballCap_OP4",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Peace",
+            "ClassName": "Bags_BaseballCap_Peace",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_PinkII",
+            "ClassName": "Bags_BaseballCap_PinkII",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_TGR",
+            "ClassName": "Bags_BaseballCap_TGR",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -238,7 +238,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_TRK",
+            "ClassName": "Bags_BaseballCap_TRK",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -249,7 +249,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Pride",
+            "ClassName": "Bags_BaseballCap_Pride",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -260,7 +260,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_Rus",
+            "ClassName": "Bags_BaseballCap_Rus",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -271,7 +271,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_SAF",
+            "ClassName": "Bags_BaseballCap_SAF",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -282,7 +282,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_SWD",
+            "ClassName": "Bags_BaseballCap_SWD",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -293,7 +293,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_UKR",
+            "ClassName": "Bags_BaseballCap_UKR",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -304,7 +304,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_UKR2",
+            "ClassName": "Bags_BaseballCap_UKR2",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -315,7 +315,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_URB",
+            "ClassName": "Bags_BaseballCap_URB",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -326,7 +326,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_USCG",
+            "ClassName": "Bags_BaseballCap_USCG",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -337,7 +337,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_USN",
+            "ClassName": "Bags_BaseballCap_USN",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -348,7 +348,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_USN2",
+            "ClassName": "Bags_BaseballCap_USN2",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,
@@ -359,7 +359,7 @@
             "Variants": []
         },
         {
-            "ClassName": "BaseballCap_WW2",
+            "ClassName": "Bags_BaseballCap_WW2",
             "MaxPriceThreshold": 24,
             "MinPriceThreshold": 12,
             "SellPricePercent": -1,

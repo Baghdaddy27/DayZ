@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "Shemag_Kufiya",
+            "ClassName": "Bags_Shemag_Kufiya",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
@@ -16,13 +16,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "Shemag_KufiyaBlue",
-                "Shemag_KufiyaGreen",
-                "Shemag_KufiyaGrey",
-                "Shemag_KufiyaOrange",
-                "Shemag_KufiyaRed",
-                "Shemag_KufiyaWhiteRed",
-                "Shemag_KufiyaTan"
+                "Bags_Shemag_KufiyaBlue",
+                "Bags_Shemag_KufiyaGreen",
+                "Bags_Shemag_KufiyaGrey",
+                "Bags_Shemag_KufiyaOrange",
+                "Bags_Shemag_KufiyaRed",
+                "Bags_Shemag_KufiyaWhiteRed",
+                "Bags_Shemag_KufiyaTan"
             ]
         },
         {

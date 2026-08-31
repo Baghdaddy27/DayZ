@@ -42,7 +42,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.85,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -55,7 +55,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.85,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -68,7 +68,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.85,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -81,7 +81,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -94,7 +94,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -107,7 +107,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -119,8 +119,8 @@
             "Spatial_Name": "Shamans",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MinAccuracy": 0.6,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -133,7 +133,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -145,8 +145,8 @@
             "Spatial_Name": "Korvan Group",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MinAccuracy": 0.65,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -158,8 +158,8 @@
             "Spatial_Name": "Shadow Company",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MinAccuracy": 0.65,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -171,8 +171,8 @@
             "Spatial_Name": "Blackridge",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.6,
-            "Spatial_MaxAccuracy": 0.9,
+            "Spatial_MinAccuracy": 0.65,
+            "Spatial_MaxAccuracy": 0.95,
             "Spatial_UnlimitedReload": 1
         }
     ],

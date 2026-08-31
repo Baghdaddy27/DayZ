@@ -18,15 +18,15 @@
             "Variants": [
                 "hatchbackhood_blue",
                 "hatchbackhood_white",
-                "hatchbackhood_black",
-                "hatchbackhood_cc",
-                "hatchbackhood_erdl",
-                "hatchbackhood_orange",
-                "hatchbackhood_pink",
-                "hatchbackhood_red",
-                "hatchbackhood_teal",
-                "hatchbackhood_urb",
-                "hatchbackhood_yellow"
+                "Bags_Ada_hood_black",
+                "Bags_Ada_hood_cc",
+                "Bags_Ada_hood_erdl",
+                "Bags_Ada_hood_orange",
+                "Bags_Ada_hood_pink",
+                "Bags_Ada_hood_red",
+                "Bags_Ada_hood_teal",
+                "Bags_Ada_hood_urb",
+                "Bags_Ada_hood_yellow"
             ]
         },
         {
@@ -41,15 +41,15 @@
             "Variants": [
                 "hatchbacktrunk_blue",
                 "hatchbacktrunk_white",
-                "hatchbacktrunk_black",
-                "hatchbacktrunk_cc",
-                "hatchbacktrunk_erdl",
-                "hatchbacktrunk_orange",
-                "hatchbacktrunk_pink",
-                "hatchbacktrunk_red",
-                "hatchbacktrunk_teal",
-                "hatchbacktrunk_urb",
-                "hatchbacktrunk_yellow"
+                "Bags_Ada_trunk_black",
+                "Bags_Ada_trunk_cc",
+                "Bags_Ada_trunk_erdl",
+                "Bags_Ada_trunk_orange",
+                "Bags_Ada_trunk_pink",
+                "Bags_Ada_trunk_red",
+                "Bags_Ada_trunk_teal",
+                "Bags_Ada_trunk_urb",
+                "Bags_Ada_trunk_yellow"
             ]
         },
         {
@@ -64,14 +64,14 @@
             "Variants": [
                 "hatchbackdoors_driver_blue",
                 "hatchbackdoors_driver_white",
-                "hatchbackdoors_driver_cc",
-                "hatchbackdoors_driver_erdl",
-            "hatchbackdoors_driver_orange",
-            "hatchbackdoors_driver_pink",
-            "hatchbackdoors_driver_red",
-            "hatchbackdoors_driver_teal",
-            "hatchbackdoors_driver_urb",
-            "hatchbackdoors_driver_yellow"
+                "Bags_Ada_doors_driver_cc",
+                "Bags_Ada_doors_driver_erdl",
+                "Bags_Ada_doors_driver_orange",
+                "Bags_Ada_doors_driver_pink",
+                "Bags_Ada_doors_driver_red",
+                "Bags_Ada_doors_driver_teal",
+                "Bags_Ada_doors_driver_urb",
+                "Bags_Ada_doors_driver_yellow"
             ]
         },
         {
@@ -86,15 +86,15 @@
             "Variants": [
                 "hatchbackdoors_codriver_blue",
                 "hatchbackdoors_codriver_white",
-                "hatchbackdoors_codriver_black",
-                "hatchbackdoors_codriver_cc",
-                "hatchbackdoors_codriver_erdl",
-                "hatchbackdoors_codriver_orange",
-                "hatchbackdoors_codriver_pink",
-                "hatchbackdoors_codriver_red",
-                "hatchbackdoors_codriver_teal",
-                "hatchbackdoors_codriver_urb",
-                "hatchbackdoors_codriver_yellow"
+                "Bags_Ada_doors_codriver_black",
+                "Bags_Ada_doors_codriver_cc",
+                "Bags_Ada_doors_codriver_erdl",
+                "Bags_Ada_doors_codriver_orange",
+                "Bags_Ada_doors_codriver_pink",
+                "Bags_Ada_doors_codriver_red",
+                "Bags_Ada_doors_codriver_teal",
+                "Bags_Ada_doors_codriver_urb",
+                "Bags_Ada_doors_codriver_yellow"
             ]
         },
         {
@@ -109,15 +109,15 @@
             "Variants": [
                 "hatchback_02_hood_black",
                 "hatchback_02_hood_blue",
-                "hatchback_02_hood_cc",
-                "hatchback_02_hood_erdl",
-                "hatchback_02_hood_green",
-                "hatchback_02_hood_orange",
-                "hatchback_02_hood_pink",
-                "hatchback_02_hood_teal",
-                "hatchback_02_hood_urb",
-                "hatchback_02_hood_white",
-                "hatchback_02_hood_yellow"
+                "Bags_Gunter_hood_cc",
+                "Bags_Gunter_hood_erdl",
+                "Bags_Gunter_hood_green",
+                "Bags_Gunter_hood_orange",
+                "Bags_Gunter_hood_pink",
+                "Bags_Gunter_hood_teal",
+                "Bags_Gunter_hood_urb",
+                "Bags_Gunter_hood_white",
+                "Bags_Gunter_hood_yellow"
             ]
         },
         {
@@ -132,15 +132,15 @@
             "Variants": [
                 "hatchback_02_trunk_black",
                 "hatchback_02_trunk_blue",
-                "hatchback_02_trunk_cc",
-                "hatchback_02_trunk_erdl",
-                "hatchback_02_trunk_green",
-                "hatchback_02_trunk_orange",
-                "hatchback_02_trunk_pink",
-                "hatchback_02_trunk_teal",
-                "hatchback_02_trunk_urb",
-                "hatchback_02_trunk_white",
-                "hatchback_02_trunk_yellow"
+                "Bags_Gunter_trunk_cc",
+                "Bags_Gunter_trunk_erdl",
+                "Bags_Gunter_trunk_green",
+                "Bags_Gunter_trunk_orange",
+                "Bags_Gunter_trunk_pink",
+                "Bags_Gunter_trunk_teal",
+                "Bags_Gunter_trunk_urb",
+                "Bags_Gunter_trunk_white",
+                "Bags_Gunter_trunk_yellow"
             ]
         },
         {
@@ -155,15 +155,15 @@
             "Variants": [
                 "hatchback_02_door_1_1_black",
                 "hatchback_02_door_1_1_blue",
-                "hatchback_02_cc_door_1_1",
-                "hatchback_02_erdl_door_1_1",
-                "hatchback_02_green_door_1_1",
-                "hatchback_02_orange_door_1_1",
-                "hatchback_02_pink_door_1_1",
-                "hatchback_02_teal_door_1_1",
-                "hatchback_02_urb_door_1_1",
-                "hatchback_02_white_door_1_1",
-                "hatchback_02_yellow_door_1_1"
+                "Bags_Gunter_cc_door_1_1",
+                "Bags_Gunter_erdl_door_1_1",
+                "Bags_Gunter_green_door_1_1",
+                "Bags_Gunter_orange_door_1_1",
+                "Bags_Gunter_pink_door_1_1",
+                "Bags_Gunter_teal_door_1_1",
+                "Bags_Gunter_urb_door_1_1",
+                "Bags_Gunter_white_door_1_1",
+                "Bags_Gunter_yellow_door_1_1"
             ]
         },
         {
@@ -178,15 +178,15 @@
             "Variants": [
                 "hatchback_02_door_1_2_black",
                 "hatchback_02_door_1_2_blue",
-                "hatchback_02_cc_door_1_2",
-                "hatchback_02_erdl_door_1_2",
-                "hatchback_02_green_door_1_2",
-                "hatchback_02_orange_door_1_2",
-                "hatchback_02_pink_door_1_2",
-                "hatchback_02_teal_door_1_2",
-                "hatchback_02_urb_door_1_2",
-                "hatchback_02_white_door_1_2",
-                "hatchback_02_yellow_door_1_2"
+                "Bags_Gunter_cc_door_1_2",
+                "Bags_Gunter_erdl_door_1_2",
+                "Bags_Gunter_green_door_1_2",
+                "Bags_Gunter_orange_door_1_2",
+                "Bags_Gunter_pink_door_1_2",
+                "Bags_Gunter_teal_door_1_2",
+                "Bags_Gunter_urb_door_1_2",
+                "Bags_Gunter_white_door_1_2",
+                "Bags_Gunter_yellow_door_1_2"
             ]
         },
         {
@@ -201,15 +201,15 @@
             "Variants": [
                 "hatchback_02_door_2_1_black",
                 "hatchback_02_door_2_1_blue",
-                "hatchback_02_cc_door_2_1",
-                "hatchback_02_erdl_door_2_1",
-                "hatchback_02_green_door_2_1",
-                "hatchback_02_orange_door_2_1",
-                "hatchback_02_pink_door_2_1",
-                "hatchback_02_teal_door_2_1",
-                "hatchback_02_urb_door_2_1",
-                "hatchback_02_white_door_2_1",
-                "hatchback_02_yellow_door_2_1"
+                "Bags_Gunter_cc_door_2_1",
+                "Bags_Gunter_erdl_door_2_1",
+                "Bags_Gunter_green_door_2_1",
+                "Bags_Gunter_orange_door_2_1",
+                "Bags_Gunter_pink_door_2_1",
+                "Bags_Gunter_teal_door_2_1",
+                "Bags_Gunter_urb_door_2_1",
+                "Bags_Gunter_white_door_2_1",
+                "Bags_Gunter_yellow_door_2_1"
             ]
         },
         {
@@ -224,15 +224,15 @@
             "Variants": [
                 "hatchback_02_door_2_2_black",
                 "hatchback_02_door_2_2_blue",
-                "hatchback_02_cc_door_2_2",
-                "hatchback_02_erdl_door_2_2",
-                "hatchback_02_green_door_2_2",
-                "hatchback_02_orange_door_2_2",
-                "hatchback_02_pink_door_2_2",
-                "hatchback_02_teal_door_2_2",
-                "hatchback_02_urb_door_2_2",
-                "hatchback_02_white_door_2_2",
-                "hatchback_02_yellow_door_2_2"
+                "Bags_Gunter_cc_door_2_2",
+                "Bags_Gunter_erdl_door_2_2",
+                "Bags_Gunter_green_door_2_2",
+                "Bags_Gunter_orange_door_2_2",
+                "Bags_Gunter_pink_door_2_2",
+                "Bags_Gunter_teal_door_2_2",
+                "Bags_Gunter_urb_door_2_2",
+                "Bags_Gunter_white_door_2_2",
+                "Bags_Gunter_yellow_door_2_2"
             ]
         },
         {
@@ -247,15 +247,15 @@
             "Variants": [
                 "civsedanhood_wine",
                 "civsedanhood_black",
-                "civsedanhood_blue",
-                "civsedanhood_cc",
-                "civsedanhood_erdl",
-                "civsedanhood_green",
-                "civsedanhood_orange",
-                "civsedanhood_pink",
-                "civsedanhood_teal",
-                "civsedanhood_urb",
-                "civsedanhood_yellow"
+                "Bags_Olga_hood_blue",
+                "Bags_Olga_hood_cc",
+                "Bags_Olga_hood_erdl",
+                "Bags_Olga_hood_green",
+                "Bags_Olga_hood_orange",
+                "Bags_Olga_hood_pink",
+                "Bags_Olga_hood_teal",
+                "Bags_Olga_hood_urb",
+                "Bags_Olga_hood_yellow"
             ]
         },
         {
@@ -270,15 +270,15 @@
             "Variants": [
                 "civsedantrunk_wine",
                 "civsedantrunk_black",
-                "civsedantrunk_blue",
-                "civsedantrunk_cc",
-                "civsedantrunk_erdl",
-                "civsedantrunk_green",
-                "civsedantrunk_orange",
-                "civsedantrunk_pink",
-                "civsedantrunk_teal",
-                "civsedantrunk_urb",
-                "civsedantrunk_yellow"
+                "Bags_Olga_trunk_blue",
+                "Bags_Olga_trunk_cc",
+                "Bags_Olga_trunk_erdl",
+                "Bags_Olga_trunk_green",
+                "Bags_Olga_trunk_orange",
+                "Bags_Olga_trunk_pink",
+                "Bags_Olga_trunk_teal",
+                "Bags_Olga_trunk_urb",
+                "Bags_Olga_trunk_yellow"
             ]
         },
         {
@@ -293,15 +293,15 @@
             "Variants": [
                 "civsedandoors_driver_wine",
                 "civsedandoors_driver_black",
-                "civsedandoors_driver_blue",
-                "civsedandoors_driver_cc",
-                "civsedandoors_driver_erdl",
-                "civsedandoors_driver_green",
-                "civsedandoors_driver_orange",
-                "civsedandoors_driver_pink",
-                "civsedandoors_driver_teal",
-                "civsedandoors_driver_urb",
-                "civsedandoors_driver_yellow"
+                "Bags_Olga_doors_driver_blue",
+                "Bags_Olga_doors_driver_cc",
+                "Bags_Olga_doors_driver_erdl",
+                "Bags_Olga_doors_driver_green",
+                "Bags_Olga_doors_driver_orange",
+                "Bags_Olga_doors_driver_pink",
+                "Bags_Olga_doors_driver_teal",
+                "Bags_Olga_doors_driver_urb",
+                "Bags_Olga_doors_driver_yellow"
             ]
         },
         {
@@ -316,15 +316,15 @@
             "Variants": [
                 "civsedandoors_codriver_wine",
                 "civsedandoors_codriver_black",
-                "civsedandoors_codriver_blue",
-                "civsedandoors_codriver_cc",
-                "civsedandoors_codriver_erdl",
-                "civsedandoors_codriver_green",
-                "civsedandoors_codriver_orange",
-                "civsedandoors_codriver_pink",
-                "civsedandoors_codriver_teal",
-                "civsedandoors_codriver_urb",
-                "civsedandoors_codriver_yellow"
+                "Bags_Olga_doors_codriver_blue",
+                "Bags_Olga_doors_codriver_cc",
+                "Bags_Olga_doors_codriver_erdl",
+                "Bags_Olga_doors_codriver_green",
+                "Bags_Olga_doors_codriver_orange",
+                "Bags_Olga_doors_codriver_pink",
+                "Bags_Olga_doors_codriver_teal",
+                "Bags_Olga_doors_codriver_urb",
+                "Bags_Olga_doors_codriver_yellow"
             ]
         },
         {
@@ -339,15 +339,15 @@
             "Variants": [
                 "civsedandoors_backleft_wine",
                 "civsedandoors_backleft_black",
-                "civsedandoors_backleft_blue",
-                "civsedandoors_backleft_cc",
-                "civsedandoors_backleft_erdl",
-                "civsedandoors_backleft_green",
-                "civsedandoors_backleft_orange",
-                "civsedandoors_backleft_pink",
-                "civsedandoors_backleft_teal",
-                "civsedandoors_backleft_urb",
-                "civsedandoors_backleft_yellow"
+                "Bags_Olga_doors_backleft_blue",
+                "Bags_Olga_doors_backleft_cc",
+                "Bags_Olga_doors_backleft_erdl",
+                "Bags_Olga_doors_backleft_green",
+                "Bags_Olga_doors_backleft_orange",
+                "Bags_Olga_doors_backleft_pink",
+                "Bags_Olga_doors_backleft_teal",
+                "Bags_Olga_doors_backleft_urb",
+                "Bags_Olga_doors_backleft_yellow"
             ]
         },
         {
@@ -362,15 +362,15 @@
             "Variants": [
                 "civsedandoors_backright_wine",
                 "civsedandoors_backright_black",
-                "civsedandoors_backright_blue",
-                "civsedandoors_backright_cc",
-                "civsedandoors_backright_erdl",
-                "civsedandoors_backright_green",
-                "civsedandoors_backright_orange",
-                "civsedandoors_backright_pink",
-                "civsedandoors_backright_teal",
-                "civsedandoors_backright_urb",
-                "civsedandoors_backright_yellow"
+                "Bags_Olga_doors_backright_blue",
+                "Bags_Olga_doors_backright_cc",
+                "Bags_Olga_doors_backright_erdl",
+                "Bags_Olga_doors_backright_green",
+                "Bags_Olga_doors_backright_orange",
+                "Bags_Olga_doors_backright_pink",
+                "Bags_Olga_doors_backright_teal",
+                "Bags_Olga_doors_backright_urb",
+                "Bags_Olga_doors_backright_yellow"
             ]
         },
         {
@@ -385,15 +385,15 @@
             "Variants": [
                 "sedan_02_hood_red",
                 "sedan_02_hood_grey",
-                "sedan_02_hood_black",
-                "sedan_02_hood_blue",
-            "sedan_02_hood_cc",
-            "sedan_02_hood_green",
-            "sedan_02_hood_orange",
-            "sedan_02_hood_pink",
-            "sedan_02_hood_teal",
-            "sedan_02_hood_urb",
-            "sedan_02_hood_woodland"
+                "Bags_Sarka_hood_black",
+                "Bags_Sarka_hood_blue",
+                "Bags_Sarka_hood_cc",
+                "Bags_Sarka_hood_green",
+                "Bags_Sarka_hood_orange",
+                "Bags_Sarka_hood_pink",
+                "Bags_Sarka_hood_teal",
+                "Bags_Sarka_hood_urb",
+                "Bags_Sarka_hood_erdl"
             ]
         },
         {
@@ -408,15 +408,15 @@
             "Variants": [
                 "sedan_02_trunk_red",
                 "sedan_02_trunk_grey",
-                "sedan_02_trunk_black",
-                "sedan_02_trunk_blue",
-            "sedan_02_trunk_cc",
-            "sedan_02_trunk_green",
-            "sedan_02_trunk_orange",
-            "sedan_02_trunk_pink",
-            "sedan_02_trunk_teal",
-            "sedan_02_trunk_urb",
-            "sedan_02_trunk_woodland"
+                "Bags_Sarka_trunk_black",
+                "Bags_Sarka_trunk_blue",
+                "Bags_Sarka_trunk_cc",
+                "Bags_Sarka_trunk_green",
+                "Bags_Sarka_trunk_orange",
+                "Bags_Sarka_trunk_pink",
+                "Bags_Sarka_trunk_teal",
+                "Bags_Sarka_trunk_urb",
+                "Bags_Sarka_trunk_erdl"
             ]
         },
         {
@@ -431,15 +431,15 @@
             "Variants": [
                 "sedan_02_door_1_1_red",
                 "sedan_02_door_1_1_grey",
-                "sedan_02_black_door_1_2",
-                "sedan_02_blue_door_1_2",
-            "sedan_02_cc_door_1_2",
-            "sedan_02_green_door_1_2",
-            "sedan_02_orange_door_1_2",
-            "sedan_02_pink_door_1_2",
-            "sedan_02_teal_door_1_2",
-            "sedan_02_urb_door_1_2",
-            "sedan_02_woodland_door_1_2"
+                "Bags_Sarka_black_door_1_1",
+                "Bags_Sarka_blue_door_1_1",
+                "Bags_Sarka_cc_door_1_1",
+                "Bags_Sarka_green_door_1_1",
+                "Bags_Sarka_orange_door_1_1",
+                "Bags_Sarka_pink_door_1_1",
+                "Bags_Sarka_teal_door_1_1",
+                "Bags_Sarka_urb_door_1_1",
+                "Bags_Sarka_erdl_door_1_1"
             ]
         },
         {
@@ -454,15 +454,15 @@
             "Variants": [
                 "sedan_02_door_1_2_red",
                 "sedan_02_door_1_2_grey",
-                "sedan_02_black_door_2_1",
-                "sedan_02_blue_door_2_1",
-            "sedan_02_cc_door_2_1",
-            "sedan_02_erdl_door_2_1",
-            "sedan_02_green_door_2_1",
-            "sedan_02_orange_door_2_1",
-            "sedan_02_pink_door_2_1",
-            "sedan_02_teal_door_2_1",
-            "sedan_02_urb_door_2_1"
+                "Bags_Sarka_black_door_1_2",
+                "Bags_Sarka_blue_door_1_2",
+                "Bags_Sarka_cc_door_1_2",
+                "Bags_Sarka_erdl_door_1_2",
+                "Bags_Sarka_green_door_1_2",
+                "Bags_Sarka_orange_door_1_2",
+                "Bags_Sarka_pink_door_1_2",
+                "Bags_Sarka_teal_door_1_2",
+                "Bags_Sarka_urb_door_1_2"
             ]
         },
         {
@@ -476,7 +476,16 @@
             "SpawnAttachments": [],
             "Variants": [
                 "sedan_02_door_2_1_red",
-                "sedan_02_door_2_1_grey"
+                "sedan_02_door_2_1_grey",
+                "Bags_Sarka_black_door_2_1",
+                "Bags_Sarka_blue_door_2_1",
+                "Bags_Sarka_cc_door_2_1",
+                "Bags_Sarka_erdl_door_2_1",
+                "Bags_Sarka_green_door_2_1",
+                "Bags_Sarka_orange_door_2_1",
+                "Bags_Sarka_pink_door_2_1",
+                "Bags_Sarka_teal_door_2_1",
+                "Bags_Sarka_urb_door_2_1"
             ]
         },
         {
@@ -493,13 +502,13 @@
                 "sedan_02_door_2_2_grey",
                 "sedan_02_black_door_2_2",
                 "sedan_02_blue_door_2_2",
-            "sedan_02_cc_door_2_2",
-            "sedan_02_green_door_2_2",
-            "sedan_02_orange_door_2_2",
-            "sedan_02_pink_door_2_2",
-            "sedan_02_teal_door_2_2",
-            "sedan_02_urb_door_2_2",
-            "sedan_02_woodland_door_2_2"
+                "sedan_02_cc_door_2_2",
+                "sedan_02_green_door_2_2",
+                "sedan_02_orange_door_2_2",
+                "sedan_02_pink_door_2_2",
+                "sedan_02_teal_door_2_2",
+                "sedan_02_urb_door_2_2",
+                "sedan_02_erdl_door_2_2"
             ]
         },
         {

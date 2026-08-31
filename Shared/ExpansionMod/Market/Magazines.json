@@ -51,17 +51,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mag_glock21_15rnd",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_mkii_10rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 10,
@@ -150,17 +139,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mag_ump40_30rnd",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mag_pm73_15rnd",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 40,
@@ -238,17 +216,6 @@
             "Variants": [
                 "mag_scarh_20rnd_black"
             ]
-        },
-        {
-            "ClassName": "mag_ar300_30rnd",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "mag_saiga_5rnd",
@@ -651,7 +618,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_AR10_20Rnd",
+            "ClassName": "Bags_Mag_AR300_20Rnd",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
@@ -662,7 +629,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_AR15_30Rnd",
+            "ClassName": "Bags_Mag_VALGR_20Rnd",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
@@ -673,7 +640,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_SCARL_30Rnd",
+            "ClassName": "Bags_Mag_SCARX_20Rnd",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
@@ -684,7 +651,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_SCARX_30Rnd",
+            "ClassName": "Bags_Mag_UMP9mm_30Rnd",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
@@ -695,11 +662,22 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_UMP9mm_30Rnd",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "ClassName": "Bags_mag_ump40_30rnd",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "bags_mag_glock21_15rnd",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],

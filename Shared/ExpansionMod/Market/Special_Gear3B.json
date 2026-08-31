@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "TShirt_ACU",
+            "ClassName": "Bags_TShirt_ACU",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_CAN",
+            "ClassName": "Bags_TShirt_CAN",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_CC",
+            "ClassName": "Bags_TShirt_CC",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_CCI",
+            "ClassName": "Bags_TShirt_CCI",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_CHN",
+            "ClassName": "Bags_TShirt_CHN",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_DCU",
+            "ClassName": "Bags_TShirt_DCU",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_Digi",
+            "ClassName": "Bags_TShirt_Digi",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_EGT",
+            "ClassName": "Bags_TShirt_EGT",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_FLK",
+            "ClassName": "Bags_TShirt_FLK",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_MultiB",
+            "ClassName": "Bags_TShirt_MultiB",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_MultiG",
+            "ClassName": "Bags_TShirt_MultiG",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_Multicam",
+            "ClassName": "Bags_TShirt_Multicam",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_NK",
+            "ClassName": "Bags_TShirt_NK",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_OP4",
+            "ClassName": "Bags_TShirt_OP4",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_Pink",
+            "ClassName": "Bags_TShirt_Pink",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_RUS",
+            "ClassName": "Bags_TShirt_RUS",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_SAF",
+            "ClassName": "Bags_TShirt_SAF",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_SWD",
+            "ClassName": "Bags_TShirt_SWD",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_TGR",
+            "ClassName": "Bags_TShirt_TGR",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_TRK",
+            "ClassName": "Bags_TShirt_TRK",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_UKR",
+            "ClassName": "Bags_TShirt_UKR",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -238,7 +238,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_URB",
+            "ClassName": "Bags_TShirt_URB",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -249,7 +249,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_USN",
+            "ClassName": "Bags_TShirt_USN",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -260,7 +260,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_USN2",
+            "ClassName": "Bags_TShirt_USN2",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,
@@ -271,7 +271,7 @@
             "Variants": []
         },
         {
-            "ClassName": "TShirt_WW2",
+            "ClassName": "Bags_TShirt_WW2",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 100,
             "SellPricePercent": -1,

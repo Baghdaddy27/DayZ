@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "PressVest_ACU",
+            "ClassName": "Bags_PressVest_ACU",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_BLK",
+            "ClassName": "Bags_PressVest_BLK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_CAN",
+            "ClassName": "Bags_PressVest_CAN",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_CC",
+            "ClassName": "Bags_PressVest_CC",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_CCI",
+            "ClassName": "Bags_PressVest_CCI",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_CHN",
+            "ClassName": "Bags_PressVest_CHN",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_DCU",
+            "ClassName": "Bags_PressVest_DCU",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_DST",
+            "ClassName": "Bags_PressVest_DST",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_Digi",
+            "ClassName": "Bags_PressVest_Digi",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_EGT",
+            "ClassName": "Bags_PressVest_EGT",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_ERDL",
+            "ClassName": "Bags_PressVest_ERDL",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_FLK",
+            "ClassName": "Bags_PressVest_FLK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_Multicam",
+            "ClassName": "Bags_PressVest_Multicam",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_MulticamG",
+            "ClassName": "Bags_PressVest_MulticamG",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_MulticamB",
+            "ClassName": "Bags_PressVest_MulticamB",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_NK",
+            "ClassName": "Bags_PressVest_NK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_OLV",
+            "ClassName": "Bags_PressVest_OLV",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_OP4",
+            "ClassName": "Bags_PressVest_OP4",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_Pink",
+            "ClassName": "Bags_PressVest_Pink",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_TGR",
+            "ClassName": "Bags_PressVest_TGR",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_TRK",
+            "ClassName": "Bags_PressVest_TRK",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -238,7 +238,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_RUS",
+            "ClassName": "Bags_PressVest_RUS",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -249,7 +249,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_SAF",
+            "ClassName": "Bags_PressVest_SAF",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -260,7 +260,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_SWD",
+            "ClassName": "Bags_PressVest_SWD",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -271,7 +271,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_UKR",
+            "ClassName": "Bags_PressVest_UKR",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -282,7 +282,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_URB",
+            "ClassName": "Bags_PressVest_URB",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -293,7 +293,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_USCG",
+            "ClassName": "Bags_PressVest_USCG",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -304,7 +304,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_USN",
+            "ClassName": "Bags_PressVest_USN",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -315,7 +315,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_USN2",
+            "ClassName": "Bags_PressVest_USN2",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,
@@ -326,7 +326,7 @@
             "Variants": []
         },
         {
-            "ClassName": "PressVest_WW2",
+            "ClassName": "Bags_PressVest_WW2",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
             "SellPricePercent": -1,

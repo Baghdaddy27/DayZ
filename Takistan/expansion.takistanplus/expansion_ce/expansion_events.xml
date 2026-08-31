@@ -241,9 +241,11 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionGyrocopter"/>
         </children>
     </event>
+
 <!-- Bags Cars-->
-     <!-- Sedan -->
-    <event name="VehicleCivSedan2">
+
+<!-- Olga -->
+    <event name="VehicleCivilianSedan">
         <nominal>2</nominal>
         <min>1</min>
         <max>3</max>
@@ -257,18 +259,18 @@
         <limit>mixed</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Blue"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_CC"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_ERDL"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Green"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Orange"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Pink"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Teal"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Urb"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="CivSedan2_Yellow"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_CC"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_ERDL"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Green"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Pink"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Teal"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Urb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Yellow"/>
         </children>
     </event>
-<!-- Hatchback_02 -->
+<!-- Gunter -->
     <event name="VehicleHatchback02">
         <nominal>2</nominal>
         <min>1</min>
@@ -283,18 +285,18 @@
         <limit>mixed</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_CC"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_ERDL"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Green"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Orange"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Pink"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Teal"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Urb"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_White"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Hatchback_02_Yellow"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_CC"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_ERDL"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Green"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Pink"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Teal"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Urb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_White"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_Yellow"/>
         </children>
     </event>
-<!-- Offroad Hatchback -->
+<!-- ADA -->
     <event name="VehicleOffroadHatchback">
         <nominal>2</nominal>
         <min>1</min>
@@ -309,18 +311,18 @@
         <limit>mixed</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Black"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_ERDL"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Orange"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Pink"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Red"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Teal"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_URB"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadGHatchback_Yellow"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="OffroadHatchback_CC"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Black"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_ERDL"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Pink"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Red"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Teal"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Urb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Yellow"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_CC"/>
         </children>
     </event>
-<!-- Sedan_02 -->
+<!-- Sarka -->
     <event name="VehicleSedan02">
         <nominal>2</nominal>
         <min>1</min>
@@ -335,15 +337,15 @@
         <limit>mixed</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Black"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Blue"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_CC"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_ERDL"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Green"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Orange"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Pink"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Teal"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Sedan_02_Urb"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Black"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_CC"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_ERDL"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Green"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Orange"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Pink"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Teal"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Urb"/>
         </children>
     </event>
 	<!-- BOATS 

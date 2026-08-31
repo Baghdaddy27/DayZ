@@ -45,22 +45,6 @@
             "Variants": []
         },
         {
-            "ClassName": "val556_Green",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 200,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cmag_20rnd"
-            ],
-            "Variants": [
-                "val556",
-                "val556_Tan"
-            ]
-        },
-        {
             "ClassName": "ssg82",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 450,
@@ -178,6 +162,23 @@
             "Variants": [
                 "expansion_awm_black",
                 "expansion_awm_green"
+            ]
+        },
+        {
+            "ClassName": "bags_valgr_Green",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "bags_mag_valgr_20rnd"
+            ],
+            "Variants": [
+                "bags_valgr_black",
+                "bags_valgr_tan",
+                "bags_valgr_green"
             ]
         }
     ]

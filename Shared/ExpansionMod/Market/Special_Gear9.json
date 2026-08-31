@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "Tortillabag_ACU",
+            "ClassName": "Bags_Tortillabag_ACU",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_BLK",
+            "ClassName": "Bags_Tortillabag_BLK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_CAN",
+            "ClassName": "Bags_Tortillabag_CAN",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_CC",
+            "ClassName": "Bags_Tortillabag_CC",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_CCI",
+            "ClassName": "Bags_Tortillabag_CCI",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_CHN",
+            "ClassName": "Bags_Tortillabag_CHN",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_DCU",
+            "ClassName": "Bags_Tortillabag_DCU",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_DST",
+            "ClassName": "Bags_Tortillabag_DST",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_Digi",
+            "ClassName": "Bags_Tortillabag_Digi",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_EGT",
+            "ClassName": "Bags_Tortillabag_EGT",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_FLK",
+            "ClassName": "Bags_Tortillabag_FLK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_Multicam",
+            "ClassName": "Bags_Tortillabag_Multicam",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_MulticamG",
+            "ClassName": "Bags_Tortillabag_MulticamG",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_MulticamB",
+            "ClassName": "Bags_Tortillabag_MulticamB",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_NK",
+            "ClassName": "Bags_Tortillabag_NK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_OP4",
+            "ClassName": "Bags_Tortillabag_OP4",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_Pink",
+            "ClassName": "Bags_Tortillabag_Pink",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -194,7 +194,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_TGR",
+            "ClassName": "Bags_Tortillabag_TGR",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_TRK",
+            "ClassName": "Bags_Tortillabag_TRK",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_RUS",
+            "ClassName": "Bags_Tortillabag_RUS",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_SAF",
+            "ClassName": "Bags_Tortillabag_SAF",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -238,7 +238,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_SWD",
+            "ClassName": "Bags_Tortillabag_SWD",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -249,7 +249,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_UKR",
+            "ClassName": "Bags_Tortillabag_UKR",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -260,7 +260,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_URB",
+            "ClassName": "Bags_Tortillabag_URB",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -271,7 +271,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_USN",
+            "ClassName": "Bags_Tortillabag_USN",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -282,7 +282,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_USN2",
+            "ClassName": "Bags_Tortillabag_USN2",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
@@ -293,7 +293,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Tortillabag_WW2",
+            "ClassName": "Bags_Tortillabag_WW2",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,

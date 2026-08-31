@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "Flag_CAF",
+            "ClassName": "Bags_Flag_CAF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_KRG",
+            "ClassName": "Bags_Flag_KRG",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Med",
+            "ClassName": "Bags_Flag_Med",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Peace",
+            "ClassName": "Bags_Flag_Peace",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Plz",
+            "ClassName": "Bags_Flag_Plz",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Snek",
+            "ClassName": "Bags_Flag_Snek",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Takistan",
+            "ClassName": "Bags_Flag_Takistan",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USAF",
+            "ClassName": "Bags_Flag_USAF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USArmy",
+            "ClassName": "Bags_Flag_USArmy",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USCG",
+            "ClassName": "Bags_Flag_USCG",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USMC",
+            "ClassName": "Bags_Flag_USMC",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USN",
+            "ClassName": "Bags_Flag_USN",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USSF",
+            "ClassName": "Bags_Flag_USSF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
                 {
-            "ClassName": "Flag_GDI",
+            "ClassName": "Bags_Flag_GDI",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_NOD",
+            "ClassName": "Bags_Flag_NOD",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_Ally",
+            "ClassName": "Bags_Flag_Ally",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Flag_USSR",
+            "ClassName": "Bags_Flag_USSR",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,

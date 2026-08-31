@@ -227,7 +227,7 @@
             "Variants": []
         },
         {
-            "ClassName": "AR10_Tan",
+            "ClassName": "Bags_AR15",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -235,18 +235,18 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "buisoptic",
-                "mag_AR10_20rnd",
+                "mag_ak74_30rnd_black",
                 "m4_oebttstck",
                 "m4_plastichndgrd"
             ],
             "Variants": [
-                "AR10",
-                "AR10_Green"
+                "Bags_AR15_Black",
+                "Bags_AR15_Green",
+                "Bags_AR15_Tan"
             ]
         },
         {
-            "ClassName": "AR15_Green",
+            "ClassName": "Bags_AR300",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -254,37 +254,37 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "buisoptic",
-                "mag_ak74_30rnd",
-                "m4_oebttstck",
-                "m4_plastichndgrd"
-            ],
-            "Variants": [
-                "AR15",
-                "AR15_Tan"
-            ]
-        },
-        {
-            "ClassName": "AR300",
-            "MaxPriceThreshold": 1700,
-            "MinPriceThreshold": 1500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "buisoptic",
                 "m4_oebttstck",
                 "m4_plastichndgrd",
-                "Mag_AR300_30Rnd"
+                "Bags_Mag_AR300_20Rnd"
             ],
             "Variants": [
-                "AR300_Tan",
-                "AR300_Green"
+                "Bags_AR300_Black",
+                "Bags_AR300_Tan",
+                "Bags_AR300_Green"
             ]
         },
         {
-            "ClassName": "Mini14_Wood",
+            "ClassName": "Bags_AK300",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ak_plasticbttstck",
+                "ak_plastichndgrd",
+                "Bags_Mag_AR300_20Rnd"
+            ],
+            "Variants": [
+                "Bags_AK300_Black",
+                "Bags_AK300_Tan",
+                "Bags_AK300_Green"
+            ]
+        },
+        {
+            "ClassName": "Bags_Mini14_Wood",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -295,13 +295,13 @@
                 "Mag_CMAG_30Rnd"
             ],
             "Variants": [
-                "Mini14_Tan",
-                "Mini14_Black",
-                "Mini14"
+                "Bags_Mini14_Tan",
+                "Bags_Mini14_Black",
+                "Bags_Mini14"
             ]
         },
         {
-            "ClassName": "SCARL",
+            "ClassName": "Bags_SCARL",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -313,12 +313,12 @@
                 "scar_stockbttstck_black"
             ],
             "Variants": [
-                "SCARL_Tan",
-                "SCARL_Black"
+                "Bags_SCARL_Tan",
+                "Bags_SCARL_Black"
             ]
         },
         {
-            "ClassName": "SCARX_Black",
+            "ClassName": "Bags_SCARX_Black",
             "MaxPriceThreshold": 1700,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
@@ -326,12 +326,12 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "Mag_SCARX_30Rnd",
+                "Bags_Mag_SCARX_20Rnd",
                 "scar_stockbttstck_black"
             ],
             "Variants": [
-                "SCARX_Tan",
-                "SCARX"
+                "Bags_SCARX_Tan",
+                "Bags_SCARX"
             ]
         }
     ]

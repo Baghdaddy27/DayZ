@@ -7,7 +7,7 @@
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "Armband_CAF",
+            "ClassName": "Bags_Armband_CAF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_KRG",
+            "ClassName": "Bags_Armband_KRG",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -29,7 +29,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Med",
+            "ClassName": "Bags_Armband_Med",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -40,7 +40,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Peace",
+            "ClassName": "Bags_Armband_Peace",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -51,7 +51,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Plz",
+            "ClassName": "Bags_Armband_Plz",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -62,7 +62,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Snek",
+            "ClassName": "Bags_Armband_Snek",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -73,7 +73,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Takistan",
+            "ClassName": "Bags_Armband_Takistan",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -84,7 +84,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USAF",
+            "ClassName": "Bags_Armband_USAF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -95,7 +95,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USArmy",
+            "ClassName": "Bags_Armband_USArmy",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -106,7 +106,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USCG",
+            "ClassName": "Bags_Armband_USCG",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -117,7 +117,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USMC",
+            "ClassName": "Bags_Armband_USMC",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -128,7 +128,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USN",
+            "ClassName": "Bags_Armband_USN",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -139,7 +139,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USSF",
+            "ClassName": "Bags_Armband_USSF",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_GDI",
+            "ClassName": "Bags_Armband_GDI",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -161,7 +161,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_NOD",
+            "ClassName": "Bags_Armband_NOD",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -172,7 +172,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_Ally",
+            "ClassName": "Bags_Armband_Ally",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
@@ -183,7 +183,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Armband_USSR",
+            "ClassName": "Bags_Armband_USSR",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
