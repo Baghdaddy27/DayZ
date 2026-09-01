@@ -246,9 +246,9 @@
 
 <!-- Olga -->
     <event name="VehicleCivilianSedan">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>7</nominal>
+        <min>5</min>
+        <max>9</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -257,7 +257,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_Blue"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Olga_CC"/>
@@ -272,9 +272,9 @@
     </event>
 <!-- Gunter -->
     <event name="VehicleHatchback02">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>7</nominal>
+        <min>5</min>
+        <max>9</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -283,7 +283,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_CC"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Gunter_ERDL"/>
@@ -298,9 +298,9 @@
     </event>
 <!-- ADA -->
     <event name="VehicleOffroadHatchback">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>7</nominal>
+        <min>5</min>
+        <max>9</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -309,7 +309,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Ada_ERDL"/>
@@ -324,9 +324,9 @@
     </event>
 <!-- Sarka -->
     <event name="VehicleSedan02">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
+        <nominal>7</nominal>
+        <min>5</min>
+        <max>9</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -335,7 +335,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Bags_Sarka_Blue"/>
