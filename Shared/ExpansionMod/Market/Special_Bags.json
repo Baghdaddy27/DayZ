@@ -18,17 +18,6 @@
             "Variants": []
         },
         {
-            "ClassName": "Bags_Tortillabag_BLK",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 340,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "Bags_Tortillabag_CAN",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
@@ -74,17 +63,6 @@
         },
         {
             "ClassName": "Bags_Tortillabag_DCU",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 340,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Bags_Tortillabag_DST",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,
             "SellPricePercent": -1,
