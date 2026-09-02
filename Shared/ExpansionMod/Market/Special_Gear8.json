@@ -293,17 +293,6 @@
             "Variants": []
         },
         {
-            "ClassName": "Bags_PressVest_USCG",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 220,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "Bags_PressVest_USN",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 220,
