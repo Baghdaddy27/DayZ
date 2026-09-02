@@ -41,8 +41,8 @@
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -54,8 +54,8 @@
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -67,8 +67,8 @@
             "Spatial_Name": "Raider Posse",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -80,8 +80,8 @@
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -93,8 +93,8 @@
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -106,8 +106,8 @@
             "Spatial_Name": "Insurgent Militia",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -119,8 +119,8 @@
             "Spatial_Name": "Cannibal Hunters",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -132,8 +132,8 @@
             "Spatial_Name": "Cannibal Hunters",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -145,8 +145,8 @@
             "Spatial_Name": "Cannibal Hunters",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
-            "Spatial_MinAccuracy": 0.55,
-            "Spatial_MaxAccuracy": 0.95,
+            "Spatial_MinAccuracy": 0.45,
+            "Spatial_MaxAccuracy": 0.90,
             "Spatial_UnlimitedReload": 1
         },
         {
