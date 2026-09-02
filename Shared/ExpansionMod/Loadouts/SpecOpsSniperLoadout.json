@@ -8,34 +8,10 @@
     "Health": [],
     "InventoryAttachments": [
         {
-            "SlotName": "Armband",
-            "Items": [
-                {
-                    "ClassName": "Bags_Armband_GDI",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.51,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
             "SlotName": "Back",
             "Items": [
                 {
-                    "ClassName": "GhillieSuit_Mossy",
+                    "ClassName": "Bags_GhillieSuit_Arid",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -56,29 +32,10 @@
             ]
         },
         {
-            "SlotName": "Vest",
+            "SlotName": "Armband",
             "Items": [
                 {
-                    "ClassName": "PlateCarrierVest_desert",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.51,
-                            "Max": 0.7,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "PlateCarrierVest",
+                    "ClassName": "Armband_Yellow",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -99,10 +56,260 @@
             ]
         },
         {
+            "SlotName": "Face",
+            "Items": [
+                {
+                    "ClassName": "NVGHeadstrap",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "NVGoggles",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [
+                                        {
+                                            "ClassName": "Battery9V",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Headtorch_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "Battery9V",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
             "SlotName": "Hips",
             "Items": [
                 {
                     "ClassName": "MilitaryBelt",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                {
+                    "ClassName": "combatboots_beige",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "combatboots_grey",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "combatboots_brown",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "combatboots_black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Mask",
+            "Items": [
+                {
+                    "ClassName": "BalaclavaMask_Beige",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "TacticalGloves_Beige",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TacticalGloves_Black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.51,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TacticalGloves_Green",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -133,19 +340,13 @@
                 "Min": 0,
                 "Max": 0
             },
-            "Health": [
-                {
-                    "Min": 0.51,
-                    "Max": 0.7,
-                    "Zone": ""
-                }
-            ],
+            "Health": [],
             "InventoryAttachments": [
                 {
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "bags_mich2001helmet_trk",
+                            "ClassName": "bags_ballistichelmet_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -158,46 +359,738 @@
                                     "Zone": ""
                                 }
                             ],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "NVGoggles",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0,
-                                                "Max": 0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [
-                                                {
-                                                    "ClassName": "Battery9V",
-                                                    "Chance": 1,
-                                                    "Quantity": {
-                                                        "Min": 0,
-                                                        "Max": 0
-                                                    },
-                                                    "Health": [],
-                                                    "InventoryAttachments": [],
-                                                    "InventoryCargo": [],
-                                                    "ConstructionPartsBuilt": [],
-                                                    "Sets": []
-                                                }
-                                            ],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
+                            "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
                         },
                         {
-                            "ClassName": "bags_mich2001helmet_dst",
+                            "ClassName": "bags_booniehat_trk",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_baseballcap_trk",
+                            "Chance": 0.2,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Body",
+                    "Items": [
+                        {
+                            "ClassName": "bags_shirt_trk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_tshirt_trk",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Legs",
+                    "Items": [
+                        {
+                            "ClassName": "bags_cargopants_trk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Vest",
+                    "Items": [
+                        {
+                            "ClassName": "bags_pressvest_trk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Green",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "CLOTHING",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [
+                {
+                    "Min": 0.51,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Headgear",
+                    "Items": [
+                        {
+                            "ClassName": "bags_booniehat_flk",
+                            "Chance": 0.25,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_BaseballCap_flk",
+                            "Chance": 0.25,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_BallisticHelmet_flk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Body",
+                    "Items": [
+                        {
+                            "ClassName": "bags_shirt_flk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_tshirt_flk",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Legs",
+                    "Items": [
+                        {
+                            "ClassName": "bags_cargopants_flk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Vest",
+                    "Items": [
+                        {
+                            "ClassName": "bags_pressvest_flk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Green",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "CLOTHING",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [
+                {
+                    "Min": 0.51,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Headgear",
+                    "Items": [
+                        {
+                            "ClassName": "bags_booniehat_ukr",
+                            "Chance": 0.25,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_BaseballCap_ukr",
+                            "Chance": 0.25,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_BallisticHelmet_ukr",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Body",
+                    "Items": [
+                        {
+                            "ClassName": "bags_shirt_ukr",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "bags_tshirt_ukr",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Legs",
+                    "Items": [
+                        {
+                            "ClassName": "bags_cargopants_ukr",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Vest",
+                    "Items": [
+                        {
+                            "ClassName": "bags_pressvest_ukr",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Green",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest_Black",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "PlateCarrierVest",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "CLOTHING",
+            "Chance": 0.15,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Headgear",
+                    "Items": [
+                        {
+                            "ClassName": "bags_mich2001_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -270,7 +1163,77 @@
                             "InventoryAttachments": [],
                             "InventoryCargo": [
                                 {
-                                    "ClassName": "ExpansionBankNoteUSD",
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "tshirt_beige",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [
+                                {
+                                    "ClassName": "Rag",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 1,
+                                        "Max": 3
+                                    },
+                                    "Health": [],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                },
+                {
+                    "SlotName": "Legs",
+                    "Items": [
+                        {
+                            "ClassName": "bags_cargopants_trk",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "ClassName": "ExpansionBankNoteEuro",
                                     "Chance": 0.05,
                                     "Quantity": {
                                         "Min": 0.001,
@@ -309,24 +1272,6 @@
                                     "Sets": []
                                 }
                             ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "bags_tshirt_trk",
-                            "Chance": 0.5,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
@@ -334,48 +1279,10 @@
                     ]
                 },
                 {
-                    "SlotName": "Legs",
+                    "SlotName": "Vest",
                     "Items": [
                         {
-                            "ClassName": "bags_cargopants_trk",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [
-                                {
-                                    "ClassName": "Rag",
-                                    "Chance": 1,
-                                    "Quantity": {
-                                        "Min": 1,
-                                        "Max": 3
-                                    },
-                                    "Health": [],
-                                    "InventoryAttachments": [],
-                                    "InventoryCargo": [],
-                                    "ConstructionPartsBuilt": [],
-                                    "Sets": []
-                                }
-                            ],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Feet",
-                    "Items": [
-                        {
-                            "ClassName": "combatboots_beige",
+                            "ClassName": "bags_pressvest_trk",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -394,7 +1301,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "combatboots_grey",
+                            "ClassName": "PlateCarrierVest_Green",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -413,7 +1320,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "combatboots_brown",
+                            "ClassName": "PlateCarrierVest_Black",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -432,87 +1339,7 @@
                             "Sets": []
                         },
                         {
-                            "ClassName": "combatboots_black",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Mask",
-                    "Items": [
-                        {
-                            "ClassName": "BalaclavaMask_Beige",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Gloves",
-                    "Items": [
-                        {
-                            "ClassName": "TacticalGloves_Beige",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "TacticalGloves_Black",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.51,
-                                    "Max": 0.7,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        },
-                        {
-                            "ClassName": "TacticalGloves_Green",
+                            "ClassName": "PlateCarrierVest",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -550,7 +1377,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "M14",
+                            "ClassName": "SCARH_Black",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -568,7 +1395,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_m14_20Rnd",
+                                            "ClassName": "mag_scarh_20rnd_black",
                                             "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
@@ -581,39 +1408,33 @@
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "mk4optic_green",
+                                            "ClassName": "scar_stockbttstck_black",
                                             "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
                                                 "Max": 0
                                             },
                                             "Health": [],
-                                            "InventoryAttachments": [
-                                                {
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Chance": 1,
-                                                            "Quantity": {
-                                                                "Min": 0,
-                                                                "Max": 0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }
-                                            ],
+                                            "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
                                         },
                                         {
-                                            "ClassName": "acogoptic_6x",
+                                            "ClassName": "scar_precisionbttstck_black",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "ACOGOptic",
                                             "Chance": 1,
                                             "Quantity": {
                                                 "Min": 0,
@@ -637,7 +1458,117 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_m14_20Rnd",
+                    "ClassName": "mag_scarh_20rnd_black",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Chance": 1,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "SCARH",
+                            "Chance": 1,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.51,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "mag_scarh_20rnd",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "scar_stockbttstck",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "scar_precisionbttstck",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "ACOGOptic",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "mag_scarh_20rnd",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,

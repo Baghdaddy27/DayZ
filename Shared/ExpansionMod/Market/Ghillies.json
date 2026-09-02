@@ -63,7 +63,8 @@
             "Variants": [
                 "ghilliesuit_woodland",
                 "ghilliesuit_winter",
-                "ghilliesuit_mossy"
+                "ghilliesuit_mossy",
+                "Bags_GhillieSuit_Arid"
             ]
         },
         {
@@ -78,7 +79,8 @@
             "Variants": [
                 "ghillieatt_woodland",
                 "ghillieatt_winter",
-                "ghillieatt_mossy"
+                "ghillieatt_mossy",
+                "Bags_GhillieAtt_Arid"
             ]
         }
     ]

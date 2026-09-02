@@ -205,7 +205,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Bags_Shirt_MulticamB",
+            "ClassName": "Bags_Shirt_MultiB",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,
@@ -216,7 +216,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Bags_Shirt_MulticamG",
+            "ClassName": "Bags_Shirt_MultiG",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,
             "SellPricePercent": -1,

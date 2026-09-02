@@ -223,7 +223,7 @@
             "Spatial_Name": "Korvan Sniper Team",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MinAccuracy": 0.60,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         },
@@ -236,7 +236,7 @@
             "Spatial_Name": "Shadow Company Assassins",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MinAccuracy": 0.60,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         },
@@ -249,7 +249,7 @@
             "Spatial_Name": "Blackridge Marksmen",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.67,
+            "Spatial_MinAccuracy": 0.60,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         }

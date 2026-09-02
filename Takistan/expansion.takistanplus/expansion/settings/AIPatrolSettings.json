@@ -165,13 +165,13 @@
             "DespawnRadius": -2,
             "MinSpreadRadius": 1,
             "MaxSpreadRadius": 10,
-            "Chance": 0.9,
+            "Chance": 0.75,
             "DespawnTime": -2,
             "RespawnTime": -2,
             "LoadBalancingCategory": "HelicopterWreck",
             "ObjectClassName": "Wreck_UH1Y",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": []
         },
         {
@@ -251,7 +251,7 @@
             "LoadBalancingCategory": "HelicopterWreck",
             "ObjectClassName": "Wreck_Mi8_Crashed",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": []
         },
         {
@@ -295,8 +295,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": -3,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 3,
+            "NumberOfAIMax": 5,
             "Behaviour": "HALT",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -331,7 +331,7 @@
             "LoadBalancingCategory": "ContaminatedArea",
             "ObjectClassName": "ExpansionAirdropContainer_Military_WinterCamo",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": []
         },
         {
@@ -411,7 +411,7 @@
             "LoadBalancingCategory": "Global",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     6487.311523,
@@ -497,7 +497,7 @@
             "LoadBalancingCategory": "Global",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     6487.160156,
@@ -513,7 +513,7 @@
             "Formation": "RANDOM",
             "FormationScale": -1,
             "FormationLooseness": 1,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "ContractorGrenLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -547,8 +547,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": 3,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 2,
+            "NumberOfAIMax": 3,
             "Behaviour": "LOOP",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -583,7 +583,7 @@
             "LoadBalancingCategory": "Quest",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     971.066772,
@@ -643,8 +643,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": 3,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 2,
+            "NumberOfAIMax": 3,
             "Behaviour": "LOOP",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -679,7 +679,7 @@
             "LoadBalancingCategory": "Quest",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     2664.7229,
@@ -739,8 +739,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": 3,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 2,
+            "NumberOfAIMax": 3,
             "Behaviour": "LOOP",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -775,7 +775,7 @@
             "LoadBalancingCategory": "Quest",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     7278.342773,
@@ -845,8 +845,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": 3,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 2,
+            "NumberOfAIMax": 3,
             "Behaviour": "LOOP",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -881,7 +881,7 @@
             "LoadBalancingCategory": "Quest",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     2542.426514,
@@ -941,8 +941,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": -5,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 3,
+            "NumberOfAIMax": 5,
             "Behaviour": "ROAMING_LOCAL",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -977,7 +977,7 @@
             "LoadBalancingCategory": "Global",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     5588.395996,
@@ -1033,7 +1033,7 @@
             "Formation": "RANDOM",
             "FormationScale": -1,
             "FormationLooseness": 1,
-            "Loadout": "ShamansLoadout",
+            "Loadout": "ShamanLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -1067,8 +1067,8 @@
                 "eAI_SurvivorM_Seth",
                 "eAI_SurvivorM_Taiki"
             ],
-            "NumberOfAI": -5,
-            "NumberOfAIMax": 0,
+            "NumberOfAI": 3,
+            "NumberOfAIMax": 5,
             "Behaviour": "ROAMING_LOCAL",
             "LootingBehaviour": "DEFAULT",
             "Speed": "WALK",
@@ -1103,7 +1103,7 @@
             "LoadBalancingCategory": "Global",
             "ObjectClassName": "",
             "WaypointInterpolation": "CatmullRom",
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
                     8739.413086,
