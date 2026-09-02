@@ -310,7 +310,26 @@
             "SlotName": "Mask",
             "Items": [
                 {
-                    "ClassName": "BalaclavaMask_Beige",
+                    "ClassName": "FaceCover_Improvised",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.3,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "BalaclavaMask_Blackskull",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -324,7 +343,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiya",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -343,7 +362,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiyaBlue",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -362,7 +381,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiyaGreen",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -381,7 +400,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiyaGrey",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -400,7 +419,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiyaWhiteRed",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -419,7 +438,7 @@
                 },
                 {
                     "ClassName": "bags_shemag_kufiyaTan",
-                    "Chance": 0.2,
+                    "Chance": 1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0

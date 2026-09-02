@@ -31,7 +31,7 @@
             "Items": [
                 {
                     "ClassName": "drybag_Black",
-                    "Chance": 1,
+                    "Chance": 0.15,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -1175,7 +1175,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1187,7 +1187,7 @@
                     "Items": [
                         {
                             "ClassName": "M14",
-                            "Chance": 0.25,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1272,7 +1272,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1284,7 +1284,7 @@
                     "Items": [
                         {
                             "ClassName": "Bags_M14_Wood",
-                            "Chance": 0.25,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1369,7 +1369,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1381,7 +1381,7 @@
                     "Items": [
                         {
                             "ClassName": "Bags_M14_Black",
-                            "Chance": 0.25,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
@@ -1466,7 +1466,7 @@
         },
         {
             "ClassName": "WEAPON",
-            "Chance": 1,
+            "Chance": 0.25,
             "Quantity": {
                 "Min": 0,
                 "Max": 0
@@ -1478,7 +1478,7 @@
                     "Items": [
                         {
                             "ClassName": "Bags_M14_Tan",
-                            "Chance": 0.25,
+                            "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
                                 "Max": 0
