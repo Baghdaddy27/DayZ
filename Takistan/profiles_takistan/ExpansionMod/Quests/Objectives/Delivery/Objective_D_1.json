@@ -15,6 +15,6 @@
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "MaxDistance": 1.0,
+    "MaxDistance": 2.0,
     "MarkerName": "Deliver the Note"
 }
