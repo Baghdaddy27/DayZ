@@ -1,19 +1,19 @@
 {
     "ConfigVersion": 22,
-    "ID": 20,
+    "ID": 26,
     "Type": 1,
-    "Title": "Group: Eliminate Korvan Group",
+    "Title": "Assassination: Eliminate the Cultist from 300 meters or more.",
     "Descriptions": [
-        "%1, if we didn't have enough problems already, now we have to deal with thieves! Korvan Group is responsible for looting the gold and silver reserves in Takistan! Go find their base of operations in the mountains and eliminate them all.",
-        "%1, if we didn't have enough problems already, now we have to deal with thieves! Korvan Group is responsible for looting the gold and silver reserves in Takistan! Go find their base of operations in the mountains and eliminate them all.",
+        "Want to take care of a high value target, %1? We've spotted one of the cultist leaders at the southern military base, Loymanara. Quietly sneak in and eliminate the target from at least 300 meters away. Any closer wont work. There are often enemy patrols, so be careful.",
+        "Want to take care of a high value target, %1? We've spotted one of the cultist leaders at the southern military base, Loymanara. Quietly sneak in and eliminate the target from at least 300 meters away. Any closer wont work. There are often enemy patrols, so be careful.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Korvan Group. Reward: Random!",
+    "ObjectiveText": "Eliminate the Cultist Leader from at least 300 meters away. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 1,
     "IsGroupQuest": 1,
     "ObjectSetFileName": "",
@@ -71,17 +71,17 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        5
     ],
     "QuestTurnInIDs": [
-        2
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 3,
-            "ObjectiveType": 8
+            "ID": 1,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": -32768,

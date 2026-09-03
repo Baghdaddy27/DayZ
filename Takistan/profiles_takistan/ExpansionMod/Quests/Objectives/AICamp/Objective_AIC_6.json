@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill Drew 'The Hammer' with a Hammer",
+    "TimeLimit": 86400,
+    "Active": 1,
+    "InfectedDeletionRadius": 0,
+    "MaxDistance": -1,
+    "MinDistance": -1,
+    "AllowedWeapons": [
+        "Hammer"
+    ],
+    "AllowedDamageZones": [],
+    "AISpawns": [
+        {
+            "Name": "Drew 'The Hammer'",
+            "Persist": 0,
+            "Faction": "Brawlers",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "OBLLoadout",
+            "Units": [
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 300,
+            "AccuracyMin": 0.1,
+            "AccuracyMax": 0.1,
+            "ThreatDistanceLimit": 100,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 1,
+            "MinDistRadius": 1,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7002.674805,
+                    326.973267,
+                    5807.428223
+                ],
+                [
+                    7028.450195,
+                    331.609375,
+                    5787.335449
+                ],
+                [
+                    7002.004883,
+                    333.708923,
+                    5760.85498
+                ],
+                [
+                    6970.749512,
+                    328.719269,
+                    5785.342773
+                ]
+            ]
+        }
+    ]
+}

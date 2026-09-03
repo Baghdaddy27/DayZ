@@ -2,34 +2,25 @@
     "ConfigVersion": 22,
     "ID": 2,
     "Type": 1,
-    "Title": "Build your Camp",
+    "Title": "Tutorial: Activate your Garage Space",
     "Descriptions": [
-        "You've made it this far, %1! Now its time to make a permanent place for yourself. Head out 1000 meters from the Black Market and pick a spot. Craft the flag kit, make a territory, and claim a piece of Takistan for yourself. Make sure you pick up the item to complete the quest!",
-        "You've made it this far, %1! Now its time to make a permanent place for yourself. Head out 1000 meters from the Black Market and pick a spot. Craft the flag kit, make a territory, and claim a piece of Takistan for yourself. Make sure you pick up the item to complete the quest!",
-        "What's up, %1?"
+        "%1, let me help you get setup. You will need a place to store your vehicles. Take this note to Rick the Garage Guy. He is by the garage sign. Tell him to let you have 3 vehicle storage spaces. You can switch between the Garage and conversation options by using your mouse scroll wheel.",
+        "%1, let me help you get setup. You will need a place to store your vehicles. Take this note to Rick the Garage Guy. He is by the garage sign. Tell him to let you have 3 vehicle storage spaces. You can switch between the Garage and conversation options by using your mouse scroll wheel.",
+        "What's up, %1? You need a garage space? No problem. There are plenty of them since most people are dead. Use the scroll wheel on your mouse to switch between the garage and speaking options with me. I also have this extra canteen. Take it. You'll need it in this heat."
     ],
-    "ObjectiveText": "Craft a Territory Flag Kit",
+    "ObjectiveText": "Take the note to Rick the Garage Guy",
     "FollowUpQuest": 3,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [
         {
-            "ClassName": "Rope",
+            "ClassName": "ExpansionQuestItemPaper",
             "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "WoodenStick",
-            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -39,16 +30,7 @@
     ],
     "Rewards": [
         {
-            "ClassName": "TerritoryFlagKit",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionCamoTentKit",
+            "ClassName": "Canteen",
             "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
@@ -63,17 +45,17 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        5
     ],
     "QuestTurnInIDs": [
-        2
+        4
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
             "ID": 1,
-            "ObjectiveType": 11
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": -1,
@@ -84,7 +66,7 @@
     ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
+    "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},

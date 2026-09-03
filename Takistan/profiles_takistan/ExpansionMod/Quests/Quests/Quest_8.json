@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 8,
     "Type": 1,
-    "Title": "Daily: Kill 10 Shadow Company Mercenaries",
+    "Title": "Daily: Kill 10 Bandits",
     "Descriptions": [
-        "Bounty: Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
-        "Bounty: Kill 10 Shadow Company Mercs. They wear Yellow Armbands.",
+        "Bounty: Kill 10 Bandits. There are 3 distinct groups of what we call Bandits. Raiders are Non-native survivors with random clothing, local militia wear mostly traditional Takistani clothing, and cannibals wear mostly leather. They have a wide range of equipment, and grealy varied skill levels. Be careful though!",
+        "Bounty: Kill 10 Bandits. There are 3 distinct groups of what we call Bandits. Raiders are Non-native survivors with random clothing, local militia wear mostly traditional Takistani clothing, and cannibals wear mostly leather. They have a wide range of equipment, and grealy varied skill levels. Be careful though!",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 10 Shadow Company Mercs. Reward: $250!",
+    "ObjectiveText": "Kill 10 Bandits. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -62,7 +62,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 3,
+            "ID": 6,
             "ObjectiveType": 2
         }
     ],

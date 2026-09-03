@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 19,
     "Type": 1,
-    "Title": "Group: Eliminate the Insurgents",
+    "Title": "Group: Eliminate Shadow Company",
     "Descriptions": [
-        "Want to deal with some local problems, %1? The Insurgent Militias are killing our own people. Find where they are hiding and kill them.",
-        "Want to deal with some local problems, %1? The Insurgent Militias are killing our own people. Find where they are hiding and kill them.",
+        "There is always someone trying to take advantage of a bad situation, %1! Shadow Company is responsible for the assassintation of various local and national leaders here in Takistan. They are one of the reasons our military fell apart. Go find their base of operations in the mountains and eliminate them all.",
+        "There is always someone trying to take advantage of a bad situation, %1! Shadow Company is responsible for the assassintation of various local and national leaders here in Takistan. They are one of the reasons our military fell apart. Go find their base of operations in the mountains and eliminate them all.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate the Insurgents. Reward: Random!",
+    "ObjectiveText": "Eliminate Shadow Company. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -80,11 +80,11 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 7
+            "ID": 2,
+            "ObjectiveType": 8
         }
     ],
-    "QuestColor": -65536,
+    "QuestColor": -32768,
     "ReputationReward": 200,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],

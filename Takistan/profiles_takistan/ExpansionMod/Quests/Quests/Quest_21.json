@@ -2,20 +2,20 @@
     "ConfigVersion": 22,
     "ID": 21,
     "Type": 1,
-    "Title": "Weekly: Kill 50 AI Players",
+    "Title": "Group: Eliminate the TNG",
     "Descriptions": [
-        "Listen up %1. All of us are sick of the raiders and mercs causing havoc. Teach them a lesson by killing 50 of them from any faction.",
-        "Listen up %1. All of us are sick of the raiders and mercs causing havoc. Teach them a lesson by killing 50 of them from any faction.",
+        "Up to dealing with Traitors, %1? The Takistan National Guard, or TNG as we call them, have gone rogue & might be behind the outbreak here in Takistan! Go find their base of operations in the mountains and eliminate them all.",
+        "Up to dealing with Traitors, %1? The Takistan National Guard, or TNG as we call them, have gone rogue & might be behind the outbreak here in Takistan! Go find their base of operations in the mountains and eliminate them all.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 50 AI Players. Reward: $500!",
+    "ObjectiveText": "Eliminate the TNG. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
@@ -68,7 +68,7 @@
     "NeedToSelectReward": 0,
     "RandomReward": 1,
     "RandomRewardAmount": 1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
         2
@@ -80,8 +80,8 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
-            "ObjectiveType": 2
+            "ID": 4,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": -32768,

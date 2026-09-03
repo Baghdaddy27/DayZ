@@ -2,19 +2,19 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 9,
-    "ObjectiveText": "Bring the Survivor to the marked location.",
+    "ObjectiveText": "Bring Doctor Franco to the Safe Zone",
     "TimeLimit": 180,
     "Active": 0,
     "Position": [
-        3193.590087890625,
-        296.7070007324219,
-        6090.56982421875
+        6502.336426,
+        351.577515,
+        5984.109863
     ],
-    "MaxDistance": 20.0,
-    "MarkerName": "Escort Survivor",
+    "MaxDistance": 20,
+    "MarkerName": "Rescue Doctor Franco",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "SurvivorLoadout",
+    "NPCLoadoutFile": "QuestNPC5Loadout",
     "NPCClassName": "eAI_SurvivorM_Peter",
-    "NPCName": "Survivior"
+    "NPCName": "Doctor Franco"
 }

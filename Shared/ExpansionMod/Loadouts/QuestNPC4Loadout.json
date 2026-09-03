@@ -32,10 +32,34 @@
             ]
         },
         {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "PlateCarrierVest_Green",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.69,
+                            "Max": 1,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
             "SlotName": "Mask",
             "Items": [
                 {
-                    "ClassName": "bandana_redpattern",
+                    "ClassName": "Shemag_Red",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -139,7 +163,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "Tshirt_Beige",
+                            "ClassName": "militarysweater_nopatch",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -163,7 +187,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "BDUPants",
+                            "ClassName": "ttskopants",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -211,31 +235,7 @@
                     "SlotName": "Headgear",
                     "Items": [
                         {
-                            "ClassName": "MilitaryCap_BDU",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.69,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Gloves",
-                    "Items": [
-                        {
-                            "ClassName": "WorkGloves_Black",
+                            "ClassName": "militaryberet_un",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -273,7 +273,7 @@
                     "SlotName": "Hands",
                     "Items": [
                         {
-                            "ClassName": "Wrench",
+                            "ClassName": "engraved1911",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -286,7 +286,26 @@
                                     "Zone": ""
                                 }
                             ],
-                            "InventoryAttachments": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "mag_1911_7rnd",
+                                            "Chance": 1,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []

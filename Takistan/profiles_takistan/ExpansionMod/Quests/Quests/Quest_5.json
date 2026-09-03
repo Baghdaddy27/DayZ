@@ -2,26 +2,25 @@
     "ConfigVersion": 22,
     "ID": 5,
     "Type": 1,
-    "Title": "Daily: Kill 10 Blackridge Mercenaries",
+    "Title": "Tutorial: Rescue Doctor Franco",
     "Descriptions": [
-        "Bounty: Kill 10 Blackridge Mercs. They wear the Black and Yellow Snake Armbands.",
-        "Bounty: Kill 10 Blackridge Mercs. They wear the Black and Yellow Snake Armbands.",
-        "What's up, %1?"
+        "Ready for something challenging, %1? Doctor Franco is trapped in our old head-quarters to the north. Its the large, orante building on the hilltop. He was looking for medical supplies when he was captured by bandits. Kill the bandits and escort him back here. He went out there without a weapon, so take this M16 to him. Feel free to use it, there are a lot of infected there.",
+        "Ready for something challenging, %1? Doctor Franco is trapped in our old head-quarters to the north. Its the large, orante building on the hilltop. He was looking for medical supplies when he was captured by bandits. Kill the bandits and escort him back here. He went out there without a weapon, so take this M16 to him. Feel free to use it, there are a lot of infected there.",
+        "Who are you? You shouldn't be here. This area is a gas target zone!"
     ],
-    "ObjectiveText": "Kill 10 Contractors. Reward: $250!",
-    "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "ObjectiveText": "Rescue Doctor Franco",
+    "FollowUpQuest": 6,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
-    "Rewards": [
+    "QuestItems": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
+            "ClassName": "Bags_M16A2_NCR",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -29,52 +28,65 @@
             "Chance": 1
         },
         {
-            "ClassName": "ExpansionBanknoteUSD",
-            "Amount": 250,
+            "ClassName": "mag_stanag_30rnd",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 0.35
+            "Chance": 1
         },
         {
-            "ClassName": "ExpansionBanknoteEURO",
-            "Amount": 250,
+            "ClassName": "ammo_556x45",
+            "Amount": 30,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 0.25
+            "Chance": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 100,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 1,
-    "RandomRewardAmount": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        5
     ],
     "QuestTurnInIDs": [
-        1
+        6
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 7,
-            "ObjectiveType": 2
+            "ID": 5,
+            "ObjectiveType": 8
         }
     ],
-    "QuestColor": -10496,
-    "ReputationReward": 100,
+    "QuestColor": -1,
+    "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        4
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
-    "DeleteQuestItems": 1,
-    "SequentialObjectives": 1,
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

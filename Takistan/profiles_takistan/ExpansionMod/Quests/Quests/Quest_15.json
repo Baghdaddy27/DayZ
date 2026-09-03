@@ -2,34 +2,25 @@
     "ConfigVersion": 22,
     "ID": 15,
     "Type": 1,
-    "Title": "Group: Eliminate Shadow Company",
+    "Title": "Daily: Kill 25 Infected with a Shotgun",
     "Descriptions": [
-        "There is always someone trying to take advantage of a bad situation, %1! Shadow Company is a European based mercenary group responsible for the assassintation of various local and national leaders. Go find their base of operations in the mountains and eliminate them all.",
-        "There is always someone trying to take advantage of a bad situation, %1! Shadow Company is a European based mercenary group responsible for the assassintation of various local and national leaders. Go find their base of operations in the mountains and eliminate them all.",
+        "Bounty: Kill 25 Infected with a Shotgun. %1, we don't have enough food, but we have way too many shotgun shells! Time to put them to use against the infected!",
+        "Bounty: Kill 25 Infected with a Shotgun. %1, we don't have enough food, but we have way too many shotgun shells! Time to put them to use against the infected!",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Shadow Company. Reward: Random!",
+    "ObjectiveText": "Kill 25 Infected with a Shotgun Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 1,
+    "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteEuro",
             "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
@@ -44,48 +35,39 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1
+            "Chance": 0.35
         },
         {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteEURO",
+            "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionSilverBar",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "Chance": 0.25
         }
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 1,
     "RandomRewardAmount": 1,
-    "RewardsForGroupOwnerOnly": 0,
+    "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
-            "ObjectiveType": 8
+            "ID": 9,
+            "ObjectiveType": 2
         }
     ],
-    "QuestColor": -65536,
-    "ReputationReward": 200,
+    "QuestColor": -10496,
+    "ReputationReward": 100,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",

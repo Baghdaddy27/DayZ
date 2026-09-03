@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 2,
     "ObjectiveType": 5,
-    "ObjectiveText": "Deliver the note to Rick the Garage Guy",
+    "ObjectiveText": "Deliver Medical Supplies",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "ExpansionQuestItemPaper",
+            "ClassName": "ExpansionQuestItemPackage",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
@@ -16,5 +16,5 @@
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
     "MaxDistance": 1.0,
-    "MarkerName": "Deliver the Note"
+    "MarkerName": "Deliver Medical Supplies"
 }

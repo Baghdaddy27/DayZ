@@ -32,10 +32,10 @@
             ]
         },
         {
-            "SlotName": "Mask",
+            "SlotName": "Headgear",
             "Items": [
                 {
-                    "ClassName": "bandana_redpattern",
+                    "ClassName": "BallisticHelmet_UN",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -43,8 +43,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.5,
-                            "Max": 0.7,
+                            "Min": 0.69,
+                            "Max": 1,
                             "Zone": ""
                         }
                     ],
@@ -65,13 +65,7 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [
-                        {
-                            "Min": 0.69,
-                            "Max": 1,
-                            "Zone": ""
-                        }
-                    ],
+                    "Health": [],
                     "InventoryAttachments": [
                         {
                             "SlotName": "",
@@ -99,10 +93,63 @@
             ]
         },
         {
-            "SlotName": "Hips",
+            "SlotName": "Mask",
             "Items": [
                 {
-                    "ClassName": "MilitaryBelt",
+                    "ClassName": "GP5GasMask",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.69,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "",
+                            "Items": [
+                                {
+                                    "ClassName": "GasMask_Filter",
+                                    "Chance": 1,
+                                    "Quantity": {
+                                        "Min": 0,
+                                        "Max": 0
+                                    },
+                                    "Health": [
+                                        {
+                                            "Min": 0.69,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": [
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "surgicalgloves_blue",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -121,11 +168,7 @@
                     "Sets": []
                 }
             ]
-        }
-    ],
-    "InventoryCargo": [],
-    "ConstructionPartsBuilt": [],
-    "Sets": [
+        },
         {
             "ClassName": "CLOTHING",
             "Chance": 1,
@@ -139,7 +182,7 @@
                     "SlotName": "Body",
                     "Items": [
                         {
-                            "ClassName": "Tshirt_Beige",
+                            "ClassName": "labcoat",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -163,7 +206,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "BDUPants",
+                            "ClassName": "ttskopants",
                             "Chance": 1,
                             "Quantity": {
                                 "Min": 0,
@@ -196,92 +239,6 @@
                             "Health": [
                                 {
                                     "Min": 0.69,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Headgear",
-                    "Items": [
-                        {
-                            "ClassName": "MilitaryCap_BDU",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.69,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                },
-                {
-                    "SlotName": "Gloves",
-                    "Items": [
-                        {
-                            "ClassName": "WorkGloves_Black",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.69,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "WEAPON",
-            "Chance": 1,
-            "Quantity": {
-                "Min": 0,
-                "Max": 0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Hands",
-                    "Items": [
-                        {
-                            "ClassName": "Wrench",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.7,
                                     "Max": 1,
                                     "Zone": ""
                                 }

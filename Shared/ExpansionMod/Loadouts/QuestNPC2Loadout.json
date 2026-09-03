@@ -36,7 +36,7 @@
             "SlotName": "Body",
             "Items": [
                 {
-                    "ClassName": "TTsKOJacket_Camo",
+                    "ClassName": "Tshirt_Green",
                     "Include": "",
                     "Chance": 1,
                     "Quantity": {
@@ -128,7 +128,7 @@
             "SlotName": "Legs",
             "Items": [
                 {
-                    "ClassName": "TTSKOPants",
+                    "ClassName": "Gorkapants_flat",
                     "Include": "",
                     "Chance": 1,
                     "Quantity": {
@@ -178,7 +178,7 @@
             "SlotName": "Vest",
             "Items": [
                 {
-                    "ClassName": "PlateCarrierVest",
+                    "ClassName": "PlateCarrierVest_camo",
                     "Include": "",
                     "Chance": 1,
                     "Quantity": {
@@ -204,31 +204,6 @@
             "Items": [
                 {
                     "ClassName": "T56TankerHelmet_Olive",
-                    "Include": "",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-        {
-            "SlotName": "Gloves",
-            "Items": [
-                {
-                    "ClassName": "OMNOGloves_Gray",
                     "Include": "",
                     "Chance": 1,
                     "Quantity": {
@@ -342,36 +317,7 @@
                     ]
                 }
             ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_AK74_30Rnd",
-                    "Include": "",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Mag_AK74_30Rnd",
-                    "Include": "",
-                    "Chance": 0.15000000596046448,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
+            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }

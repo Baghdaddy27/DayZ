@@ -1,28 +1,28 @@
 {
     "ConfigVersion": 6,
-    "ID": 2,
-    "ClassName": "ExpansionQuestBoardSmall",
+    "ID": 5,
+    "ClassName": "ExpansionQuestNPCAIHassan",
     "Position": [
-        6479.231934,
-        355.773773,
-        6015.591309
+        6475.992676,
+        354.537994,
+        6020.94043
     ],
     "Orientation": [
-        -135,
+        -144,
         0,
         0
     ],
-    "NPCName": "Quest Board",
-    "DefaultNPCText": "There is nothing to do here for you...",
+    "NPCName": "Captain Hassan",
+    "DefaultNPCText": "Ready to do your part for Takistan? I have jobs for a free lancer.",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "",
+    "NPCLoadoutFile": "QuestNPC4Loadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 1,
+    "NPCType": 2,
     "Active": 1
 }

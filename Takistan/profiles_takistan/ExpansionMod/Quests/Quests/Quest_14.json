@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 14,
     "Type": 1,
-    "Title": "Daily: Kill 25 Infected with a Crowbar",
+    "Title": "Daily: Kill 50 Military or Police Infected",
     "Descriptions": [
-        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life or some shit. It doesn't make sense to me, but its money.",
-        "Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life or some shit. It doesn't make sense to me, but its money.",
+        "Bounty: Kill 50 Military or Police Infected. %1, it really sucks seeing your friends faces among the infected. A lot of police and military are people all of us here worked with. They deserve better. Put them out of their misery.",
+        "Bounty: Kill 50 Military or Police Infected. %1, it really sucks seeing your friends faces among the infected. A lot of police and military are people all of us here worked with. They deserve better. Put them out of their misery.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 25 Infected with a Crowbar. Reward: $250!",
+    "ObjectiveText": "Kill 50 Military or Police Infected. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -62,7 +62,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 13,
+            "ID": 10,
             "ObjectiveType": 2
         }
     ],

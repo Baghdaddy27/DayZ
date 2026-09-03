@@ -2,20 +2,20 @@
     "ConfigVersion": 22,
     "ID": 22,
     "Type": 1,
-    "Title": "Weekly: Hunt 5 of any Animal",
+    "Title": "Group: Eliminate Blackridge",
     "Descriptions": [
-        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
-        "%1, we are having problems with the Local Wild Life carrying the infection outside of Takistan. Hunt 5 of any Animal to prevent the spread. Check iZurvive for their locations.",
+        "Ready for something challenging, %1? Blackridge mercs are responsible for the collapse of the international relief efforts here in Takistan. They have killed a lot of our friends, and shot down multiple Aircraft. Go find their base of operations in the mountains and eliminate them all.",
+        "Ready for something challenging, %1? Blackridge mercs are responsible for the collapse of the international relief efforts here in Takistan. They have killed a lot of our friends, and shot down multiple Aircraft. Go find their base of operations in the mountains and eliminate them all.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Hunt 5 of any animal. Reward: Random!",
+    "ObjectiveText": "Eliminate Blackridge. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
-    "IsDailyQuest": 0,
-    "IsWeeklyQuest": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
@@ -68,7 +68,7 @@
     "NeedToSelectReward": 0,
     "RandomReward": 1,
     "RandomRewardAmount": 1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
         2
@@ -80,8 +80,8 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 12,
-            "ObjectiveType": 2
+            "ID": 1,
+            "ObjectiveType": 8
         }
     ],
     "QuestColor": -32768,

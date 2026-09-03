@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 18,
     "Type": 1,
-    "Title": "Group: Eliminate Blackridge",
+    "Title": "PVP: Kill 3 Real Players in any PVP Zone",
     "Descriptions": [
-        "Ready for something challenging, %1? Blackridge is a North American mercenary company responsible for the collapse of the international relief efforts. Go find their base of operations in the mountains and eliminate them all.",
-        "Ready for something challenging, %1? Blackridge is a North American mercenary company responsible for the collapse of the international relief efforts. Go find their base of operations in the mountains and eliminate them all.",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Well, you know what to do! Kill 3 Real Players in any PVP Zones",
+        "What's up, %1? There is a bounty from an unknown source to eliminate looters near the Military Bases. Well, you know what to do! Kill 3 Real Players in any PVP Zones",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate Blackridge. Reward: Random!",
+    "ObjectiveText": "PVP: Kill 3 Real Players in any PVP Zone! Reward: $1000",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -21,43 +21,7 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteEuro",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteUSD",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionSilverBar",
-            "Amount": 1,
+            "Amount": 1000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -80,8 +44,8 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 1,
-            "ObjectiveType": 8
+            "ID": 11,
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": -65536,

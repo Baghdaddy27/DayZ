@@ -1,21 +1,21 @@
 {
     "ConfigVersion": 28,
-    "ID": 1,
+    "ID": 2,
     "ObjectiveType": 7,
-    "ObjectiveText": "Assassinate the Cultist Leader",
+    "ObjectiveText": "Assassinate the Takistani Officer",
     "TimeLimit": 86400,
     "Active": 1,
     "MaxDistance": -1,
-    "MinDistance": 300,
+    "MinDistance": 400,
     "AllowedWeapons": [],
     "AllowedDamageZones": [],
     "AISpawn": {
-        "Name": "Cultist Leader",
+        "Name": "Takistani Officer",
         "Persist": 1,
         "Faction": "Shaman",
         "Formation": "RANDOM",
         "FormationLooseness": 0,
-        "Loadout": "ShamanLeaderLoadout",
+        "Loadout": "TNGOfficerLoadout",
         "Units": [
             "eAI_SurvivorF_Eva",
             "eAI_SurvivorF_Frida",
@@ -74,19 +74,19 @@
         "UseRandomWaypointAsStartPoint": 1,
         "Waypoints": [
             [
-                7821.189453,
-                295.894623,
-                1629.613647
+                5326.45752,
+                83.139999,
+                10919.006836
             ],
             [
-                8230.393555,
-                296.111237,
-                2135.279785
+                5170.978027,
+                88.1287,
+                11414.496094
             ],
             [
-                8344.960938,
-                296.140015,
-                1867.253784
+                5959.128906,
+                83.139999,
+                11830.578125
             ]
         ]
     }

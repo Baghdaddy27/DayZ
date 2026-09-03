@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 11,
     "Type": 1,
-    "Title": "Daily: Kill 50 Military / Police Infected",
+    "Title": "Daily: Kill 10 Shadow Mercenaries",
     "Descriptions": [
-        "Bounty: Kill 50 Military / Police Infected. Put them out of their misery.",
-        "Bounty: Kill 50 Military / Police Infected. Put them out of their misery.",
+        "Bounty: Kill 10 Shadow Company Mercs. They are a Western European & Southern African based company that wear Yellow Armbands and uses mostly western style equipment. Be careful! They are very skilled!",
+        "Bounty: Kill 10 Shadow Company Mercs. They are a Western European & Southern African based company that wear Yellow Armbands and uses mostly western style equipment. Be careful! They are very skilled!",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 50 Military / Police Infected. Reward: $250!",
+    "ObjectiveText": "Kill 10 Shadow Company Mercs. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -53,16 +53,16 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        3
+        1
     ],
     "QuestTurnInIDs": [
-        3
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 10,
+            "ID": 3,
             "ObjectiveType": 2
         }
     ],

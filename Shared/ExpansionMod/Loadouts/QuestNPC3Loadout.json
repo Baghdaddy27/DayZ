@@ -59,7 +59,7 @@
             "SlotName": "Mask",
             "Items": [
                 {
-                    "ClassName": "Shemag_White",
+                    "ClassName": "Shemag_Green",
                     "Chance": 1,
                     "Quantity": {
                         "Min": 0,
@@ -254,30 +254,6 @@
                             "Sets": []
                         }
                     ]
-                },
-                {
-                    "SlotName": "Gloves",
-                    "Items": [
-                        {
-                            "ClassName": "TacticalGloves_Beige",
-                            "Chance": 1,
-                            "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                            },
-                            "Health": [
-                                {
-                                    "Min": 0.69,
-                                    "Max": 1,
-                                    "Zone": ""
-                                }
-                            ],
-                            "InventoryAttachments": [],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
                 }
             ],
             "InventoryCargo": [],
@@ -337,21 +313,7 @@
                     ]
                 }
             ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_STANAG_30Rnd",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
+            "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
             "Sets": []
         }

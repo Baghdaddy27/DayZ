@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 13,
     "Type": 1,
-    "Title": "Daily: Kill 25 Infected with Head Shots",
+    "Title": "Daily: Kill 50 Civilian Infected",
     "Descriptions": [
-        "How's your marksmanship, %1? Prove that you're a good shot! Kill 25 Infected with Head Shots",
-        "How's your marksmanship, %1? Prove that you're a good shot! Kill 25 Infected with Head Shots",
+        "Bounty: Kill 50 Civilian Infected. The infected are more than a nuisance. They are a threat to the safety of all survivors. Put them out of their misery.",
+        "Bounty: Kill 50 Civilian Infected. The infected are more than a nuisance. They are a threat to the safety of all survivors. Put them out of their misery.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 25 Infected with Head Shots. Reward: $250!",
+    "ObjectiveText": "Kill 50 Civilian Infected. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -62,7 +62,7 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 8,
+            "ID": 1,
             "ObjectiveType": 2
         }
     ],

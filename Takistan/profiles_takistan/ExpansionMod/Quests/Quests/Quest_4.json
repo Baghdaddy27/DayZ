@@ -2,14 +2,14 @@
     "ConfigVersion": 22,
     "ID": 4,
     "Type": 1,
-    "Title": "Osama Bin Lifting",
+    "Title": "Tutorial: Craft a Snare Trap",
     "Descriptions": [
-        "Well %1, you've done more than most. You have one last challenge and then you get the coveted Admin Hammer, which lets you build without nails, wood, or metal. Take this Hammer and defeat Osama Bin Lifting with it. Be careful! He hits really hard!",
-        "Well %1, you've done more than most. You have one last challenge and then you get the coveted Admin Hammer, which lets you build without nails, wood, or metal. Take this Hammer and defeat Osama Bin Lifting with it. Be careful! He hits really hard!",
+        "Ready for your next lesson, %1? Now that you have a camp, you need food. Craft a Snare Trap using a stick and metal wire. Place the trap on the ground and apply bait to the slot. In about 30 minutes you will catch a small animal if you're lucky. For your bait: worms attract chickens, vegetables attract rabbits, and meat attracts foxes. Worms you can dig out of the ground, but you'll have to find everything else. I have an extra can of food for you when you are done. Make sure you pick up the trap after you craft it.",
+        "Ready for your next lesson, %1? Now that you have a camp, you need food. Craft a Snare Trap using a stick and metal wire. Place the trap on the ground and apply bait to the slot. In about 30 minutes you will catch a small animal if you're lucky. For your bait: worms attract chickens, vegetables attract rabbits, and meat attracts foxes. Worms you can dig out of the ground, but you'll have to find everything else. I have an extra can of food for you when you are done. Make sure you pick up the trap after you craft it.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill Osama Bin Lifting with a Hammer",
-    "FollowUpQuest": -1,
+    "ObjectiveText": "Craft a Snare Trap",
+    "FollowUpQuest": 5,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -19,24 +19,30 @@
     "ObjectSetFileName": "",
     "QuestItems": [
         {
-            "ClassName": "Hammer",
             "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "ClassName": "WoodenStick",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "MetalWire",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
         }
     ],
     "Rewards": [
         {
-            "ClassName": "ExpansionAdminHammer",
             "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "ClassName": "RabbitSnareTrap",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "TacticalBaconCan_Opened",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
         }
     ],
     "NeedToSelectReward": 0,
@@ -45,21 +51,21 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        5
     ],
     "QuestTurnInIDs": [
-        2
+        5
     ],
-    "IsAchievement": 1,
+    "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 5,
-            "ObjectiveType": 8
+            "ID": 2,
+            "ObjectiveType": 11
         }
     ],
     "QuestColor": -1,
-    "ReputationReward": 100,
+    "ReputationReward": 0,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         3
@@ -67,8 +73,8 @@
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 1,
-    "SequentialObjectives": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

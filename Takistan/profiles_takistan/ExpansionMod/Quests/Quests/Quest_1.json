@@ -5,10 +5,10 @@
     "Title": "Welcome to Takistan",
     "Descriptions": [
         "Welcome to Takistan, %1! There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
-        "Welcome to Takistan, %1! There are a group of survivors nears the town of Qarma. They have a makeshift market and supplies. Head there and meet with them.",
-        "What's up, %1?"
+        "Salam. I'm Captain Hassan. Your name is, %1? Welcome to Takistan... It used to be in better shape. I'd like to change that. I have jobs for a freelancer like you. If you're interested.",
+        "Salam. I'm Captain Hassan. Your name is, %1? Welcome to Takistan... It used to be in better shape. I'd like to change that. I have jobs for a freelancer like you. If you're interested."
     ],
-    "ObjectiveText": "Travel to the Black Market near Qarma",
+    "ObjectiveText": "Travel to the Black Market",
     "FollowUpQuest": 2,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -54,7 +54,7 @@
     "RewardBehavior": 0,
     "QuestGiverIDs": [],
     "QuestTurnInIDs": [
-        2
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [

@@ -1,28 +1,28 @@
 {
     "ConfigVersion": 6,
-    "ID": 2,
-    "ClassName": "ExpansionQuestBoardSmall",
+    "ID": 6,
+    "ClassName": "ExpansionQuestNPCAILewis",
     "Position": [
-        6479.231934,
-        355.773773,
-        6015.591309
+        6626.45,
+        294.002,
+        7036.7
     ],
     "Orientation": [
-        -135,
+        -144,
         0,
         0
     ],
-    "NPCName": "Quest Board",
-    "DefaultNPCText": "There is nothing to do here for you...",
+    "NPCName": "Doctor Franco",
+    "DefaultNPCText": "I've either made a breakthrough on cloaking myself from the infected, or I'm infected and about to turn! Its exciting!",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "",
+    "NPCLoadoutFile": "QuestNPC5Loadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 1,
+    "NPCType": 2,
     "Active": 1
 }

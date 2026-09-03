@@ -2,31 +2,31 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 6,
-    "ObjectiveText": "Collect your Punch Cards",
-    "TimeLimit": -1,
+    "ObjectiveText": "Collect your Weekly Resupply",
+    "TimeLimit": 180,
     "Active": 0,
     "ShowDistance": 1,
-    "ContainerName": "StaticObj_Misc_PostBox1",
+    "ContainerName": "bldr_prop_AmmoBox",
     "DigInStash": 0,
-    "MarkerName": "Mail Box",
+    "MarkerName": "Ammo Box",
     "MarkerVisibility": 6,
     "Positions": [
         [
-            8004.59,
-            5.11769,
-            2825.15
+            6476.547,
+            355.603,
+            6015.199
         ]
     ],
     "LootItemsAmount": 1,
-    "MaxDistance": 10.0,
+    "MaxDistance": 10,
     "Loot": [
         {
-            "Name": "PunchedCard",
-            "Chance": 1.0,
+            "Name": "ExpansionBanknoteHryvnia",
+            "Chance": 250,
             "Attachments": [],
             "QuantityPercent": -1,
-            "Max": 2,
-            "Min": 2,
+            "Max": 1,
+            "Min": 1,
             "Variants": []
         }
     ]

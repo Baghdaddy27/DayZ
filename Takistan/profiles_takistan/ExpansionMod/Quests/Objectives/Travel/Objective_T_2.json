@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Scout from the tower",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6480.292,
+        395.331,
+        5928.669
+    ],
+    "MaxDistance": 1,
+    "MarkerName": "Scouting Point",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

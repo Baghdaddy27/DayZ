@@ -62,7 +62,7 @@ class CustomMission: MissionServer
 			// min time between events, max time between events, max number of events at the same time
 			m_EventManager.Run( 3600, 7200, 1 );
 			// registering events and their probability
-			m_EventManager.RegisterEvent( Sandstorm, 1.0 );
+			m_EventManager.RegisterEvent( Sandstorm, 0.70 );
 		}
 	}
 

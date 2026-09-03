@@ -24,7 +24,7 @@
     "GroupQuestMode": 2,
     "AchievementCompletedTitle": "Achievement \"%1\" completed!",
     "AchievementCompletedText": "%1",
-    "WeeklyResetDay": "Sunday",
+    "WeeklyResetDay": "Tuesday",
     "WeeklyResetMinute": 0,
     "WeeklyResetHour": 3,
     "DailyResetHour": 3,

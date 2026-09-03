@@ -2,34 +2,25 @@
     "ConfigVersion": 22,
     "ID": 17,
     "Type": 1,
-    "Title": "Group: Eliminate Takistan National Guard [TNG]",
+    "Title": "Daily: Kill 25 Infected with a Crowbar",
     "Descriptions": [
-        "Up to dealing with Traitors, %1? The Takistan National Guard [TNG] have gone rogue and might be behind the outbreak here in Takistan. Go find their base of operations in the mountains and eliminate them all.",
-        "Up to dealing with Traitors, %1? The Takistan National Guard [TNG] have gone rogue and might be behind the outbreak here in Takistan. Go find their base of operations in the mountains and eliminate them all.",
+        "Kill 25 Infected with a Crowbar. Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life, and a G man, or some shit. I tuned him out, but took the bounty flyer. It doesn't make sense to me, but its money if you want it.",
+        "Kill 25 Infected with a Crowbar. Hey, %1! Someone named Gordan Freeman left a bounty to kill 25 Infected with a Crowbar. He said something about a half-life, and a G man, or some shit. I tuned him out, but took the bounty flyer. It doesn't make sense to me, but its money if you want it.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate the TNG. Reward: Random!",
+    "ObjectiveText": "Kill 25 Infected with a Crowbar. Reward: $250!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
     "Autocomplete": 1,
-    "IsGroupQuest": 1,
+    "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionBanknoteEuro",
             "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
@@ -44,48 +35,39 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1
+            "Chance": 0.35
         },
         {
-            "ClassName": "ExpansionGoldBar",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteEURO",
+            "Amount": 250,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1
-        },
-        {
-            "ClassName": "ExpansionSilverBar",
-            "Amount": 1,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "Chance": 0.25
         }
     ],
     "NeedToSelectReward": 0,
     "RandomReward": 1,
     "RandomRewardAmount": 1,
-    "RewardsForGroupOwnerOnly": 0,
+    "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 4,
-            "ObjectiveType": 8
+            "ID": 13,
+            "ObjectiveType": 2
         }
     ],
-    "QuestColor": -65536,
-    "ReputationReward": 200,
+    "QuestColor": -10496,
+    "ReputationReward": 100,
     "ReputationRequirement": -1,
     "PreQuestIDs": [],
     "RequiredFaction": "",

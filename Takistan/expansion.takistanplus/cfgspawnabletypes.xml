@@ -1320,11 +1320,17 @@
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
+
 	<!--START OF ZOMBIES  -->
 	<!--NBC-->
 	<type name="ZmbM_Mummy">
-		<cargo preset="ContaminatedCargo" />
-		<cargo preset="foodHermit" />
+		<cargo preset="toolsMedic" />
+		<cargo preset="ammoPolice" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo chance="0.03">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
 	</type>
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
@@ -1338,6 +1344,7 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
+
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />

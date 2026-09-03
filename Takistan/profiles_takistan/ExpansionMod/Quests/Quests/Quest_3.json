@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 3,
     "Type": 1,
-    "Title": "Live off the Land",
+    "Title": "Tutorial: Craft a Territory Flag Kit",
     "Descriptions": [
-        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. Make sure the pick up the Chicken to complete the quest!",
-        "Ready for your last lesson, %1? Now that you have a camp, you need food. Craft a snare using a stick and metal wire. Bait it with a worm. If you're lucky, in about 30 minutes you should catch a Chicken. Make sure the pick up the Chicken to complete the quest!",
+        "Listen closely, %1. We don't have enough beds for everyone here, so you will have to setup camp 1000M away in any direction. Craft a Territory Flag Kit. It will let you setup either a Flag or Territory. A flag protects your items from dewspan, but a territory allows you to respawn directly on the flag. The territory flag also gives you access to the virtual garage. Craft the flag kit and pick it up. Come back to me when you are done. I have an extra tent for you. It will protect you from the sand storms.",
+        "Listen closely, %1. We don't have enough beds for everyone here, so you will have to setup camp 1000M away in any direction. Craft a Territory Flag Kit. It will let you setup either a Flag or Territory. A flag protects your items from dewspan, but a territory allows you to respawn directly on the flag. The territory flag also gives you access to the virtual garage. Craft the flag kit and pick it up. Come back to me when you are done. I have an extra tent for you. It will protect you from the sand storms.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Craft a Snare Trap",
+    "ObjectiveText": "Craft a Territory Flag Kit",
     "FollowUpQuest": 4,
     "Repeatable": 0,
     "IsDailyQuest": 0,
@@ -19,24 +19,42 @@
     "ObjectSetFileName": "",
     "QuestItems": [
         {
+            "ClassName": "Rope",
             "Amount": 1,
-            "ClassName": "WoodenStick",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
         },
         {
-            "Amount": 1,
-            "ClassName": "MetalWire",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "ClassName": "WoodenStick",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
         }
     ],
     "Rewards": [
         {
+            "ClassName": "TerritoryFlagKit",
             "Amount": 1,
-            "ClassName": "RabbitSnareTrap",
-            "QuantityPercent": -1,
-            "MinQuantityPercent": -1
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ExpansionCamoTentKit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
@@ -45,21 +63,21 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        5
     ],
     "QuestTurnInIDs": [
-        2
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
+            "ID": 1,
             "ObjectiveType": 11
         }
     ],
     "QuestColor": -1,
-    "ReputationReward": 0,
+    "ReputationReward": 100,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
         2
@@ -67,8 +85,8 @@
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 0,
-    "SequentialObjectives": 0,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

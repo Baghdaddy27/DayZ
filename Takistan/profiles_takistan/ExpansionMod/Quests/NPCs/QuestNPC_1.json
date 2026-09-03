@@ -3,22 +3,22 @@
     "ID": 1,
     "ClassName": "ExpansionQuestNPCAIMaria",
     "Position": [
-        6476.064941,
-        354.636688,
-        6015.244141
+        6477.461426,
+        354.53598,
+        6019.940918
     ],
     "Orientation": [
-        -144.00,
-        0.0,
-        0.0
+        -144,
+        0,
+        0
     ],
-    "NPCName": "LT. McKnight",
+    "NPCName": "LCPL. McKnight",
     "DefaultNPCText": "Hmm?",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
     "NPCLoadoutFile": "QuestNPC3Loadout",
-    "NPCInteractionEmoteID": 1,
+    "NPCInteractionEmoteID": 44,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,

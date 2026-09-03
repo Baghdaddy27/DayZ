@@ -2,77 +2,71 @@
     "ConfigVersion": 22,
     "ID": 7,
     "Type": 1,
-    "Title": "Daily: Kill 10 Shamans / TNG",
+    "Title": "Tutorial: Getting Hammered",
     "Descriptions": [
-        "Bounty: Kill 10 Shamans / TNG. They wear NBC suites or Black, Red, and Orange Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
-        "Bounty: Kill 10 Shamans / TNG. They wear NBC suites or Black, Red, and Orange Armbands. Be careful! The Infected and Wildlife have been seen helping them!",
+        "Well %1, you've done more than most freelancers, but I have another mission for you. There is a man named Drew, who some people have started calling 'The Hammer', because of his absurd punch strength. He leads a group called the Brawlers, which have been beating our volunteers to near death with their fists. I want you to teach him and those like him a lesson. Beat him down with this hammer, and then I have a special gift. An Admin Hammer! It lets you build base structures without needing nails, wood, or metal. Oh, but be careful. His reputation is warranted.",
+        "Well %1, you've done more than most freelancers, but I have another mission for you. There is a man named Drew, who some people have started calling 'The Hammer', because of his absurd punch strength. He leads a group called the Brawlers, which have been beating our volunteers to near death with their fists. I want you to teach him and those like him a lesson. Beat him down with this hammer, and then I have a special gift. An Admin Hammer! It lets you build base structures without needing nails, wood, or metal. Oh, but be careful. His reputation is warranted.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Kill 10 Shamans. Reward: $250!",
-    "FollowUpQuest": -1,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
+    "ObjectiveText": "Kill Drew with a Hammer",
+    "FollowUpQuest": 23,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
-    "QuestItems": [],
-    "Rewards": [
+    "QuestItems": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 250,
+            "ClassName": "Hammer",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1
-        },
+        }
+    ],
+    "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteUSD",
-            "Amount": 250,
+            "ClassName": "ExpansionAdminHammer",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 0.35
-        },
-        {
-            "ClassName": "ExpansionBanknoteEURO",
-            "Amount": 250,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.25
+            "Chance": 1
         }
     ],
     "NeedToSelectReward": 0,
-    "RandomReward": 1,
-    "RandomRewardAmount": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        1
+        5
     ],
     "QuestTurnInIDs": [
-        1
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 5,
-            "ObjectiveType": 2
+            "ID": 6,
+            "ObjectiveType": 8
         }
     ],
-    "QuestColor": -10496,
+    "QuestColor": -1,
     "ReputationReward": 100,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        6
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
