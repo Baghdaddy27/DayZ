@@ -380,8 +380,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "mag__cmag_40rnd_green",
-                "mag__cmag_40rnd_black"
+                "mag_cmag_40rnd_green",
+                "mag_cmag_40rnd_black"
             ]
         },
         {

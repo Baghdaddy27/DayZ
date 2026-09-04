@@ -12,7 +12,18 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v6
-      
+
+      - name: 🎲 Select random market directory
+        id: select-dir
+        run: |
+          DIRS=("./Automation/High/" "./Automation/Medium/" "./Automation/Low/")
+          NAMES=("High Stock" "Medium Stock" "Low Stock")
+          
+          INDEX=$(( RANDOM % ${#DIRS[@]} ))
+          
+          echo "selected_dir=${DIRS[$INDEX]}" >> $GITHUB_OUTPUT
+          echo "selected_name=${NAMES[$INDEX]}" >> $GITHUB_OUTPUT
+
       - name: 📂 Sync files to Zap
         uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
@@ -21,14 +32,15 @@ jobs:
           password: ${{ secrets.ZAP_FTP_PASS }}
           port: 21
           protocol: ftp
-          local-dir: ./Automation/
+          local-dir: ${{ steps.select-dir.outputs.selected_dir }}
           server-dir: /g690188/dayz-experimental/mpmissions/expansion.takistanplus/expansion/traderzones/
 
       - name: 📢 Notify Discord
         if: success()
         run: |
           NOW=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          STOCK="${{ steps.select-dir.outputs.selected_name }}"
           curl -H "Content-Type: application/json" \
                -X POST \
-               -d "{\"content\": \"Market Updated: $NOW\"}" \
+               -d "{\"content\": \"Market Updated with $STOCK: $NOW\"}" \
                ${{ secrets.DISCORD_WEBHOOK }}
