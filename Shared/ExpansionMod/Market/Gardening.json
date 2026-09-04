@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "gardenlime",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "antipestsspray",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "zucchiniseedspack",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
@@ -107,8 +107,8 @@
         },
         {
             "ClassName": "pumpkinseedspack",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,

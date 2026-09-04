@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "platecarrierholster",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 85,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -37,7 +37,7 @@
         {
             "ClassName": "platecarrierpouches",
             "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

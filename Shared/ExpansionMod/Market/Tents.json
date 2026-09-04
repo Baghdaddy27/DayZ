@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "partytent",
-            "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 2600,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "mediumtent",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -37,8 +37,8 @@
         },
         {
             "ClassName": "largetent",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 6000,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 2800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -48,8 +48,8 @@
         },
         {
             "ClassName": "cartent",
-            "MaxPriceThreshold": 14000,
-            "MinPriceThreshold": 7000,
+            "MaxPriceThreshold": 3600,
+            "MinPriceThreshold": 3400,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -59,8 +59,8 @@
         },
         {
             "ClassName": "expansioncamotentkit",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2400,
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -70,8 +70,8 @@
         },
         {
             "ClassName": "expansioncamoboxkit",
-            "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 2600,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

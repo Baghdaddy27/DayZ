@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mp5_plastichndgrd",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "mp5_railhndgrd",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 150,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -44,7 +44,7 @@
         {
             "ClassName": "ak_railhndgrd",
             "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "ak_plastichndgrd",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -83,7 +83,7 @@
         {
             "ClassName": "m4_rishndgrd",
             "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

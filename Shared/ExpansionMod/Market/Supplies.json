@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "paper",
-            "MaxPriceThreshold": 5,
+            "MaxPriceThreshold": 10,
             "MinPriceThreshold": 5,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

@@ -191,7 +191,7 @@
         {
             "ClassName": "mich2001helmet",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -215,7 +215,7 @@
         {
             "ClassName": "gorkahelmet",
             "MaxPriceThreshold": 580,
-            "MinPriceThreshold": 340,
+            "MinPriceThreshold": 420,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -229,8 +229,8 @@
         },
         {
             "ClassName": "ssh68helmet",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -240,7 +240,7 @@
         },
         {
             "ClassName": "ballistichelmet_woodland",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

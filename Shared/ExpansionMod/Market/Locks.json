@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "combinationlock",
-            "MaxPriceThreshold": 1400,
+            "MaxPriceThreshold": 500,
             "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "combinationlock4",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "expansioncodelock",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

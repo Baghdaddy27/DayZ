@@ -126,8 +126,8 @@
         },
         {
             "ClassName": "expansionhydraulicfluid",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 470,
+            "MinPriceThreshold": 380,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

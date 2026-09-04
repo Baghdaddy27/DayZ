@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "tshirt_blue",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -27,23 +27,6 @@
                 "chernarussportshirt",
                 "expansiontee",
                 "tshirt_white"
-            ]
-        },
-        {
-            "ClassName": "shirt_bluecheck",
-            "MaxPriceThreshold": 32,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "shirt_bluecheckbright",
-                "shirt_redcheck",
-                "shirt_whitecheck",
-                "shirt_planeblack",
-                "shirt_greencheck"
             ]
         },
         {
@@ -73,8 +56,8 @@
         },
         {
             "ClassName": "tacticalshirt_grey",
-            "MaxPriceThreshold": 72,
-            "MinPriceThreshold": 36,
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "bags_olga_blue",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "bags_olga_cc",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "bags_olga_erdl",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "bags_olga_green",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -120,8 +120,8 @@
         },
         {
             "ClassName": "bags_olga_orange",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -148,8 +148,8 @@
         },
         {
             "ClassName": "bags_olga_pink",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -176,8 +176,8 @@
         },
         {
             "ClassName": "bags_olga_teal",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -204,8 +204,8 @@
         },
         {
             "ClassName": "bags_olga_urb",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -232,8 +232,8 @@
         },
         {
             "ClassName": "bags_olga_yellow",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

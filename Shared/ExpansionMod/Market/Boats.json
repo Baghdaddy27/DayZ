@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "expansionutilityboat",
-            "MaxPriceThreshold": 44000,
-            "MinPriceThreshold": 22000,
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -22,8 +22,8 @@
         },
         {
             "ClassName": "Boat_01_Black",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 12000,
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "Bags_BallisticHelmet_ACU",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_CAN",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_CC",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_CCI",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_CHN",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_DCU",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_DST",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_Digi",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_EGT",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_FLK",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_Multicam",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_MulticamG",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_MulticamB",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_NK",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_OP4",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -173,7 +173,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_Pink",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -184,7 +184,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_TGR",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -195,7 +195,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_TRK",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -206,7 +206,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_RUS",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -217,7 +217,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_SAF",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -228,7 +228,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_SWD",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -239,7 +239,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_UKR",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -250,7 +250,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_URB",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -261,7 +261,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_USN",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -272,7 +272,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_USN2",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -283,7 +283,7 @@
         },
         {
             "ClassName": "Bags_BallisticHelmet_WW2",
-            "MaxPriceThreshold": 500,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "sewingkit",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "weaponcleaningkit",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -53,7 +53,7 @@
                 {
             "ClassName": "expansionhescokit",
             "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 200,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
         {
             "ClassName": "ExpansionBarbedWireKit",
             "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 200,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

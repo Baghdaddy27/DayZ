@@ -1,86 +1,82 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+    "DisplayName": "NUCLEAR BIOLOGICAL CHEMICAL (NBC)",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
         {
-            "ClassName": "ghilliehood_tan",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 600,
+            "ClassName": "nbcpantsgray",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliehood_woodland",
-                "ghilliehood_winter",
-                "ghilliehood_mossy"
+                "nbcpantsyellow",
+                "nbcpantserdl",
+                "nbcpantswhite"
             ]
         },
         {
-            "ClassName": "ghilliebushrag_tan",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 500,
+            "ClassName": "nbcjacketgray",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliebushrag_woodland",
-                "ghilliebushrag_winter",
-                "ghilliebushrag_mossy"
+                "nbcjacketyellow",
+                "nbcjacketerdl",
+                "nbcjacketwhite"
             ]
         },
         {
-            "ClassName": "ghillietop_tan",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 700,
+            "ClassName": "nbcglovesgray",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghillietop_woodland",
-                "ghillietop_winter",
-                "ghillietop_mossy"
+                "nbcglovesyellow"
             ]
         },
         {
-            "ClassName": "ghilliesuit_tan",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1000,
+            "ClassName": "nbchoodgray",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghilliesuit_woodland",
-                "ghilliesuit_winter",
-                "ghilliesuit_mossy",
-                "Bags_GhillieSuit_Arid"
+                "nbchoodyellow",
+                "nbchooderdl",
+                "nbchoodwhite"
             ]
         },
         {
-            "ClassName": "ghillieatt_tan",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 300,
+            "ClassName": "nbcbootsgray",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "ghillieatt_woodland",
-                "ghillieatt_winter",
-                "ghillieatt_mossy",
-                "Bags_GhillieAtt_Arid"
+                "nbcbootsyellow",
+                "nbcbootswhite",
+                "nbcbootserdl"
             ]
         }
     ]

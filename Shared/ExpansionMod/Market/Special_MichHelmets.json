@@ -9,7 +9,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_ACU",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_BLK",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_CAN",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_CC",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -53,7 +53,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_CCI",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_CHN",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -75,7 +75,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_DCU",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -86,7 +86,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_DST",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -97,7 +97,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_Digi",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -108,7 +108,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_EGT",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -119,7 +119,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_FLK",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -130,7 +130,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_Multicam",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -141,7 +141,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_MulticamG",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -152,7 +152,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_MulticamB",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -163,7 +163,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_NK",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -174,7 +174,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_OP4",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -185,7 +185,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_Pink",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -196,7 +196,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_TGR",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -207,7 +207,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_TRK",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -218,7 +218,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_RUS",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -229,7 +229,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_SAF",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -240,7 +240,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_SWD",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -251,7 +251,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_UKR",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -262,7 +262,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_URB",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -273,7 +273,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_USN",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -284,7 +284,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_USN2",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -295,7 +295,7 @@
         {
             "ClassName": "Bags_Mich2001Helmet_WW2",
             "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 420,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

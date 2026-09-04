@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "mp133shotgun",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 550,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -31,8 +31,8 @@
         },
         {
             "ClassName": "izh43shotgun",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -54,8 +54,8 @@
         },
         {
             "ClassName": "sawedoffizh43shotgun",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -76,7 +76,7 @@
         },
         {
             "ClassName": "izh18shotgun",
-            "MaxPriceThreshold": 700,
+            "MaxPriceThreshold": 450,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -87,8 +87,8 @@
         },
         {
             "ClassName": "sawedoffizh18shotgun",
-            "MaxPriceThreshold": 700,
-            "MinPriceThreshold": 350,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -98,8 +98,8 @@
         },
         {
             "ClassName": "saiga",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -112,8 +112,8 @@
         },
         {
             "ClassName": "r12",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -123,8 +123,8 @@
         },
         {
             "ClassName": "expansion_benellim4",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 900,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -134,8 +134,8 @@
         },
         {
             "ClassName": "expansion_dt11",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 525,
+            "MinPriceThreshold": 425,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

@@ -323,8 +323,8 @@
         },
         {
             "ClassName": "m65jacket_black",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 110,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 180,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -338,8 +338,8 @@
         },
         {
             "ClassName": "gorkaejacket_summer",
-            "MaxPriceThreshold": 260,
-            "MinPriceThreshold": 130,
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 140,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -350,21 +350,6 @@
                 "gorkaejacket_autumn",
                 "gorkaejacket_pautrev",
                 "gorkaejacket_winter"
-            ]
-        },
-        {
-            "ClassName": "nbcjacketgray",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 280,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "nbcjacketyellow",
-                "nbcjacketerdl",
-                "nbcjacketwhite"
             ]
         },
         {

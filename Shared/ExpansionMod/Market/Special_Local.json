@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Bags_Shemag_Kufiya",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -27,8 +27,8 @@
         },
         {
             "ClassName": "pakol_hat",
-            "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -73,8 +73,8 @@
         },
         {
             "ClassName": "MVS_Kurta2_1",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "MVS_Kurta3_1",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 50,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

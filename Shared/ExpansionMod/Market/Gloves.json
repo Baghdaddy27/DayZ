@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "workinggloves_yellow",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -38,8 +38,8 @@
         },
         {
             "ClassName": "tacticalgloves_black",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -53,7 +53,7 @@
         },
         {
             "ClassName": "omnogloves_gray",
-            "MaxPriceThreshold": 80,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -65,23 +65,9 @@
             ]
         },
         {
-            "ClassName": "nbcglovesgray",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "nbcglovesyellow"
-
-            ]
-        },
-        {
             "ClassName": "woolgloves_green",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -95,8 +81,8 @@
         },
         {
             "ClassName": "woolglovesfingerless_green",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -110,8 +96,8 @@
         },
         {
             "ClassName": "skigloves_blue",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 90,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

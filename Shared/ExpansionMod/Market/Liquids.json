@@ -43,8 +43,8 @@
         },
         {
             "ClassName": "truckbattery",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 580,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 480,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -54,8 +54,8 @@
         },
         {
             "ClassName": "carradiator",
-            "MaxPriceThreshold": 550,
-            "MinPriceThreshold": 520,
+            "MaxPriceThreshold": 625,
+            "MinPriceThreshold": 525,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -65,8 +65,8 @@
         },
         {
             "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 380,
+            "MaxPriceThreshold": 370,
+            "MinPriceThreshold": 270,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -98,8 +98,8 @@
         },
         {
             "ClassName": "expansioncarkey",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 280,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

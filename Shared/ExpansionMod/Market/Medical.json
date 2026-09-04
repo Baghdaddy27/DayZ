@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "charcoaltablets",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "bandagedressing",
-            "MaxPriceThreshold": 45,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "disinfectantalcohol",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "chelatingtablets",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 48,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "vitaminbottle",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "disinfectantspray",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 27,
+            "MinPriceThreshold": 37,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -107,8 +107,8 @@
         },
         {
             "ClassName": "tetracyclineantibiotics",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "painkillertablets",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 32,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -206,8 +206,8 @@
         },
         {
             "ClassName": "iodinetincture",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

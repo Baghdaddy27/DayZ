@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "expansionuaz",
-            "MaxPriceThreshold": 60000,
+            "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 30000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -38,7 +38,7 @@
         },
         {
             "ClassName": "expansionvodnik",
-            "MaxPriceThreshold": 200000,
+            "MaxPriceThreshold": 150000,
             "MinPriceThreshold": 100000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -59,7 +59,7 @@
         },
         {
             "ClassName": "expansion_landrover",
-            "MaxPriceThreshold": 180000,
+            "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 70000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "expansiontractor",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 19000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -114,8 +114,8 @@
         },
         {
             "ClassName": "expansionbus",
-            "MaxPriceThreshold": 180000,
-            "MinPriceThreshold": 70000,
+            "MaxPriceThreshold": 70000,
+            "MinPriceThreshold": 50000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

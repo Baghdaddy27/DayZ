@@ -203,21 +203,7 @@
                 "militaryboots_brown"
             ]
         },
-        {
-            "ClassName": "nbcbootsgray",
-            "MaxPriceThreshold": 320,
-            "MinPriceThreshold": 180,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "nbcbootsyellow",
-                "nbcbootswhite",
-                "nbcbootserdl"
-            ]
-        },
+
         {
             "ClassName": "coldoperationboots_camo",
             "MaxPriceThreshold": 300,

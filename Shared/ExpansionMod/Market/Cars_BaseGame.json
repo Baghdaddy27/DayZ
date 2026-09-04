@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "civiliansedan",
-            "MaxPriceThreshold": 40000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "hatchback_02",
-            "MaxPriceThreshold": 32000,
-            "MinPriceThreshold": 16000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "sedan_02",
-            "MaxPriceThreshold": 36000,
-            "MinPriceThreshold": 18000,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 15000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -93,7 +93,7 @@
         {
             "ClassName": "offroadhatchback",
             "MaxPriceThreshold": 28000,
-            "MinPriceThreshold": 14000,
+            "MinPriceThreshold": 18000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "offroad_02",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 40000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -145,8 +145,8 @@
         },
         {
             "ClassName": "truck_01_covered",
-            "MaxPriceThreshold": 100000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 90000,
+            "MinPriceThreshold": 70000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

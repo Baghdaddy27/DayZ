@@ -33,8 +33,8 @@
         },
         {
             "ClassName": "asval",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 3400,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -46,7 +46,7 @@
         },
         {
             "ClassName": "ssg82",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 650,
             "MinPriceThreshold": 450,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -59,8 +59,8 @@
         },
         {
             "ClassName": "scout",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 2100,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "sv98",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -117,7 +117,7 @@
         {
             "ClassName": "expansion_m1a",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -134,7 +134,7 @@
         {
             "ClassName": "M14",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "cz61",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 700,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -32,7 +32,7 @@
         },
         {
             "ClassName": "PM73Rak",
-            "MaxPriceThreshold": 1400,
+            "MaxPriceThreshold": 900,
             "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -46,8 +46,8 @@
         },
         {
             "ClassName": "ump45",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -72,7 +72,7 @@
         {
             "ClassName": "vikhr",
             "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 800,
+            "MinPriceThreshold": 1400,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -84,8 +84,8 @@
         },
         {
             "ClassName": "mp5k",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -111,8 +111,8 @@
         },
         {
             "ClassName": "aks74u",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1350,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -137,8 +137,8 @@
         },
         {
             "ClassName": "pp19",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 975,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -151,8 +151,8 @@
         },
         {
             "ClassName": "expansion_kedr",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 700,
+            "MaxPriceThreshold": 950,
+            "MinPriceThreshold": 750,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -165,7 +165,7 @@
         {
             "ClassName": "expansion_mpx",
             "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 900,
+            "MinPriceThreshold": 1600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -177,8 +177,8 @@
         },
         {
             "ClassName": "expansion_mp5",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -190,8 +190,8 @@
         },
         {
             "ClassName": "expansion_mp5sd",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 1300,
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -203,8 +203,8 @@
         },
         {
             "ClassName": "expansion_mp7",
-            "MaxPriceThreshold": 2400,
-            "MinPriceThreshold": 1200,
+            "MaxPriceThreshold": 1050,
+            "MinPriceThreshold": 920,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -216,8 +216,8 @@
         },
         {
             "ClassName": "expansion_vityazsn",
-            "MaxPriceThreshold": 2800,
-            "MinPriceThreshold": 1400,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

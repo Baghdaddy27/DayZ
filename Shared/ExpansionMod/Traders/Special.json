@@ -17,7 +17,8 @@
         "Electronics",
         "Lights",
         "Explosives_And_Grenades",
-        "Launchers"
+        "Launchers",
+        "Special_NBC"
     ],
     "Items": {
         "battery9v": 1,
