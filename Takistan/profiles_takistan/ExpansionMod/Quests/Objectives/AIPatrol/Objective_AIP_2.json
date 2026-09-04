@@ -12,7 +12,7 @@
     "AISpawn": {
         "Name": "Takistani Officer",
         "Persist": 1,
-        "Faction": "Shaman",
+        "Faction": "Shamans",
         "Formation": "RANDOM",
         "FormationLooseness": 0,
         "Loadout": "TNGOfficerLoadout",
