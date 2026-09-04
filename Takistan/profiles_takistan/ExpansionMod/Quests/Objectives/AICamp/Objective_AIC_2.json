@@ -144,12 +144,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2738.739014,
-                    581.059143,
-                    2126.247314
+                    2748.956787,
+                    581.109314,
+                    2152.035156
+                ],
+                [
+                    2746.242188,
+                    581.356689,
+                    2161.026611
                 ]
             ]
         },
@@ -215,12 +220,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2739.043213,
-                    581.460083,
-                    2122.84668
+                    2749.304688,
+                    582.447571,
+                    2112.020752
+                ],
+                [
+                    2725.969971,
+                    590.172729,
+                    2117.697021
                 ]
             ]
         },
@@ -289,14 +299,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2749.455078,
-                    582.477539,
-                    2111.848389
+                    2758.601807,
+                    580.441833,
+                    2130.663086
                 ],
                 [
-                    2727.663086,
-                    588.47998,
-                    2116.827881
+                    2747.579346,
+                    580.854919,
+                    2123.084229
                 ]
             ]
         },
@@ -365,14 +375,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2751.047119,
-                    580.677002,
-                    2177.687744
+                    2742.698975,
+                    580.457092,
+                    2135.716064
                 ],
                 [
-                    2745.93335,
-                    581.399353,
-                    2160.960693
+                    2731.948975,
+                    585.614075,
+                    2135.19751
                 ]
             ]
         },
@@ -417,7 +427,7 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
+            "Behaviour": "HALT",
             "Speed": "WALK",
             "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
@@ -441,24 +451,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2731.942627,
-                    583.950867,
-                    2116.55127
+                    2757.769531,
+                    580.289429,
+                    2147.414063
                 ],
                 [
-                    2743.59668,
-                    581.969727,
-                    2117.939209
+                    2746.994873,
+                    580.239014,
+                    2132.059082
                 ]
             ]
         },
         {
-            "Name": "Shadow Company Mercenary",
+            "Name": "Shadow Company Scout",
             "Persist": 0,
             "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "SpecOpsAridLoadout",
+            "Loadout": "SpecOpsSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -495,13 +505,13 @@
             "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
-            "UnderThreatSpeed": "STATIC",
+            "UnderThreatSpeed": "JOG",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
             "AccuracyMin": 0.55,
             "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
+            "ThreatDistanceLimit": 300,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
             "DamageReceivedMultiplier": 0.7,
@@ -517,24 +527,24 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2748.824707,
-                    581.083008,
-                    2151.286377
+                    2783.168945,
+                    612.052673,
+                    2058.639404
                 ],
                 [
-                    2738.628418,
-                    584.02887,
-                    2153.175293
+                    2697.444824,
+                    598.75885,
+                    2145.612793
                 ]
             ]
         },
         {
-            "Name": "Shadow Company Mercenary",
+            "Name": "Shadow Company Scout",
             "Persist": 0,
             "Faction": "East",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "SpecOpsAridLoadout",
+            "Loadout": "SpecOpsSniperLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -571,13 +581,13 @@
             "NumberOfAI": 1,
             "Behaviour": "HALT_OR_ALTERNATE",
             "Speed": "WALK",
-            "UnderThreatSpeed": "RANDOM",
+            "UnderThreatSpeed": "JOG",
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 400,
             "AccuracyMin": 0.55,
             "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
+            "ThreatDistanceLimit": 300,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
             "DamageReceivedMultiplier": 0.7,
@@ -593,14 +603,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2741.331543,
-                    580.786011,
-                    2127.845703
+                    2864.73291,
+                    598.315735,
+                    2218.075195
                 ],
                 [
-                    2758.846436,
-                    580.480042,
-                    2130.45459
+                    2756.238037,
+                    579.620361,
+                    2172.825439
+                ],
+                [
+                    2820.091309,
+                    586.792053,
+                    2192.812988
                 ]
             ]
         }

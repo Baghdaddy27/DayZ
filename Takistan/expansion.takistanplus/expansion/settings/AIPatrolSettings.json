@@ -175,7 +175,7 @@
             "Waypoints": []
         },
         {
-            "Name": "Korvan Helicopter Pilot",
+            "Name": "Korvan Group Pilot",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
@@ -255,7 +255,7 @@
             "Waypoints": []
         },
         {
-            "Name": "Cultist Ambush",
+            "Name": "Cultist",
             "Persist": 0,
             "Faction": "Shamans",
             "Formation": "RANDOM",
@@ -421,7 +421,7 @@
             ]
         },
         {
-            "Name": "TNG Patrol",
+            "Name": "Takistani Guard Patrol",
             "Persist": 1,
             "Faction": "Shamans",
             "Formation": "RANDOM",

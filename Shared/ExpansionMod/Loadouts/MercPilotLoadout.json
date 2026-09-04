@@ -19,7 +19,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.4,
+                            "Min": 0.41,
                             "Max": 0.7,
                             "Zone": ""
                         }
@@ -41,7 +41,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [
                         {
                             "SlotName": "",
@@ -53,7 +59,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -80,7 +92,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.4,
+                            "Min": 0.41,
                             "Max": 0.7,
                             "Zone": ""
                         }
@@ -94,7 +106,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -107,7 +125,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -120,7 +144,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -133,7 +163,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -146,7 +182,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -159,7 +201,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -172,7 +220,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -185,7 +239,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -198,7 +258,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -211,7 +277,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -224,7 +296,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -237,7 +315,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -250,7 +334,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -263,7 +353,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -276,7 +372,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -289,7 +391,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -302,7 +410,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -315,7 +429,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -328,7 +448,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -341,7 +467,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -354,7 +486,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -367,7 +505,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -380,7 +524,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -393,7 +543,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -406,7 +562,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -419,7 +581,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -432,7 +600,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [],
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
@@ -456,7 +630,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.4,
+                            "Min": 0.41,
                             "Max": 0.7,
                             "Zone": ""
                         }
@@ -479,7 +653,13 @@
                 "Min": 0,
                 "Max": 0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.51,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [
                 {
                     "SlotName": "Headgear",
@@ -531,7 +711,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -564,7 +750,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -679,7 +871,13 @@
                 "Min": 0,
                 "Max": 0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.51,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [
                 {
                     "SlotName": "Shoulder",
@@ -709,7 +907,13 @@
                                                 "Min": 0,
                                                 "Max": 0
                                             },
-                                            "Health": [],
+                                            "Health": [
+                                                {
+                                                    "Min": 0.51,
+                                                    "Max": 0.7,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -722,7 +926,13 @@
                                                 "Min": 0,
                                                 "Max": 0
                                             },
-                                            "Health": [],
+                                            "Health": [
+                                                {
+                                                    "Min": 0.51,
+                                                    "Max": 0.7,
+                                                    "Zone": ""
+                                                }
+                                            ],
                                             "InventoryAttachments": [],
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
@@ -746,7 +956,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -759,7 +975,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -794,7 +1016,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "ClassName": "Mag_IJ70_8Rnd",
@@ -803,7 +1031,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -825,7 +1059,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -838,7 +1078,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -873,7 +1119,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "ClassName": "Mag_CZ75_15Rnd",
@@ -882,7 +1134,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -904,7 +1162,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -917,7 +1181,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -952,7 +1222,13 @@
                                 "Min": 0,
                                 "Max": 0
                             },
-                            "Health": [],
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
                             "InventoryAttachments": [
                                 {
                                     "ClassName": "Mag_PP19_64rnd",
@@ -961,7 +1237,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -974,7 +1256,13 @@
                                         "Min": 0,
                                         "Max": 0
                                     },
-                                    "Health": [],
+                                    "Health": [
+                                        {
+                                            "Min": 0.51,
+                                            "Max": 0.7,
+                                            "Zone": ""
+                                        }
+                                    ],
                                     "InventoryAttachments": [],
                                     "InventoryCargo": [],
                                     "ConstructionPartsBuilt": [],
@@ -996,7 +1284,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -1009,7 +1303,13 @@
                         "Min": 0,
                         "Max": 0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.41,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],

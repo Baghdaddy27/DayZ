@@ -144,12 +144,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    707.32196,
-                    546.372925,
-                    10959.575195
+                    706.665771,
+                    545.479126,
+                    10973.904297
+                ],
+                [
+                    712.07666,
+                    545.336731,
+                    10968.522461
                 ]
             ]
         },
@@ -215,12 +220,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    709.405945,
-                    545.998047,
-                    10960.851563
+                    729.759216,
+                    544.289429,
+                    10975.125
+                ],
+                [
+                    715.927673,
+                    544.708374,
+                    10984.083984
                 ]
             ]
         },
@@ -289,14 +299,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    728.799866,
-                    544.329468,
-                    10976.196289
+                    715.551392,
+                    544.683289,
+                    10992.416992
                 ],
                 [
-                    716.067322,
-                    544.7099,
-                    10984.268555
+                    719.001709,
+                    544.907898,
+                    10973.066406
                 ]
             ]
         },
@@ -365,90 +375,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    699.929016,
-                    547.73175,
-                    10961.000977
+                    728.042664,
+                    544.681152,
+                    10987.582031
                 ],
                 [
-                    713.307495,
-                    546.190674,
-                    10958.418945
-                ]
-            ]
-        },
-        {
-            "Name": "Blackridge Mercenary",
-            "Persist": 0,
-            "Faction": "West",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "STATIC",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 400,
-            "AccuracyMin": 0.55,
-            "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 0.7,
-            "MinDistRadius": 1,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    730.122253,
-                    544.22998,
-                    10979.782227
-                ],
-                [
-                    700.739807,
+                    701.01178,
                     545.48999,
-                    10979.074219
+                    10979.494141
                 ]
             ]
         },
@@ -493,7 +427,7 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
+            "Behaviour": "HALT",
             "Speed": "WALK",
             "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
@@ -517,24 +451,105 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    712.243591,
-                    545.304138,
-                    10969.236328
+                    727.903503,
+                    547.429626,
+                    10989.345703
                 ],
                 [
-                    723.359802,
-                    545.024231,
-                    10966.889648
+                    724.008606,
+                    544.765686,
+                    10967.428711
                 ]
             ]
         },
         {
-            "Name": "Blackridge Mercenary",
+            "Name": "Blackridge Pathfinder",
             "Persist": 0,
             "Faction": "West",
             "Formation": "RANDOM",
             "FormationLooseness": 0,
-            "Loadout": "ContractorLoadout",
+            "Loadout": "ContractorGrenLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 400,
+            "AccuracyMin": 0.55,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": 300,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 0.7,
+            "MinDistRadius": 1,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    916.205017,
+                    540.916016,
+                    10926.09082
+                ],
+                [
+                    787.606628,
+                    566.94696,
+                    10933.895508
+                ],
+                [
+                    848.406189,
+                    541.007141,
+                    10991.414063
+                ]
+            ]
+        },
+        {
+            "Name": "Blackridge Pathfinder",
+            "Persist": 0,
+            "Faction": "West",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "ContractorGrenLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
@@ -577,7 +592,7 @@
             "SniperProneDistanceThreshold": 400,
             "AccuracyMin": 0.55,
             "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
+            "ThreatDistanceLimit": 300,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
             "DamageReceivedMultiplier": 0.7,
@@ -593,14 +608,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    715.516113,
-                    544.684631,
-                    10991.853516
+                    656.580139,
+                    567.792053,
+                    11084.206055
                 ],
                 [
-                    727.707581,
-                    544.687256,
-                    10987.651367
+                    572.153198,
+                    645.064514,
+                    11009.864258
                 ]
             ]
         }

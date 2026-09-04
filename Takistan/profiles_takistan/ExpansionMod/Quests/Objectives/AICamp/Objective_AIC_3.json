@@ -144,12 +144,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7296.807129,
-                    515.792908,
-                    4041.842041
+                    7251.182129,
+                    507.197815,
+                    4070.32666
+                ],
+                [
+                    7254.042969,
+                    508.648468,
+                    4064.0
                 ]
             ]
         },
@@ -215,12 +220,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": 300,
             "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 0,
+            "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7294.53418,
-                    515.238708,
-                    4044.789551
+                    7262.82373,
+                    513.758972,
+                    4048.004883
+                ],
+                [
+                    7292.876953,
+                    515.117126,
+                    4043.674805
                 ]
             ]
         },
@@ -289,14 +299,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7291.696777,
-                    517.988525,
-                    4034.552734
+                    7277.372559,
+                    512.902649,
+                    4047.774414
                 ],
                 [
-                    7300.908203,
-                    516.868286,
-                    4048.075195
+                    7252.07959,
+                    513.042053,
+                    4047.139893
                 ]
             ]
         },
@@ -365,14 +375,14 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7251.688965,
-                    507.522186,
-                    4074.024902
+                    7273.772461,
+                    513.106873,
+                    4053.801514
                 ],
                 [
-                    7247.818359,
-                    507.002441,
-                    4066.498291
+                    7247.903809,
+                    506.961578,
+                    4066.731201
                 ]
             ]
         },
@@ -417,7 +427,7 @@
                 "eAI_SurvivorM_Taiki"
             ],
             "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
+            "Behaviour": "HALT",
             "Speed": "WALK",
             "UnderThreatSpeed": "STATIC",
             "CanBeLooted": 1,
@@ -441,95 +451,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7253.494141,
-                    508.759857,
-                    4063.212891
+                    7291.601074,
+                    515.614197,
+                    4048.827148
                 ],
                 [
-                    7253.021973,
-                    512.876038,
-                    4048.587402
+                    7306.763184,
+                    523.51947,
+                    4039.496826
                 ]
             ]
         },
         {
-            "Name": "Korvan Mercenary",
-            "Persist": 0,
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "Loadout": "MercAridLoadout",
-            "Units": [
-                "eAI_SurvivorF_Eva",
-                "eAI_SurvivorF_Frida",
-                "eAI_SurvivorF_Gabi",
-                "eAI_SurvivorF_Helga",
-                "eAI_SurvivorF_Irena",
-                "eAI_SurvivorF_Judy",
-                "eAI_SurvivorF_Keiko",
-                "eAI_SurvivorF_Linda",
-                "eAI_SurvivorF_Maria",
-                "eAI_SurvivorF_Naomi",
-                "eAI_SurvivorF_Baty",
-                "eAI_SurvivorM_Boris",
-                "eAI_SurvivorM_Cyril",
-                "eAI_SurvivorM_Denis",
-                "eAI_SurvivorM_Elias",
-                "eAI_SurvivorM_Francis",
-                "eAI_SurvivorM_Guo",
-                "eAI_SurvivorM_Hassan",
-                "eAI_SurvivorM_Indar",
-                "eAI_SurvivorM_Jose",
-                "eAI_SurvivorM_Kaito",
-                "eAI_SurvivorM_Lewis",
-                "eAI_SurvivorM_Manua",
-                "eAI_SurvivorM_Mirek",
-                "eAI_SurvivorM_Niki",
-                "eAI_SurvivorM_Oliver",
-                "eAI_SurvivorM_Peter",
-                "eAI_SurvivorM_Quinn",
-                "eAI_SurvivorM_Rolf",
-                "eAI_SurvivorM_Seth",
-                "eAI_SurvivorM_Taiki"
-            ],
-            "NumberOfAI": 1,
-            "Behaviour": "HALT_OR_ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "STATIC",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "SniperProneDistanceThreshold": 400,
-            "AccuracyMin": 0.55,
-            "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
-            "NoiseInvestigationDistanceLimit": -1,
-            "DamageMultiplier": 1,
-            "DamageReceivedMultiplier": 0.7,
-            "MinDistRadius": 1,
-            "MaxDistRadius": 1000,
-            "DespawnRadius": 500,
-            "MinSpreadRadius": 0,
-            "MaxSpreadRadius": 0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": 300,
-            "RespawnTime": 300,
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    7271.871582,
-                    513.198181,
-                    4050.228271
-                ],
-                [
-                    7267.027832,
-                    512.813782,
-                    4053.764404
-                ]
-            ]
-        },
-        {
-            "Name": "Korvan Mercenary",
+            "Name": "Korvan Sharpshooter",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "RANDOM",
@@ -577,7 +511,7 @@
             "SniperProneDistanceThreshold": 400,
             "AccuracyMin": 0.55,
             "AccuracyMax": 0.9,
-            "ThreatDistanceLimit": 100,
+            "ThreatDistanceLimit": 300,
             "NoiseInvestigationDistanceLimit": -1,
             "DamageMultiplier": 1,
             "DamageReceivedMultiplier": 0.7,
@@ -593,14 +527,90 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7279.289551,
-                    512.958496,
-                    4047.804199
+                    7349.201172,
+                    535.665771,
+                    4029.936523
                 ],
                 [
-                    7280.524414,
-                    513.734863,
-                    4058.569092
+                    7389.400879,
+                    530.223389,
+                    4130.494141
+                ]
+            ]
+        },
+        {
+            "Name": "Korvan Sharpshooter",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0,
+            "Loadout": "MercSniperLoadout",
+            "Units": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "NumberOfAI": 1,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "RANDOM",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 400,
+            "AccuracyMin": 0.55,
+            "AccuracyMax": 0.9,
+            "ThreatDistanceLimit": 300,
+            "NoiseInvestigationDistanceLimit": -1,
+            "DamageMultiplier": 1,
+            "DamageReceivedMultiplier": 0.7,
+            "MinDistRadius": 1,
+            "MaxDistRadius": 1000,
+            "DespawnRadius": 500,
+            "MinSpreadRadius": 0,
+            "MaxSpreadRadius": 0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300,
+            "RespawnTime": 300,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7132.822754,
+                    539.28656,
+                    4026.344727
+                ],
+                [
+                    7263.073242,
+                    560.551147,
+                    3930.826172
                 ]
             ]
         }
