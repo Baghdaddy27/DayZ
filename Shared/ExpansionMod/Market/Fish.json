@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "carpfilletmeat",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "mackerelfilletmeat",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "shrimp",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "bitterlings",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "sardines",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "steelheadtroutfilletmeat",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "walleyepollockfilletmeat",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "redcaviar",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

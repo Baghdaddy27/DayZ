@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "ammo_40mm_explosive",
-            "MaxPriceThreshold": 700,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "ammo_40mm_smoke_white",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -84,8 +84,8 @@
         },
         {
             "ClassName": "flashgrenade",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -130,8 +130,8 @@
         },
         {
             "ClassName": "grenade_chemgas",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 700,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -141,8 +141,8 @@
         },
         {
             "ClassName": "m18smokegrenade_red",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 370,
+            "MinPriceThreshold": 270,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -160,8 +160,8 @@
         },
         {
             "ClassName": "expansionsupplysignal",
-            "MaxPriceThreshold": 2000000,
-            "MinPriceThreshold": 1000000,
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 100000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -171,8 +171,8 @@
         },
         {
             "ClassName": "expansionsatchel",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 900,
+            "MaxPriceThreshold": 925,
+            "MinPriceThreshold": 875,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

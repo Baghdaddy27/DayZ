@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "ghilliebushrag_tan",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -38,8 +38,8 @@
         },
         {
             "ClassName": "ghillietop_tan",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 700,
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

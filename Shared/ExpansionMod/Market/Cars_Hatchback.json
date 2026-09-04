@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Bags_Gunter_cc",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "Bags_Gunter_erdl",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "Bags_Gunter_green",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "Bags_Gunter_orange",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -120,8 +120,8 @@
         },
         {
             "ClassName": "Bags_Gunter_pink",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -148,8 +148,8 @@
         },
         {
             "ClassName": "Bags_Gunter_teal",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -176,8 +176,8 @@
         },
         {
             "ClassName": "Bags_Gunter_urb",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -204,8 +204,8 @@
         },
         {
             "ClassName": "Bags_Gunter_white",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -232,8 +232,8 @@
         },
         {
             "ClassName": "Bags_Gunter_yellow",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 20000,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 13000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "fal",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2300,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -22,8 +22,8 @@
         },
         {
             "ClassName": "scarh",
-            "MaxPriceThreshold": 2600,
-            "MinPriceThreshold": 2400,
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -146,8 +146,8 @@
         },
         {
             "ClassName": "m16a2",
-            "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -161,8 +161,8 @@
         },
         {
             "ClassName": "famas",
-            "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 1100,
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -189,7 +189,7 @@
         },
         {
             "ClassName": "augshort",
-            "MaxPriceThreshold": 1300,
+            "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -202,8 +202,8 @@
         },
         {
             "ClassName": "expansion_m16",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -215,8 +215,8 @@
         },
         {
             "ClassName": "expansion_g36",
-            "MaxPriceThreshold": 1800,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -247,8 +247,8 @@
         },
         {
             "ClassName": "Bags_AR10",
-            "MaxPriceThreshold": 1700,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1800,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

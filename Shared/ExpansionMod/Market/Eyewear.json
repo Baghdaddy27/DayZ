@@ -22,39 +22,6 @@
             ]
         },
         {
-            "ClassName": "sportglasses_blue",
-            "MaxPriceThreshold": 36,
-            "MinPriceThreshold": 18,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sportglasses_black",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sportglasses_green",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "thinframesglasses",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 20,
@@ -100,8 +67,8 @@
         },
         {
             "ClassName": "tacticalgoggles",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -125,7 +92,7 @@
         },
         {
             "ClassName": "eyemask_black",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

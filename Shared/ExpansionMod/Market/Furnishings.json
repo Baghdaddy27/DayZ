@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "expansiongunrack",
-            "MaxPriceThreshold": 7000,
+            "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 3500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "expansionstove",
-            "MaxPriceThreshold": 3000,
+            "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -90,8 +90,8 @@
         },
         {
             "ClassName": "fryingpan",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

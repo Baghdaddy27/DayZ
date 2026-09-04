@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "zagorky",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "zagorkychocolate",
-            "MaxPriceThreshold": 45,
+            "MaxPriceThreshold": 90,
             "MinPriceThreshold": 45,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "zagorkypeanuts",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "powderedmilk",
-            "MaxPriceThreshold": 50,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "boxcerealcrunchin",
-            "MaxPriceThreshold": 60,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "rice",
-            "MaxPriceThreshold": 26,
-            "MinPriceThreshold": 13,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "marmalade",
-            "MaxPriceThreshold": 26,
-            "MinPriceThreshold": 13,
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 28,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "honey",
-            "MaxPriceThreshold": 65,
+            "MaxPriceThreshold": 130,
             "MinPriceThreshold": 65,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "saltysticks",
-            "MaxPriceThreshold": 20,
+            "MaxPriceThreshold": 40,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "crackers",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "chips",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "pajka",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "pate",
-            "MaxPriceThreshold": 15,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 15,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "brisketspread",
-            "MaxPriceThreshold": 20,
+            "MaxPriceThreshold": 40,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -162,7 +162,7 @@
         },
         {
             "ClassName": "sardinescan",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -173,7 +173,7 @@
         },
         {
             "ClassName": "tunacan",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -184,7 +184,7 @@
         },
         {
             "ClassName": "dogfoodcan",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -195,7 +195,7 @@
         },
         {
             "ClassName": "catfoodcan",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -206,8 +206,8 @@
         },
         {
             "ClassName": "porkcan",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -217,7 +217,7 @@
         },
         {
             "ClassName": "lunchmeat",
-            "MaxPriceThreshold": 50,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -228,7 +228,7 @@
         },
         {
             "ClassName": "unknownfoodcan",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -239,7 +239,7 @@
         },
         {
             "ClassName": "peachescan",
-            "MaxPriceThreshold": 55,
+            "MaxPriceThreshold": 110,
             "MinPriceThreshold": 55,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -250,7 +250,7 @@
         },
         {
             "ClassName": "spaghettican",
-            "MaxPriceThreshold": 55,
+            "MaxPriceThreshold": 110,
             "MinPriceThreshold": 55,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -261,7 +261,7 @@
         },
         {
             "ClassName": "bakedbeanscan",
-            "MaxPriceThreshold": 60,
+            "MaxPriceThreshold": 120,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -272,7 +272,7 @@
         },
         {
             "ClassName": "crabcan",
-            "MaxPriceThreshold": 50,
+            "MaxPriceThreshold": 100,
             "MinPriceThreshold": 50,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -283,7 +283,7 @@
         },
         {
             "ClassName": "tacticalbaconcan",
-            "MaxPriceThreshold": 70,
+            "MaxPriceThreshold": 140,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -294,7 +294,7 @@
         },
         {
             "ClassName": "expansionbread1",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -305,7 +305,7 @@
         },
         {
             "ClassName": "expansionbread2",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -316,7 +316,7 @@
         },
         {
             "ClassName": "expansionbread3",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -327,7 +327,7 @@
         },
         {
             "ClassName": "expansioncheese1",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -338,7 +338,7 @@
         },
         {
             "ClassName": "expansioncheese2",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -349,7 +349,7 @@
         },
         {
             "ClassName": "expansioncheese3",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -360,7 +360,7 @@
         },
         {
             "ClassName": "expansioncheese4",
-            "MaxPriceThreshold": 30,
+            "MaxPriceThreshold": 60,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

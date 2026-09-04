@@ -7,7 +7,7 @@
     "HuntMode": 1,
     "Points_Enabled": 0,
     "Locations_Enabled": 0,
-    "Audio_Enabled": 0,
+    "Audio_Enabled": 1,
     "EngageTimer": 5,
     "CleanupTimer": 6,
     "PlayerChecks": -5,
@@ -42,7 +42,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -55,7 +55,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -68,7 +68,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -81,7 +81,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -94,7 +94,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -107,7 +107,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -120,7 +120,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -133,7 +133,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -146,7 +146,7 @@
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.45,
-            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_MaxAccuracy": 0.9,
             "Spatial_UnlimitedReload": 1
         },
         {
@@ -155,7 +155,7 @@
             "Spatial_Weight": 200,
             "Spatial_Loadout": "ShamanLoadout.json",
             "Spatial_Faction": "Shamans",
-            "Spatial_Name": "Shamans",
+            "Spatial_Name": "Cultists",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.75,
             "Spatial_MinAccuracy": 0.6,
@@ -223,7 +223,7 @@
             "Spatial_Name": "Korvan Sniper Team",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.60,
+            "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         },
@@ -236,7 +236,7 @@
             "Spatial_Name": "Shadow Company Assassins",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.60,
+            "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         },
@@ -249,12 +249,169 @@
             "Spatial_Name": "Blackridge Marksmen",
             "Spatial_Lootable": 1,
             "Spatial_Chance": 0.65,
-            "Spatial_MinAccuracy": 0.60,
+            "Spatial_MinAccuracy": 0.6,
             "Spatial_MaxAccuracy": 0.97,
             "Spatial_UnlimitedReload": 1
         }
     ],
     "Point": [],
     "Location": [],
-    "Audio": []
+    "Audio": [
+        {
+            "Spatial_Name": "Returning Patrol",
+            "Spatial_TriggerRadius": 350,
+            "Spatial_ZoneLoadout": "ContractorLoadout.json",
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 2,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "West",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.5,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_Timer": 20,
+            "Spatial_Sensitivity": 3,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                721.279602,
+                544.631165,
+                10986.166016
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    906.682617,
+                    549.250549,
+                    10880.018555
+                ],
+                [
+                    534.073608,
+                    525.754517,
+                    11170.826172
+                ],
+                [
+                    556.619324,
+                    631.259888,
+                    10803.204102
+                ]
+            ]
+        },
+        {
+            "Spatial_Name": "Returning Patrol",
+            "Spatial_TriggerRadius": 350,
+            "Spatial_ZoneLoadout": "SpecOpsLoadout.json",
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "East",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.5,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_Timer": 20,
+            "Spatial_Sensitivity": 3,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                2753.415039,
+                577.927856,
+                2185.907715
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    2564.63623,
+                    579.816284,
+                    1966.266479
+                ],
+                [
+                    2804.758789,
+                    581.874878,
+                    1989.486572
+                ],
+                [
+                    3062.057617,
+                    593.431091,
+                    2443.004639
+                ]
+            ]
+        },
+        {
+            "Spatial_Name": "Returning Patrol",
+            "Spatial_TriggerRadius": 350,
+            "Spatial_ZoneLoadout": "MercAridLoadout.json",
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Mercenaries",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.5,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_Timer": 20,
+            "Spatial_Sensitivity": 3,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                7235.399902,
+                505.251709,
+                4076.786865
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    7128.774414,
+                    568.144043,
+                    3896.895996
+                ],
+                [
+                    7318.833496,
+                    542.796387,
+                    3874.288086
+                ],
+                [
+                    7526.15625,
+                    497.693909,
+                    4017.723877
+                ]
+            ]
+        },
+        {
+            "Spatial_Name": "Returning Patrol",
+            "Spatial_TriggerRadius": 350,
+            "Spatial_ZoneLoadout": "TNGLoadout.json",
+            "Spatial_MinCount": 2,
+            "Spatial_MaxCount": 3,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "Shamans",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.5,
+            "Spatial_MaxAccuracy": 0.97,
+            "Spatial_Timer": 20,
+            "Spatial_Sensitivity": 3,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                2516.259277,
+                355.214996,
+                9102.670898
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    2386.571289,
+                    404.582825,
+                    8928.808594
+                ],
+                [
+                    2656.398926,
+                    356.97644,
+                    8849.300781
+                ],
+                [
+                    2352.617432,
+                    251.253677,
+                    9360.466797
+                ]
+            ]
+        }
+    ]
 }

@@ -2,13 +2,13 @@
     "ConfigVersion": 22,
     "ID": 27,
     "Type": 1,
-    "Title": "Assassination: Eliminate the Officer from 400 meters or more.",
+    "Title": "Assassination: Eliminate the Officer from 500 meters or more.",
     "Descriptions": [
-        "I hope you're bringing your A game today, %1. We've spotted a traitor officer at the northern military airfield. We believe he's coordinating raids from there. Sneak in and eliminate him from at least 400 meters away. Any closer wont work. There are many infected and enemy patrols. Be careful and quiet.",
-        "I hope you're bringing your A game today, %1. We've spotted a traitor officer at the northern military airfield. We believe he's coordinating raids from there. Sneak in and eliminate him from at least 400 meters away. Any closer wont work. There are many infected and enemy patrols. Be careful and quiet.",
+        "I hope you're bringing your A game today, %1. We've spotted a traitor officer at the northern military airfield. We believe he's coordinating raids from there. Sneak in and eliminate him from at least 500 meters away. Any closer wont work. There are many infected and enemy patrols. Be careful and quiet.",
+        "I hope you're bringing your A game today, %1. We've spotted a traitor officer at the northern military airfield. We believe he's coordinating raids from there. Sneak in and eliminate him from at least 500 meters away. Any closer wont work. There are many infected and enemy patrols. Be careful and quiet.",
         "What's up, %1?"
     ],
-    "ObjectiveText": "Eliminate the Officer from at least 300 meters away. Reward: Random!",
+    "ObjectiveText": "Eliminate the Officer from at least 500 meters away. Reward: Random!",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,

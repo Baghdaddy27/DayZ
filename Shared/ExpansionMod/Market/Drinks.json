@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "waterbottle",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "canteen",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 65,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "GlassBottle",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

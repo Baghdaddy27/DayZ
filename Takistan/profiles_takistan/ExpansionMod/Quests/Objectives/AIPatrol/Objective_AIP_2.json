@@ -6,7 +6,7 @@
     "TimeLimit": 86400,
     "Active": 1,
     "MaxDistance": -1,
-    "MinDistance": 400,
+    "MinDistance": 500,
     "AllowedWeapons": [],
     "AllowedDamageZones": [],
     "AISpawn": {
@@ -61,7 +61,7 @@
         "ThreatDistanceLimit": 500,
         "NoiseInvestigationDistanceLimit": -1,
         "DamageMultiplier": 1,
-        "DamageReceivedMultiplier": 1.2,
+        "DamageReceivedMultiplier": 1.5,
         "MinDistRadius": 50,
         "MaxDistRadius": 1500,
         "DespawnRadius": 1500,

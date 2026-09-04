@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "apple",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "greenbellpepper",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -30,7 +30,7 @@
         },
         {
             "ClassName": "zucchini",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "slicedpumpkin",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -52,7 +52,7 @@
         },
         {
             "ClassName": "potato",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "tomato",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "plum",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "pear",
-            "MaxPriceThreshold": 25,
+            "MaxPriceThreshold": 75,
             "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "agaricusmushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -107,7 +107,7 @@
         },
         {
             "ClassName": "macrolepiotamushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -118,7 +118,7 @@
         },
         {
             "ClassName": "lactariusmushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -129,7 +129,7 @@
         },
         {
             "ClassName": "boletusmushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -140,7 +140,7 @@
         },
         {
             "ClassName": "pleurotusmushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -151,7 +151,7 @@
         },
         {
             "ClassName": "craterellusmushroom",
-            "MaxPriceThreshold": 35,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 35,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

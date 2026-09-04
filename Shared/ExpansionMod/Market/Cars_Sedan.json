@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "Bags_Sarka_black",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -36,8 +36,8 @@
         },
         {
             "ClassName": "Bags_Sarka_blue",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -64,8 +64,8 @@
         },
         {
             "ClassName": "Bags_Sarka_cc",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -92,8 +92,8 @@
         },
         {
             "ClassName": "Bags_Sarka_erdl",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -120,8 +120,8 @@
         },
         {
             "ClassName": "Bags_Sarka_green",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -148,8 +148,8 @@
         },
         {
             "ClassName": "Bags_Sarka_orange",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -176,8 +176,8 @@
         },
         {
             "ClassName": "Bags_Sarka_pink",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -204,8 +204,8 @@
         },
         {
             "ClassName": "Bags_Sarka_teal",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -232,8 +232,8 @@
         },
         {
             "ClassName": "Bags_Sarka_urb",
-            "MaxPriceThreshold": 25000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
