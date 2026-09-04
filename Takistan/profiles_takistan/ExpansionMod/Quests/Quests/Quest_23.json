@@ -31,7 +31,7 @@
     "Rewards": [
         {
             "ClassName": "ammobox_00buck_10rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -40,7 +40,7 @@
         },
         {
             "ClassName": "ammobox_12gaslug_10rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -49,7 +49,7 @@
         },
         {
             "ClassName": "ammobox_308win_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -58,7 +58,7 @@
         },
         {
             "ClassName": "ammobox_22_50rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -67,7 +67,7 @@
         },
         {
             "ClassName": "ammobox_357_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -76,7 +76,7 @@
         },
         {
             "ClassName": "ammobox_380_35rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "ammobox_9x19_25rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -94,7 +94,7 @@
         },
         {
             "ClassName": "ammobox_45acp_25rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -103,7 +103,7 @@
         },
         {
             "ClassName": "ammobox_545x39_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -112,7 +112,7 @@
         },
         {
             "ClassName": "ammobox_556x45_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -121,7 +121,7 @@
         },
         {
             "ClassName": "ammobox_762x39_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -130,7 +130,7 @@
         },
         {
             "ClassName": "ammobox_762x54_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -139,7 +139,7 @@
         },
         {
             "ClassName": "ammobox_9x39_20rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -148,7 +148,7 @@
         },
         {
             "ClassName": "ammobox_expansion_46x30_25rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -157,7 +157,7 @@
         },
         {
             "ClassName": "ammobox_expansion_338_15rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -166,7 +166,7 @@
         },
         {
             "ClassName": "expansion_ammobox_8mm_15rnd",
-            "Amount": 2,
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
