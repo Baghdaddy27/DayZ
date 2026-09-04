@@ -715,7 +715,7 @@
             "Formation": "RANDOM",
             "FormationScale": -1,
             "FormationLooseness": 1,
-            "Loadout": "TNGLoadout",
+            "Loadout": "TNGJugLoadout",
             "Units": [
                 "eAI_SurvivorF_Eva",
                 "eAI_SurvivorF_Frida",
