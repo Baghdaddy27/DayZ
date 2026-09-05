@@ -2214,6 +2214,25 @@
                                             "Sets": []
                                         },
                                         {
+                                            "ClassName": "MorsecodeLeaflet_coffee",
+                                            "Chance": 0.75,
+                                            "Quantity": {
+                                                "Min": 0,
+                                                "Max": 0
+                                            },
+                                            "Health": [
+                                                {
+                                                    "Min": 0.41,
+                                                    "Max": 0.7,
+                                                    "Zone": ""
+                                                }
+                                            ],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
                                             "ClassName": "ExpansionGoldNugget",
                                             "Chance": 0.15,
                                             "Quantity": {

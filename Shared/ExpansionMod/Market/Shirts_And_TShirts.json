@@ -55,21 +55,6 @@
             "Variants": []
         },
         {
-            "ClassName": "tacticalshirt_grey",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "tacticalshirt_tan",
-                "tacticalshirt_black",
-                "tacticalshirt_olive"
-            ]
-        },
-        {
             "ClassName": "blouse_blue",
             "MaxPriceThreshold": 32,
             "MinPriceThreshold": 16,

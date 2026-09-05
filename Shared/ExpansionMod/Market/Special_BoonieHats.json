@@ -7,6 +7,28 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "booniehat_blue",
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "booniehat_navyblue",
+                "booniehat_orange",
+                "booniehat_red",
+                "booniehat_black",
+                "booniehat_tan",
+                "booniehat_olive",
+                "booniehat_dpm",
+                "booniehat_dubok",
+                "booniehat_winter",
+                "booniehat_flecktran"
+            ]
+        },
+        {
             "ClassName": "Bags_BoonieHat_ACU",
             "MaxPriceThreshold": 45,
             "MinPriceThreshold": 35,

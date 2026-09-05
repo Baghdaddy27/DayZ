@@ -119,6 +119,25 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "MorsecodeLeaflet_fire",
+                            "Chance": 0.50,
+                            "Quantity": {
+                                "Min": 0,
+                                "Max": 0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 0.41,
+                                    "Max": 0.7,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "BakedBeansCan_Opened",
                             "Chance": 0.02,
                             "Quantity": {

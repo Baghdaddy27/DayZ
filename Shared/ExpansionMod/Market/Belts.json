@@ -42,6 +42,17 @@
                 "hippack_medical",
                 "hippack_party"
             ]
+        },
+        {
+            "ClassName": "nylonknifesheath",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

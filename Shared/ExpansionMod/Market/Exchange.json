@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "ExpansionSilverNugget",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "ExpansionGoldNugget",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "ExpansionSilverBar",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 750,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "ExpansionGoldBar",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

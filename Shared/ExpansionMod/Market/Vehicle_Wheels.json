@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "hatchbackwheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "hatchback_02_wheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "civsedanwheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -41,7 +41,7 @@
         },
         {
             "ClassName": "sedan_02_wheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "truck_01_wheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -63,7 +63,7 @@
         },
         {
             "ClassName": "truck_01_wheeldouble",
-            "MaxPriceThreshold": 2000,
+            "MaxPriceThreshold": 1400,
             "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -74,7 +74,7 @@
         },
         {
             "ClassName": "offroad_02_wheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -85,7 +85,7 @@
         },
         {
             "ClassName": "expansiontractorbackwheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -96,7 +96,7 @@
         },
         {
             "ClassName": "expansiontractorfrontwheel",
-            "MaxPriceThreshold": 1000,
+            "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
@@ -107,8 +107,8 @@
         },
         {
             "ClassName": "expansionuazwheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -118,8 +118,8 @@
         },
         {
             "ClassName": "expansion_landrover_wheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -129,8 +129,8 @@
         },
         {
             "ClassName": "expansionvodnikwheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -140,8 +140,8 @@
         },
         {
             "ClassName": "expansionbuswheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -151,8 +151,8 @@
         },
         {
             "ClassName": "expansionbuswheeldouble",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,

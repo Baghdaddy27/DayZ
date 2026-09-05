@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "expansionmerlinbackwheel",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1200,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "expansionmerlinfrontwheel",
-            "MaxPriceThreshold": 1200,
+            "MaxPriceThreshold": 900,
             "MinPriceThreshold": 600,
             "SellPricePercent": -1,
             "MaxStockThreshold": 10,

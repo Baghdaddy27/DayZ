@@ -7,6 +7,52 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "gorkapants_winter",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkapants_autumn",
+                "gorkapants_pautrev"
+            ]
+        },
+        {
+            "ClassName": "bdupants",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "usmcpants_woodland",
+                "usmcpants_desert",
+                "ttskopants",
+                "omkpants_navy"
+            ]
+        },
+        {
+            "ClassName": "cargopants_beige",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "cargopants_black",
+                "cargopants_blue",
+                "cargopants_green",
+                "cargopants_grey"
+            ]
+        },
+        {
             "ClassName": "Bags_CargoPantsC_ACU",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 80,

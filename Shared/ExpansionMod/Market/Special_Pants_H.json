@@ -7,6 +7,19 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "gorkapants_summer",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 140,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkapants_flat"
+            ]
+        },
+        {
             "ClassName": "Bags_CargoPants_ACU",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 80,

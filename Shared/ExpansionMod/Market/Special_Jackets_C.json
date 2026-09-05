@@ -18,6 +18,37 @@
             "Variants": []
         },
         {
+            "ClassName": "tacticalshirt_grey",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalshirt_tan",
+                "tacticalshirt_black",
+                "tacticalshirt_olive"
+            ]
+        },
+        {
+            "ClassName": "bdujacket",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "usmcjacket_woodland",
+                "usmcjacket_desert",
+                "ttskojacket_camo",
+                "omkjacket_navy"
+            ]
+        },
+        {
             "ClassName": "Bags_GorkaEJacketCJacket_DST",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 140,

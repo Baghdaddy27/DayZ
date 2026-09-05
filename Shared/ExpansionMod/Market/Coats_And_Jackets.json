@@ -280,32 +280,6 @@
             ]
         },
         {
-            "ClassName": "ttskojacket_camo",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 60,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bdujacket",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "usmcjacket_woodland",
-                "usmcjacket_desert",
-                "omkjacket_navy"
-            ]
-        },
-        {
             "ClassName": "huntingjacket_autumn",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 90,

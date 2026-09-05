@@ -1,11 +1,45 @@
 {
     "m_Version": 12,
-    "DisplayName": "Baseball Caps",
+    "DisplayName": "Patrol Caps",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75,
     "Items": [
+        {
+            "ClassName": "militarycap_bdu",
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "militarycap_desert",
+                "militarycap_woodland"
+            ]
+        },
+        {
+            "ClassName": "baseballcap_cmmg_pink",
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 35,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "baseballcap_pink",
+                "baseballcap_blue",
+                "baseballcap_beige",
+                "baseballcap_red",
+                "baseballcap_cmmg_black",
+                "baseballcap_black",
+                "baseballcap_olive",
+                "baseballcap_camo"
+            ]
+        },
         {
             "ClassName": "Bags_BaseballCap_ACU",
             "MaxPriceThreshold": 45,

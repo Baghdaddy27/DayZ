@@ -7,6 +7,21 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "tortillabag",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansiondeserttortilla",
+                "tortillabag_desert",
+                "tortillabag_winter"
+            ]
+        },
+        {
             "ClassName": "Bags_Tortillabag_ACU",
             "MaxPriceThreshold": 360,
             "MinPriceThreshold": 340,

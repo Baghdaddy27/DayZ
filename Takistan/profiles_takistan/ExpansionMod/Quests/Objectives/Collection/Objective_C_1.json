@@ -2,18 +2,30 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 4,
-    "ObjectiveText": "Craft a Snare",
+    "ObjectiveText": "",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 1,
-            "ClassName": "RabbitSnareTrap",
+            "ClassName": "MorsecodeLeaflet_blood",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "MorsecodeLeaflet_coffee",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+        {
+            "Amount": 1,
+            "ClassName": "MorsecodeLeaflet_fire",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
     ],
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 1
+    "NeedAnyCollection": 0
 }

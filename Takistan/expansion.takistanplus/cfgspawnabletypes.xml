@@ -1396,6 +1396,14 @@
 		<attachments preset="HeavyArmorArmy"/>
 		<attachments preset="HeavyHelmetArmy"/>
 	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<attachments preset="hatsOfficer"/>
+		<cargo preset="Morse"/>
+	</type>
+		<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments preset="hatsOfficer"/>
+		<cargo preset="Morse"/>
+	</type>
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />

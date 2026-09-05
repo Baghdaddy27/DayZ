@@ -1,0 +1,93 @@
+{
+    "ConfigVersion": 22,
+    "ID": 28,
+    "Type": 1,
+    "Title": "Treasure Hunt: Locate the stolen Gold and Silver",
+    "Descriptions": [
+        "Listen carefully, %1! The instructions I'm about to pass are important if you want to help us return our stolen Gold & Silver. The thieves have split up the reserves into smaller shipments, and hidden them in shipping containers in 4 locations. Two are on the military airfields, one is on a military base in the East, and another is at the Takistani border at a check point to the West. We need to narrow down the locations more. Collect 3 morse code leaflets and bring them to me. One Leaflet has blood, one has coffee stains, and the other has been burned. Korvan Group Pilots have burned leaflets, Takistani Officers & Cultist Leaders have been seen carrying coffee stained leaflets, and Infected Officers at convoys may have the blood stained leaflets. Once you bring me all three types, I'll give you a key to open one of the containers. You can keep the loose bars as payment.",
+        "Listen carefully, %1! The instructions I'm about to pass are important if you want to help us return our stolen Gold & Silver. The thieves have split up the reserves into smaller shipments, and hidden them in shipping containers in 4 locations. Two are on the military airfields, one is on a military base in the East, and another is at the Takistani border at a check point to the West. We need to narrow down the locations more. Collect 3 morse code leaflets and bring them to me. One Leaflet has blood, one has coffee stains, and the other has been burned. Korvan Group Pilots have burned leaflets, Takistani Officers & Cultist Leaders have been seen carrying coffee stained leaflets, and Infected Officers at convoys may have the blood stained leaflets. Once you bring me all three types, I'll give you a key to open one of the containers. You can keep the loose bars as payment.",
+        "What's up, %1?"
+    ],
+    "ObjectiveText": "Collect 3 Morse-Code Leaflets (Burned, Bloodied, Coffee Stained). Reward: 9 Gold or Silver Bars!",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ShippingContainerKeys_Blue",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 90,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ShippingContainerKeys_Orange",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 90,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ShippingContainerKeys_Yellow",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 90,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ShippingContainerKeys_Red",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 90,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 1,
+    "RandomRewardAmount": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -10496,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        7
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

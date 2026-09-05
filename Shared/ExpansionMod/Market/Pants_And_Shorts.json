@@ -184,22 +184,6 @@
             ]
         },
         {
-            "ClassName": "cargopants_beige",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "cargopants_black",
-                "cargopants_blue",
-                "cargopants_green",
-                "cargopants_grey"
-            ]
-        },
-        {
             "ClassName": "shortjeans_blue",
             "MaxPriceThreshold": 42,
             "MinPriceThreshold": 22,
@@ -234,32 +218,6 @@
             ]
         },
         {
-            "ClassName": "ttskopants",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bdupants",
-            "MaxPriceThreshold": 110,
-            "MinPriceThreshold": 70,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "usmcpants_woodland",
-                "usmcpants_desert",
-                "omkpants_navy"
-            ]
-        },
-        {
             "ClassName": "policepantsorel",
             "MaxPriceThreshold": 110,
             "MinPriceThreshold": 70,
@@ -284,22 +242,6 @@
                 "hunterpants_brown",
                 "hunterpants_spring",
                 "hunterpants_summer"
-            ]
-        },
-        {
-            "ClassName": "gorkapants_summer",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 140,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "gorkapants_autumn",
-                "gorkapants_flat",
-                "gorkapants_winter",
-                "gorkapants_pautrev"
             ]
         },
         {

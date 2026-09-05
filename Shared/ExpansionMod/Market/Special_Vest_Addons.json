@@ -7,6 +7,40 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "platecarrierholster",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 85,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "platecarrierholster_green",
+                "platecarrierholster_black",
+                "platecarrierholster_winter",
+                "platecarrierholster_desert",
+                "platecarrierholster_camo"
+            ]
+        },
+        {
+            "ClassName": "platecarrierpouches",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "platecarrierpouches_green",
+                "platecarrierpouches_black",
+                "platecarrierpouches_winter",
+                "platecarrierpouches_desert",
+                "platecarrierpouches_camo"
+            ]
+        },
+        {
             "ClassName": "Bags_Holster_ACU",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 85,

@@ -7,6 +7,25 @@
     "InitStockPercent": 75,
     "Items": [
         {
+            "ClassName": "ballistichelmet_woodland",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ballistichelmet_bdu",
+                "ballistichelmet_desert",
+                "ballistichelmet_winter",
+                "ballistichelmet_black",
+                "ballistichelmet_green",
+                "ballistichelmet_un",
+                "ballistichelmet_navy"
+            ]
+        },
+        {
             "ClassName": "Bags_BallisticHelmet_ACU",
             "MaxPriceThreshold": 450,
             "MinPriceThreshold": 250,

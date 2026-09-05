@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+		<cargo chance="0.50" name="Morse">
+				<item name="MorsecodeLeaflet_blood" chance="1.0" />
+		</cargo>
 		<cargo chance="0.15" name="foodHermit">
 				<item name="TunaCan" chance="0.11" />
 				<item name="SardinesCan" chance="0.11" />
@@ -384,6 +387,9 @@
 			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
 			<item name="MilitaryBeret_CDF" chance="0.10" />
 			<item name="ZSh3PilotHelmet" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20" name="hatsOfficer">
+				<item name="OfficerHat" chance="1.0" />
 		</attachments>
 		<attachments chance="0.20" name="vestsArmy">
 			<item name="UKAssVest_Black" chance="0.2" />

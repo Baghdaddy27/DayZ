@@ -55,20 +55,6 @@
             ]
         },
         {
-            "ClassName": "militarycap_bdu",
-            "MaxPriceThreshold": 45,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "militarycap_desert",
-                "militarycap_woodland"
-            ]
-        },
-        {
             "ClassName": "beaniehat_pink",
             "MaxPriceThreshold": 60,
             "MinPriceThreshold": 40,
@@ -117,28 +103,6 @@
             ]
         },
         {
-            "ClassName": "booniehat_blue",
-            "MaxPriceThreshold": 45,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "booniehat_navyblue",
-                "booniehat_orange",
-                "booniehat_red",
-                "booniehat_black",
-                "booniehat_tan",
-                "booniehat_olive",
-                "booniehat_dpm",
-                "booniehat_dubok",
-                "booniehat_winter",
-                "booniehat_flecktran"
-            ]
-        },
-        {
             "ClassName": "officerhat",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 25,
@@ -151,7 +115,6 @@
                 "policecap"
             ]
         },
-
         {
             "ClassName": "okzkcap_beige",
             "MaxPriceThreshold": 100,
@@ -206,26 +169,6 @@
             "Variants": [
                 "headdress_bear",
                 "headdress_fox"
-            ]
-        },
-        {
-            "ClassName": "baseballcap_cmmg_pink",
-            "MaxPriceThreshold": 45,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "baseballcap_pink",
-                "baseballcap_blue",
-                "baseballcap_beige",
-                "baseballcap_red",
-                "baseballcap_cmmg_black",
-                "baseballcap_black",
-                "baseballcap_olive",
-                "baseballcap_camo"
             ]
         },
         {
